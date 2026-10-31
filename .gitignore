@@ -1,0 +1,20 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+
+# Unreviewed image candidates and research artifacts are not part of the public site.
+/animal-generator/animal-photos/*.jpg
+/animal-generator/animal-photos/*.jpeg
+/animal-generator/animal-photos/*.png
+/animal-generator/animal-photos/*.img
+/animal-generator/animal-photos/contact-sheet.jpg
+/animal-generator/animal-photos/approved-contact-sheet.jpg
+/animal-generator/animal-photos/wikipedia-contact-sheet.jpg
+/animal-generator/animal-photos/commons-candidates.json
+/animal-generator/animal-photos/wikipedia-lead-candidates.json
+/animal-generator/animal-photos/wiki-preview/
+/animal-generator/scripts/
+/animal-generator/animal-generator-mvp-plan.md
+/animal-generator/seo-optimization-plan.md

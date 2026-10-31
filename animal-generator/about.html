@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#faf7f1" />
+    <meta name="description" content="Learn why we made Animal Generator, how its 340-species catalog works, and how to use the free random animal generator for creative prompts and classroom games." />
+    <title>About Animal Generator | Random Animal Generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet" />
+    <style>
+      :root { color-scheme: light; --paper:#faf7f1; --ink:#202a39; --muted:#667080; --coral:#f06c4e; --coral-dark:#db5539; --line:#e6e0d6; --white:#fffefa; }
+      * { box-sizing:border-box; }
+      body { margin:0; color:var(--ink); background:radial-gradient(ellipse at 8% 33%,rgba(244,211,188,.35),transparent 28rem),var(--paper); font-family:"DM Sans",sans-serif; -webkit-font-smoothing:antialiased; }
+      a { color:inherit; }
+      .shell { width:min(100% - 48px,1040px); margin:0 auto; }
+      header { height:82px; border-bottom:1px solid var(--line); display:flex; align-items:center; }
+      .nav { display:flex; align-items:center; justify-content:space-between; }
+      .brand { display:inline-flex; align-items:center; gap:11px; text-decoration:none; }
+      .brand-logo { width:44px; height:44px; flex:0 0 44px; object-fit:contain; }
+      .brand-name { font-size:14px; font-weight:700; letter-spacing:-.04em; }
+      .nav-links { display:flex; gap:25px; }
+      .nav-link { color:var(--muted); text-decoration:none; font-size:13px; font-weight:600; }
+      .nav-link:hover { color:var(--coral-dark); }
+      main { padding:92px 0 90px; }
+      .hero { max-width:780px; padding-bottom:68px; }
+      .eyebrow { display:flex; align-items:center; gap:9px; margin-bottom:20px; color:var(--coral-dark); font-size:11px; font-weight:700; letter-spacing:.12em; text-transform:uppercase; }
+      .eyebrow::before { content:""; width:22px; height:1px; background:currentColor; }
+      h1,h2,h3,p { margin-top:0; }
+      h1 { max-width:760px; margin-bottom:24px; font:500 clamp(52px,8vw,88px)/.98 Fraunces,Georgia,serif; letter-spacing:-.06em; }
+      h1 em { color:var(--coral); font-style:normal; }
+      .lead { max-width:620px; color:var(--muted); font-size:17px; line-height:1.8; }
+      .manifesto { display:grid; grid-template-columns:1fr 1fr; gap:64px; padding:38px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+      .manifesto h2,.section-heading { font:500 34px/1.12 Fraunces,Georgia,serif; letter-spacing:-.04em; }
+      .manifesto p,.section-copy { color:var(--muted); font-size:14px; line-height:1.85; }
+      .principles { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; padding:66px 0 70px; }
+      .principle { min-height:180px; padding:22px; border:1px solid var(--line); border-radius:16px; background:rgba(255,254,250,.74); }
+      .principle-icon { display:block; margin-bottom:25px; color:var(--coral-dark); font-size:20px; }
+      .principle h3 { margin-bottom:9px; font:500 20px Fraunces,Georgia,serif; }
+      .principle p { margin:0; color:var(--muted); font-size:12px; line-height:1.7; }
+      .illustrations { display:grid; grid-template-columns:1.1fr .9fr; gap:50px; align-items:center; padding:38px; border:1px solid var(--line); border-radius:22px; background:linear-gradient(130deg,rgba(255,254,250,.96),rgba(245,231,216,.72)); }
+      .illustrations h2 { margin-bottom:12px; font:500 34px/1.12 Fraunces,Georgia,serif; letter-spacing:-.04em; }
+      .illustrations p { margin:0; color:var(--muted); font-size:13px; line-height:1.8; }
+      .cta { display:flex; align-items:center; justify-content:space-between; gap:25px; padding-top:72px; }
+      .cta h2 { margin:0; font:500 31px Fraunces,Georgia,serif; }
+      .button { min-height:48px; padding:0 18px; border-radius:11px; display:inline-flex; align-items:center; justify-content:center; background:var(--coral); color:white; font-size:13px; font-weight:700; text-decoration:none; box-shadow:0 8px 18px rgba(240,108,78,.2); }
+      .button:hover { background:var(--coral-dark); }
+      footer { border-top:1px solid var(--line); padding:22px 0 28px; color:var(--muted); font-size:11px; }
+      .footer-inner { display:flex; justify-content:space-between; gap:18px; }
+      @media(max-width:700px) {
+        .shell { width:min(100% - 32px,560px); }
+        header { height:70px; }
+        .nav-links { gap:14px; }
+        .nav-link { font-size:11px; }
+        main { padding:59px 0 60px; }
+        .hero { padding-bottom:48px; }
+        .lead { font-size:15px; }
+        .manifesto,.illustrations { grid-template-columns:1fr; gap:18px; }
+        .manifesto { padding:29px 0; }
+        .principles { grid-template-columns:1fr; padding:48px 0; }
+        .principle { min-height:0; }
+        .principle-icon { margin-bottom:16px; }
+        .illustrations { padding:24px; }
+        .cta { align-items:flex-start; flex-direction:column; padding-top:52px; }
+        .footer-inner { flex-direction:column; }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav class="shell nav" aria-label="Main navigation">
+        <a class="brand" href="index.html" aria-label="Animal Generator home"><img class="brand-logo" src="assets/animal-generator-logo.png" alt="" width="44" height="44" /><span class="brand-name">ANIMAL<br />GENERATOR</span></a>
+        <div class="nav-links"><a class="nav-link" href="index.html#contact">Contact</a><a class="nav-link" href="index.html#faq">FAQ</a></div>
+      </nav>
+    </header>
+    <main class="shell">
+      <section class="hero" aria-labelledby="about-title">
+        <div class="eyebrow">A tiny field trip for everyone</div>
+        <h1 id="about-title">Curiosity can start with <em>one animal.</em></h1>
+        <p class="lead">Animal Generator is a small, free animal generator for curious minds. Pick one animal to spark a sketch, choose a few for a classroom game, or simply meet a species you haven’t thought about today.</p>
+      </section>
+      <section class="manifesto" aria-labelledby="why-title">
+        <div><div class="eyebrow">Why we made it</div><h2 id="why-title">A little surprise makes room for a big idea.</h2></div>
+        <div><p>Creative work often begins with a prompt. We wanted a simple way to find one without signing up, sorting through menus, or needing to know what to search for first.</p><p>So we made a lightweight picker that brings one unexpected animal to the page. Use it however your curiosity takes you: draw it, learn about it, invent a story, or pass it along as a game prompt.</p></div>
+      </section>
+      <section class="principles" aria-label="What matters to us">
+        <article class="principle"><span class="principle-icon" aria-hidden="true">✳</span><h3>Simple by design</h3><p>Choose from 1 to 10 animals and get a result right away. No account or setup needed.</p></article>
+        <article class="principle"><span class="principle-icon" aria-hidden="true">◎</span><h3>Made for making</h3><p>Use each pick as a starting point for drawing, writing, learning, or playing together.</p></article>
+        <article class="principle"><span class="principle-icon" aria-hidden="true">↗</span><h3>Room to explore</h3><p>The catalog features 340 species across mammals, birds, reptiles, amphibians, fish, and invertebrates. The generator currently picks from 259 species with reviewed photos.</p></article>
+      </section>
+      <section class="illustrations" aria-labelledby="art-title">
+        <div><div class="eyebrow">The animal library</div><h2 id="art-title">Real animal photos, with sources attached.</h2><p>The catalog contains 340 animal species across six categories. Random results currently include 259 species with reviewed photos. Photos are stored locally for quick display; the source, creator and license for each one appear together on the image credits page.</p></div>
+      </section>
+      <section class="cta" aria-label="Try the animal generator"><h2>Ready for a small surprise?</h2><a class="button" href="index.html">Meet an animal <span aria-hidden="true">&nbsp;↗</span></a></section>
+    </main>
+    <footer><div class="shell footer-inner"><span>ANIMAL GENERATOR · A little curiosity goes a long way.</span><span>Animal photos via <a href="https://commons.wikimedia.org/">Wikimedia Commons</a> · <a href="animal-image-credits.html">Image credits</a> · <a href="index.html">Generator</a></span></div></footer>
+  </body>
+</html>

@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#faf7f1" />
+    <link rel="icon" type="image/png" href="assets/animal-generator-logo.png" />
+    <link rel="canonical" href="./" />
+    <meta
+      name="description"
+      content="Generate 1–10 random animals from 259 photo-verified species. Free, no sign-up, and no repeats until the animal pool runs out. Pick an animal for a lesson, drawing, or game."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Random Animal Generator – Pick 1–10 Animals" />
+    <meta property="og:description" content="A free random animal generator with clear animal photos, six animal groups, and no repeats until the pool runs out." />
+    <meta name="twitter:card" content="summary" />
+    <title>Random Animal Generator – Pick 1–10 Animals | Animal Generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        color-scheme: light;
+        --paper: #faf7f1;
+        --ink: #202a39;
+        --muted: #667080;
+        --coral: #f06c4e;
+        --coral-dark: #db5539;
+        --mist: #e8eef5;
+        --line: #e6e0d6;
+        --white: #fffefa;
+      }
+
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background:
+          radial-gradient(ellipse at 8% 33%, rgba(244, 211, 188, .35), transparent 28rem),
+          var(--paper);
+        color: var(--ink);
+        font-family: "DM Sans", sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+      a { color: inherit; }
+      .shell { width: min(1120px, calc(100% - 48px)); margin: 0 auto; }
+      header {
+        height: 82px;
+        border-bottom: 1px solid var(--line);
+        display: flex;
+        align-items: center;
+      }
+      .nav { display: flex; align-items: center; justify-content: space-between; }
+      .nav-links { display: flex; align-items: center; gap: 25px; }
+      .brand { display: inline-flex; align-items: center; gap: 11px; text-decoration: none; }
+      .brand-logo { width: 44px; height: 44px; flex: 0 0 44px; object-fit: contain; }
+      .brand-name { font-size: 14px; font-weight: 700; letter-spacing: -.04em; }
+      .nav-link { color: var(--muted); text-decoration: none; font-size: 13px; font-weight: 600; }
+      main { padding: 74px 0 70px; }
+      .hero {
+        display: grid;
+        grid-template-columns: minmax(270px, .82fr) minmax(440px, 1.18fr);
+        align-items: center;
+        gap: clamp(42px, 7vw, 88px);
+      }
+      .hero.batch-mode { align-items: start; }
+      .hero.batch-mode .hero-copy { position: sticky; top: 24px; }
+      .eyebrow {
+        display: inline-flex; align-items: center; gap: 9px;
+        color: var(--coral-dark); text-transform: uppercase; letter-spacing: .12em;
+        font-size: 11px; font-weight: 700; margin-bottom: 22px;
+      }
+      .eyebrow::before { content: ""; width: 22px; height: 1px; background: currentColor; }
+      h1, h2, h3, p { margin-top: 0; }
+      h1 {
+        font: 500 clamp(48px, 6.2vw, 76px)/.99 Fraunces, Georgia, serif;
+        letter-spacing: -.055em; margin-bottom: 22px; max-width: 460px;
+      }
+      h1 em { color: var(--coral); font-style: normal; }
+      .intro { max-width: 390px; color: var(--muted); font-size: 16px; line-height: 1.75; margin-bottom: 28px; }
+      .trust { display: flex; align-items: center; gap: 9px; color: var(--muted); font-size: 12px; margin-top: 18px; }
+      .trust span { color: var(--coral); font-size: 15px; }
+      .generate {
+        min-height: 54px; border: 0; border-radius: 12px; padding: 0 21px;
+        display: inline-flex; align-items: center; justify-content: center; gap: 11px;
+        background: var(--coral); color: white; font: 700 14px "DM Sans", sans-serif;
+        box-shadow: 0 8px 18px rgba(240, 108, 78, .2); cursor: pointer;
+        transition: transform .16s ease, background .16s ease, box-shadow .16s ease;
+      }
+      .generate:hover { transform: translateY(-2px); background: var(--coral-dark); box-shadow: 0 11px 22px rgba(240,108,78,.25); }
+      .generate:focus-visible, .copy:focus-visible, .nav-link:focus-visible { outline: 3px solid #758bb2; outline-offset: 3px; }
+      .generate .shuffle { font-size: 25px; line-height: 1; }
+      .result-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; }
+      .result-grid.multiple { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .result-card {
+        background: var(--white); border: 1px solid var(--line); border-radius: 22px;
+        padding: 13px; box-shadow: 0 24px 70px rgba(43, 48, 57, .08);
+        min-width: 0;
+      }
+      .animal-scene {
+        min-height: 315px; border-radius: 15px; overflow: hidden; position: relative;
+        display: grid; place-items: center;
+        background:
+          radial-gradient(ellipse at 72% 20%, rgba(255,255,255,.85), transparent 34%),
+          radial-gradient(ellipse at 25% 80%, #f5bd98, transparent 38%),
+          linear-gradient(140deg, #dce7ee, #f3d9c5 60%, #eee8d7);
+      }
+      .sun { position: absolute; width: 102px; height: 102px; border-radius: 50%; background: #f7c779; top: 34px; right: 50px; opacity: .72; }
+      .hill { position: absolute; width: 125%; height: 130px; left: -12%; bottom: -67px; border-radius: 50%; background: #9ca9b2; transform: rotate(-8deg); }
+      .hill.back { bottom: -81px; left: 6%; background: #c28f76; transform: rotate(9deg); }
+      .animal-art { position: relative; z-index: 2; width: min(74%, 250px); height: 250px; object-fit: contain; filter: drop-shadow(0 12px 12px rgba(40,44,54,.18)); }
+      .animal-scene.has-photo {
+        aspect-ratio: 4 / 3;
+        min-height: 0;
+        padding: 12px;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        justify-content: flex-start;
+        gap: 7px;
+        background: #f0eee8;
+      }
+      .animal-scene.has-photo .sun, .animal-scene.has-photo .hill { display: none; }
+      .animal-scene.has-photo .animal-art {
+        position: static;
+        flex: 1 1 auto;
+        min-width: 0;
+        min-height: 0;
+        width: 100%;
+        height: auto;
+        padding: 0;
+        object-fit: contain;
+        object-position: center;
+        filter: none;
+      }
+      .animal-photo-pending { position: relative; z-index: 2; padding: 12px 16px; border-radius: 999px; background: rgba(255,254,250,.8); color: var(--muted); font-size: 12px; }
+      .scene-label { position: absolute; z-index: 3; top: 18px; left: 18px; padding: 8px 11px; background: rgba(255,254,250,.94); border: 1px solid rgba(255,255,255,.8); border-radius: 99px; color: var(--ink); font-size: 10px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+      .animal-scene.has-photo .scene-label {
+        position: static;
+        z-index: auto;
+        flex: 0 0 auto;
+        align-self: flex-start;
+        max-width: 100%;
+        padding: 6px 9px;
+        font-size: 9px;
+        line-height: 1.2;
+        white-space: normal;
+        overflow-wrap: anywhere;
+      }
+      .result-info { padding: 20px 17px 13px; }
+      .result-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 18px; }
+      .category { color: var(--coral-dark); font-size: 10px; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; margin-bottom: 8px; }
+      h2.animal-name { font: 500 35px/1.1 Fraunces, Georgia, serif; letter-spacing: -.035em; margin-bottom: 0; }
+      .latin { color: var(--muted); font: italic 13px Georgia, serif; margin: 6px 0 0; }
+      .copy {
+        border: 1px solid var(--line); border-radius: 9px; background: transparent; color: var(--ink);
+        padding: 9px 12px; font: 600 11px "DM Sans", sans-serif; cursor: pointer;
+      }
+      .copy:hover { background: var(--mist); }
+      .image-credit { color: var(--muted); display: inline-block; font-size: 10px; margin: 15px 0 0 2px; text-decoration-color: #c7cbd0; text-underline-offset: 3px; }
+      .photo-source-label { color: var(--muted); display: inline-block; font-size: 10px; margin: 15px 0 0 2px; }
+      .result-grid.multiple .result-card { padding: 9px; border-radius: 16px; box-shadow: 0 10px 26px rgba(43,48,57,.06); }
+      .result-grid.multiple .animal-scene { min-height: 190px; border-radius: 11px; }
+      .result-grid.multiple .animal-art { height: 170px; width: 82%; }
+      .result-grid.multiple .animal-scene.has-photo { aspect-ratio: 4 / 3; min-height: 0; padding: 9px; gap: 5px; }
+      .result-grid.multiple .animal-scene.has-photo .animal-art { width: 100%; height: auto; padding: 0; }
+      .result-grid.multiple .sun { width: 58px; height: 58px; top: 20px; right: 21px; }
+      .result-grid.multiple .hill { height: 80px; bottom: -47px; }
+      .result-grid.multiple .hill.back { bottom: -54px; }
+      .result-grid.multiple .scene-label { top: 9px; left: 9px; padding: 6px 8px; font-size: 8px; }
+      .result-grid.multiple .animal-scene.has-photo .scene-label { padding: 5px 7px; font-size: 8px; }
+      .result-grid.multiple .result-info { padding: 13px 8px 8px; }
+      .result-grid.multiple .category { font-size: 8px; margin-bottom: 5px; }
+      .result-grid.multiple h2.animal-name { font-size: 22px; overflow-wrap: anywhere; }
+      .result-grid.multiple .latin { font-size: 11px; margin-top: 4px; overflow-wrap: anywhere; }
+      .result-grid.multiple .copy { margin-top: 8px; padding: 7px 9px; font-size: 10px; }
+      .result-grid.multiple .image-credit { font-size: 9px; margin-top: 9px; }
+      .quantity-row { display: flex; gap: 11px; align-items: end; flex-wrap: wrap; }
+      .quantity-field { display: grid; gap: 6px; }
+      .quantity-field label { color: var(--muted); font-size: 11px; font-weight: 700; }
+      .quantity-field select { height: 54px; min-width: 112px; border: 1px solid var(--line); border-radius: 12px; padding: 0 46px 0 13px; color: var(--ink); background-color: var(--white); background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath d='m3 6 5 5 5-5' fill='none' stroke='%23202a39' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 16px center; background-size: 16px; font: 600 14px "DM Sans", sans-serif; appearance: none; -webkit-appearance: none; }
+      .quantity-field select:focus-visible { outline: 3px solid #758bb2; outline-offset: 3px; }
+      .result-status { color: var(--muted); font-size: 11px; margin: 0 2px 10px; }
+      .below { padding: 88px 0 24px; }
+      .below h2 { font: 500 35px/1.12 Fraunces, Georgia, serif; letter-spacing: -.04em; margin-bottom: 12px; }
+      .below-intro { color: var(--muted); line-height: 1.7; font-size: 14px; max-width: 530px; margin-bottom: 26px; }
+      .ideas { display: grid; grid-template-columns: repeat(3, 1fr); gap: 13px; }
+      .idea { min-height: 136px; padding: 20px; border: 1px solid var(--line); border-radius: 15px; background: rgba(255,254,250,.72); }
+      .idea-icon { display: block; color: var(--coral-dark); font-size: 18px; margin-bottom: 15px; }
+      .idea h3 { font: 500 18px Fraunces, Georgia, serif; margin: 0 0 7px; }
+      .idea p { font-size: 12px; color: var(--muted); line-height: 1.55; margin: 0; }
+      .faq { border-top: 1px solid var(--line); margin-top: 65px; padding-top: 38px; display: grid; grid-template-columns: .72fr 1.28fr; gap: 60px; }
+      .faq h2 { margin-bottom: 10px; }
+      .faq-list { border-top: 1px solid var(--line); }
+      .faq details { border-bottom: 1px solid var(--line); }
+      .faq summary { list-style: none; cursor: pointer; padding: 17px 2px; display: flex; justify-content: space-between; gap: 18px; font-size: 13px; font-weight: 600; }
+      .faq summary::-webkit-details-marker { display: none; }
+      .faq summary::after { content: "+"; color: var(--coral-dark); font-size: 17px; line-height: 1; }
+      .faq details[open] summary::after { content: "−"; }
+      .faq details p { color: var(--muted); font-size: 12px; line-height: 1.7; padding: 0 24px 16px 2px; margin: -2px 0 0; }
+      .contact { margin-top: 72px; padding: 38px; border: 1px solid var(--line); border-radius: 22px; background: linear-gradient(130deg, rgba(255,254,250,.96), rgba(245,231,216,.72)); display: grid; grid-template-columns: .85fr 1.15fr; gap: 55px; }
+      .contact h2 { font: 500 35px/1.12 Fraunces, Georgia, serif; letter-spacing: -.04em; margin-bottom: 12px; }
+      .contact-copy { color: var(--muted); font-size: 13px; line-height: 1.7; }
+      .contact-form { display: grid; grid-template-columns: 1fr 1fr; gap: 13px; }
+      .contact-form label { display: grid; gap: 6px; color: var(--muted); font-size: 11px; font-weight: 700; }
+      .contact-form .wide { grid-column: 1 / -1; }
+      .contact-form input, .contact-form select, .contact-form textarea { width: 100%; border: 1px solid var(--line); border-radius: 9px; background: var(--white); color: var(--ink); font: 13px "DM Sans", sans-serif; padding: 11px 12px; }
+      .contact-form textarea { min-height: 96px; resize: vertical; }
+      .contact-form input:focus, .contact-form select:focus, .contact-form textarea:focus { outline: 3px solid rgba(117,139,178,.25); border-color: #758bb2; }
+      .contact-submit { justify-self: start; min-height: 44px; padding-inline: 17px; }
+      .contact-note { grid-column: 1 / -1; color: var(--muted); font-size: 10px; line-height: 1.5; margin: -4px 0 0; }
+      footer {
+        margin-top: 38px;
+        padding: 48px 0 20px;
+        background: #202a39;
+        color: #d4d9e1;
+      }
+      .footer-grid {
+        display: grid;
+        grid-template-columns: 1.2fr repeat(3, minmax(0, 1fr));
+        gap: 36px;
+      }
+      .footer-column { min-width: 0; }
+      .footer-heading {
+        margin: 0 0 17px;
+        color: #f8f5ef;
+        font: 700 12px/1.3 "DM Sans", sans-serif;
+        letter-spacing: .02em;
+      }
+      .footer-brand .footer-heading { font-size: 14px; letter-spacing: -.02em; }
+      .footer-tagline {
+        max-width: 200px;
+        margin: -7px 0 0;
+        color: #aeb8c7;
+        font-size: 12px;
+        line-height: 1.65;
+      }
+      .footer-links { display: grid; justify-items: start; gap: 10px; }
+      .footer-links a {
+        color: #c3ccd8;
+        font-size: 12px;
+        line-height: 1.4;
+        text-decoration: none;
+        transition: color .16s ease;
+      }
+      .footer-links a:hover, .footer-links a:focus-visible { color: #ffb49e; }
+      .footer-links a:focus-visible { outline: 2px solid #ffb49e; outline-offset: 3px; }
+      .footer-bottom {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        margin-top: 36px;
+        padding-top: 16px;
+        border-top: 1px solid rgba(219, 226, 235, .16);
+        color: #aeb8c7;
+        font-size: 10px;
+        line-height: 1.5;
+      }
+      .footer-bottom a { color: inherit; text-underline-offset: 3px; }
+      @media (max-width: 760px) {
+        .shell { width: min(100% - 32px, 560px); }
+        header { height: 70px; }
+        main { padding: 47px 0 45px; }
+        .hero { grid-template-columns: 1fr; gap: 31px; }
+        .hero.batch-mode .hero-copy { position: static; }
+        .eyebrow { margin-bottom: 16px; }
+        h1 { font-size: clamp(51px, 15vw, 68px); max-width: 390px; }
+        .intro { font-size: 14px; margin-bottom: 21px; }
+        .result-card { transform: none; }
+        .animal-scene { min-height: 255px; }
+        .animal-art { height: 210px; }
+        .result-grid.multiple { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+        .result-grid.multiple .animal-scene { min-height: 160px; }
+        .result-grid.multiple .animal-art { height: 142px; }
+        .animal-scene.has-photo { padding: 9px; gap: 5px; }
+        .animal-scene.has-photo .scene-label { padding: 5px 7px; font-size: 8px; }
+        .result-grid.multiple .animal-scene.has-photo { aspect-ratio: 4 / 3; min-height: 0; padding: 7px; gap: 4px; }
+        .result-grid.multiple .animal-scene.has-photo .scene-label { padding: 4px 6px; font-size: 7px; }
+        .quantity-row { align-items: stretch; }
+        .quantity-field { flex: 1; }
+        .quantity-field select { width: 100%; }
+        .quantity-row .generate { flex: 1.3; padding-inline: 12px; }
+        .below { padding-top: 51px; }
+        .below h2 { font-size: 31px; }
+        .ideas { grid-template-columns: 1fr; }
+        .idea { min-height: 0; }
+        .idea-icon { margin-bottom: 9px; }
+        .faq { grid-template-columns: 1fr; gap: 17px; margin-top: 45px; padding-top: 30px; }
+        .nav-links { gap: 14px; }
+        .nav-link { font-size: 11px; }
+        .contact { grid-template-columns: 1fr; gap: 18px; margin-top: 49px; padding: 23px; }
+        .contact h2 { font-size: 31px; }
+        .contact-form { grid-template-columns: 1fr; }
+        .contact-form .wide, .contact-note { grid-column: auto; }
+        footer { margin-top: 26px; padding-top: 38px; }
+        .footer-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 22px; }
+        .footer-bottom { align-items: flex-start; flex-direction: column; gap: 6px; margin-top: 28px; }
+      }
+      @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition-duration: .01ms !important; } }
+      @media (max-width: 420px) {
+        .result-grid.multiple { grid-template-columns: minmax(0, 1fr); }
+        .quantity-row { display: grid; grid-template-columns: minmax(0, 1fr); align-items: stretch; }
+        .quantity-field, .quantity-field select, .quantity-row .generate { width: 100%; }
+        .quantity-row .generate { min-height: 52px; }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav class="shell nav" aria-label="Main navigation">
+        <a class="brand" href="#top" aria-label="Animal Generator home">
+          <img class="brand-logo" src="assets/animal-generator-logo.png" alt="" width="44" height="44" />
+          <span class="brand-name">ANIMAL<br />GENERATOR</span>
+        </a>
+        <div class="nav-links">
+          <a class="nav-link" href="about.html">About</a>
+          <a class="nav-link" href="#contact">Contact</a>
+          <a class="nav-link" href="#faq">FAQ <span aria-hidden="true">↗</span></a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="top" class="shell">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <div class="eyebrow">259 photo-verified species</div>
+          <h1 id="hero-title">Random animal <em>generator.</em></h1>
+          <p class="intro">Pick 1 to 10 animals for a drawing prompt, classroom activity, story, or game. Every result comes with a clear animal photo.</p>
+          <div class="quantity-row">
+            <div class="quantity-field">
+              <label for="quantity">How many?</label>
+              <select id="quantity" name="quantity" aria-label="Number of animals to generate">
+                <option value="1" selected>1 animal</option>
+                <option value="2">2 animals</option><option value="3">3 animals</option>
+                <option value="4">4 animals</option><option value="5">5 animals</option>
+                <option value="6">6 animals</option><option value="7">7 animals</option>
+                <option value="8">8 animals</option><option value="9">9 animals</option>
+                <option value="10">10 animals</option>
+              </select>
+            </div>
+            <button class="generate" id="generate" type="button"><span class="shuffle" aria-hidden="true">⟳</span> Generate animals</button>
+          </div>
+          <div class="trust"><span aria-hidden="true">✳</span> Free to use · No sign-up · Just one good surprise</div>
+        </div>
+
+        <div>
+          <p class="result-status" id="result-status" aria-live="polite">Your animal is ready</p>
+          <div class="result-grid" id="results" aria-live="polite" aria-label="Generated animals"></div>
+        </div>
+      </section>
+
+      <section class="below" aria-labelledby="ideas-title">
+        <h2 id="ideas-title">A new animal, a new idea.</h2>
+        <p class="below-intro">Sometimes one unexpected animal is all it takes to get a story, a sketch, or a game started.</p>
+        <div class="ideas">
+          <article class="idea"><span class="idea-icon" aria-hidden="true">✎</span><h3>For your sketchbook</h3><p>Pick an animal and imagine its colors, habitat, or next adventure.</p></article>
+          <article class="idea"><span class="idea-icon" aria-hidden="true">◎</span><h3>For the classroom</h3><p>Start a quick animal-of-the-day conversation or warm-up.</p></article>
+          <article class="idea"><span class="idea-icon" aria-hidden="true">✳</span><h3>For game night</h3><p>Use a surprise animal as the clue for a round of charades or 20 questions.</p></article>
+        </div>
+      </section>
+
+      <section class="contact" id="contact" aria-labelledby="contact-title">
+        <div>
+          <div class="eyebrow">We read every note</div>
+          <h2 id="contact-title">Contact us</h2>
+          <p class="contact-copy">Have an idea for an animal, spotted something we should improve, or want to share how you used the generator? Send us a note.</p>
+        </div>
+        <form class="contact-form" id="contact-form">
+          <label>Name <input name="name" autocomplete="name" placeholder="Your name" /></label>
+          <label>Email <input name="email" type="email" autocomplete="email" placeholder="you@example.com" required /></label>
+          <label class="wide">What is this about?
+            <select name="topic">
+              <option>General question</option><option>Animal suggestion</option><option>Illustration feedback</option><option>Classroom or project use</option>
+            </select>
+          </label>
+          <label class="wide">Message <textarea name="message" required placeholder="Tell us a little more…"></textarea></label>
+          <button class="generate contact-submit" type="submit">Open email draft <span aria-hidden="true">↗</span></button>
+          <p class="contact-note">This demo opens a message in your email app. Add the site’s contact address before sending; messages are not stored on this page.</p>
+        </form>
+      </section>
+
+      <section class="faq" id="faq" aria-labelledby="faq-title">
+        <div>
+          <h2 id="faq-title">Random animal generator FAQ</h2>
+          <p class="below-intro">Answers about animal types, pictures, quantities, and using your random animal idea.</p>
+        </div>
+        <div class="faq-list">
+          <details><summary>What is a random animal generator?</summary><p>It is a simple animal picker that chooses a species at random. Use it to discover an animal, start a drawing prompt, or choose an idea for a classroom activity or game.</p></details>
+          <details><summary>Can I generate 1 to 10 random animals at once?</summary><p>Yes. Choose any number from 1 to 10 in the quantity menu, then select Generate animals. The results appear together so you can compare or use them as a group prompt.</p></details>
+          <details><summary>Will I see the same animal again?</summary><p>New generations avoid animals you have already seen while unused species remain. After the pool is exhausted, the generator starts a fresh round, so earlier animals can appear again.</p></details>
+          <details><summary>How many animal species are in this animal generator?</summary><p>The catalog contains 340 species across mammals, birds, reptiles, amphibians, fish, and invertebrates. You can currently generate 259 species with reviewed photos; animals without an approved photo stay out of the random results.</p></details>
+          <details><summary>What kinds of animals can this animal generator pick?</summary><p>The collection includes mammals, birds, reptiles, amphibians, fish, and invertebrates such as insects, molluscs, crustaceans, arachnids, echinoderms, and cnidarians.</p></details>
+          <details><summary>Does this random animal generator show animal photos?</summary><p>Yes. Every result currently includes a reviewed photo. There are 259 photo-backed species in the generator, with images sourced from Wikimedia Commons. Creators, licenses, and source pages are listed on the image credits page.</p></details>
+          <details><summary>Can I use the random animal picker for drawing prompts?</summary><p>Yes. Generate one animal for a quick sketch, or choose several to combine into a character, story, or creative challenge.</p></details>
+          <details><summary>Is this free random animal generator available without signing up?</summary><p>Yes. You can use the generator without creating an account or installing an app.</p></details>
+          <details><summary>Is the animal generator useful for kids and classroom activities?</summary><p>Yes. Teachers, parents, and kids can use a random animal as a quick learning topic, drawing prompt, or guessing game. The tool does not require an account.</p></details>
+          <details><summary>Can I use the animal generator on my phone?</summary><p>Yes. The animal cards and quantity selector adjust to smaller screens, including when you generate several animals at once.</p></details>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="shell">
+        <div class="footer-grid">
+          <section class="footer-column footer-brand" aria-labelledby="footer-brand-title">
+            <h2 class="footer-heading" id="footer-brand-title">Animal Generator</h2>
+            <p class="footer-tagline">A little curiosity goes a long way. Meet a new animal and see where the idea takes you.</p>
+          </section>
+          <section class="footer-column" aria-labelledby="footer-tools-title">
+            <h2 class="footer-heading" id="footer-tools-title">Tools</h2>
+            <nav class="footer-links" aria-label="Tools">
+              <a href="#top">Animal generator</a>
+              <a href="#quantity">Generate 1–10 animals</a>
+            </nav>
+          </section>
+          <section class="footer-column" aria-labelledby="footer-resources-title">
+            <h2 class="footer-heading" id="footer-resources-title">Resources</h2>
+            <nav class="footer-links" aria-label="Resources">
+              <a href="#faq">FAQ</a>
+              <a href="animal-image-credits.html">Animal photo credits</a>
+              <a href="https://commons.wikimedia.org/" target="_blank" rel="noreferrer">Wikimedia Commons</a>
+            </nav>
+          </section>
+          <section class="footer-column" aria-labelledby="footer-about-title">
+            <h2 class="footer-heading" id="footer-about-title">About</h2>
+            <nav class="footer-links" aria-label="About">
+              <a href="about.html">About Animal Generator</a>
+              <a href="#contact">Contact us</a>
+            </nav>
+          </section>
+        </div>
+        <div class="footer-bottom">
+          <span>© Animal Generator · Made for curious minds.</span>
+          <span>Animal photos via <a href="https://commons.wikimedia.org/" target="_blank" rel="noreferrer">Wikimedia Commons</a></span>
+        </div>
+      </div>
+    </footer>
+
+    <script src="animal-library.js"></script>
+    <script>
+      const animals = (window.ANIMAL_LIBRARY || []).filter((animal) => Boolean(animal.image));
+      const $ = (id) => document.getElementById(id);
+      const resultGrid = $("results");
+      const categoryLabel = (animal) => animal.category;
+
+      function makeCard(animal, index) {
+        const card = document.createElement("article");
+        card.className = "result-card";
+        const scene = document.createElement("div");
+        scene.className = "animal-scene";
+        const sceneLabel = document.createElement("span");
+        sceneLabel.className = "scene-label";
+        sceneLabel.textContent = categoryLabel(animal);
+        const sun = document.createElement("span"); sun.className = "sun"; sun.setAttribute("aria-hidden", "true");
+        const hillBack = document.createElement("span"); hillBack.className = "hill back"; hillBack.setAttribute("aria-hidden", "true");
+        const hill = document.createElement("span"); hill.className = "hill"; hill.setAttribute("aria-hidden", "true");
+        let photoCredit = null;
+        if (animal.image) {
+          scene.classList.add("has-photo");
+          const image = document.createElement("img");
+          image.className = "animal-art";
+          image.src = animal.image;
+          image.alt = `Photo of ${animal.name} (${animal.scientificName})`;
+          image.loading = index < 2 ? "eager" : "lazy";
+          scene.append(sceneLabel, sun, hillBack, hill, image);
+          photoCredit = document.createElement("span");
+          photoCredit.className = "photo-source-label";
+          photoCredit.textContent = "Photo via Wikimedia Commons";
+        } else {
+          const imagePlaceholder = document.createElement("div");
+          imagePlaceholder.className = "animal-photo-pending";
+          imagePlaceholder.textContent = "Animal photo coming soon";
+          scene.append(sceneLabel, sun, hillBack, hill, imagePlaceholder);
+        }
+
+        const info = document.createElement("div"); info.className = "result-info";
+        const top = document.createElement("div"); top.className = "result-top";
+        const identity = document.createElement("div");
+        const name = document.createElement("h2"); name.className = "animal-name"; name.textContent = animal.name;
+        const latin = document.createElement("p"); latin.className = "latin"; latin.textContent = animal.scientificName;
+        identity.append(name, latin);
+        const copy = document.createElement("button"); copy.className = "copy"; copy.type = "button"; copy.textContent = "Copy name";
+        copy.addEventListener("click", async () => {
+          try { await navigator.clipboard.writeText(animal.name); copy.textContent = "Copied!"; }
+          catch { copy.textContent = animal.name; }
+          setTimeout(() => { copy.textContent = "Copy name"; }, 1400);
+        });
+        top.append(identity, copy);
+        info.append(top);
+        if (photoCredit) info.append(photoCredit);
+        card.append(scene, info);
+        return card;
+      }
+
+      function generateAnimals() {
+        const requested = Number($("quantity").value);
+        let seen = new Set();
+        try { seen = new Set(JSON.parse(localStorage.getItem("fieldnote-seen-animals") || "[]")); } catch {}
+        const availableSpecies = new Set(animals.map((animal) => animal.scientificName));
+        seen = new Set([...seen].filter((species) => availableSpecies.has(species)));
+        let fresh = animals.filter((animal) => !seen.has(animal.scientificName));
+        let startedNewRound = false;
+        if (fresh.length === 0) {
+          seen.clear();
+          fresh = [...animals];
+          startedNewRound = true;
+        }
+        const shuffled = [...fresh];
+        for (let i = shuffled.length - 1; i > 0; i -= 1) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        const selected = shuffled.slice(0, requested);
+        selected.forEach((animal) => seen.add(animal.scientificName));
+        try { localStorage.setItem("fieldnote-seen-animals", JSON.stringify([...seen])); } catch {}
+        resultGrid.replaceChildren(...selected.map(makeCard));
+        resultGrid.classList.toggle("multiple", selected.length > 1);
+        document.querySelector(".hero").classList.toggle("batch-mode", selected.length > 1);
+        const remaining = animals.length - seen.size;
+        const roundNote = startedNewRound ? " · fresh round started" : remaining < requested ? ` · ${remaining} new ${remaining === 1 ? "animal" : "animals"} left` : " · no repeats from earlier picks";
+        $("result-status").textContent = `${selected.length} ${selected.length === 1 ? "animal" : "animals"} · ${animals.length} photo-verified species available${roundNote}`;
+      }
+
+      $("generate").addEventListener("click", generateAnimals);
+      $("contact-form").addEventListener("submit", (event) => {
+        event.preventDefault();
+        const form = new FormData(event.currentTarget);
+        const subject = encodeURIComponent(`Animal Generator — ${form.get("topic")}`);
+        const body = encodeURIComponent(`Name: ${form.get("name") || "Not provided"}\nEmail: ${form.get("email")}\nTopic: ${form.get("topic")}\n\n${form.get("message")}`);
+        window.location.href = `mailto:?subject=${subject}&body=${body}`;
+      });
+      if (animals.length) generateAnimals();
+      else {
+        $("result-status").textContent = "No photo-verified animals are available yet.";
+        $("generate").disabled = true;
+      }
+    </script>
+  </body>
+</html>

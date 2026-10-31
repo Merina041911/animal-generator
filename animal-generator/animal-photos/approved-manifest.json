@@ -1,0 +1,2333 @@
+[
+  {
+    "name": "lion",
+    "scientificName": "Panthera leo",
+    "path": "animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp",
+    "bytes": 156168,
+    "license": "CC BY-SA 4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALeones_%28Panthera_leo%29%2C_parque_nacional_Serengueti%2C_Tanzania%2C_2024-05-26%2C_DD_48.jpg"
+  },
+  {
+    "name": "tiger",
+    "scientificName": "Panthera tigris",
+    "path": "animal-photos/approved/Q19939.webp",
+    "bytes": 263300,
+    "license": "CC BY-SA 4.0",
+    "creator": "Seemaleena",
+    "source": "https://commons.wikimedia.org/wiki/File:Adult_male_Royal_Bengal_tiger.jpg"
+  },
+  {
+    "name": "leopard",
+    "scientificName": "Panthera pardus",
+    "path": "animal-photos/approved/9f33e613-944c-483d-8275-cc59a1b470c2.webp",
+    "bytes": 170394,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALeopard_%28Panthera_pardus_pardus%29_Kruger.jpg"
+  },
+  {
+    "name": "jaguar",
+    "scientificName": "Panthera onca",
+    "path": "animal-photos/approved/c5362c8a-0c93-41f5-9d4d-674dbe231318.webp",
+    "bytes": 83014,
+    "license": "Public domain",
+    "creator": "USFWS",
+    "source": "https://commons.wikimedia.org/wiki/File:Standing_jaguar.jpg"
+  },
+  {
+    "name": "cheetah",
+    "scientificName": "Acinonyx jubatus",
+    "path": "animal-photos/approved/1b25ddef-22f8-467e-a8b1-0846bcba9b3b.webp",
+    "bytes": 184622,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File%3ACheetah_%28Acinonyx_jubatus%29_cub.jpg"
+  },
+  {
+    "name": "snow leopard",
+    "scientificName": "Panthera uncia",
+    "path": "animal-photos/approved/Q30197.webp",
+    "bytes": 100764,
+    "license": "CC BY-SA 2.0",
+    "creator": "Eric Kilby  from Somerville, MA, USA",
+    "source": "https://commons.wikimedia.org/wiki/File:Snow_Leopard_Backlit_(49092985883).jpg"
+  },
+  {
+    "name": "cougar",
+    "scientificName": "Puma concolor",
+    "path": "animal-photos/approved/ee40e166-219a-48bf-bdfb-3ec97d67661d.webp",
+    "bytes": 159890,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File%3APuma_%28Puma_concolor_concolor%29_female_Leona_Amarga.jpg"
+  },
+  {
+    "name": "gray wolf",
+    "scientificName": "Canis lupus",
+    "path": "animal-photos/approved/Q18498.webp",
+    "bytes": 75890,
+    "license": "CC BY-SA 4.0",
+    "creator": "User:Mas3cf",
+    "source": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg"
+  },
+  {
+    "name": "red fox",
+    "scientificName": "Vulpes vulpes",
+    "path": "animal-photos/approved/Q8332.webp",
+    "bytes": 102242,
+    "license": "CC BY-SA 4.0",
+    "creator": "ClaudiaTen",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fjällurskog_(cropped).jpg"
+  },
+  {
+    "name": "arctic fox",
+    "scientificName": "Vulpes lagopus",
+    "path": "animal-photos/approved/8e5dfa51-961d-48be-acda-fd7a00f0e565.webp",
+    "bytes": 118652,
+    "license": "CC BY-SA 4.0",
+    "creator": "Nixette",
+    "source": "https://commons.wikimedia.org/wiki/File%3AArctic_fox_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-1.jpg"
+  },
+  {
+    "name": "fennec fox",
+    "scientificName": "Vulpes zerda",
+    "path": "animal-photos/approved/Q131564.webp",
+    "bytes": 37242,
+    "license": "CC BY 2.0",
+    "creator": "Daniel Ramirez  from Honolulu, USA",
+    "source": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_(9163009503).jpg"
+  },
+  {
+    "name": "coyote",
+    "scientificName": "Canis latrans",
+    "path": "animal-photos/approved/f787cef9-1801-4387-8f6c-4234b5c8d72a.webp",
+    "bytes": 60840,
+    "license": "CC BY-SA 3.0",
+    "creator": "Yathin S Krishnappa",
+    "source": "https://commons.wikimedia.org/wiki/File:2009-Coyote-Yosemite.jpg"
+  },
+  {
+    "name": "African wild dog",
+    "scientificName": "Lycaon pictus",
+    "path": "animal-photos/approved/41e86fdc-c817-4262-9cdf-e18c6b8053c4.webp",
+    "bytes": 75940,
+    "license": "CC BY-SA 2.0",
+    "creator": "Lip Kee",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAfrican_wild_dog_%28Lycaon_pictus%29%2C_Okavango_River%3B_December_2012_%2816%29.jpg"
+  },
+  {
+    "name": "brown bear",
+    "scientificName": "Ursus arctos",
+    "path": "animal-photos/approved/1cddcd20-9c80-4c98-9a3a-881e724ee4e7.webp",
+    "bytes": 133030,
+    "license": "CC BY 2.0",
+    "creator": "Frank Vassen  from Brussels, Belgium",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABrown_bear_%28Ursus_arctos%29%2C_Viiksimo%2C_Kainuu_region%2C_Finland_%2829058988558%29.jpg"
+  },
+  {
+    "name": "polar bear",
+    "scientificName": "Ursus maritimus",
+    "path": "animal-photos/approved/35fbff4d-c0e6-4c53-9f27-f0a6ecbe7720.webp",
+    "bytes": 59490,
+    "license": "CC BY-SA 3.0",
+    "creator": "Alan Wilson",
+    "source": "https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska_(cropped).jpg"
+  },
+  {
+    "name": "giant panda",
+    "scientificName": "Ailuropoda melanoleuca",
+    "path": "animal-photos/approved/Q33602.webp",
+    "bytes": 120776,
+    "license": "CC BY-SA 3.0",
+    "creator": "J. Patrick Fischer",
+    "source": "https://commons.wikimedia.org/wiki/File:Grosser_Panda.JPG"
+  },
+  {
+    "name": "red panda",
+    "scientificName": "Ailurus fulgens",
+    "path": "animal-photos/approved/Q41960.webp",
+    "bytes": 159388,
+    "license": "CC BY-SA 4.0",
+    "creator": "Ajit Hota",
+    "source": "https://commons.wikimedia.org/wiki/File:RedPanda_SingalilaNationalPark_DFrame.jpg"
+  },
+  {
+    "name": "sea otter",
+    "scientificName": "Enhydra lutris",
+    "path": "animal-photos/approved/d1e9b847-ab06-4663-8095-c65c08bfe21e.webp",
+    "bytes": 73258,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File%3ANorthern_sea_otter_%28Enhydra_lutris_kenyoni%29_female_and_pup_Quatsino.jpg"
+  },
+  {
+    "name": "walrus",
+    "scientificName": "Odobenus rosmarus",
+    "path": "animal-photos/approved/58214bec-f89b-4a03-8a32-f5de4303a54a.webp",
+    "bytes": 85508,
+    "license": "CC BY-SA 4.0",
+    "creator": "Godot13",
+    "source": "https://commons.wikimedia.org/wiki/File%3ANOR-2016-Svalbard-Sju%C3%B8yane-Phipps%C3%B8ya-Atlantic_Walrus_%28Odobenus_rosmarus_rosmarus%29_03.jpg"
+  },
+  {
+    "name": "African elephant",
+    "scientificName": "Loxodonta africana",
+    "path": "animal-photos/approved/b98f5417-9fa3-400f-b389-4bf1a961cce3.webp",
+    "bytes": 187442,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAfrican_bush_elephants_%28Loxodonta_africana%29_female_with_six-week-old_baby.jpg"
+  },
+  {
+    "name": "Asian elephant",
+    "scientificName": "Elephas maximus",
+    "path": "animal-photos/approved/91e44407-08f2-4b96-b8a6-ab4ce6d4d38d.webp",
+    "bytes": 167550,
+    "license": "CC BY-SA 4.0",
+    "creator": "Basile Morin",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASitting_Asian_elephant_%28Elephas_maximus%29_bathing_in_Tad_Lo_river%2C_Laos.jpg"
+  },
+  {
+    "name": "chimpanzee",
+    "scientificName": "Pan troglodytes",
+    "path": "animal-photos/approved/34f93016-ee49-428c-8504-c7c4739232bc.webp",
+    "bytes": 177238,
+    "license": "CC BY-SA 4.0",
+    "creator": "Mira Meijer  Burgers' Zoo",
+    "source": "https://commons.wikimedia.org/wiki/File%3AChimpanzee_%28Pan_troglodytes%29.jpg"
+  },
+  {
+    "name": "koala",
+    "scientificName": "Phascolarctos cinereus",
+    "path": "animal-photos/approved/Q36101.webp",
+    "bytes": 164044,
+    "license": "CC BY-SA 3.0",
+    "creator": "Diliff",
+    "source": "https://commons.wikimedia.org/wiki/File:Koala_climbing_tree.jpg"
+  },
+  {
+    "name": "platypus",
+    "scientificName": "Ornithorhynchus anatinus",
+    "path": "animal-photos/approved/3ca524e8-74c5-45ad-a267-9f599ab7d751.webp",
+    "bytes": 72690,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADuck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg"
+  },
+  {
+    "name": "giant anteater",
+    "scientificName": "Myrmecophaga tridactyla",
+    "path": "animal-photos/approved/d52b48fc-be52-46a1-94b7-ac7790b4730c.webp",
+    "bytes": 188330,
+    "license": "CC BY-SA 3.0",
+    "creator": "Malene Thyssen",
+    "source": "https://commons.wikimedia.org/wiki/File:Myresluger2.jpg"
+  },
+  {
+    "name": "capybara",
+    "scientificName": "Hydrochoerus hydrochaeris",
+    "path": "animal-photos/approved/9c234021-ce53-45d9-8fdd-b0ca3115a451.webp",
+    "bytes": 104238,
+    "license": "CC BY-SA 4.0",
+    "creator": "Clodomiro Esteves Junior",
+    "source": "https://commons.wikimedia.org/wiki/File%3ACapivara%28Hydrochoerus_hydrochaeris%29.jpg"
+  },
+  {
+    "name": "meerkat",
+    "scientificName": "Suricata suricatta",
+    "path": "animal-photos/approved/a7243ae1-4147-45a1-a42e-fd4c95b85d4a.webp",
+    "bytes": 132898,
+    "license": "CC BY-SA 4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASuricatos_%28Suricata_suricatta%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_26.jpg"
+  },
+  {
+    "name": "moose",
+    "scientificName": "Alces alces",
+    "path": "animal-photos/approved/94397ceb-67dc-4dcd-93bf-1a5bf38bba61.webp",
+    "bytes": 360340,
+    "license": "CC BY-SA 4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAlce_%28Alces_alces%29%2C_Potter_marsh%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_139.jpg"
+  },
+  {
+    "name": "donkey",
+    "scientificName": "Equus africanus asinus",
+    "path": "animal-photos/approved/ab0c5152-01eb-4d29-8d2f-74dd155bd06a.webp",
+    "bytes": 152492,
+    "license": "Public domain",
+    "creator": "Adrian Pingstone",
+    "source": "https://commons.wikimedia.org/wiki/File:Donkey_in_Clovelly,_North_Devon,_England.jpg"
+  },
+  {
+    "name": "bottlenose dolphin",
+    "scientificName": "Tursiops truncatus",
+    "path": "animal-photos/approved/6260355c-1f7b-491c-baa5-4268710276d6.webp",
+    "bytes": 68542,
+    "license": "CC BY-SA 4.0",
+    "creator": "Cloudette-90",
+    "source": "https://commons.wikimedia.org/wiki/File%3ATursiops_Truncatus.JPG"
+  },
+  {
+    "name": "orca",
+    "scientificName": "Orcinus orca",
+    "path": "animal-photos/approved/Q26843.webp",
+    "bytes": 126084,
+    "license": "Public domain",
+    "creator": "Robert Pittman",
+    "source": "https://commons.wikimedia.org/wiki/File:Killerwhales_jumping.jpg"
+  },
+  {
+    "name": "humpback whale",
+    "scientificName": "Balaenoptera novaeangliae",
+    "path": "animal-photos/approved/Q132905.webp",
+    "bytes": 32110,
+    "license": "Public domain",
+    "creator": "Dr. Louis M. Herman.",
+    "source": "https://commons.wikimedia.org/wiki/File:Humpback_whales_in_singing_position.jpg"
+  },
+  {
+    "name": "lemur",
+    "scientificName": "Lemur catta",
+    "path": "animal-photos/approved/c8aeba86-0838-4c2e-8a3c-512608a2656c.webp",
+    "bytes": 163036,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARing-tailed_lemur_%28Lemur_catta%29_2.jpg"
+  },
+  {
+    "name": "wolverine",
+    "scientificName": "Gulo gulo",
+    "path": "animal-photos/approved/bee678d0-5742-430e-9a59-e877a47eaaf1.webp",
+    "bytes": 137096,
+    "license": "CC BY-SA 4.0",
+    "creator": "Gunnar Creutz",
+    "source": "https://commons.wikimedia.org/wiki/File%3AGulo_gulo_%28taxidermied%29_from_G%C3%A4llivare_at_G%C3%B6teborgs_Naturhistoriska_Museum_8544.jpg"
+  },
+  {
+    "name": "bobcat",
+    "scientificName": "Lynx rufus",
+    "path": "animal-photos/approved/Q131907.webp",
+    "bytes": 176846,
+    "license": "CC BY 2.0",
+    "creator": "Becker1999 (Paul and Cathy)",
+    "source": "https://commons.wikimedia.org/wiki/File:Bobcat_at_Columbus_Zoo_Boo.jpg"
+  },
+  {
+    "name": "bald eagle",
+    "scientificName": "Haliaeetus leucocephalus",
+    "path": "animal-photos/approved/80064052-3255-4b19-9125-5a0c79dec5bf.webp",
+    "bytes": 17422,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABald_eagle_%28Haliaeetus_leucocephalus_washingtoniensis%29_mobbed_by_crows_Tofino.jpg"
+  },
+  {
+    "name": "golden eagle",
+    "scientificName": "Aquila chrysaetos",
+    "path": "animal-photos/approved/20f92e20-e65b-4efd-b40f-b3aa8fde6011.webp",
+    "bytes": 153698,
+    "license": "CC BY-SA 4.0",
+    "creator": "Fernando Losada Rodríguez",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAquila_chrysaetos.402_-_Betanzos.jpg"
+  },
+  {
+    "name": "flamingo",
+    "scientificName": "Phoenicopterus roseus",
+    "path": "animal-photos/approved/a1244226-f2c2-41dc-b113-f1c6545958ce.webp",
+    "bytes": 91224,
+    "license": "CC BY-SA 4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File%3AFlamenco_com%C3%BAn_%28Phoenicopterus_roseus%29%2C_Walvis_Bay%2C_Namibia%2C_2018-08-05%2C_DD_30.jpg"
+  },
+  {
+    "name": "king penguin",
+    "scientificName": "Aptenodytes patagonicus",
+    "path": "animal-photos/approved/bd302d4d-59a5-4359-a661-3e82242f5d0d.webp",
+    "bytes": 173316,
+    "license": "CC BY-SA 4.0",
+    "creator": "Thomas Fuhrmann",
+    "source": "https://commons.wikimedia.org/wiki/File%3AKing_penguin_%28Aptenodytes_patagonicus%29_-_Parque_Pinguino_Rey_01.jpg"
+  },
+  {
+    "name": "emu",
+    "scientificName": "Dromaius novaehollandiae",
+    "path": "animal-photos/approved/bae88982-352f-43d0-b2ed-8d7661fa1d6f.webp",
+    "bytes": 268712,
+    "license": "CC BY-SA 2.0",
+    "creator": "fry_theonly",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADromaius_novaehollandiae%2C_Port_Campbell_National_Park_1.jpg"
+  },
+  {
+    "name": "mallard",
+    "scientificName": "Anas platyrhynchos",
+    "path": "animal-photos/approved/f562234a-9b05-439c-aad5-0ea83ed4c553.webp",
+    "bytes": 157518,
+    "license": "CC BY-SA 3.0",
+    "creator": "H. Zell",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAnas_platyrhynchos_-_Weiherwald_-_Karlsruhe_05.jpg"
+  },
+  {
+    "name": "Atlantic puffin",
+    "scientificName": "Fratercula arctica",
+    "path": "animal-photos/approved/18ff6244-3ec9-4750-a29a-aaad7e2f14ad.webp",
+    "bytes": 109928,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File%3APuffin_%28Fratercula_arctica%29_with_lesser_sand_eels_%28Ammodytes_tobianus%29.jpg"
+  },
+  {
+    "name": "great blue heron",
+    "scientificName": "Ardea herodias",
+    "path": "animal-photos/approved/ef8228ef-8738-4110-927c-3ab6b9c03b0e.webp",
+    "bytes": 64384,
+    "license": "CC BY-SA 3.0",
+    "creator": "Frank Schulenburg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AGreat_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg"
+  },
+  {
+    "name": "European robin",
+    "scientificName": "Erithacus rubecula",
+    "path": "animal-photos/approved/b0d54194-4105-4694-b670-b693df1640cf.webp",
+    "bytes": 38880,
+    "license": "CC BY-SA 4.0",
+    "creator": "Chme82",
+    "source": "https://commons.wikimedia.org/wiki/File%3AErithacus_rubecula_%28Brugg_AG%29.jpg"
+  },
+  {
+    "name": "raven",
+    "scientificName": "Corvus corax",
+    "path": "animal-photos/approved/b4e2e9ef-2b55-4c5e-99b5-5b0db859f59b.webp",
+    "bytes": 114646,
+    "license": "CC BY-SA 4.0",
+    "creator": "Frank Schulenburg",
+    "source": "https://commons.wikimedia.org/wiki/File%3ACorvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg"
+  },
+  {
+    "name": "kingfisher",
+    "scientificName": "Alcedo atthis",
+    "path": "animal-photos/approved/Q79915.webp",
+    "bytes": 110612,
+    "license": "CC BY-SA 4.0",
+    "creator": "Artemy Voikhansky",
+    "source": "https://commons.wikimedia.org/wiki/File:Alcedo_Atthis.jpg"
+  },
+  {
+    "name": "pigeon",
+    "scientificName": "Columba livia",
+    "path": "animal-photos/approved/Q42326.webp",
+    "bytes": 189300,
+    "license": "CC BY 4.0",
+    "creator": "william_stephens",
+    "source": "https://commons.wikimedia.org/wiki/File:Columba_livia_(Rock_Dove,_wild),_Duncansby_Head,_Caithness,_Scotland_1.jpg"
+  },
+  {
+    "name": "magpie",
+    "scientificName": "Pica pica",
+    "path": "animal-photos/approved/1f3bf322-4ca3-402f-80c9-0260843de5e4.webp",
+    "bytes": 73518,
+    "license": "CC BY-SA 4.0",
+    "creator": "Marius Vassnes",
+    "source": "https://commons.wikimedia.org/wiki/File%3APica_Pica_in_Austevoll.jpg"
+  },
+  {
+    "name": "turkey",
+    "scientificName": "Meleagris gallopavo",
+    "path": "animal-photos/approved/3505388e-32ed-464d-816a-0bfca1b68934.webp",
+    "bytes": 173022,
+    "license": "CC BY-SA 4.0",
+    "creator": "Frank Schulenburg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMale_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg"
+  },
+  {
+    "name": "chicken",
+    "scientificName": "Gallus gallus domesticus",
+    "path": "animal-photos/approved/f16a316c-6580-4cc0-b6b5-fd2e895ba225.webp",
+    "bytes": 91972,
+    "license": "CC BY-SA 3.0",
+    "creator": "H. Zell",
+    "source": "https://commons.wikimedia.org/wiki/File%3AGallus_gallus_domesticus_-_Vogelpark_Steinen_01.jpg"
+  },
+  {
+    "name": "osprey",
+    "scientificName": "Pandion haliaetus",
+    "path": "animal-photos/approved/d25f13d6-722e-4da3-8073-0a86b8a15976.webp",
+    "bytes": 13722,
+    "license": "CC BY 2.0",
+    "creator": "lwolfartist",
+    "source": "https://commons.wikimedia.org/wiki/File%3APandion_haliaetus_DSC_5659.jpg"
+  },
+  {
+    "name": "Komodo dragon",
+    "scientificName": "Varanus komodoensis",
+    "path": "animal-photos/approved/Q4504.webp",
+    "bytes": 300894,
+    "license": "CC BY-SA 3.0",
+    "creator": "Midori",
+    "source": "https://commons.wikimedia.org/wiki/File:Komodo_dragon_Varanus_komodoensis_Ragunan_Zoo_2.JPG"
+  },
+  {
+    "name": "saltwater crocodile",
+    "scientificName": "Crocodylus porosus",
+    "path": "animal-photos/approved/Q182599.webp",
+    "bytes": 161944,
+    "license": "Public domain",
+    "creator": "Obtained from Molly Ebersold of the St. Augustine Alligator Farm",
+    "source": "https://commons.wikimedia.org/wiki/File:SaltwaterCrocodile('Maximo').jpg"
+  },
+  {
+    "name": "American alligator",
+    "scientificName": "Alligator mississippiensis",
+    "path": "animal-photos/approved/0f07b2f6-92f5-40df-9cb0-6f30cb18dc60.webp",
+    "bytes": 205676,
+    "license": "CC BY-SA 4.0",
+    "creator": "Bobyellow",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAlligator_mississippiensis_%28American_alligator%29_6.jpg"
+  },
+  {
+    "name": "green sea turtle",
+    "scientificName": "Chelonia mydas",
+    "path": "animal-photos/approved/6cebfd77-1ad5-449f-8440-c6f9f18f41d8.webp",
+    "bytes": 121154,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File%3AGreen_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg"
+  },
+  {
+    "name": "loggerhead sea turtle",
+    "scientificName": "Caretta caretta",
+    "path": "animal-photos/approved/Q192095.webp",
+    "bytes": 59582,
+    "license": "CC BY 2.0",
+    "creator": "ukanda",
+    "source": "https://commons.wikimedia.org/wiki/File:Loggerhead_sea_turtle.jpg"
+  },
+  {
+    "name": "king cobra",
+    "scientificName": "Ophiophagus hannah",
+    "path": "animal-photos/approved/7d7ef734-8a79-4dcf-ad8e-f2cbcd1bf43e.webp",
+    "bytes": 68846,
+    "license": "CC BY-SA 2.0",
+    "creator": "Rushen",
+    "source": "https://commons.wikimedia.org/wiki/File%3AOphiophagus_hannah%2C_King_cobra_%28female%29_-_Kaeng_Krachan_National_Park_%2825458697183%29.jpg"
+  },
+  {
+    "name": "green anaconda",
+    "scientificName": "Eunectes murinus",
+    "path": "animal-photos/approved/Q207347.webp",
+    "bytes": 75466,
+    "license": "Public domain",
+    "creator": "TimVickers",
+    "source": "https://commons.wikimedia.org/wiki/File:Eunectes_murinus_(1).jpg"
+  },
+  {
+    "name": "frilled lizard",
+    "scientificName": "Chlamydosaurus kingii",
+    "path": "animal-photos/approved/c4419539-43de-49d4-82f4-1fc599f42a15.webp",
+    "bytes": 135730,
+    "license": "CC BY 2.0",
+    "creator": "Matt  from Melbourne, Australia",
+    "source": "https://commons.wikimedia.org/wiki/File%3AFrill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288691487073%29.jpg"
+  },
+  {
+    "name": "gharial",
+    "scientificName": "Gavialis gangeticus",
+    "path": "animal-photos/approved/Q17134.webp",
+    "bytes": 160936,
+    "license": "CC BY 2.0",
+    "creator": "Bo Link  from Knoxville, TN, USA",
+    "source": "https://commons.wikimedia.org/wiki/File:Gharial_san_diego.jpg"
+  },
+  {
+    "name": "Gila monster",
+    "scientificName": "Heloderma suspectum",
+    "path": "animal-photos/approved/Q207058.webp",
+    "bytes": 216150,
+    "license": "CC BY 4.0",
+    "creator": "Josh Olander",
+    "source": "https://commons.wikimedia.org/wiki/File:AZ_Gila_Monster_01.jpg"
+  },
+  {
+    "name": "axolotl",
+    "scientificName": "Ambystoma mexicanum",
+    "path": "animal-photos/approved/Q22718.webp",
+    "bytes": 55726,
+    "license": "CC BY-SA 4.0",
+    "creator": "Mattia Nocciola",
+    "source": "https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_Natural_History_Museum_University_of_Pisa_(cropped).jpg"
+  },
+  {
+    "name": "red-eyed tree frog",
+    "scientificName": "Agalychnis callidryas",
+    "path": "animal-photos/approved/3bbd487e-31ef-4121-b030-f06f830132b8.webp",
+    "bytes": 20848,
+    "license": "CC BY 2.0",
+    "creator": "Geoff Gallice  from Gainesville, FL, USA",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARed-eyed_Tree_Frog_%28Agalychnis_callidryas%29_3.jpg"
+  },
+  {
+    "name": "Chinese giant salamander",
+    "scientificName": "Andrias davidianus",
+    "path": "animal-photos/approved/dd44eb4f-f4d1-4557-939e-44f35694b615.webp",
+    "bytes": 97932,
+    "license": "CC BY-SA 3.0",
+    "creator": "J. Patrick Fischer",
+    "source": "https://commons.wikimedia.org/wiki/File%3A2009_Andrias_davidianus.JPG"
+  },
+  {
+    "name": "olm",
+    "scientificName": "Proteus anguinus",
+    "path": "animal-photos/approved/b20ac6bd-5100-4e76-945c-1b896de1c406.webp",
+    "bytes": 132828,
+    "license": "CC BY-SA 2.0",
+    "creator": "Javier Ábalos Alvarez  from Madrid, España",
+    "source": "https://commons.wikimedia.org/wiki/File%3AOlm_%28Proteus_anguinus%29_in_Moulis%2C_Ariege_%28Laboratoire_souterraine%2C_CNRS%29_%2833755905584%29.jpg"
+  },
+  {
+    "name": "tiger salamander",
+    "scientificName": "Ambystoma tigrinum",
+    "path": "animal-photos/approved/6a2be24b-bce0-4c60-81dc-07c1f1184ae4.webp",
+    "bytes": 29864,
+    "license": "Public domain",
+    "creator": "USFWS Mountain Prairie",
+    "source": "https://commons.wikimedia.org/wiki/File%3ATiger_Salamander_%28Ambystoma_tigrinum%29.jpg"
+  },
+  {
+    "name": "whale shark",
+    "scientificName": "Rhincodon typus",
+    "path": "animal-photos/approved/fc816f8b-005d-4414-b962-1b99ed5129fe.webp",
+    "bytes": 43622,
+    "license": "CC BY-SA 4.0",
+    "creator": "Abe Khao Lak",
+    "source": "https://commons.wikimedia.org/wiki/File:Similan_Dive_Center_-_great_whale_shark.jpg"
+  },
+  {
+    "name": "ocean sunfish",
+    "scientificName": "Mola mola",
+    "path": "animal-photos/approved/Q192285.webp",
+    "bytes": 43000,
+    "license": "Public domain",
+    "creator": "U.S. National Oceanic and Atmospheric Administration",
+    "source": "https://commons.wikimedia.org/wiki/File:Mola_mola.jpg"
+  },
+  {
+    "name": "rainbow trout",
+    "scientificName": "Oncorhynchus mykiss",
+    "path": "animal-photos/approved/418b89e2-0617-4e65-acb4-75e37919960d.webp",
+    "bytes": 41420,
+    "license": "Public domain",
+    "creator": "USFWS Mountain Prairie",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARainbow_Trout_%28Oncorhynchus_mykiss%29_Gavins_Point.jpg"
+  },
+  {
+    "name": "arapaima",
+    "scientificName": "Arapaima gigas",
+    "path": "animal-photos/approved/dd5aa97d-9abe-42b2-8e35-59bd0c506569.webp",
+    "bytes": 91250,
+    "license": "CC BY-SA 3.0",
+    "creator": "Bjoertvedt",
+    "source": "https://commons.wikimedia.org/wiki/File%3AArapaima_gigas_01.JPG"
+  },
+  {
+    "name": "guppy",
+    "scientificName": "Poecilia reticulata",
+    "path": "animal-photos/approved/b6fa87f2-1289-438a-beed-edde05302df9.webp",
+    "bytes": 52204,
+    "license": "CC BY 3.0",
+    "creator": "Per Harald Olsen",
+    "source": "https://commons.wikimedia.org/wiki/File:Guppy_pho_0048.jpg"
+  },
+  {
+    "name": "pike",
+    "scientificName": "Esox lucius",
+    "path": "animal-photos/approved/Q165278.webp",
+    "bytes": 81878,
+    "license": "CC BY-SA 2.5",
+    "creator": "Georg Mittenecker",
+    "source": "https://commons.wikimedia.org/wiki/File:Esox_Lucius.JPG"
+  },
+  {
+    "name": "monarch butterfly",
+    "scientificName": "Danaus plexippus",
+    "path": "animal-photos/approved/e2cdafc4-2e97-45e3-8799-1a965fc24d85.webp",
+    "bytes": 92882,
+    "license": "CC BY 2.0",
+    "creator": "Thomas Bresson",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADanaus_plexippus_%287%29.jpg"
+  },
+  {
+    "name": "praying mantis",
+    "scientificName": "Mantis religiosa",
+    "path": "animal-photos/approved/fec113bd-c3ce-46bc-acbe-1474c9d8ca4d.webp",
+    "bytes": 51532,
+    "license": "CC BY-SA 4.0",
+    "creator": "Didier Descouens",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMantis_religiosa_MHNT_enti%C3%A8re.jpg"
+  },
+  {
+    "name": "cuttlefish",
+    "scientificName": "Sepia officinalis",
+    "path": "animal-photos/approved/6cbff80e-9537-4130-8397-ebbf77464ea4.webp",
+    "bytes": 142634,
+    "license": "CC BY-SA 4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASepia_com%C3%BAn_%28Sepia_officinalis%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2023-07-26%2C_DD_63.jpg"
+  },
+  {
+    "name": "coconut crab",
+    "scientificName": "Birgus latro",
+    "path": "animal-photos/approved/79b7c6f7-0b2a-4d4b-a7e4-e2eb7dd09b63.webp",
+    "bytes": 80572,
+    "license": "CC BY 2.0",
+    "creator": "Drew Avery",
+    "source": "https://commons.wikimedia.org/wiki/File%3ACoconut_Crab_-_Birgus_latro_7_%284091446580%29.jpg"
+  },
+  {
+    "name": "vampire squid",
+    "scientificName": "Vampyroteuthis infernalis",
+    "path": "animal-photos/approved/a6be7f5c-82bb-42b8-8b17-fb0b8b2d277d.webp",
+    "bytes": 20574,
+    "license": "CC BY-SA 4.0",
+    "creator": "Emőke Dénes",
+    "source": "https://commons.wikimedia.org/wiki/File%3APu_-_Vampyroteuthis_infernalis_-_2.jpg"
+  },
+  {
+    "name": "crown-of-thorns starfish",
+    "scientificName": "Acanthaster planci",
+    "path": "animal-photos/approved/b7a75547-2a58-4303-9497-42eee2412700.webp",
+    "bytes": 277916,
+    "license": "CC BY 4.0",
+    "creator": "Olivier Dugornay (IFREMER, Pôle Images, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané, France)",
+    "source": "https://commons.wikimedia.org/wiki/File%3AEtoile_de_mer_tropicale_%22d%C3%A9voreuse_de_corail%22_%28Acanthaster_planci%29_%28Ifremer_00789-90105_-_50406%29.jpg"
+  },
+  {
+    "name": "common octopus",
+    "scientificName": "Octopus vulgaris",
+    "path": "animal-photos/approved/f400b519-3564-4183-b4bd-c3b922cc7c5e.webp",
+    "bytes": 233192,
+    "license": "CC BY-SA 4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File%3APulpo_%28Octopus_vulgaris%29%2C_isla_de_Mouro%2C_Santander%2C_Espa%C3%B1a%2C_2019-08-14%2C_DD_30.jpg"
+  },
+  {
+    "name": "giant African land snail",
+    "scientificName": "Lissachatina fulica",
+    "path": "animal-photos/approved/8c89f14e-7c7b-4844-b0c3-dd3f90818660.webp",
+    "bytes": 106886,
+    "license": "CC BY-SA 4.0",
+    "creator": "ImagePerson",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALissachatina_fulica_snaily.jpg"
+  },
+  {
+    "name": "Gray-headed Chachalaca",
+    "scientificName": "Ortalis cinereiceps",
+    "path": "animal-photos/approved/a93b67a0-15d5-4835-938b-212928ec6901.webp",
+    "bytes": 123078,
+    "license": "CC BY 2.0",
+    "creator": "gailhampshire  from Cradley, Malvern, U.K",
+    "source": "https://commons.wikimedia.org/wiki/File%3AGray-headed_Chachalaca._Ortalis_cinereiceps_-_Flickr_-_gailhampshire.jpg"
+  },
+  {
+    "name": "Variegated Tinamou",
+    "scientificName": "Crypturellus variegatus",
+    "path": "animal-photos/approved/13f03f76-ad05-41dc-9346-cdce51eacaf3.webp",
+    "bytes": 35180,
+    "license": "CC BY-SA 4.0",
+    "creator": "Emőke Dénes",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMa_-_Crypturellus_variegatus_-_2.jpg"
+  },
+  {
+    "name": "Solitary Tinamou",
+    "scientificName": "Tinamus solitarius",
+    "path": "animal-photos/approved/2aac956a-1c48-4a67-939e-48c33f0897cf.webp",
+    "bytes": 166718,
+    "license": "CC BY-SA 4.0",
+    "creator": "Nortondefeis",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMacuco_%28Tinamus_solitarius%29_no_Parque_Estadual_Intervales.jpg"
+  },
+  {
+    "name": "Common Nighthawk",
+    "scientificName": "Chordeiles minor",
+    "path": "animal-photos/approved/0b787dde-fb79-4e1a-ab58-da3fa04d96dc.webp",
+    "bytes": 104030,
+    "license": "CC BY-SA 4.0",
+    "creator": "Cephas",
+    "source": "https://commons.wikimedia.org/wiki/File%3AChordeiles_minor_GNP_01.jpg"
+  },
+  {
+    "name": "Chestnut-bellied Sandgrouse",
+    "scientificName": "Pterocles exustus",
+    "path": "animal-photos/approved/480610c8-7a3d-4ffe-adbd-95e8a68440c4.webp",
+    "bytes": 78278,
+    "license": "CC BY 4.0",
+    "creator": "Parth Kansara",
+    "source": "https://commons.wikimedia.org/wiki/File%3APterocles_exustus_156506640.jpg"
+  },
+  {
+    "name": "Yellow-throated Sandgrouse",
+    "scientificName": "Pterocles gutturalis",
+    "path": "animal-photos/approved/41440b20-a497-417d-8f11-87428a867fc8.webp",
+    "bytes": 92542,
+    "license": "Public domain",
+    "creator": "Andrew Smith",
+    "source": "https://commons.wikimedia.org/wiki/File%3APterocles_gutturalis.jpg"
+  },
+  {
+    "name": "Black-bellied Sandgrouse",
+    "scientificName": "Pterocles orientalis",
+    "path": "animal-photos/approved/7d6a29b5-ff04-45da-b625-4b6534f8725b.webp",
+    "bytes": 27072,
+    "license": "CC BY-SA 4.0",
+    "creator": "Andreas Trepte",
+    "source": "https://commons.wikimedia.org/wiki/File%3APterocles_orientalis_in_flight.jpg"
+  },
+  {
+    "name": "Sand Lizard",
+    "scientificName": "Lacerta agilis",
+    "path": "animal-photos/approved/18af6753-2f5b-49d2-a28d-4cc1b7deaf6f.webp",
+    "bytes": 138084,
+    "license": "Public domain",
+    "creator": "George Chernilevsky",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALacerta_agilis_female_2014_G1.jpg"
+  },
+  {
+    "name": "Black Rock Skink",
+    "scientificName": "Egernia saxatilis",
+    "path": "animal-photos/approved/0e2a08ed-13a1-4b9e-a047-ef4045e7d88f.webp",
+    "bytes": 82756,
+    "license": "CC BY 2.0",
+    "creator": "Matt  from Melbourne, Australia",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABlack_Rock_Skink_%28Egernia_saxatilis%29_%288397071247%29.jpg"
+  },
+  {
+    "name": "Common Five-lined Skink",
+    "scientificName": "Plestiodon fasciatus",
+    "path": "animal-photos/approved/3dc70587-4e15-4f59-a246-4ec21390957b.webp",
+    "bytes": 228716,
+    "license": "CC BY 2.0",
+    "creator": "Judy Gallagher",
+    "source": "https://commons.wikimedia.org/wiki/File%3ACommon_Five-lined_Skink_-_Plestiodon_fasciatus%2C_Jackson_Miles_Abbott_Wetlands%2C_Fort_Belvoir%2C_Virginia%2C_July_23%2C_2023_%2853215483108%29.jpg"
+  },
+  {
+    "name": "Viviparous Lizard",
+    "scientificName": "Zootoca vivipara",
+    "path": "animal-photos/approved/b471c37e-8e9e-4ef2-a486-1fdee807b85a.webp",
+    "bytes": 127446,
+    "license": "CC BY-SA 4.0",
+    "creator": "Ocrdu",
+    "source": "https://commons.wikimedia.org/wiki/File:Viviparous_lizard_(Zootoca_vivipara)_in_the_Aamsveen,_The_Netherlands.jpg"
+  },
+  {
+    "name": "Black Banded Gecko",
+    "scientificName": "Coleonyx fasciatus",
+    "path": "animal-photos/approved/b915aa26-40dd-4283-8ce4-d2dec024aa07.webp",
+    "bytes": 249990,
+    "license": "CC BY 4.0",
+    "creator": "Francisco Farriols Sarabia",
+    "source": "https://commons.wikimedia.org/wiki/File%3AColeonyx_fasciatus_61040537.jpg"
+  },
+  {
+    "name": "Chameleon Gecko",
+    "scientificName": "Carphodactylus laevis",
+    "path": "animal-photos/approved/ab5f2016-d5f5-4d69-aa43-4cd509ebdfdb.webp",
+    "bytes": 58094,
+    "license": "CC BY-SA 4.0",
+    "creator": "Wise Lum",
+    "source": "https://commons.wikimedia.org/wiki/File%3AChameleon_Gecko_%28Carphodactylus_laevis%29.jpg"
+  },
+  {
+    "name": "Tyrrhenian Wall Lizard",
+    "scientificName": "Podarcis tiliguerta",
+    "path": "animal-photos/approved/bad1295c-4349-4992-af66-5ef7bdf83e7d.webp",
+    "bytes": 59052,
+    "license": "CC BY 4.0",
+    "creator": "Vinii4238",
+    "source": "https://commons.wikimedia.org/wiki/File%3APodarcis_Tiliguerta_002.jpg"
+  },
+  {
+    "name": "Archey's Frog",
+    "scientificName": "Leiopelma archeyi",
+    "path": "animal-photos/approved/01a21193-6599-463c-a5f0-75b6fe03189d.webp",
+    "bytes": 25578,
+    "license": "CC BY 4.0",
+    "creator": "",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALeiopelma_archeyi_%28AM_LH43-1%29.jpg"
+  },
+  {
+    "name": "Yellow-bellied Toad",
+    "scientificName": "Bombina variegata",
+    "path": "animal-photos/approved/9e1615e2-4fc8-4967-8a3a-baff830fef51.webp",
+    "bytes": 96216,
+    "license": "CC BY-SA 2.0",
+    "creator": "Björn S...",
+    "source": "https://commons.wikimedia.org/wiki/File%3AYellow-bellied_toad_-_Bombina_variegata_%2813972135890%29.jpg"
+  },
+  {
+    "name": "Long-Tailed Clawed Salamander",
+    "scientificName": "Onychodactylus fischeri",
+    "path": "animal-photos/approved/d1644001-d86d-4541-9501-295a873aed2a.webp",
+    "bytes": 147720,
+    "license": "CC BY 4.0",
+    "creator": "Alexander A. Fomichev",
+    "source": "https://commons.wikimedia.org/wiki/File%3AOnychodactylus_fischeri_48747459.jpg"
+  },
+  {
+    "name": "Northern Spectacled Salamander",
+    "scientificName": "Salamandrina perspicillata",
+    "path": "animal-photos/approved/f8556ac8-b536-418a-8a68-0ce22d33f4d6.webp",
+    "bytes": 50404,
+    "license": "CC BY-SA 4.0",
+    "creator": "Bouke ten Cate",
+    "source": "https://commons.wikimedia.org/wiki/File%3ANorthern_spectacled_salamander_%28Salamandrina_perspicillata%29_02.jpg"
+  },
+  {
+    "name": "Southern Torrent Salamander",
+    "scientificName": "Rhyacotriton variegatus",
+    "path": "animal-photos/approved/2ceb333b-e712-4932-9757-1366cb12ba8e.webp",
+    "bytes": 124422,
+    "license": "CC BY-SA 4.0",
+    "creator": "Caudatejake",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARhyacotriton_variegatus2.jpg"
+  },
+  {
+    "name": "Lorestan Newt",
+    "scientificName": "Neurergus kaiseri",
+    "path": "animal-photos/approved/4c0abb14-1b44-490e-80e6-effa0d067394.webp",
+    "bytes": 60180,
+    "license": "CC BY 4.0",
+    "creator": "EvanBaldonado",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALuristan_Newt_%28Neurergus_kaiseri%29_at_the_California_Academy_of_Sciences_01.jpg"
+  },
+  {
+    "name": "Reedfish",
+    "scientificName": "Erpetoichthys calabaricus",
+    "path": "animal-photos/approved/6f4673be-bc9e-4605-b455-e514d1348f60.webp",
+    "bytes": 16282,
+    "license": "CC BY-SA 3.0",
+    "creator": "Michał Zalewski",
+    "source": "https://commons.wikimedia.org/wiki/File:Akwa19_reedfish.jpg"
+  },
+  {
+    "name": "White Sturgeon",
+    "scientificName": "Acipenser transmontanus",
+    "path": "animal-photos/approved/58efac32-123c-4043-9de8-f0937c149da7.webp",
+    "bytes": 20434,
+    "license": "CC BY 2.0",
+    "creator": "Cliff  from Arlington, Virginia, USA",
+    "source": "https://commons.wikimedia.org/wiki/File%3AWhite_Sturgeon_%28Acipenser_transmontanus%29_%287007251148%29.jpg"
+  },
+  {
+    "name": "Lake Sturgeon",
+    "scientificName": "Acipenser fulvescens",
+    "path": "animal-photos/approved/6b315534-8823-4a77-b2ab-152a7184f948.webp",
+    "bytes": 10102,
+    "license": "Public domain",
+    "creator": "USFWS Mountain Prairie",
+    "source": "https://commons.wikimedia.org/wiki/File%3AJuvenile_Acipenser_fulvescens.jpg"
+  },
+  {
+    "name": "Indo-Pacific Tarpon",
+    "scientificName": "Megalops cyprinoides",
+    "path": "animal-photos/approved/cce80cff-99d2-4642-8ceb-3936c2cc4a3e.webp",
+    "bytes": 19010,
+    "license": "Public domain",
+    "creator": "Melanochromis",
+    "source": "https://commons.wikimedia.org/wiki/File:Megalops_cyprinoides2.jpg"
+  },
+  {
+    "name": "Western Sea Bristletail",
+    "scientificName": "Petrobius brevistylis",
+    "path": "animal-photos/approved/dbbf10f2-2c5b-414a-bc72-7a08b4483e00.webp",
+    "bytes": 272824,
+    "license": "CC BY 2.0",
+    "creator": "S. Rae  from Scotland, UK",
+    "source": "https://commons.wikimedia.org/wiki/File%3APetrobius_brevistylis_-_a_shore_bristletail.jpg"
+  },
+  {
+    "name": "Firebrat",
+    "scientificName": "Thermobia domestica",
+    "path": "animal-photos/approved/7862998a-d97c-4bf1-aeda-ee74cf8251bd.webp",
+    "bytes": 22124,
+    "license": "CC BY-SA 4.0",
+    "creator": "Syrio",
+    "source": "https://commons.wikimedia.org/wiki/File%3AThermobia_domestica_Trento_03.jpg"
+  },
+  {
+    "name": "Large Dark Olive",
+    "scientificName": "Baetis rhodani",
+    "path": "animal-photos/approved/9e0ee363-98ac-4270-a236-0ada224cfa1d.webp",
+    "bytes": 71352,
+    "license": "CC BY 2.0",
+    "creator": "Ben Sale  from Stevenage, UK",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABaetis_rhodani_%2852612553371%29.jpg"
+  },
+  {
+    "name": "Pale Watery",
+    "scientificName": "Baetis fuscatus",
+    "path": "animal-photos/approved/92a2b163-34dc-4fef-9aef-f348d8b3af6c.webp",
+    "bytes": 14328,
+    "license": "CC BY 4.0",
+    "creator": "(c) Nasser Halaweh, some rights reserved (CC BY)",
+    "source": "https://commons.wikimedia.org/wiki/File%3APale_Watery_iNaturalist.jpg"
+  },
+  {
+    "name": "Bicolored webspinner",
+    "scientificName": "Haploembia solieri",
+    "path": "animal-photos/approved/82ea9749-7a98-4455-90c1-77cbaf2944bc.webp",
+    "bytes": 34014,
+    "license": "CC BY 4.0",
+    "creator": "Don Loarie",
+    "source": "https://commons.wikimedia.org/wiki/File%3AHaploembia_solieri_in_the_United_States.jpg"
+  },
+  {
+    "name": "Pond Olive",
+    "scientificName": "Cloeon dipterum",
+    "path": "animal-photos/approved/e642c1c1-76c1-4806-a024-aa9737d5bc41.webp",
+    "bytes": 38690,
+    "license": "CC BY-SA 4.0",
+    "creator": "Adrian Tync",
+    "source": "https://commons.wikimedia.org/wiki/File%3ACloeon_dipterum_agg._female_imago_Bytom.jpg"
+  },
+  {
+    "name": "European Green Drake",
+    "scientificName": "Ephemera danica",
+    "path": "animal-photos/approved/2757cb60-acda-422d-a318-85b812a658c2.webp",
+    "bytes": 65796,
+    "license": "CC BY-SA 3.0",
+    "creator": "Siga",
+    "source": "https://commons.wikimedia.org/wiki/File%3AEphemera_danica_male_sub.JPG"
+  },
+  {
+    "name": "Shore Earwig",
+    "scientificName": "Labidura riparia",
+    "path": "animal-photos/approved/a0d31f72-3884-466c-8b18-32ce41daf610.webp",
+    "bytes": 233206,
+    "license": "CC BY 2.0",
+    "creator": "Donald Hobern  from Copenhagen, Denmark",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALabidura_riparia_%2832473773592%29.jpg"
+  },
+  {
+    "name": "German Cockroach",
+    "scientificName": "Blattella germanica",
+    "path": "animal-photos/approved/b2e26249-80be-441b-8648-4c0361892ee0.webp",
+    "bytes": 253088,
+    "license": "CC BY 2.0",
+    "creator": "gailhampshire  from Cradley, Malvern, U.K",
+    "source": "https://commons.wikimedia.org/wiki/File%3AGerman_cockroach_%28Blattella_germanica%29_probably_%2843118262090%29.jpg"
+  },
+  {
+    "name": "American Cockroach",
+    "scientificName": "Periplaneta americana",
+    "path": "animal-photos/approved/04cfa0a6-3c8d-418c-99cb-12fb88c00fe0.webp",
+    "bytes": 121150,
+    "license": "CC BY 2.0",
+    "creator": "LiCheng Shih",
+    "source": "https://commons.wikimedia.org/wiki/File%3APeriplaneta_americana_%2841156203870%29.jpg"
+  },
+  {
+    "name": "Thinlip Mullet",
+    "scientificName": "Chelon ramada",
+    "path": "animal-photos/approved/ead318d0-2ded-4ca5-b263-b9702374a564.webp",
+    "bytes": 190598,
+    "license": "CC BY 4.0",
+    "creator": "etrusko25",
+    "source": "https://commons.wikimedia.org/wiki/File%3AChelon_ramada_Italy.jpg"
+  },
+  {
+    "name": "Alligator Gar",
+    "scientificName": "Atractosteus spatula",
+    "path": "animal-photos/approved/4b878d44-26e1-483e-8ef4-7879da69d1d7.webp",
+    "bytes": 139824,
+    "license": "CC BY-SA 4.0",
+    "creator": "Raf24~commonswiki",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAtractosteus_spatula%2C_GDY.jpg"
+  },
+  {
+    "name": "Castor Bean Tick",
+    "scientificName": "Ixodes ricinus",
+    "path": "animal-photos/approved/27e86f16-d3d8-4e6a-9fb6-13014f5153de.webp",
+    "bytes": 41886,
+    "license": "CC BY-SA 2.0",
+    "creator": "Andy Murray",
+    "source": "https://commons.wikimedia.org/wiki/File%3AIxodes_ricinus_%287009684725%29.jpg"
+  },
+  {
+    "name": "Saddleback Harvestman",
+    "scientificName": "Mitopus morio",
+    "path": "animal-photos/approved/0400219e-04c8-45ae-88f1-e2505fd7aaa5.webp",
+    "bytes": 158984,
+    "license": "CC BY 2.0",
+    "creator": "Kjetil Fjellheim  from Bergen, Norway",
+    "source": "https://commons.wikimedia.org/wiki/File%3AFjellvevkjerring_%28Mitopus_morio%29_%284871315495%29.jpg"
+  },
+  {
+    "name": "European Harvestman",
+    "scientificName": "Phalangium opilio",
+    "path": "animal-photos/approved/05aa1876-bf3a-4c00-b286-1c8178f9c6c9.webp",
+    "bytes": 130278,
+    "license": "CC BY-SA 4.0",
+    "creator": "Didier Descouens",
+    "source": "https://commons.wikimedia.org/wiki/File%3APhalangium_opilio_MHNT_Male.jpg"
+  },
+  {
+    "name": "House Pseudoscorpion",
+    "scientificName": "Chelifer cancroides",
+    "path": "animal-photos/approved/e59382b6-0020-4a03-b4a6-891e47a9a0c4.webp",
+    "bytes": 39152,
+    "license": "CC BY 4.0",
+    "creator": "Claire Moxon-Waltz",
+    "source": "https://commons.wikimedia.org/wiki/File%3AChelifer_cancroides_102105215.jpg"
+  },
+  {
+    "name": "Moon jellyfish",
+    "scientificName": "Aurelia aurita",
+    "path": "animal-photos/approved/f0494167-77f6-46eb-841d-c4cefb683bbd.webp",
+    "bytes": 96860,
+    "license": "CC BY-SA 4.0",
+    "creator": "Gip3798",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAurelia_Aurita.JPG"
+  },
+  {
+    "name": "Beadlet anemone",
+    "scientificName": "Actinia equina",
+    "path": "animal-photos/approved/0f5491a8-5250-427b-8231-6bf71d600e6f.webp",
+    "bytes": 68454,
+    "license": "CC BY 3.0",
+    "creator": "Holger Krisp",
+    "source": "https://commons.wikimedia.org/wiki/File%3APferdeaktinie_Actinia_equina_4.jpg"
+  },
+  {
+    "name": "Hippopotamus",
+    "scientificName": "Hippopotamus amphibius",
+    "path": "animal-photos/approved/Q34505.webp",
+    "bytes": 116736,
+    "license": "CC BY-SA 4.0",
+    "creator": "Muhammad Mahdi Karim",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_Hippopotamus_in_the_water.jpg"
+  },
+  {
+    "name": "Giraffe",
+    "scientificName": "Giraffa camelopardalis",
+    "path": "animal-photos/approved/Q15083.webp",
+    "bytes": 52158,
+    "license": "CC BY-SA 4.0",
+    "creator": "Thomas Fuhrmann",
+    "source": "https://commons.wikimedia.org/wiki/File:Rothschild's_giraffe_(Giraffa_camelopardalis_rothschildi)_-_Murchison_Falls_National_Park.jpg"
+  },
+  {
+    "name": "Raccoon",
+    "scientificName": "Procyon lotor",
+    "path": "animal-photos/approved/Q121439.webp",
+    "bytes": 183786,
+    "license": "CC BY-SA 4.0",
+    "creator": "Rhododendrites",
+    "source": "https://commons.wikimedia.org/wiki/File:Raccoon_in_Central_Park_(35264).jpg"
+  },
+  {
+    "name": "American black bear",
+    "scientificName": "Ursus americanus",
+    "path": "animal-photos/approved/Q122783.webp",
+    "bytes": 84642,
+    "license": "Public domain",
+    "creator": "ShenandoahNPS",
+    "source": "https://commons.wikimedia.org/wiki/File:American_Black_Bear_(44654884305).jpg"
+  },
+  {
+    "name": "Sperm whale",
+    "scientificName": "Physeter macrocephalus",
+    "path": "animal-photos/approved/Q81214.webp",
+    "bytes": 33168,
+    "license": "CC BY-SA 2.0",
+    "creator": "Gabriel Barathieu",
+    "source": "https://commons.wikimedia.org/wiki/File:Mother_and_baby_sperm_whale.jpg"
+  },
+  {
+    "name": "Honey badger",
+    "scientificName": "Mellivora capensis",
+    "path": "animal-photos/approved/Q173128.webp",
+    "bytes": 137936,
+    "license": "CC BY-SA 4.0",
+    "creator": "Gerhard mauracher",
+    "source": "https://commons.wikimedia.org/wiki/File:Honigdachs,_honey_badger_(Mellivora_capensis).jpg"
+  },
+  {
+    "name": "White rhinoceros",
+    "scientificName": "Ceratotherium simum",
+    "path": "animal-photos/approved/Q159918.webp",
+    "bytes": 75942,
+    "license": "CC BY-SA 4.0",
+    "creator": "Payamfarahani",
+    "source": "https://commons.wikimedia.org/wiki/File:White_rhinoceros_africa.jpg"
+  },
+  {
+    "name": "Virginia opossum",
+    "scientificName": "Didelphis virginiana",
+    "path": "animal-photos/approved/Q147267.webp",
+    "bytes": 114070,
+    "license": "CC BY-SA 2.5",
+    "creator": "Cody Pope",
+    "source": "https://commons.wikimedia.org/wiki/File:Opossum_2.jpg"
+  },
+  {
+    "name": "Western gorilla",
+    "scientificName": "Gorilla gorilla",
+    "path": "animal-photos/approved/Q737838.webp",
+    "bytes": 114302,
+    "license": "CC BY-SA 3.0",
+    "creator": "Postdlf",
+    "source": "https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_at_the_Bronx_Zoo_007.jpg"
+  },
+  {
+    "name": "Eastern gray squirrel",
+    "scientificName": "Sciurus carolinensis",
+    "path": "animal-photos/approved/Q468500.webp",
+    "bytes": 176644,
+    "license": "CC BY-SA 4.0",
+    "creator": "Dominic Nelson",
+    "source": "https://commons.wikimedia.org/wiki/File:Grey_squirrel_standing,_Bute_Park,_Cardiff.jpg"
+  },
+  {
+    "name": "Eastern gorilla",
+    "scientificName": "Gorilla beringei",
+    "path": "animal-photos/approved/Q307157.webp",
+    "bytes": 192592,
+    "license": "CC BY-SA 2.0",
+    "creator": "Fiver Löcker  from Wellington, New Zealand",
+    "source": "https://commons.wikimedia.org/wiki/File:Gorillas_in_Uganda-1,_by_Fiver_Löcker.jpg"
+  },
+  {
+    "name": "Least weasel",
+    "scientificName": "Mustela nivalis",
+    "path": "animal-photos/approved/Q25311.webp",
+    "bytes": 93402,
+    "license": "CC BY-SA 2.0",
+    "creator": "Keven Law",
+    "source": "https://commons.wikimedia.org/wiki/File:Mustela_nivalis_-British_Wildlife_Centre-4.jpg"
+  },
+  {
+    "name": "European badger",
+    "scientificName": "Meles meles",
+    "path": "animal-photos/approved/Q27066.webp",
+    "bytes": 124572,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File:European_badger_(Meles_meles_taxus)_Drenthe.jpg"
+  },
+  {
+    "name": "House mouse",
+    "scientificName": "Mus musculus",
+    "path": "animal-photos/approved/Q83310.webp",
+    "bytes": 168490,
+    "license": "CC BY-SA 3.0",
+    "creator": "4028mdk09",
+    "source": "https://commons.wikimedia.org/wiki/File:Maus_außer_Haus.JPG"
+  },
+  {
+    "name": "Eurasian lynx",
+    "scientificName": "Lynx lynx",
+    "path": "animal-photos/approved/Q43375.webp",
+    "bytes": 110090,
+    "license": "CC BY-SA 4.0",
+    "creator": "Noah.schuldt",
+    "source": "https://commons.wikimedia.org/wiki/File:Luchs187.jpg"
+  },
+  {
+    "name": "Red squirrel",
+    "scientificName": "Sciurus vulgaris",
+    "path": "animal-photos/approved/Q4388.webp",
+    "bytes": 138664,
+    "license": "CC BY 2.0",
+    "creator": "Peter Trimming",
+    "source": "https://commons.wikimedia.org/wiki/File:Squirrel_posing.jpg"
+  },
+  {
+    "name": "Stoat",
+    "scientificName": "Mustela erminea",
+    "path": "animal-photos/approved/Q25345.webp",
+    "bytes": 247380,
+    "license": "CC BY-SA 4.0",
+    "creator": "Marton Berntsen , crop by  User:MPF",
+    "source": "https://commons.wikimedia.org/wiki/File:Røyskatt_(Mustela_erminea_erminea),_Lista,_Norway.jpg"
+  },
+  {
+    "name": "Caracal",
+    "scientificName": "Caracal caracal",
+    "path": "animal-photos/approved/Q30847.webp",
+    "bytes": 108872,
+    "license": "CC BY-SA 3.0",
+    "creator": "Leo za1",
+    "source": "https://commons.wikimedia.org/wiki/File:Caracal_Caracal-001.jpg"
+  },
+  {
+    "name": "Red deer",
+    "scientificName": "Cervus elaphus",
+    "path": "animal-photos/approved/Q79794.webp",
+    "bytes": 187950,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_deer_(Cervus_elaphus)_hind.jpg"
+  },
+  {
+    "name": "African buffalo",
+    "scientificName": "Syncerus caffer",
+    "path": "animal-photos/approved/Q160042.webp",
+    "bytes": 300750,
+    "license": "CC BY 2.5",
+    "creator": "Paul M Rae",
+    "source": "https://commons.wikimedia.org/wiki/File:African_Buffalo.JPG"
+  },
+  {
+    "name": "Aardvark",
+    "scientificName": "Orycteropus afer",
+    "path": "animal-photos/approved/Q46212.webp",
+    "bytes": 169990,
+    "license": "CC0",
+    "creator": "Kelly Abram",
+    "source": "https://commons.wikimedia.org/wiki/File:Orycteropus_afer_I.jpg"
+  },
+  {
+    "name": "European wildcat",
+    "scientificName": "Felis silvestris",
+    "path": "animal-photos/approved/Q43576.webp",
+    "bytes": 149944,
+    "license": "CC BY-SA 3.0",
+    "creator": "Lviatour",
+    "source": "https://commons.wikimedia.org/wiki/File:Felis_silvestris_silvestris_Luc_Viatour.jpg"
+  },
+  {
+    "name": "Serval",
+    "scientificName": "Leptailurus serval",
+    "path": "animal-photos/approved/Q42699.webp",
+    "bytes": 252108,
+    "license": "CC BY 4.0",
+    "creator": "datadan",
+    "source": "https://commons.wikimedia.org/wiki/File:Leptailurus_serval_61666728,_crop.jpg"
+  },
+  {
+    "name": "Golden jackal",
+    "scientificName": "Canis aureus",
+    "path": "animal-photos/approved/Q128098.webp",
+    "bytes": 71254,
+    "license": "CC BY-SA 4.0",
+    "creator": "Giles Laurent",
+    "source": "https://commons.wikimedia.org/wiki/File:033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "name": "European rabbit",
+    "scientificName": "Oryctolagus cuniculus",
+    "path": "animal-photos/approved/Q25851.webp",
+    "bytes": 108020,
+    "license": "CC BY-SA 3.0",
+    "creator": "JJ Harrison",
+    "source": "https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Tasmania_2_(cropped).jpg"
+  },
+  {
+    "name": "Bonobo",
+    "scientificName": "Pan paniscus",
+    "path": "animal-photos/approved/Q19537.webp",
+    "bytes": 254146,
+    "license": "CC BY-SA 4.0",
+    "creator": "EdwinAlden.1995",
+    "source": "https://commons.wikimedia.org/wiki/File:Bonobo_at_Nsele_Valley_Park,_Kinshasa,_DR_Congo.jpg"
+  },
+  {
+    "name": "Okapi",
+    "scientificName": "Okapia johnstoni",
+    "path": "animal-photos/approved/Q82037.webp",
+    "bytes": 192126,
+    "license": "CC BY 2.0",
+    "creator": "Alan Eng  from Brussels, Belgium",
+    "source": "https://commons.wikimedia.org/wiki/File:Okapi_and_son.jpg"
+  },
+  {
+    "name": "American bison",
+    "scientificName": "Bison bison",
+    "path": "animal-photos/approved/Q82728.webp",
+    "bytes": 153722,
+    "license": "Public domain",
+    "creator": "Jack Dykinga",
+    "source": "https://commons.wikimedia.org/wiki/File:American_bison_k5680-1.jpg"
+  },
+  {
+    "name": "European pine marten",
+    "scientificName": "Martes martes",
+    "path": "animal-photos/approved/Q26046.webp",
+    "bytes": 78878,
+    "license": "CC BY 2.0",
+    "creator": "caroline legg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pine_Marten_(48173751702).jpg"
+  },
+  {
+    "name": "European bison",
+    "scientificName": "Bison bonasus",
+    "path": "animal-photos/approved/Q81091.webp",
+    "bytes": 183112,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File:European_bison_(Bison_bonasus)_male_Białowieza.jpg"
+  },
+  {
+    "name": "Impala",
+    "scientificName": "Aepyceros melampus",
+    "path": "animal-photos/approved/Q132576.webp",
+    "bytes": 161074,
+    "license": "CC BY 2.0",
+    "creator": "flowcomm",
+    "source": "https://commons.wikimedia.org/wiki/File:Impala,_Chobe_National_Park,_Botswana_(51879018932).jpg"
+  },
+  {
+    "name": "Tasmanian devil",
+    "scientificName": "Sarcophilus harrisii",
+    "path": "animal-photos/approved/Q134964.webp",
+    "bytes": 156418,
+    "license": "CC BY-SA 3.0",
+    "creator": "JJ Harrison  ( https://www.jjharrison.com.au/ )",
+    "source": "https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_taranna.jpg"
+  },
+  {
+    "name": "Ocelot",
+    "scientificName": "Leopardus pardalis",
+    "path": "animal-photos/approved/Q33261.webp",
+    "bytes": 101850,
+    "license": "CC BY-SA 4.0",
+    "creator": "Giles Laurent",
+    "source": "https://commons.wikimedia.org/wiki/File:081_Ocelot_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "name": "Jungle cat",
+    "scientificName": "Felis chaus",
+    "path": "animal-photos/approved/Q42623.webp",
+    "bytes": 217152,
+    "license": "CC BY-SA 3.0",
+    "creator": "L. Shyamal",
+    "source": "https://commons.wikimedia.org/wiki/File:FelisChausMunsiari1.jpg"
+  },
+  {
+    "name": "Pallas's cat",
+    "scientificName": "Otocolobus manul",
+    "path": "animal-photos/approved/Q166794.webp",
+    "bytes": 152202,
+    "license": "CC BY-SA 2.0",
+    "creator": "Winkelbohrer",
+    "source": "https://commons.wikimedia.org/wiki/File:Otocolobus_manul_-Zurich_Zoo-8a.jpg"
+  },
+  {
+    "name": "Asian black bear",
+    "scientificName": "Ursus thibetanus",
+    "path": "animal-photos/approved/Q124410.webp",
+    "bytes": 182930,
+    "license": "CC BY-SA 4.0",
+    "creator": "TarnishedPath",
+    "source": "https://commons.wikimedia.org/wiki/File:Moon_bear_at_Beijing_Wildlife_Park_image_1.jpg"
+  },
+  {
+    "name": "European hare",
+    "scientificName": "Lepus europaeus",
+    "path": "animal-photos/approved/Q26838.webp",
+    "bytes": 124354,
+    "license": "CC BY 2.0",
+    "creator": "caroline legg",
+    "source": "https://commons.wikimedia.org/wiki/File:European_Brown_Hare_(50341079472).jpg"
+  },
+  {
+    "name": "Narwhal",
+    "scientificName": "Monodon monoceros",
+    "path": "animal-photos/approved/Q159426.webp",
+    "bytes": 35782,
+    "license": "CC BY-SA 4.0",
+    "creator": "пресс-служба ПАО \"Газпром нефть\"",
+    "source": "https://commons.wikimedia.org/wiki/File:Нарвал_в_российской_Арктике.jpg"
+  },
+  {
+    "name": "Dhole",
+    "scientificName": "Cuon alpinus",
+    "path": "animal-photos/approved/Q132585.webp",
+    "bytes": 178522,
+    "license": "CC BY-SA 4.0",
+    "creator": "Davidvraju",
+    "source": "https://commons.wikimedia.org/wiki/File:Dhole_(Asiatic_wild_dog)_cropped.jpg"
+  },
+  {
+    "name": "European fallow deer",
+    "scientificName": "Dama dama",
+    "path": "animal-photos/approved/Q159857.webp",
+    "bytes": 106906,
+    "license": "CC BY-SA 2.0",
+    "creator": "Johann-Nikolaus Andreae",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallow_deer_in_field.jpg"
+  },
+  {
+    "name": "Beluga whale",
+    "scientificName": "Delphinapterus leucas",
+    "path": "animal-photos/approved/Q132072.webp",
+    "bytes": 157556,
+    "license": "CC BY-SA 2.5",
+    "creator": "Ansgar Walk",
+    "source": "https://commons.wikimedia.org/wiki/File:Beluga_1_1999-07-03_cropped.jpg"
+  },
+  {
+    "name": "Muskox",
+    "scientificName": "Ovibos moschatus",
+    "path": "animal-photos/approved/Q184004.webp",
+    "bytes": 203582,
+    "license": "CC BY-SA 3.0",
+    "creator": "Quartl",
+    "source": "https://commons.wikimedia.org/wiki/File:Ovibos_moschatus_qtl3.jpg"
+  },
+  {
+    "name": "Black rhinoceros",
+    "scientificName": "Diceros bicornis",
+    "path": "animal-photos/approved/Q95036.webp",
+    "bytes": 125430,
+    "license": "CC BY-SA 3.0",
+    "creator": "Yathin S Krishnappa",
+    "source": "https://commons.wikimedia.org/wiki/File:2012_Black_Rhinoceros_Gemsbokvlakte.jpg"
+  },
+  {
+    "name": "Sand cat",
+    "scientificName": "Felis margarita",
+    "path": "animal-photos/approved/Q175329.webp",
+    "bytes": 68384,
+    "license": "CC BY-SA 3.0",
+    "creator": "Greg Hume",
+    "source": "https://commons.wikimedia.org/wiki/File:SandCat12.jpg"
+  },
+  {
+    "name": "Chamois",
+    "scientificName": "Rupicapra rupicapra",
+    "path": "animal-photos/approved/Q131340.webp",
+    "bytes": 46798,
+    "license": "CC BY-SA 4.0",
+    "creator": "Giles Laurent",
+    "source": "https://commons.wikimedia.org/wiki/File:064_Wild_Chamois_Parc_régional_Chasseral_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "name": "Leopard cat",
+    "scientificName": "Prionailurus bengalensis",
+    "path": "animal-photos/approved/Q42627.webp",
+    "bytes": 192796,
+    "license": "CC BY-SA 4.0",
+    "creator": "Soumyajit Nandy",
+    "source": "https://commons.wikimedia.org/wiki/File:Close-up_of_a_Leopard_Cat_in_Sundarban.jpg"
+  },
+  {
+    "name": "Eurasian beaver",
+    "scientificName": "Castor fiber",
+    "path": "animal-photos/approved/Q181191.webp",
+    "bytes": 76786,
+    "license": "CC BY-SA 3.0",
+    "creator": "Per Harald Olsen",
+    "source": "https://commons.wikimedia.org/wiki/File:Beaver_pho34.jpg"
+  },
+  {
+    "name": "Clouded leopard",
+    "scientificName": "Neofelis nebulosa",
+    "path": "animal-photos/approved/Q36135.webp",
+    "bytes": 160226,
+    "license": "CC BY-SA 3.0",
+    "creator": "Lee Elvin",
+    "source": "https://commons.wikimedia.org/wiki/File:Clouded_Leopard_(205918213).jpeg"
+  },
+  {
+    "name": "European hedgehog",
+    "scientificName": "Erinaceus europaeus",
+    "path": "animal-photos/approved/Q6145.webp",
+    "bytes": 178614,
+    "license": "CC BY-SA 3.0",
+    "creator": "Michael Gäbler",
+    "source": "https://commons.wikimedia.org/wiki/File:Erinaceus_europaeus_(Linnaeus,_1758).jpg"
+  },
+  {
+    "name": "Guanaco",
+    "scientificName": "Lama guanicoe",
+    "path": "animal-photos/approved/Q172886.webp",
+    "bytes": 236790,
+    "license": "CC BY-SA 4.0",
+    "creator": "Sanjay Acharya",
+    "source": "https://commons.wikimedia.org/wiki/File:Guanaco_at_SF_Zoo.jpg"
+  },
+  {
+    "name": "Common raccoon dog",
+    "scientificName": "Nyctereutes procyonoides",
+    "path": "animal-photos/approved/Q133189.webp",
+    "bytes": 181756,
+    "license": "CC BY-SA 3.0",
+    "creator": "Доктор рукиноги",
+    "source": "https://commons.wikimedia.org/wiki/File:Енотовидная_собака_Гродно_(cropped_2).jpg"
+  },
+  {
+    "name": "Dugong",
+    "scientificName": "Dugong dugon",
+    "path": "animal-photos/approved/Q129544.webp",
+    "bytes": 172766,
+    "license": "CC BY-SA 3.0",
+    "creator": "Julien Willem",
+    "source": "https://commons.wikimedia.org/wiki/File:Dugong_Marsa_Alam.jpg"
+  },
+  {
+    "name": "Elk",
+    "scientificName": "Cervus canadensis",
+    "path": "animal-photos/approved/Q180404.webp",
+    "bytes": 264608,
+    "license": "CC0",
+    "creator": "Membeth",
+    "source": "https://commons.wikimedia.org/wiki/File:Jasper.Wapiti-Hirsch.P1033401.jpg"
+  },
+  {
+    "name": "Brown rat",
+    "scientificName": "Rattus norvegicus",
+    "path": "animal-photos/approved/Q184224.webp",
+    "bytes": 73610,
+    "license": "CC BY-SA 4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File:Brown_rat_(Rattus_norvegicus)_Drenthe_2.jpg"
+  },
+  {
+    "name": "Iberian lynx",
+    "scientificName": "Lynx pardinus",
+    "path": "animal-photos/approved/Q129727.webp",
+    "bytes": 121740,
+    "license": "CC BY-SA 4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File:Lince_ibérico_(Lynx_pardinus),_Almuradiel,_Ciudad_Real,_España,_2021-12-19,_DD_07.jpg"
+  },
+  {
+    "name": "Sun bear",
+    "scientificName": "Helarctos malayanus",
+    "path": "animal-photos/approved/Q144923.webp",
+    "bytes": 199596,
+    "license": "CC BY 4.0",
+    "creator": "Jan Ebr",
+    "source": "https://commons.wikimedia.org/wiki/File:Helarctos_malayanus_malayanus_245798442.jpg"
+  },
+  {
+    "name": "Saiga antelope",
+    "scientificName": "Saiga tatarica",
+    "path": "animal-photos/approved/Q126683.webp",
+    "bytes": 27958,
+    "license": "CC BY-SA 4.0",
+    "creator": "Dildakhmet",
+    "source": "https://commons.wikimedia.org/wiki/File:Saiga_tatarica,_Bokeiorda_Reserve,_Kazakhstan_DIL00119.jpg"
+  },
+  {
+    "name": "Vicuña",
+    "scientificName": "Vicugna vicugna",
+    "path": "animal-photos/approved/Q167797.webp",
+    "bytes": 111820,
+    "license": "CC BY-SA 3.0",
+    "creator": "Alexandre Buisse ( Nattfodd )",
+    "source": "https://commons.wikimedia.org/wiki/File:Vicunacrop.jpg"
+  },
+  {
+    "name": "Spotted hyena",
+    "scientificName": "Crocuta crocuta",
+    "path": "animal-photos/approved/Q178089.webp",
+    "bytes": 228010,
+    "license": "CC BY-SA 4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiena_manchada_(Crocuta_crocuta),_parque_nacional_Kruger,_Sudáfrica,_2018-07-26,_DD_22.jpg"
+  },
+  {
+    "name": "Indian rhinoceros",
+    "scientificName": "Rhinoceros unicornis",
+    "path": "animal-photos/approved/Q47910.webp",
+    "bytes": 156298,
+    "license": "CC BY-SA 4.0",
+    "creator": "Aditya Pal",
+    "source": "https://commons.wikimedia.org/wiki/File:Greater_one-horned_rhinoceros_at_Chitwan.jpg"
+  },
+  {
+    "name": "Rhesus macaque",
+    "scientificName": "Macaca mulatta",
+    "path": "animal-photos/approved/Q156606.webp",
+    "bytes": 78072,
+    "license": "CC BY-SA 4.0",
+    "creator": "Giles Laurent",
+    "source": "https://commons.wikimedia.org/wiki/File:112_Baby_rhesus_macaque_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "name": "Canada lynx",
+    "scientificName": "Lynx canadensis",
+    "path": "animal-photos/approved/Q146457.webp",
+    "bytes": 75830,
+    "license": "CC BY-SA 3.0",
+    "creator": "Michael Zahra",
+    "source": "https://commons.wikimedia.org/wiki/File:Canada_lynx_by_Michael_Zahra.jpg"
+  },
+  {
+    "name": "Nutria",
+    "scientificName": "Myocastor coypus",
+    "path": "animal-photos/approved/Q187704.webp",
+    "bytes": 100278,
+    "license": "CC BY-SA 3.0",
+    "creator": "Philippe Amelant",
+    "source": "https://commons.wikimedia.org/wiki/File:Myocastor_coypus_-_ragondin.jpg"
+  },
+  {
+    "name": "American mink",
+    "scientificName": "Neogale vison",
+    "path": "animal-photos/approved/Q27179.webp",
+    "bytes": 47200,
+    "license": "CC BY-SA 3.0",
+    "creator": "Patrick Reijnders",
+    "source": "https://commons.wikimedia.org/wiki/File:American_Mink.jpg"
+  },
+  {
+    "name": "Blackbuck",
+    "scientificName": "Antilope cervicapra",
+    "path": "animal-photos/approved/Q183339.webp",
+    "bytes": 99094,
+    "license": "CC BY-SA 4.0",
+    "creator": "Sagar735",
+    "source": "https://commons.wikimedia.org/wiki/File:BlackBuck.jpg"
+  },
+  {
+    "name": "Springbok",
+    "scientificName": "Antidorcas marsupialis",
+    "path": "animal-photos/approved/Q213084.webp",
+    "bytes": 86538,
+    "license": "CC BY-SA 3.0",
+    "creator": "Yathin S Krishnappa",
+    "source": "https://commons.wikimedia.org/wiki/File:Antidorcas_marsupialis,_female_(Etosha,_2012).jpg"
+  },
+  {
+    "name": "Fishing cat",
+    "scientificName": "Prionailurus viverrinus",
+    "path": "animal-photos/approved/Q190674.webp",
+    "bytes": 92920,
+    "license": "CC BY 2.0",
+    "creator": "Kelinahandbasket",
+    "source": "https://commons.wikimedia.org/wiki/File:Prionailurus_viverrinus_01.jpg"
+  },
+  {
+    "name": "Wild goat",
+    "scientificName": "Capra aegagrus",
+    "path": "animal-photos/approved/Q178228.webp",
+    "bytes": 308750,
+    "license": "CC BY-SA 4.0",
+    "creator": "Alexander Malkhasyan",
+    "source": "https://commons.wikimedia.org/wiki/File:6_Bezoar_Goat.jpg"
+  },
+  {
+    "name": "Sika deer",
+    "scientificName": "Cervus nippon",
+    "path": "animal-photos/approved/Q190516.webp",
+    "bytes": 319928,
+    "license": "CC BY-SA 3.0",
+    "creator": "Altaileopard ; modified by  Wildfeuer",
+    "source": "https://commons.wikimedia.org/wiki/File:Cervus_nippon_dybowski_Solo.jpg"
+  },
+  {
+    "name": "Sumatran rhinoceros",
+    "scientificName": "Dicerorhinus sumatrensis",
+    "path": "animal-photos/approved/Q29220.webp",
+    "bytes": 268068,
+    "license": "CC BY 2.0",
+    "creator": "Charles W. Hardin",
+    "source": "https://commons.wikimedia.org/wiki/File:Sumatran_Rhino_2.jpg"
+  },
+  {
+    "name": "Harbor seal",
+    "scientificName": "Phoca vitulina",
+    "path": "animal-photos/approved/Q26913.webp",
+    "bytes": 87818,
+    "license": "CC BY-SA 2.5",
+    "creator": "Andreas Trepte",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_Seal_Phoca_vitulina.jpg"
+  },
+  {
+    "name": "Alpine ibex",
+    "scientificName": "Capra ibex",
+    "path": "animal-photos/approved/Q168327.webp",
+    "bytes": 95764,
+    "license": "CC BY-SA 4.0",
+    "creator": "Ibex73",
+    "source": "https://commons.wikimedia.org/wiki/File:Bouquetin_en_Vanoise,_été_2023_03.jpg"
+  },
+  {
+    "name": "Spectacled bear",
+    "scientificName": "Tremarctos ornatus",
+    "path": "animal-photos/approved/Q137641.webp",
+    "bytes": 41304,
+    "license": "CC0",
+    "creator": "Escarabajo Lunar",
+    "source": "https://commons.wikimedia.org/wiki/File:Zoológico_Paraguaná_-_Oso_frontino_Pacheco.jpg"
+  },
+  {
+    "name": "Sloth bear",
+    "scientificName": "Melursus ursinus",
+    "path": "animal-photos/approved/Q145016.webp",
+    "bytes": 208420,
+    "license": "CC BY-SA 4.0",
+    "creator": "Saumitra Newalkar",
+    "source": "https://commons.wikimedia.org/wiki/File:SlothBear.jpg"
+  },
+  {
+    "name": "Common ostrich",
+    "scientificName": "Struthio camelus",
+    "path": "animal-photos/approved/Q17592.webp",
+    "bytes": 92284,
+    "license": "CC BY-SA 2.0",
+    "creator": "Lip Kee  from Singapore, Republic of Singapore",
+    "source": "https://commons.wikimedia.org/wiki/File:North_African_Ostrich_-_Masai_Ostrich_(Struthio_camelus_massaicus)_-_Flickr_-_Lip_Kee.jpg"
+  },
+  {
+    "name": "House sparrow",
+    "scientificName": "Passer domesticus",
+    "path": "animal-photos/approved/Q14683.webp",
+    "bytes": 56712,
+    "license": "CC BY-SA 4.0",
+    "creator": "Rhododendrites",
+    "source": "https://commons.wikimedia.org/wiki/File:House_sparrow_male_in_Prospect_Park_(53532).jpg"
+  },
+  {
+    "name": "Common blackbird",
+    "scientificName": "Turdus merula",
+    "path": "animal-photos/approved/Q25234.webp",
+    "bytes": 74312,
+    "license": "CC0",
+    "creator": "Hobbyfotowiki",
+    "source": "https://commons.wikimedia.org/wiki/File:Amselmännchen_der_Unterart_T._m._azorensis_auf_Terceira.jpg"
+  },
+  {
+    "name": "Eurasian golden oriole",
+    "scientificName": "Oriolus oriolus",
+    "path": "animal-photos/approved/Q25388.webp",
+    "bytes": 70818,
+    "license": "CC BY 2.0",
+    "creator": "Michel Idre  from Plaisance du Touch, France",
+    "source": "https://commons.wikimedia.org/wiki/File:Loriot_d'Europe_by_Michel_Idre.jpg"
+  },
+  {
+    "name": "White wagtail",
+    "scientificName": "Motacilla alba",
+    "path": "animal-photos/approved/Q25399.webp",
+    "bytes": 64906,
+    "license": "CC BY 2.0",
+    "creator": "Jac. Janssen  from BAARLO LB, NL",
+    "source": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_(40785272624).jpg"
+  },
+  {
+    "name": "Common starling",
+    "scientificName": "Sturnus vulgaris",
+    "path": "animal-photos/approved/Q25469.webp",
+    "bytes": 93170,
+    "license": "CC BY-SA 2.0",
+    "creator": "marsupium photography",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_Starling,_Blyth_(12598795653).jpg"
+  },
+  {
+    "name": "Eurasian jay",
+    "scientificName": "Garrulus glandarius",
+    "path": "animal-photos/approved/Q25354.webp",
+    "bytes": 48724,
+    "license": "CC BY-SA 3.0",
+    "creator": "Luc Viatour",
+    "source": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg"
+  },
+  {
+    "name": "Grey heron",
+    "scientificName": "Ardea cinerea",
+    "path": "animal-photos/approved/Q25273.webp",
+    "bytes": 198014,
+    "license": "CC BY 2.0",
+    "creator": "Bengt Nyman  from Vaxholm, Sweden",
+    "source": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_EM1A2714_(27349354381).jpg"
+  },
+  {
+    "name": "Great tit",
+    "scientificName": "Parus major",
+    "path": "animal-photos/approved/Q25485.webp",
+    "bytes": 44306,
+    "license": "CC BY 2.0",
+    "creator": "Frank Vassen  from Brussels, Belgium",
+    "source": "https://commons.wikimedia.org/wiki/File:Great_tit_(Parus_major),_Parc_de_Woluwé,_Brussels_(13042792905).jpg"
+  },
+  {
+    "name": "Barn swallow",
+    "scientificName": "Hirundo rustica",
+    "path": "animal-photos/approved/Q25429.webp",
+    "bytes": 88518,
+    "license": "CC BY-SA 3.0",
+    "creator": "Morhaf Aljanee",
+    "source": "https://commons.wikimedia.org/wiki/File:Barn_Swallow_(95504589).jpeg"
+  },
+  {
+    "name": "White stork",
+    "scientificName": "Ciconia ciconia",
+    "path": "animal-photos/approved/Q25352.webp",
+    "bytes": 23764,
+    "license": "CC BY-SA 3.0",
+    "creator": "Carlos Delgado",
+    "source": "https://commons.wikimedia.org/wiki/File:Ciconia_ciconia_-_01.jpg"
+  },
+  {
+    "name": "Great cormorant",
+    "scientificName": "Phalacrocorax carbo",
+    "path": "animal-photos/approved/Q25440.webp",
+    "bytes": 98284,
+    "license": "CC BY-SA 4.0",
+    "creator": "MPF",
+    "source": "https://commons.wikimedia.org/wiki/File:2021-05-05_Phalacrocorax_carbo_carbo,_Killingworth_Lake,_Northumberland_1-2.jpg"
+  },
+  {
+    "name": "Common kestrel",
+    "scientificName": "Falco tinnunculus",
+    "path": "animal-photos/approved/Q26490.webp",
+    "bytes": 97114,
+    "license": "CC BY-SA 4.0",
+    "creator": "Ruipa",
+    "source": "https://commons.wikimedia.org/wiki/File:Barbusano-_Ponta_São_lourenço-_Casa_Sardinha_Jun._2017_(22).jpg"
+  },
+  {
+    "name": "Eurasian sparrowhawk",
+    "scientificName": "Accipiter nisus",
+    "path": "animal-photos/approved/Q25380.webp",
+    "bytes": 104116,
+    "license": "Public domain",
+    "creator": "YCapelle",
+    "source": "https://commons.wikimedia.org/wiki/File:Accipiter_nisus_117.jpg"
+  },
+  {
+    "name": "Greylag goose",
+    "scientificName": "Anser anser",
+    "path": "animal-photos/approved/Q25882.webp",
+    "bytes": 109960,
+    "license": "CC BY-SA 4.0",
+    "creator": "W. Bulach",
+    "source": "https://commons.wikimedia.org/wiki/File:00_3688_Graugans_(Anser_anser).jpg"
+  },
+  {
+    "name": "European goldfinch",
+    "scientificName": "Carduelis carduelis",
+    "path": "animal-photos/approved/Q25418.webp",
+    "bytes": 86114,
+    "license": "CC BY-SA 3.0",
+    "creator": "Pierre Dalous",
+    "source": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_(2012).jpg"
+  },
+  {
+    "name": "Western barn owl",
+    "scientificName": "Tyto alba",
+    "path": "animal-photos/approved/Q25317.webp",
+    "bytes": 104000,
+    "license": "CC BY-SA 4.0",
+    "creator": "User:Alun Williams333",
+    "source": "https://commons.wikimedia.org/wiki/File:Tyto_alba_tylluan_wen_detail.jpg"
+  },
+  {
+    "name": "Eurasian coot",
+    "scientificName": "Fulica atra",
+    "path": "animal-photos/approved/Q25376.webp",
+    "bytes": 111724,
+    "license": "CC BY-SA 3.0",
+    "creator": "Noodle snacks",
+    "source": "https://commons.wikimedia.org/wiki/File:Eurasian_Coot.jpg"
+  },
+  {
+    "name": "Common crane",
+    "scientificName": "Grus grus",
+    "path": "animal-photos/approved/Q4764.webp",
+    "bytes": 170314,
+    "license": "CC BY-SA 4.0",
+    "creator": "Andreas Eichler",
+    "source": "https://commons.wikimedia.org/wiki/File:2017.07.04.-01-Wendisch_Rietz--Kranich.jpg"
+  },
+  {
+    "name": "Rook",
+    "scientificName": "Corvus frugilegus",
+    "path": "animal-photos/approved/Q25386.webp",
+    "bytes": 98134,
+    "license": "CC BY 2.0",
+    "creator": "Brian Snelson  from Hockley, Essex, England",
+    "source": "https://commons.wikimedia.org/wiki/File:Corvus_frugilegus_-Dartmoor,_Devon,_England-8.jpg"
+  },
+  {
+    "name": "Northern pintail",
+    "scientificName": "Anas acuta",
+    "path": "animal-photos/approved/Q25450.webp",
+    "bytes": 84454,
+    "license": "CC BY-SA 4.0",
+    "creator": "Frank Schulenburg",
+    "source": "https://commons.wikimedia.org/wiki/File:Male_northern_pintail_at_Llano_Seco.jpg"
+  },
+  {
+    "name": "Northern lapwing",
+    "scientificName": "Vanellus vanellus",
+    "path": "animal-photos/approved/Q25392.webp",
+    "bytes": 93418,
+    "license": "CC BY-SA 2.5",
+    "creator": "Andreas Trepte",
+    "source": "https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg"
+  },
+  {
+    "name": "Eurasian tree sparrow",
+    "scientificName": "Passer montanus",
+    "path": "animal-photos/approved/Q25968.webp",
+    "bytes": 51750,
+    "license": "CC BY-SA 4.0",
+    "creator": "Yiwenyiwen",
+    "source": "https://commons.wikimedia.org/wiki/File:Eurasian_Tree_Sparrow.jpg"
+  },
+  {
+    "name": "Black kite",
+    "scientificName": "Milvus migrans",
+    "path": "animal-photos/approved/Q80362.webp",
+    "bytes": 27638,
+    "license": "CC BY-SA 2.5",
+    "creator": "Thomas Kraft ( ThKraft )",
+    "source": "https://commons.wikimedia.org/wiki/File:Milvus_migrans_front(ThKraft).jpg"
+  },
+  {
+    "name": "Common nightingale",
+    "scientificName": "Luscinia megarhynchos",
+    "path": "animal-photos/approved/Q25393.webp",
+    "bytes": 66966,
+    "license": "CC BY-SA 4.0",
+    "creator": "Արարատ Թրվանց",
+    "source": "https://commons.wikimedia.org/wiki/File:Հարավային_սոխակ.jpg"
+  },
+  {
+    "name": "Indian peafowl",
+    "scientificName": "Pavo cristatus",
+    "path": "animal-photos/approved/Q61865.webp",
+    "bytes": 124854,
+    "license": "CC BY-SA 4.0",
+    "creator": "Praveenp",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_Peacock_in_Tholpetty_Wildlife_Sanctuary_01.JPG"
+  },
+  {
+    "name": "Eurasian bullfinch",
+    "scientificName": "Pyrrhula pyrrhula",
+    "path": "animal-photos/approved/Q25382.webp",
+    "bytes": 58608,
+    "license": "CC BY-SA 3.0",
+    "creator": "Francis Franklin",
+    "source": "https://commons.wikimedia.org/wiki/File:Bullfinch_male.jpg"
+  },
+  {
+    "name": "Little grebe",
+    "scientificName": "Tachybaptus ruficollis",
+    "path": "animal-photos/approved/Q25421.webp",
+    "bytes": 92604,
+    "license": "CC BY-SA 4.0",
+    "creator": "Zeynel Cebeci",
+    "source": "https://commons.wikimedia.org/wiki/File:Little_Grebe_-_Tachybaptus_ruficollis_15-1.jpg"
+  },
+  {
+    "name": "Adder",
+    "scientificName": "Vipera berus",
+    "path": "animal-photos/approved/Q192056.webp",
+    "bytes": 266538,
+    "license": "CC BY 3.0",
+    "creator": "Benny Trapp",
+    "source": "https://commons.wikimedia.org/wiki/File:Benny_Trapp_Vipera_berus.jpg"
+  },
+  {
+    "name": "Grass snake",
+    "scientificName": "Natrix natrix",
+    "path": "animal-photos/approved/Q170713.webp",
+    "bytes": 172394,
+    "license": "CC BY-SA 4.0",
+    "creator": "Andreas Eichler",
+    "source": "https://commons.wikimedia.org/wiki/File:2017.07.17.-17-Tiefer_See_oder_Grubensee-Storkow_(Mark)--Ringelnatter.jpg"
+  },
+  {
+    "name": "Common slow worm",
+    "scientificName": "Anguis fragilis",
+    "path": "animal-photos/approved/Q183660.webp",
+    "bytes": 70428,
+    "license": "CC BY-SA 3.0",
+    "creator": "Unknown author",
+    "source": "https://commons.wikimedia.org/wiki/File:Anguidae.jpg"
+  },
+  {
+    "name": "Leatherback sea turtle",
+    "scientificName": "Dermochelys coriacea",
+    "path": "animal-photos/approved/Q120043.webp",
+    "bytes": 154158,
+    "license": "CC BY 4.0",
+    "creator": "Julien Renoult",
+    "source": "https://commons.wikimedia.org/wiki/File:Dermochelys_coriacea_-_Julien_Renoult_-_12981952.jpeg"
+  },
+  {
+    "name": "Boa constrictor",
+    "scientificName": "Boa constrictor",
+    "path": "animal-photos/approved/Q215388.webp",
+    "bytes": 175972,
+    "license": "CC BY-SA 4.0",
+    "creator": "I would appreciate  being notified  if you use my work outside Wikimedia.\n Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please  contact me  to negotiate terms.\n \nMore of my work can be found in my  personal gallery .",
+    "source": "https://commons.wikimedia.org/wiki/File:Boa_constrictor,_Vaňkovka,_Brno_(2).jpg"
+  },
+  {
+    "name": "Hawksbill sea turtle",
+    "scientificName": "Eretmochelys imbricata",
+    "path": "animal-photos/approved/Q203538.webp",
+    "bytes": 120128,
+    "license": "CC BY-SA 4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File:Tortuga_carey_(Eretmochelys_imbricata),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-28,_DD_56.jpg"
+  },
+  {
+    "name": "Mugger crocodile",
+    "scientificName": "Crocodylus palustris",
+    "path": "animal-photos/approved/Q81207.webp",
+    "bytes": 330960,
+    "license": "CC BY-SA 2.0",
+    "creator": "Karunakar Rayker  from India",
+    "source": "https://commons.wikimedia.org/wiki/File:Marsh_crocodile_-_Basking_in_the_sun.jpg"
+  },
+  {
+    "name": "Smooth snake",
+    "scientificName": "Coronella austriaca",
+    "path": "animal-photos/approved/Q208648.webp",
+    "bytes": 176240,
+    "license": "CC BY-SA 3.0",
+    "creator": "Christian Fischer",
+    "source": "https://commons.wikimedia.org/wiki/File:CoronellaAustriaca1.jpg"
+  },
+  {
+    "name": "European pond turtle",
+    "scientificName": "Emys orbicularitosa",
+    "path": "animal-photos/approved/Q187036.webp",
+    "bytes": 77504,
+    "license": "CC BY-SA 4.0",
+    "creator": "Christian Ursilva  from København, Danmark",
+    "source": "https://commons.wikimedia.org/wiki/File:Emys_orbicularis_by_Christian_Ursilva.jpg"
+  },
+  {
+    "name": "Marine iguana",
+    "scientificName": "Amblyrhynchus cristatus",
+    "path": "animal-photos/approved/Q208796.webp",
+    "bytes": 113478,
+    "license": "CC BY-SA 4.0",
+    "creator": "Sodacan",
+    "source": "https://commons.wikimedia.org/wiki/File:Marine_Iguana_(Amblyrhynchus_cristatus)_feeding_underwater_off_Fernandina_Island,_Galápagos_Islands.jpg"
+  },
+  {
+    "name": "Fire salamander",
+    "scientificName": "Salamandra salamandra",
+    "path": "animal-photos/approved/Q26395.webp",
+    "bytes": 51306,
+    "license": "CC BY-SA 3.0",
+    "creator": "LorikNov",
+    "source": "https://commons.wikimedia.org/wiki/File:Саламандра.JPG"
+  },
+  {
+    "name": "Common toad",
+    "scientificName": "Bufo bufo",
+    "path": "animal-photos/approved/Q146375.webp",
+    "bytes": 140830,
+    "license": "CC BY-SA 3.0",
+    "creator": "Taka",
+    "source": "https://commons.wikimedia.org/wiki/File:Bufo_bufo_2_(2005_07_11).jpg"
+  },
+  {
+    "name": "Common frog",
+    "scientificName": "Rana temporaria",
+    "path": "animal-photos/approved/Q27465.webp",
+    "bytes": 146182,
+    "license": "CC BY-SA 2.5",
+    "creator": "Richard Bartz , Munich aka  Makro Freak   Image:MFB.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:European_Common_Frog_Rana_temporaria.jpg"
+  },
+  {
+    "name": "Marsh frog",
+    "scientificName": "Pelophylax ridibundus",
+    "path": "animal-photos/approved/Q319393.webp",
+    "bytes": 132854,
+    "license": "CC BY-SA 3.0",
+    "creator": "Christian Fischer",
+    "source": "https://commons.wikimedia.org/wiki/File:RanaRidibundaFemale.jpg"
+  },
+  {
+    "name": "Smooth newt",
+    "scientificName": "Lissotriton vulgaris",
+    "path": "animal-photos/approved/Q215247.webp",
+    "bytes": 191978,
+    "license": "CC BY-SA 2.5",
+    "creator": "Piet Spaans  Viridiflavus  21:50, 10 April 2007 (UTC)",
+    "source": "https://commons.wikimedia.org/wiki/File:LissotritonVulgarisMaleWater.JPG"
+  },
+  {
+    "name": "Common carp",
+    "scientificName": "Cyprinus carpio",
+    "path": "animal-photos/approved/Q81110.webp",
+    "bytes": 115138,
+    "license": "CC BY-SA 4.0",
+    "creator": "Meine Mutter (Erlaubnis liegt vor)",
+    "source": "https://commons.wikimedia.org/wiki/File:2018-04-04_Wildpark_Güstrow_02.jpg"
+  },
+  {
+    "name": "European eel",
+    "scientificName": "Anguilla anguilla",
+    "path": "animal-photos/approved/Q26387.webp",
+    "bytes": 173720,
+    "license": "CC BY 3.0",
+    "creator": "David Perez",
+    "source": "https://commons.wikimedia.org/wiki/File:Anguilla_anguilla_01_by-dpc_(cropped).jpg"
+  },
+  {
+    "name": "Tench",
+    "scientificName": "Tinca tinca",
+    "path": "animal-photos/approved/Q76280.webp",
+    "bytes": 74502,
+    "license": "CC BY-SA 4.0",
+    "creator": "Mattia Nocciola",
+    "source": "https://commons.wikimedia.org/wiki/File:Tinca_tinca_Natural_History_Museum_University_of_Pisa.jpg"
+  },
+  {
+    "name": "Burbot",
+    "scientificName": "Lota lota",
+    "path": "animal-photos/approved/Q144700.webp",
+    "bytes": 75400,
+    "license": "CC BY-SA 3.0",
+    "creator": "Unknown author",
+    "source": "https://commons.wikimedia.org/wiki/File:Trüsche_Walchensee.jpg"
+  },
+  {
+    "name": "Electric eel",
+    "scientificName": "Electrophorus electricus",
+    "path": "animal-photos/approved/Q201235.webp",
+    "bytes": 154170,
+    "license": "CC BY-SA 3.0",
+    "creator": "Steven G. Johnson",
+    "source": "https://commons.wikimedia.org/wiki/File:Electric-eel.jpg"
+  },
+  {
+    "name": "Common roach",
+    "scientificName": "Rutilus rutilus",
+    "path": "animal-photos/approved/Q182976.webp",
+    "bytes": 142834,
+    "license": "CC BY-SA 3.0",
+    "creator": "Creator: Ullrich Mühlhoff Uploader:  Cornelius Herget",
+    "source": "https://commons.wikimedia.org/wiki/File:Blausteinsee_Tierwelt_03.jpg"
+  },
+  {
+    "name": "Grass carp",
+    "scientificName": "Ctenopharyngodon idella",
+    "path": "animal-photos/approved/Q76098.webp",
+    "bytes": 150660,
+    "license": "CC BY-SA 3.0",
+    "creator": "Rainer Lück  http://1RL.de",
+    "source": "https://commons.wikimedia.org/wiki/File:Ctenopharyngodon_idella_-_Murg_IMGP0837.JPG"
+  },
+  {
+    "name": "European seabass",
+    "scientificName": "Dicentrarchus labrax",
+    "path": "animal-photos/approved/Q217129.webp",
+    "bytes": 173428,
+    "license": "CC BY 4.0",
+    "creator": "Julien Renoult",
+    "source": "https://commons.wikimedia.org/wiki/File:Dicentrarchus_labrax_177025102.jpg"
+  },
+  {
+    "name": "Siamese fighting fish",
+    "scientificName": "Betta splendens",
+    "path": "animal-photos/approved/Q549.webp",
+    "bytes": 209056,
+    "license": "CC BY 4.0",
+    "creator": "Henryk Niestrój",
+    "source": "https://commons.wikimedia.org/wiki/File:Bojownik_syjamski.jpg"
+  },
+  {
+    "name": "Basking shark",
+    "scientificName": "Cetorhinus maximus",
+    "path": "animal-photos/approved/Q185260.webp",
+    "bytes": 26038,
+    "license": "Public domain",
+    "creator": "Unknown author",
+    "source": "https://commons.wikimedia.org/wiki/File:Basking_Shark.jpg"
+  },
+  {
+    "name": "red admiral",
+    "scientificName": "Vanessa atalanta",
+    "path": "animal-photos/approved/Q156454.webp",
+    "bytes": 90876,
+    "license": "CC BY-SA 4.0",
+    "creator": "Toni Wöhrl",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_Admiral_near_Lerik_Hirkan_National_Park_WDPA_ID_313470.jpg"
+  },
+  {
+    "name": "Stag beetle",
+    "scientificName": "Lucanus cervus",
+    "path": "animal-photos/approved/Q190491.webp",
+    "bytes": 148886,
+    "license": "Public domain",
+    "creator": "No machine-readable author provided.  Esv  assumed (based on copyright claims).",
+    "source": "https://commons.wikimedia.org/wiki/File:Escanyapolls.JPG"
+  },
+  {
+    "name": "Helix pomatia",
+    "scientificName": "Helix pomatia",
+    "path": "animal-photos/approved/Q245314.webp",
+    "bytes": 77970,
+    "license": "CC BY-SA 3.0",
+    "creator": "Waugsberg",
+    "source": "https://commons.wikimedia.org/wiki/File:Helix_pomatia_89a.jpg"
+  },
+  {
+    "name": "Painted Lady",
+    "scientificName": "Vanessa cardui",
+    "path": "animal-photos/approved/Q158603.webp",
+    "bytes": 85174,
+    "license": "CC BY-SA 4.0",
+    "creator": "Sayan Sanyal",
+    "source": "https://commons.wikimedia.org/wiki/File:Close_wing_position_of_Vanessa_cardui,_Linnaeus,_1758_–_Painted_Lady_WLB.jpg"
+  },
+  {
+    "name": "Scarce swallowtail",
+    "scientificName": "Iphiclides podalirius",
+    "path": "animal-photos/approved/Q31080.webp",
+    "bytes": 209522,
+    "license": "Public domain",
+    "creator": "Tbc",
+    "source": "https://commons.wikimedia.org/wiki/File:Iphiclides_podalirius.jpg"
+  },
+  {
+    "name": "Noble crayfish",
+    "scientificName": "Astacus astacus",
+    "path": "animal-photos/approved/Q210959.webp",
+    "bytes": 255958,
+    "license": "CC BY-SA 3.0",
+    "creator": "H. Zell",
+    "source": "https://commons.wikimedia.org/wiki/File:Astacus_astacus_02.JPG"
+  },
+  {
+    "name": "Common lobster",
+    "scientificName": "Homarus gammarus",
+    "path": "animal-photos/approved/Q27690.webp",
+    "bytes": 254182,
+    "license": "Public domain",
+    "creator": "Bart Braun",
+    "source": "https://commons.wikimedia.org/wiki/File:KreeftbijDenOsse.jpg"
+  },
+  {
+    "name": "mourning cloak",
+    "scientificName": "Nymphalis antiopa",
+    "path": "animal-photos/approved/Q503989.webp",
+    "bytes": 87564,
+    "license": "CC BY-SA 3.0",
+    "creator": "Kymi",
+    "source": "https://commons.wikimedia.org/wiki/File:Nymphalis_antiopa_(Suruvaippa).jpg"
+  },
+  {
+    "name": "Emperor dragonfly",
+    "scientificName": "Anax imperator",
+    "path": "animal-photos/approved/Q527496.webp",
+    "bytes": 89082,
+    "license": "CC BY 3.0",
+    "creator": "Quartl",
+    "source": "https://commons.wikimedia.org/wiki/File:Anax_imperator_qtl2.jpg"
+  },
+  {
+    "name": "Norway Lobster",
+    "scientificName": "Nephrops norvegicus",
+    "path": "animal-photos/approved/Q551915.webp",
+    "bytes": 146540,
+    "license": "CC BY-SA 4.0",
+    "creator": "Hans Hillewaert",
+    "source": "https://commons.wikimedia.org/wiki/File:Nephrops_norvegicus.jpg"
+  }
+]
