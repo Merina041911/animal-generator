@@ -76,14 +76,7 @@
       .brand-name { font-size: 14px; font-weight: 700; letter-spacing: -.04em; }
       .nav-link { color: var(--muted); text-decoration: none; font-size: 13px; font-weight: 600; }
       main { padding: 74px 0 70px; }
-      .hero {
-        display: grid;
-        grid-template-columns: minmax(270px, .82fr) minmax(440px, 1.18fr);
-        align-items: center;
-        gap: clamp(42px, 7vw, 88px);
-      }
-      .hero.batch-mode { align-items: start; }
-      .hero.batch-mode .hero-copy { position: sticky; top: 24px; }
+      .hero { max-width: 760px; }
       .eyebrow {
         display: inline-flex; align-items: center; gap: 9px;
         color: var(--coral-dark); text-transform: uppercase; letter-spacing: .12em;
@@ -109,8 +102,8 @@
       .generate:hover { transform: translateY(-2px); background: var(--coral-dark); box-shadow: 0 11px 22px rgba(240,108,78,.25); }
       .generate:focus-visible, .copy:focus-visible, .nav-link:focus-visible { outline: 3px solid #758bb2; outline-offset: 3px; }
       .generate .shuffle { font-size: 25px; line-height: 1; }
-      .result-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; }
-      .result-grid.multiple { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .results-section { padding-top: 8px; }
+      .result-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
       .result-card {
         background: var(--white); border: 1px solid var(--line); border-radius: 22px;
         padding: 13px; box-shadow: 0 24px 70px rgba(43, 48, 57, .08);
@@ -178,22 +171,22 @@
       .copy:hover { background: var(--mist); }
       .image-credit { color: var(--muted); display: inline-block; font-size: 10px; margin: 15px 0 0 2px; text-decoration-color: #c7cbd0; text-underline-offset: 3px; }
       .photo-source-label { color: var(--muted); display: inline-block; font-size: 10px; margin: 15px 0 0 2px; }
-      .result-grid.multiple .result-card { padding: 9px; border-radius: 16px; box-shadow: 0 10px 26px rgba(43,48,57,.06); }
-      .result-grid.multiple .animal-scene { min-height: 190px; border-radius: 11px; }
-      .result-grid.multiple .animal-art { height: 170px; width: 82%; }
-      .result-grid.multiple .animal-scene.has-photo { aspect-ratio: 4 / 3; min-height: 0; padding: 9px; gap: 5px; }
-      .result-grid.multiple .animal-scene.has-photo .animal-art { width: 100%; height: auto; padding: 0; }
-      .result-grid.multiple .sun { width: 58px; height: 58px; top: 20px; right: 21px; }
-      .result-grid.multiple .hill { height: 80px; bottom: -47px; }
-      .result-grid.multiple .hill.back { bottom: -54px; }
-      .result-grid.multiple .scene-label { top: 9px; left: 9px; padding: 6px 8px; font-size: 8px; }
-      .result-grid.multiple .animal-scene.has-photo .scene-label { padding: 5px 7px; font-size: 8px; }
-      .result-grid.multiple .result-info { padding: 13px 8px 8px; }
-      .result-grid.multiple .category { font-size: 8px; margin-bottom: 5px; }
-      .result-grid.multiple h2.animal-name { font-size: 22px; overflow-wrap: anywhere; }
-      .result-grid.multiple .latin { font-size: 11px; margin-top: 4px; overflow-wrap: anywhere; }
-      .result-grid.multiple .copy { margin-top: 8px; padding: 7px 9px; font-size: 10px; }
-      .result-grid.multiple .image-credit { font-size: 9px; margin-top: 9px; }
+      .result-grid .result-card { padding: 9px; border-radius: 16px; box-shadow: 0 10px 26px rgba(43,48,57,.06); }
+      .result-grid .animal-scene { min-height: 190px; border-radius: 11px; }
+      .result-grid .animal-art { height: 170px; width: 82%; }
+      .result-grid .animal-scene.has-photo { aspect-ratio: 4 / 3; min-height: 0; padding: 9px; gap: 5px; }
+      .result-grid .animal-scene.has-photo .animal-art { width: 100%; height: auto; padding: 0; }
+      .result-grid .sun { width: 58px; height: 58px; top: 20px; right: 21px; }
+      .result-grid .hill { height: 80px; bottom: -47px; }
+      .result-grid .hill.back { bottom: -54px; }
+      .result-grid .scene-label { top: 9px; left: 9px; padding: 6px 8px; font-size: 8px; }
+      .result-grid .animal-scene.has-photo .scene-label { padding: 5px 7px; font-size: 8px; }
+      .result-grid .result-info { padding: 13px 8px 8px; }
+      .result-grid .category { font-size: 8px; margin-bottom: 5px; }
+      .result-grid h2.animal-name { font-size: 22px; overflow-wrap: anywhere; }
+      .result-grid .latin { font-size: 11px; margin-top: 4px; overflow-wrap: anywhere; }
+      .result-grid .copy { margin-top: 8px; padding: 7px 9px; font-size: 10px; }
+      .result-grid .image-credit { font-size: 9px; margin-top: 9px; }
       .quantity-row { display: flex; gap: 11px; align-items: end; flex-wrap: wrap; }
       .quantity-field { display: grid; gap: 6px; }
       .quantity-field label { color: var(--muted); font-size: 11px; font-weight: 700; }
@@ -217,17 +210,6 @@
       .faq summary::after { content: "+"; color: var(--coral-dark); font-size: 17px; line-height: 1; }
       .faq details[open] summary::after { content: "−"; }
       .faq details p { color: var(--muted); font-size: 12px; line-height: 1.7; padding: 0 24px 16px 2px; margin: -2px 0 0; }
-      .contact { margin-top: 72px; padding: 38px; border: 1px solid var(--line); border-radius: 22px; background: linear-gradient(130deg, rgba(255,254,250,.96), rgba(245,231,216,.72)); display: grid; grid-template-columns: .85fr 1.15fr; gap: 55px; }
-      .contact h2 { font: 500 35px/1.12 Fraunces, Georgia, serif; letter-spacing: -.04em; margin-bottom: 12px; }
-      .contact-copy { color: var(--muted); font-size: 13px; line-height: 1.7; }
-      .contact-form { display: grid; grid-template-columns: 1fr 1fr; gap: 13px; }
-      .contact-form label { display: grid; gap: 6px; color: var(--muted); font-size: 11px; font-weight: 700; }
-      .contact-form .wide { grid-column: 1 / -1; }
-      .contact-form input, .contact-form select, .contact-form textarea { width: 100%; border: 1px solid var(--line); border-radius: 9px; background: var(--white); color: var(--ink); font: 13px "DM Sans", sans-serif; padding: 11px 12px; }
-      .contact-form textarea { min-height: 96px; resize: vertical; }
-      .contact-form input:focus, .contact-form select:focus, .contact-form textarea:focus { outline: 3px solid rgba(117,139,178,.25); border-color: #758bb2; }
-      .contact-submit { justify-self: start; min-height: 44px; padding-inline: 17px; }
-      .contact-note { grid-column: 1 / -1; color: var(--muted); font-size: 10px; line-height: 1.5; margin: -4px 0 0; }
       footer {
         margin-top: 38px;
         padding: 48px 0 20px;
@@ -281,21 +263,20 @@
         .shell { width: min(100% - 32px, 560px); }
         header { height: 70px; }
         main { padding: 47px 0 45px; }
-        .hero { grid-template-columns: 1fr; gap: 31px; }
-        .hero.batch-mode .hero-copy { position: static; }
+        .hero { max-width: none; }
         .eyebrow { margin-bottom: 16px; }
         h1 { font-size: clamp(51px, 15vw, 68px); max-width: 390px; }
         .intro { font-size: 14px; margin-bottom: 21px; }
         .result-card { transform: none; }
         .animal-scene { min-height: 255px; }
         .animal-art { height: 210px; }
-        .result-grid.multiple { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-        .result-grid.multiple .animal-scene { min-height: 160px; }
-        .result-grid.multiple .animal-art { height: 142px; }
+        .result-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+        .result-grid .animal-scene { min-height: 160px; }
+        .result-grid .animal-art { height: 142px; }
         .animal-scene.has-photo { padding: 9px; gap: 5px; }
         .animal-scene.has-photo .scene-label { padding: 5px 7px; font-size: 8px; }
-        .result-grid.multiple .animal-scene.has-photo { aspect-ratio: 4 / 3; min-height: 0; padding: 7px; gap: 4px; }
-        .result-grid.multiple .animal-scene.has-photo .scene-label { padding: 4px 6px; font-size: 7px; }
+        .result-grid .animal-scene.has-photo { aspect-ratio: 4 / 3; min-height: 0; padding: 7px; gap: 4px; }
+        .result-grid .animal-scene.has-photo .scene-label { padding: 4px 6px; font-size: 7px; }
         .quantity-row { align-items: stretch; }
         .quantity-field { flex: 1; }
         .quantity-field select { width: 100%; }
@@ -308,17 +289,12 @@
         .faq { grid-template-columns: 1fr; gap: 17px; margin-top: 45px; padding-top: 30px; }
         .nav-links { gap: 14px; }
         .nav-link { font-size: 11px; }
-        .contact { grid-template-columns: 1fr; gap: 18px; margin-top: 49px; padding: 23px; }
-        .contact h2 { font-size: 31px; }
-        .contact-form { grid-template-columns: 1fr; }
-        .contact-form .wide, .contact-note { grid-column: auto; }
         footer { margin-top: 26px; padding-top: 38px; }
         .footer-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 22px; }
         .footer-bottom { align-items: flex-start; flex-direction: column; gap: 6px; margin-top: 28px; }
       }
       @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition-duration: .01ms !important; } }
       @media (max-width: 420px) {
-        .result-grid.multiple { grid-template-columns: minmax(0, 1fr); }
         .quantity-row { display: grid; grid-template-columns: minmax(0, 1fr); align-items: stretch; }
         .quantity-field, .quantity-field select, .quantity-row .generate { width: 100%; }
         .quantity-row .generate { min-height: 52px; }
@@ -328,14 +304,15 @@
   <body>
     <header>
       <nav class="shell nav" aria-label="Main navigation">
-        <a class="brand" href="#top" aria-label="Animal Generator home">
+        <a class="brand" href="/" aria-label="Animal Generator home">
           <img class="brand-logo" src="assets/animal-generator-logo.png" alt="" width="44" height="44" />
           <span class="brand-name">ANIMAL<br />GENERATOR</span>
         </a>
         <div class="nav-links">
-          <a class="nav-link" href="about.html">About</a>
-          <a class="nav-link" href="#contact">Contact</a>
-          <a class="nav-link" href="#faq">FAQ <span aria-hidden="true">↗</span></a>
+          <a class="nav-link" href="/">Home</a>
+          <a class="nav-link" href="/about">About</a>
+          <a class="nav-link" href="/contact">Contact</a>
+          <a class="nav-link" href="#faq">FAQ</a>
         </div>
       </nav>
     </header>
@@ -363,20 +340,21 @@
           <div class="trust"><span aria-hidden="true">✳</span> Free to use · No sign-up · Just one good surprise</div>
         </div>
 
-        <div>
-          <p class="result-status" id="result-status" aria-live="polite">Featured animal · 259 photo-verified species available</p>
-          <div class="result-grid" id="results" aria-live="polite" aria-label="Generated animals">
-            <article class="result-card">
-              <div class="animal-scene has-photo">
-                <span class="scene-label">Mammals</span>
-                <img class="animal-art" src="animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp" alt="Lion (Panthera leo), a mammal available in the random animal generator" width="1000" height="666" fetchpriority="high" />
-              </div>
-              <div class="result-info">
-                <div class="result-top"><div><h2 class="animal-name">Lion</h2><p class="latin">Panthera leo</p></div></div>
-                <a class="image-credit" href="animal-image-credits.html">Photo by Diego Delso · CC BY-SA 4.0</a>
-              </div>
-            </article>
-          </div>
+      </section>
+
+      <section class="results-section" aria-label="Animal generator results">
+        <p class="result-status" id="result-status" aria-live="polite">Featured animal · 259 photo-verified species available</p>
+        <div class="result-grid" id="results" aria-live="polite" aria-label="Generated animals">
+          <article class="result-card">
+            <div class="animal-scene has-photo">
+              <span class="scene-label">Mammals</span>
+              <img class="animal-art" src="animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp" alt="Lion (Panthera leo), a mammal available in the random animal generator" width="1000" height="666" fetchpriority="high" />
+            </div>
+            <div class="result-info">
+              <div class="result-top"><div><h2 class="animal-name">Lion</h2><p class="latin">Panthera leo</p></div></div>
+              <a class="image-credit" href="/animal-image-credits">Photo by Diego Delso · CC BY-SA 4.0</a>
+            </div>
+          </article>
         </div>
       </section>
 
@@ -388,26 +366,6 @@
           <article class="idea"><span class="idea-icon" aria-hidden="true">◎</span><h3>For the classroom</h3><p>Start a quick animal-of-the-day conversation or warm-up.</p></article>
           <article class="idea"><span class="idea-icon" aria-hidden="true">✳</span><h3>For game night</h3><p>Use a surprise animal as the clue for a round of charades or 20 questions.</p></article>
         </div>
-      </section>
-
-      <section class="contact" id="contact" aria-labelledby="contact-title">
-        <div>
-          <div class="eyebrow">We read every note</div>
-          <h2 id="contact-title">Contact us</h2>
-          <p class="contact-copy">Have an idea for an animal, spotted something we should improve, or want to share how you used the generator? Send us a note.</p>
-        </div>
-        <form class="contact-form" id="contact-form">
-          <label>Name <input name="name" autocomplete="name" placeholder="Your name" /></label>
-          <label>Email <input name="email" type="email" autocomplete="email" placeholder="you@example.com" required /></label>
-          <label class="wide">What is this about?
-            <select name="topic">
-              <option>General question</option><option>Animal suggestion</option><option>Illustration feedback</option><option>Classroom or project use</option>
-            </select>
-          </label>
-          <label class="wide">Message <textarea name="message" required placeholder="Tell us a little more…"></textarea></label>
-          <button class="generate contact-submit" type="submit">Open email draft <span aria-hidden="true">↗</span></button>
-          <p class="contact-note">This demo opens a message in your email app. Add the site’s contact address before sending; messages are not stored on this page.</p>
-        </form>
       </section>
 
       <section class="faq" id="faq" aria-labelledby="faq-title">
@@ -441,22 +399,21 @@
             <h2 class="footer-heading" id="footer-tools-title">Tools</h2>
             <nav class="footer-links" aria-label="Tools">
               <a href="#top">Animal generator</a>
-              <a href="#quantity">Generate 1–10 animals</a>
             </nav>
           </section>
           <section class="footer-column" aria-labelledby="footer-resources-title">
             <h2 class="footer-heading" id="footer-resources-title">Resources</h2>
             <nav class="footer-links" aria-label="Resources">
               <a href="#faq">FAQ</a>
-              <a href="animal-image-credits.html">Animal photo credits</a>
+              <a href="/animal-image-credits">Animal photo credits</a>
               <a href="https://commons.wikimedia.org/" target="_blank" rel="noreferrer">Wikimedia Commons</a>
             </nav>
           </section>
           <section class="footer-column" aria-labelledby="footer-about-title">
             <h2 class="footer-heading" id="footer-about-title">About</h2>
             <nav class="footer-links" aria-label="About">
-              <a href="about.html">About Animal Generator</a>
-              <a href="#contact">Contact us</a>
+              <a href="/about">About Animal Generator</a>
+              <a href="/contact">Contact us</a>
             </nav>
           </section>
         </div>
@@ -545,21 +502,12 @@
         selected.forEach((animal) => seen.add(animal.scientificName));
         try { localStorage.setItem("fieldnote-seen-animals", JSON.stringify([...seen])); } catch {}
         resultGrid.replaceChildren(...selected.map(makeCard));
-        resultGrid.classList.toggle("multiple", selected.length > 1);
-        document.querySelector(".hero").classList.toggle("batch-mode", selected.length > 1);
         const remaining = animals.length - seen.size;
         const roundNote = startedNewRound ? " · fresh round started" : remaining < requested ? ` · ${remaining} new ${remaining === 1 ? "animal" : "animals"} left` : " · no repeats from earlier picks";
         $("result-status").textContent = `${selected.length} ${selected.length === 1 ? "animal" : "animals"} · ${animals.length} photo-verified species available${roundNote}`;
       }
 
       $("generate").addEventListener("click", generateAnimals);
-      $("contact-form").addEventListener("submit", (event) => {
-        event.preventDefault();
-        const form = new FormData(event.currentTarget);
-        const subject = encodeURIComponent(`Animal Generator — ${form.get("topic")}`);
-        const body = encodeURIComponent(`Name: ${form.get("name") || "Not provided"}\nEmail: ${form.get("email")}\nTopic: ${form.get("topic")}\n\n${form.get("message")}`);
-        window.location.href = `mailto:?subject=${subject}&body=${body}`;
-      });
       if (!animals.length) {
         $("result-status").textContent = "No photo-verified animals are available yet.";
         $("generate").disabled = true;

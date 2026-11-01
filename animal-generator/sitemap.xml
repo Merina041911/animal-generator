@@ -4,6 +4,9 @@
     <loc>https://animal-generator.net/</loc>
   </url>
   <url>
-    <loc>https://animal-generator.net/about.html</loc>
+    <loc>https://animal-generator.net/about</loc>
+  </url>
+  <url>
+    <loc>https://animal-generator.net/contact</loc>
   </url>
 </urlset>

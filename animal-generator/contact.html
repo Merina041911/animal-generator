@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#faf7f1" />
+    <meta name="description" content="Contact Animal Generator with an animal suggestion, a question, or feedback about the free random animal generator." />
+    <link rel="canonical" href="https://animal-generator.net/contact" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Contact Animal Generator" />
+    <meta property="og:description" content="Send Animal Generator an animal suggestion, question, or feedback." />
+    <meta property="og:url" content="https://animal-generator.net/contact" />
+    <title>Contact Animal Generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet" />
+    <style>
+      :root { color-scheme: light; --paper:#faf7f1; --ink:#202a39; --muted:#667080; --coral:#f06c4e; --coral-dark:#db5539; --line:#e6e0d6; --white:#fffefa; }
+      * { box-sizing:border-box; }
+      body { margin:0; color:var(--ink); background:radial-gradient(ellipse at 8% 33%,rgba(244,211,188,.35),transparent 28rem),var(--paper); font-family:"DM Sans",sans-serif; -webkit-font-smoothing:antialiased; }
+      a { color:inherit; }
+      .shell { width:min(100% - 48px,1040px); margin:0 auto; }
+      header { height:82px; border-bottom:1px solid var(--line); display:flex; align-items:center; }
+      .nav { display:flex; align-items:center; justify-content:space-between; }
+      .brand { display:inline-flex; align-items:center; gap:11px; text-decoration:none; }
+      .brand-logo { width:44px; height:44px; flex:0 0 44px; object-fit:contain; }
+      .brand-name { font-size:14px; font-weight:700; letter-spacing:-.04em; }
+      .nav-links { display:flex; align-items:center; gap:25px; }
+      .nav-link { color:var(--muted); text-decoration:none; font-size:13px; font-weight:600; }
+      .nav-link:hover { color:var(--coral-dark); }
+      main { padding:78px 0 90px; }
+      .contact-page { max-width:800px; margin:0 auto; }
+      .eyebrow { display:flex; align-items:center; gap:9px; margin-bottom:20px; color:var(--coral-dark); font-size:11px; font-weight:700; letter-spacing:.12em; text-transform:uppercase; }
+      .eyebrow::before { content:""; width:22px; height:1px; background:currentColor; }
+      h1,h2,p { margin-top:0; }
+      h1 { max-width:700px; margin-bottom:18px; font:500 clamp(52px,8vw,82px)/.98 Fraunces,Georgia,serif; letter-spacing:-.06em; }
+      h1 em { color:var(--coral); font-style:normal; }
+      .lead { max-width:620px; margin-bottom:34px; color:var(--muted); font-size:16px; line-height:1.8; }
+      .contact-card { display:grid; grid-template-columns:.8fr 1.2fr; gap:45px; padding:34px; border:1px solid var(--line); border-radius:22px; background:linear-gradient(130deg,rgba(255,254,250,.96),rgba(245,231,216,.72)); }
+      .contact-card h2 { margin-bottom:12px; font:500 31px/1.12 Fraunces,Georgia,serif; letter-spacing:-.04em; }
+      .contact-copy { color:var(--muted); font-size:13px; line-height:1.75; }
+      .contact-form { display:grid; grid-template-columns:1fr 1fr; gap:13px; }
+      .contact-form label { display:grid; gap:6px; color:var(--muted); font-size:11px; font-weight:700; }
+      .contact-form .wide,.contact-note { grid-column:1/-1; }
+      .contact-form input,.contact-form select,.contact-form textarea { width:100%; border:1px solid var(--line); border-radius:9px; background:var(--white); color:var(--ink); font:13px "DM Sans",sans-serif; padding:11px 12px; }
+      .contact-form textarea { min-height:112px; resize:vertical; }
+      .contact-form input:focus,.contact-form select:focus,.contact-form textarea:focus { outline:3px solid rgba(117,139,178,.25); border-color:#758bb2; }
+      .submit { justify-self:start; min-height:46px; border:0; border-radius:11px; padding:0 18px; background:var(--coral); color:white; font:700 13px "DM Sans",sans-serif; cursor:pointer; box-shadow:0 8px 18px rgba(240,108,78,.2); }
+      .submit:hover { background:var(--coral-dark); }
+      .submit:focus-visible,.nav-link:focus-visible { outline:3px solid #758bb2; outline-offset:3px; }
+      .contact-note { margin:-3px 0 0; color:var(--muted); font-size:10px; line-height:1.55; }
+      footer { border-top:1px solid var(--line); padding:22px 0 28px; color:var(--muted); font-size:11px; }
+      .footer-inner { display:flex; justify-content:space-between; gap:18px; }
+      @media(max-width:700px) {
+        .shell { width:min(100% - 32px,560px); }
+        header { height:70px; }
+        .nav-links { gap:12px; }
+        .nav-link { font-size:10px; }
+        main { padding:52px 0 60px; }
+        .lead { font-size:14px; }
+        .contact-card { grid-template-columns:1fr; gap:18px; padding:23px; }
+        .contact-form { grid-template-columns:1fr; }
+        .contact-form .wide,.contact-note { grid-column:auto; }
+        .footer-inner { flex-direction:column; }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav class="shell nav" aria-label="Main navigation">
+        <a class="brand" href="/" aria-label="Animal Generator home"><img class="brand-logo" src="assets/animal-generator-logo.png" alt="" width="44" height="44" /><span class="brand-name">ANIMAL<br />GENERATOR</span></a>
+        <div class="nav-links"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/about">About</a><a class="nav-link" href="/contact" aria-current="page">Contact</a><a class="nav-link" href="/#faq">FAQ</a></div>
+      </nav>
+    </header>
+    <main class="shell">
+      <section class="contact-page" aria-labelledby="contact-title">
+        <div class="eyebrow">Say hello</div>
+        <h1 id="contact-title">We’d love to <em>hear from you.</em></h1>
+        <p class="lead">Have an idea for an animal, spotted something we should improve, or want to share how you used the generator? Send us a note.</p>
+        <div class="contact-card">
+          <div>
+            <h2>Contact us</h2>
+            <p class="contact-copy">Share a question, an animal suggestion, or a little feedback. We’ll make it easy to get in touch.</p>
+          </div>
+          <form class="contact-form" id="contact-form">
+            <label>Name <input name="name" autocomplete="name" placeholder="Your name" /></label>
+            <label>Email <input name="email" type="email" autocomplete="email" placeholder="you@example.com" required /></label>
+            <label class="wide">What is this about?
+              <select name="topic"><option>General question</option><option>Animal suggestion</option><option>Illustration feedback</option><option>Classroom or project use</option></select>
+            </label>
+            <label class="wide">Message <textarea name="message" required placeholder="Tell us a little more…"></textarea></label>
+            <button class="submit" type="submit">Open email draft <span aria-hidden="true">↗</span></button>
+            <p class="contact-note">This opens a message in your email app. Add the site’s contact address before sending; messages are not stored on this page.</p>
+          </form>
+        </div>
+      </section>
+    </main>
+    <footer><div class="shell footer-inner"><span>ANIMAL GENERATOR · A little curiosity goes a long way.</span><span>Animal photos via <a href="https://commons.wikimedia.org/">Wikimedia Commons</a> · <a href="/animal-image-credits">Image credits</a> · <a href="/">Generator</a></span></div></footer>
+    <script>
+      document.getElementById("contact-form").addEventListener("submit", (event) => {
+        event.preventDefault();
+        const form = new FormData(event.currentTarget);
+        const subject = encodeURIComponent(`Animal Generator — ${form.get("topic")}`);
+        const body = encodeURIComponent(`Name: ${form.get("name") || "Not provided"}\nEmail: ${form.get("email")}\nTopic: ${form.get("topic")}\n\n${form.get("message")}`);
+        window.location.href = `mailto:?subject=${subject}&body=${body}`;
+      });
+    </script>
+  </body>
+</html>
