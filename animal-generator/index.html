@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#faf7f1" />
     <link rel="icon" type="image/png" href="assets/animal-generator-logo.png" />
-    <link rel="canonical" href="./" />
+    <link rel="canonical" href="https://animal-generator.net/" />
     <meta
       name="description"
       content="Generate 1–10 random animals from 259 photo-verified species. Free, no sign-up, and no repeats until the animal pool runs out. Pick an animal for a lesson, drawing, or game."
@@ -13,7 +13,24 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Random Animal Generator – Pick 1–10 Animals" />
     <meta property="og:description" content="A free random animal generator with clear animal photos, six animal groups, and no repeats until the pool runs out." />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:url" content="https://animal-generator.net/" />
+    <meta property="og:image" content="https://animal-generator.net/animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp" />
+    <meta property="og:image:alt" content="A lion, one of the animals in the random animal generator" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Random Animal Generator – Pick 1–10 Animals" />
+    <meta name="twitter:description" content="A free random animal generator with clear animal photos, six animal groups, and no repeats until the pool runs out." />
+    <meta name="twitter:image" content="https://animal-generator.net/animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Animal Generator",
+        "url": "https://animal-generator.net/",
+        "description": "A free random animal generator that picks 1 to 10 animals from a photo-verified collection.",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "Any"
+      }
+    </script>
     <title>Random Animal Generator – Pick 1–10 Animals | Animal Generator</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -347,8 +364,19 @@
         </div>
 
         <div>
-          <p class="result-status" id="result-status" aria-live="polite">Your animal is ready</p>
-          <div class="result-grid" id="results" aria-live="polite" aria-label="Generated animals"></div>
+          <p class="result-status" id="result-status" aria-live="polite">Featured animal · 259 photo-verified species available</p>
+          <div class="result-grid" id="results" aria-live="polite" aria-label="Generated animals">
+            <article class="result-card">
+              <div class="animal-scene has-photo">
+                <span class="scene-label">Mammals</span>
+                <img class="animal-art" src="animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp" alt="Lion (Panthera leo), a mammal available in the random animal generator" width="1000" height="666" fetchpriority="high" />
+              </div>
+              <div class="result-info">
+                <div class="result-top"><div><h2 class="animal-name">Lion</h2><p class="latin">Panthera leo</p></div></div>
+                <a class="image-credit" href="animal-image-credits.html">Photo by Diego Delso · CC BY-SA 4.0</a>
+              </div>
+            </article>
+          </div>
         </div>
       </section>
 
@@ -532,8 +560,7 @@
         const body = encodeURIComponent(`Name: ${form.get("name") || "Not provided"}\nEmail: ${form.get("email")}\nTopic: ${form.get("topic")}\n\n${form.get("message")}`);
         window.location.href = `mailto:?subject=${subject}&body=${body}`;
       });
-      if (animals.length) generateAnimals();
-      else {
+      if (!animals.length) {
         $("result-status").textContent = "No photo-verified animals are available yet.";
         $("generate").disabled = true;
       }
