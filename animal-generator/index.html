@@ -74,9 +74,18 @@
       .brand { display: inline-flex; align-items: center; gap: 11px; text-decoration: none; }
       .brand-logo { width: 44px; height: 44px; flex: 0 0 44px; object-fit: contain; }
       .brand-name { font-size: 14px; font-weight: 700; letter-spacing: -.04em; }
-      .nav-link { color: var(--muted); text-decoration: none; font-size: 13px; font-weight: 600; }
+      .nav-link { color: var(--muted); text-decoration: none; font-size: 16px; font-weight: 600; padding: 12px 6px; }
       main { padding: 74px 0 70px; }
-      .hero { max-width: 760px; }
+      .hero {
+        display: grid;
+        grid-template-columns: minmax(0, .95fr) minmax(0, 1.05fr);
+        align-items: center;
+        gap: clamp(36px, 6vw, 76px);
+      }
+      .hero-copy { min-width: 0; }
+      .featured-preview { min-width: 0; }
+      .featured-preview .result-card { max-width: 500px; margin-left: auto; }
+      .featured-note { margin: 11px 3px 0; color: var(--muted); font-size: 11px; line-height: 1.5; text-align: right; }
       .eyebrow {
         display: inline-flex; align-items: center; gap: 9px;
         color: var(--coral-dark); text-transform: uppercase; letter-spacing: .12em;
@@ -102,8 +111,11 @@
       .generate:hover { transform: translateY(-2px); background: var(--coral-dark); box-shadow: 0 11px 22px rgba(240,108,78,.25); }
       .generate:focus-visible, .copy:focus-visible, .nav-link:focus-visible { outline: 3px solid #758bb2; outline-offset: 3px; }
       .generate .shuffle { font-size: 25px; line-height: 1; }
-      .results-section { padding-top: 8px; }
-      .result-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
+      .results-section { padding-top: 56px; scroll-margin-top: 24px; }
+      .results-section.single-result .result-grid { justify-content: center; }
+      .results-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 17px; }
+      .results-heading h2 { margin: 0; font: 500 30px/1.15 Fraunces, Georgia, serif; letter-spacing: -.035em; }
+      .result-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); grid-auto-rows: 1fr; align-items: stretch; gap: 20px; }
       .result-card {
         background: var(--white); border: 1px solid var(--line); border-radius: 22px;
         padding: 13px; box-shadow: 0 24px 70px rgba(43, 48, 57, .08);
@@ -135,11 +147,11 @@
       .animal-scene.has-photo .sun, .animal-scene.has-photo .hill { display: none; }
       .animal-scene.has-photo .animal-art {
         position: static;
-        flex: 1 1 auto;
+        flex: 1 1 0;
         min-width: 0;
         min-height: 0;
         width: 100%;
-        height: auto;
+        height: 0;
         padding: 0;
         object-fit: contain;
         object-position: center;
@@ -170,23 +182,29 @@
       }
       .copy:hover { background: var(--mist); }
       .image-credit { color: var(--muted); display: inline-block; font-size: 10px; margin: 15px 0 0 2px; text-decoration-color: #c7cbd0; text-underline-offset: 3px; }
-      .photo-source-label { color: var(--muted); display: inline-block; font-size: 10px; margin: 15px 0 0 2px; }
-      .result-grid .result-card { padding: 9px; border-radius: 16px; box-shadow: 0 10px 26px rgba(43,48,57,.06); }
-      .result-grid .animal-scene { min-height: 190px; border-radius: 11px; }
-      .result-grid .animal-art { height: 170px; width: 82%; }
-      .result-grid .animal-scene.has-photo { aspect-ratio: 4 / 3; min-height: 0; padding: 9px; gap: 5px; }
-      .result-grid .animal-scene.has-photo .animal-art { width: 100%; height: auto; padding: 0; }
-      .result-grid .sun { width: 58px; height: 58px; top: 20px; right: 21px; }
-      .result-grid .hill { height: 80px; bottom: -47px; }
-      .result-grid .hill.back { bottom: -54px; }
-      .result-grid .scene-label { top: 9px; left: 9px; padding: 6px 8px; font-size: 8px; }
-      .result-grid .animal-scene.has-photo .scene-label { padding: 5px 7px; font-size: 8px; }
-      .result-grid .result-info { padding: 13px 8px 8px; }
-      .result-grid .category { font-size: 8px; margin-bottom: 5px; }
-      .result-grid h2.animal-name { font-size: 22px; overflow-wrap: anywhere; }
-      .result-grid .latin { font-size: 11px; margin-top: 4px; overflow-wrap: anywhere; }
-      .result-grid .copy { margin-top: 8px; padding: 7px 9px; font-size: 10px; }
-      .result-grid .image-credit { font-size: 9px; margin-top: 9px; }
+      .result-grid .result-card { display: flex; flex-direction: column; width: 100%; padding: 12px; border-radius: 18px; box-shadow: 0 10px 26px rgba(43,48,57,.06); }
+      .result-grid .animal-scene.has-photo { flex: none; aspect-ratio: 4 / 3; min-height: 0; padding: 0; display: block; background: #f0eee8; }
+      .result-grid .animal-scene.has-photo .animal-art { display: block; width: 100%; height: 100%; object-fit: cover; }
+      .result-grid .animal-scene.has-photo .scene-label { position: absolute; top: 12px; left: 12px; z-index: 3; padding: 7px 9px; font-size: 10px; }
+      .result-grid .result-info { flex: 1; display: flex; flex-direction: column; align-items: flex-start; padding: 20px 8px 8px; }
+      .result-grid .result-top { display: block; width: 100%; }
+      .result-grid h2.animal-name { font-size: 27px; line-height: 1.15; min-height: 2.3em; overflow-wrap: break-word; }
+      .result-grid .latin { font-size: 14px; line-height: 1.4; min-height: 1.4em; margin: 6px 0 18px; overflow-wrap: break-word; }
+      .result-grid .copy { flex: none; margin-top: auto; min-height: 42px; padding: 10px 14px; font-size: 12px; }
+      .has-results { padding-top: 36px; }
+      .has-results .hero { display: block; }
+      .has-results .hero-copy { display: flex; align-items: center; justify-content: space-between; gap: 32px; }
+      .has-results .eyebrow, .has-results .intro, .has-results .trust { display: none; }
+      .has-results h1 { font-size: 40px; max-width: 520px; margin-bottom: 0; }
+      .has-results .quantity-row { flex-wrap: nowrap; flex: none; }
+      .has-results .results-section { padding-top: 36px; }
+      .results-section.single-result .result-grid { grid-template-columns: minmax(0, 1fr); max-width: 760px; margin-inline: auto; }
+      .single-result .result-card { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); align-items: stretch; padding: 14px; }
+      .single-result .animal-scene.has-photo { aspect-ratio: 1 / 1; }
+      .single-result .result-info { justify-content: center; padding: 30px 24px; }
+      .single-result .copy { margin-top: 0; }
+      .single-result h2.animal-name { font-size: 36px; min-height: 0; }
+      .single-result .latin { font-size: 16px; min-height: 0; margin-bottom: 24px; }
       .quantity-row { display: flex; gap: 11px; align-items: end; flex-wrap: wrap; }
       .quantity-field { display: grid; gap: 6px; }
       .quantity-field label { color: var(--muted); font-size: 11px; font-weight: 700; }
@@ -259,28 +277,35 @@
         line-height: 1.5;
       }
       .footer-bottom a { color: inherit; text-underline-offset: 3px; }
+      @media (max-width: 820px) {
+        .hero { grid-template-columns: 1fr; gap: 30px; }
+        .featured-preview { width: 100%; max-width: 500px; }
+        .featured-preview .result-card { margin-left: 0; }
+        .featured-note { text-align: left; }
+      }
+      @media (max-width: 900px) {
+        .result-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      }
       @media (max-width: 760px) {
         .shell { width: min(100% - 32px, 560px); }
         header { height: 70px; }
         main { padding: 47px 0 45px; }
-        .hero { max-width: none; }
+        .hero { grid-template-columns: 1fr; gap: 30px; }
+        .featured-preview { width: 100%; max-width: 500px; }
+        .featured-preview .result-card { margin-left: 0; }
+        .featured-note { text-align: left; }
         .eyebrow { margin-bottom: 16px; }
         h1 { font-size: clamp(51px, 15vw, 68px); max-width: 390px; }
         .intro { font-size: 14px; margin-bottom: 21px; }
         .result-card { transform: none; }
         .animal-scene { min-height: 255px; }
         .animal-art { height: 210px; }
-        .result-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-        .result-grid .animal-scene { min-height: 160px; }
-        .result-grid .animal-art { height: 142px; }
-        .animal-scene.has-photo { padding: 9px; gap: 5px; }
-        .animal-scene.has-photo .scene-label { padding: 5px 7px; font-size: 8px; }
-        .result-grid .animal-scene.has-photo { aspect-ratio: 4 / 3; min-height: 0; padding: 7px; gap: 4px; }
-        .result-grid .animal-scene.has-photo .scene-label { padding: 4px 6px; font-size: 7px; }
         .quantity-row { align-items: stretch; }
         .quantity-field { flex: 1; }
         .quantity-field select { width: 100%; }
         .quantity-row .generate { flex: 1.3; padding-inline: 12px; }
+        .results-section { padding-top: 38px; }
+        .results-heading h2 { font-size: 27px; }
         .below { padding-top: 51px; }
         .below h2 { font-size: 31px; }
         .ideas { grid-template-columns: 1fr; }
@@ -288,13 +313,34 @@
         .idea-icon { margin-bottom: 9px; }
         .faq { grid-template-columns: 1fr; gap: 17px; margin-top: 45px; padding-top: 30px; }
         .nav-links { gap: 14px; }
-        .nav-link { font-size: 11px; }
+        .nav-link { font-size: 15px; }
         footer { margin-top: 26px; padding-top: 38px; }
         .footer-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 22px; }
         .footer-bottom { align-items: flex-start; flex-direction: column; gap: 6px; margin-top: 28px; }
       }
+      @media (max-width: 820px) {
+        .has-results .hero-copy { flex-direction: column; align-items: flex-start; gap: 24px; }
+        .results-heading { flex-direction: column; align-items: flex-start; gap: 8px; }
+      }
+      @media (max-width: 600px) {
+        header { height: auto; padding: 12px 0 4px; }
+        .nav { flex-wrap: wrap; gap: 8px; }
+        .nav-links { width: 100%; justify-content: space-between; gap: 8px; }
+        .nav-link { min-height: 44px; display: inline-flex; align-items: center; }
+        .result-grid { grid-template-columns: minmax(0, 1fr); }
+        .result-grid h2.animal-name { min-height: 0; }
+        .result-grid .latin { min-height: 0; }
+        .has-results h1 { font-size: 36px; }
+        .has-results .quantity-row { width: 100%; flex-wrap: wrap; }
+        .single-result .result-card { display: flex; }
+        .single-result .animal-scene.has-photo { aspect-ratio: 4 / 3; }
+        .single-result .result-info { padding: 22px 10px 10px; }
+        .single-result h2.animal-name { font-size: 32px; }
+      }
       @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition-duration: .01ms !important; } }
       @media (max-width: 420px) {
+        .results-heading { align-items: flex-start; flex-direction: column; gap: 4px; }
+        .result-grid { grid-template-columns: minmax(0, 1fr); }
         .quantity-row { display: grid; grid-template-columns: minmax(0, 1fr); align-items: stretch; }
         .quantity-field, .quantity-field select, .quantity-row .generate { width: 100%; }
         .quantity-row .generate { min-height: 52px; }
@@ -339,12 +385,7 @@
           </div>
           <div class="trust"><span aria-hidden="true">✳</span> Free to use · No sign-up · Just one good surprise</div>
         </div>
-
-      </section>
-
-      <section class="results-section" aria-label="Animal generator results">
-        <p class="result-status" id="result-status" aria-live="polite">Featured animal · 259 photo-verified species available</p>
-        <div class="result-grid" id="results" aria-live="polite" aria-label="Generated animals">
+        <aside class="featured-preview" aria-label="Example animal result">
           <article class="result-card">
             <div class="animal-scene has-photo">
               <span class="scene-label">Mammals</span>
@@ -352,10 +393,18 @@
             </div>
             <div class="result-info">
               <div class="result-top"><div><h2 class="animal-name">Lion</h2><p class="latin">Panthera leo</p></div></div>
-              <a class="image-credit" href="/animal-image-credits">Photo by Diego Delso · CC BY-SA 4.0</a>
             </div>
           </article>
+          <p class="featured-note">Example result · Your picks appear after you generate</p>
+        </aside>
+      </section>
+
+      <section class="results-section" id="generated-results" aria-label="Animal generator results" hidden>
+        <div class="results-heading">
+          <h2>Your animal picks</h2>
+          <p class="result-status" id="result-status" aria-live="polite"></p>
         </div>
+        <div class="result-grid" id="results" aria-live="polite" aria-label="Generated animals"></div>
       </section>
 
       <section class="below" aria-labelledby="ideas-title">
@@ -419,7 +468,7 @@
         </div>
         <div class="footer-bottom">
           <span>© Animal Generator · Made for curious minds.</span>
-          <span>Animal photos via <a href="https://commons.wikimedia.org/" target="_blank" rel="noreferrer">Wikimedia Commons</a></span>
+          <span>Animal photos are sourced from Wikimedia Commons. <a href="/animal-image-credits">Image credits</a></span>
         </div>
       </div>
     </footer>
@@ -429,6 +478,7 @@
       const animals = (window.ANIMAL_LIBRARY || []).filter((animal) => Boolean(animal.image));
       const $ = (id) => document.getElementById(id);
       const resultGrid = $("results");
+      const generatedResults = $("generated-results");
       const categoryLabel = (animal) => animal.category;
 
       function makeCard(animal, index) {
@@ -442,7 +492,6 @@
         const sun = document.createElement("span"); sun.className = "sun"; sun.setAttribute("aria-hidden", "true");
         const hillBack = document.createElement("span"); hillBack.className = "hill back"; hillBack.setAttribute("aria-hidden", "true");
         const hill = document.createElement("span"); hill.className = "hill"; hill.setAttribute("aria-hidden", "true");
-        let photoCredit = null;
         if (animal.image) {
           scene.classList.add("has-photo");
           const image = document.createElement("img");
@@ -451,9 +500,6 @@
           image.alt = `Photo of ${animal.name} (${animal.scientificName})`;
           image.loading = index < 2 ? "eager" : "lazy";
           scene.append(sceneLabel, sun, hillBack, hill, image);
-          photoCredit = document.createElement("span");
-          photoCredit.className = "photo-source-label";
-          photoCredit.textContent = "Photo via Wikimedia Commons";
         } else {
           const imagePlaceholder = document.createElement("div");
           imagePlaceholder.className = "animal-photo-pending";
@@ -473,9 +519,8 @@
           catch { copy.textContent = animal.name; }
           setTimeout(() => { copy.textContent = "Copy name"; }, 1400);
         });
-        top.append(identity, copy);
-        info.append(top);
-        if (photoCredit) info.append(photoCredit);
+        top.append(identity);
+        info.append(top, copy);
         card.append(scene, info);
         return card;
       }
@@ -502,9 +547,17 @@
         selected.forEach((animal) => seen.add(animal.scientificName));
         try { localStorage.setItem("fieldnote-seen-animals", JSON.stringify([...seen])); } catch {}
         resultGrid.replaceChildren(...selected.map(makeCard));
+        generatedResults.classList.toggle("single-result", selected.length === 1);
+        $("top").classList.add("has-results");
+        document.querySelector(".featured-preview").hidden = true;
+        generatedResults.hidden = false;
         const remaining = animals.length - seen.size;
         const roundNote = startedNewRound ? " · fresh round started" : remaining < requested ? ` · ${remaining} new ${remaining === 1 ? "animal" : "animals"} left` : " · no repeats from earlier picks";
         $("result-status").textContent = `${selected.length} ${selected.length === 1 ? "animal" : "animals"} · ${animals.length} photo-verified species available${roundNote}`;
+        generatedResults.scrollIntoView({
+          behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth",
+          block: "start",
+        });
       }
 
       $("generate").addEventListener("click", generateAnimals);
