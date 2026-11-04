@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "54a08780-e059-411e-86d4-f3bd637d3e6f",
+    "scientificName": "Panthera leo",
+    "oldPath": "animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp",
+    "verdict": "replace",
+    "reason": "Main subjects overlap a tree branch; much of the limb/body outline is concealed.",
+    "replacement": {
+      "title": "Panthera leo (male) (181091659).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Panthera_leo_(male)_(181091659).jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Daniel Aufgang",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp",
+      "width": 1280,
+      "height": 854,
+      "bytes": 470632
+    }
+  },
+  {
+    "id": "2d866913-d59f-4e48-93d8-19a0ce8201cb",
+    "scientificName": "Panthera tigris",
+    "oldPath": "animal-photos/approved/Q19939.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "9f33e613-944c-483d-8275-cc59a1b470c2",
+    "scientificName": "Panthera pardus",
+    "oldPath": "animal-photos/approved/9f33e613-944c-483d-8275-cc59a1b470c2.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "c5362c8a-0c93-41f5-9d4d-674dbe231318",
+    "scientificName": "Panthera onca",
+    "oldPath": "animal-photos/approved/c5362c8a-0c93-41f5-9d4d-674dbe231318.webp",
+    "verdict": "replace",
+    "reason": "Tail is cut by the original left image edge.",
+    "replacement": {
+      "title": "Jaguar (Panthera onca) in snow.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca)_in_snow.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Alexander Leisser",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/c5362c8a-0c93-41f5-9d4d-674dbe231318.webp",
+      "width": 1280,
+      "height": 852,
+      "bytes": 177910
+    }
+  },
+  {
+    "id": "1b25ddef-22f8-467e-a8b1-0846bcba9b3b",
+    "scientificName": "Acinonyx jubatus",
+    "oldPath": "animal-photos/approved/1b25ddef-22f8-467e-a8b1-0846bcba9b3b.webp",
+    "verdict": "replace",
+    "reason": "Tall grass hides most of the body and legs.",
+    "replacement": {
+      "title": "Acinonyx jubatus at Parc des Félins 16.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Acinonyx_jubatus_at_Parc_des_F%C3%A9lins_16.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Abujoy",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/1b25ddef-22f8-467e-a8b1-0846bcba9b3b.webp",
+      "width": 1063,
+      "height": 1600,
+      "bytes": 294968
+    }
+  },
+  {
+    "id": "cb44ff49-165e-4c97-9a94-98f512dda64f",
+    "scientificName": "Panthera uncia",
+    "oldPath": "animal-photos/approved/Q30197.webp",
+    "verdict": "replace",
+    "reason": "Original image cuts off the hindquarters and tail.",
+    "replacement": {
+      "title": "Uncia uncia Ähtäri 7.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Uncia_uncia_%C3%84ht%C3%A4ri_7.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "kallerna",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q30197.webp",
+      "width": 1280,
+      "height": 1014,
+      "bytes": 597424
+    }
+  },
+  {
+    "id": "ee40e166-219a-48bf-bdfb-3ec97d67661d",
+    "scientificName": "Puma concolor",
+    "oldPath": "animal-photos/approved/ee40e166-219a-48bf-bdfb-3ec97d67661d.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "b416b85f-aa39-4689-9ca0-cb25f1258013",
+    "scientificName": "Canis lupus",
+    "oldPath": "animal-photos/approved/Q18498.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "64cdabf4-42da-4e38-991f-c2446005da4d",
+    "scientificName": "Vulpes vulpes",
+    "oldPath": "animal-photos/approved/Q8332.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "8e5dfa51-961d-48be-acda-fd7a00f0e565",
+    "scientificName": "Vulpes lagopus",
+    "oldPath": "animal-photos/approved/8e5dfa51-961d-48be-acda-fd7a00f0e565.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "6dcdf5ae-20b4-472e-a5a1-d73b997ff940",
+    "scientificName": "Vulpes zerda",
+    "oldPath": "animal-photos/approved/Q131564.webp",
+    "verdict": "replace",
+    "reason": "Head close-up; body and limbs are outside the frame."
+  },
+  {
+    "id": "f787cef9-1801-4387-8f6c-4234b5c8d72a",
+    "scientificName": "Canis latrans",
+    "oldPath": "animal-photos/approved/f787cef9-1801-4387-8f6c-4234b5c8d72a.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "41e86fdc-c817-4262-9cdf-e18c6b8053c4",
+    "scientificName": "Lycaon pictus",
+    "oldPath": "animal-photos/approved/41e86fdc-c817-4262-9cdf-e18c6b8053c4.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "1cddcd20-9c80-4c98-9a3a-881e724ee4e7",
+    "scientificName": "Ursus arctos",
+    "oldPath": "animal-photos/approved/1cddcd20-9c80-4c98-9a3a-881e724ee4e7.webp",
+    "verdict": "replace",
+    "reason": "Dense foreground shrubs hide the lower body and legs.",
+    "replacement": {
+      "title": "Eurasian brown bear (Ursus arctos arctos) standing on rear legs, Skansen, Stockholm, Sweden julesvernex2.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Eurasian_brown_bear_(Ursus_arctos_arctos)_standing_on_rear_legs,_Skansen,_Stockholm,_Sweden_julesvernex2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Jules Verne Times Two",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/1cddcd20-9c80-4c98-9a3a-881e724ee4e7.webp",
+      "width": 1075,
+      "height": 1600,
+      "bytes": 747778
+    }
+  },
+  {
+    "id": "35fbff4d-c0e6-4c53-9f27-f0a6ecbe7720",
+    "scientificName": "Ursus maritimus",
+    "oldPath": "animal-photos/approved/35fbff4d-c0e6-4c53-9f27-f0a6ecbe7720.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "887ea34b-b62a-4126-9e98-434d6000dd0c",
+    "scientificName": "Ailuropoda melanoleuca",
+    "oldPath": "animal-photos/approved/Q33602.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "02990f6d-82d3-45a9-b85e-99deb69d2a96",
+    "scientificName": "Ailurus fulgens",
+    "oldPath": "animal-photos/approved/Q41960.webp",
+    "verdict": "replace",
+    "reason": "Tree branches and framing conceal/cut the tail and hindquarters.",
+    "replacement": {
+      "title": "Red Panda (24986761703).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Red_Panda_(24986761703).jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Mathias Appel",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q41960.webp",
+      "width": 1280,
+      "height": 848,
+      "bytes": 222610
+    }
+  },
+  {
+    "id": "d1e9b847-ab06-4663-8095-c65c08bfe21e",
+    "scientificName": "Enhydra lutris",
+    "oldPath": "animal-photos/approved/d1e9b847-ab06-4663-8095-c65c08bfe21e.webp",
+    "verdict": "replace",
+    "reason": "Only the floating upper part of the animal is visible above water.",
+    "replacement": {
+      "title": "Enhydra lutris — iNaturalist observation 308999730, photo 557544676",
+      "filePage": "https://www.inaturalist.org/observations/308999730",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Mickey Wu",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/d1e9b847-ab06-4663-8095-c65c08bfe21e.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 250696
+    }
+  },
+  {
+    "id": "58214bec-f89b-4a03-8a32-f5de4303a54a",
+    "scientificName": "Odobenus rosmarus",
+    "oldPath": "animal-photos/approved/58214bec-f89b-4a03-8a32-f5de4303a54a.webp",
+    "verdict": "replace",
+    "reason": "Overlapping group and water prevent a clear complete main body.",
+    "replacement": {
+      "title": "Odobenus rosmarus — iNaturalist observation 42402998, photo 67324781",
+      "filePage": "https://www.inaturalist.org/observations/42402998",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "William Stephens",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/58214bec-f89b-4a03-8a32-f5de4303a54a.webp",
+      "width": 1024,
+      "height": 750,
+      "bytes": 94070
+    }
+  },
+  {
+    "id": "b98f5417-9fa3-400f-b389-4bf1a961cce3",
+    "scientificName": "Loxodonta africana",
+    "oldPath": "animal-photos/approved/b98f5417-9fa3-400f-b389-4bf1a961cce3.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "91e44407-08f2-4b96-b8a6-ab4ce6d4d38d",
+    "scientificName": "Elephas maximus",
+    "oldPath": "animal-photos/approved/91e44407-08f2-4b96-b8a6-ab4ce6d4d38d.webp",
+    "verdict": "replace",
+    "reason": "Lower body and legs are submerged and not visible.",
+    "replacement": {
+      "title": "Elephas maximus — iNaturalist observation 129075674, photo 219306743",
+      "filePage": "https://www.inaturalist.org/observations/129075674",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Morten Ross",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/91e44407-08f2-4b96-b8a6-ab4ce6d4d38d.webp",
+      "width": 1024,
+      "height": 682,
+      "bytes": 114944
+    }
+  },
+  {
+    "id": "34f93016-ee49-428c-8504-c7c4739232bc",
+    "scientificName": "Pan troglodytes",
+    "oldPath": "animal-photos/approved/34f93016-ee49-428c-8504-c7c4739232bc.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "5cd33aab-9669-4550-988c-f3f482b97abd",
+    "scientificName": "Phascolarctos cinereus",
+    "oldPath": "animal-photos/approved/Q36101.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "3ca524e8-74c5-45ad-a267-9f599ab7d751",
+    "scientificName": "Ornithorhynchus anatinus",
+    "oldPath": "animal-photos/approved/3ca524e8-74c5-45ad-a267-9f599ab7d751.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "d52b48fc-be52-46a1-94b7-ac7790b4730c",
+    "scientificName": "Myrmecophaga tridactyla",
+    "oldPath": "animal-photos/approved/d52b48fc-be52-46a1-94b7-ac7790b4730c.webp",
+    "verdict": "replace",
+    "reason": "The long tail is cut by the original right image edge.",
+    "replacement": {
+      "title": "Giant anteater knuckle walking.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Giant_anteater_knuckle_walking.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "LaggedOnUser",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/d52b48fc-be52-46a1-94b7-ac7790b4730c.webp",
+      "width": 1280,
+      "height": 791,
+      "bytes": 246544
+    }
+  },
+  {
+    "id": "9c234021-ce53-45d9-8fdd-b0ca3115a451",
+    "scientificName": "Hydrochoerus hydrochaeris",
+    "oldPath": "animal-photos/approved/9c234021-ce53-45d9-8fdd-b0ca3115a451.webp",
+    "verdict": "replace",
+    "reason": "Dense aquatic plants hide the legs and lower body.",
+    "replacement": {
+      "title": "Hydrochoerus hydrochaeris — iNaturalist observation 57700291, photo 92061420",
+      "filePage": "https://www.inaturalist.org/observations/57700291",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Antonio W. Salas",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/9c234021-ce53-45d9-8fdd-b0ca3115a451.webp",
+      "width": 680,
+      "height": 1024,
+      "bytes": 211326
+    }
+  },
+  {
+    "id": "a7243ae1-4147-45a1-a42e-fd4c95b85d4a",
+    "scientificName": "Suricata suricatta",
+    "oldPath": "animal-photos/approved/a7243ae1-4147-45a1-a42e-fd4c95b85d4a.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "94397ceb-67dc-4dcd-93bf-1a5bf38bba61",
+    "scientificName": "Alces alces",
+    "oldPath": "animal-photos/approved/94397ceb-67dc-4dcd-93bf-1a5bf38bba61.webp",
+    "verdict": "replace",
+    "reason": "Tall vegetation substantially obscures the legs and lower body.",
+    "replacement": {
+      "title": "Alces alces — iNaturalist observation 218636208, photo 386908311",
+      "filePage": "https://www.inaturalist.org/observations/218636208",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Bernadette Kavanaugh",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/94397ceb-67dc-4dcd-93bf-1a5bf38bba61.webp",
+      "width": 1024,
+      "height": 625,
+      "bytes": 115928
+    }
+  },
+  {
+    "id": "ab0c5152-01eb-4d29-8d2f-74dd155bd06a",
+    "scientificName": "Equus africanus asinus",
+    "oldPath": "animal-photos/approved/ab0c5152-01eb-4d29-8d2f-74dd155bd06a.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "6260355c-1f7b-491c-baa5-4268710276d6",
+    "scientificName": "Tursiops truncatus",
+    "oldPath": "animal-photos/approved/6260355c-1f7b-491c-baa5-4268710276d6.webp",
+    "verdict": "replace",
+    "reason": "Original framing omits the rear body and flukes.",
+    "replacement": {
+      "title": "Underwater dolphins 2 (15377184268).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Underwater_dolphins_2_(15377184268).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Tony Hisgett from Birmingham, UK",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/6260355c-1f7b-491c-baa5-4268710276d6.webp",
+      "width": 1280,
+      "height": 1162,
+      "bytes": 114454
+    }
+  },
+  {
+    "id": "c8cbec13-a69c-40d8-836b-902a6b1defcf",
+    "scientificName": "Orcinus orca",
+    "oldPath": "animal-photos/approved/Q26843.webp",
+    "verdict": "replace",
+    "reason": "Only a breaching partial body is visible; rear body/flukes remain underwater."
+  },
+  {
+    "id": "fd8d3e5e-24a0-4aa2-9211-987ff86007dd",
+    "scientificName": "Megaptera novaeangliae",
+    "oldPath": "animal-photos/approved/Q132905.webp",
+    "verdict": "replace",
+    "reason": "The main whale tail/flukes are cut by the original right image edge."
+  },
+  {
+    "id": "c8aeba86-0838-4c2e-8a3c-512608a2656c",
+    "scientificName": "Lemur catta",
+    "oldPath": "animal-photos/approved/c8aeba86-0838-4c2e-8a3c-512608a2656c.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "bee678d0-5742-430e-9a59-e877a47eaaf1",
+    "scientificName": "Gulo gulo",
+    "oldPath": "animal-photos/approved/bee678d0-5742-430e-9a59-e877a47eaaf1.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "b48db64c-2590-41d1-b4f7-c9588eb11444",
+    "scientificName": "Lynx rufus",
+    "oldPath": "animal-photos/approved/Q131907.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q34505",
+    "scientificName": "Hippopotamus amphibius",
+    "oldPath": "animal-photos/approved/Q34505.webp",
+    "verdict": "replace",
+    "reason": "Feet and lower legs are submerged; no complete main outline."
+  },
+  {
+    "id": "Q15083",
+    "scientificName": "Giraffa camelopardalis",
+    "oldPath": "animal-photos/approved/Q15083.webp",
+    "verdict": "replace",
+    "reason": "Tall grass conceals the lower legs and feet.",
+    "replacement": {
+      "title": "Giraffe walking on the grass.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Giraffe_walking_on_the_grass.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Joselodos",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q15083.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 493818
+    }
+  },
+  {
+    "id": "Q121439",
+    "scientificName": "Procyon lotor",
+    "oldPath": "animal-photos/approved/Q121439.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q122783",
+    "scientificName": "Ursus americanus",
+    "oldPath": "animal-photos/approved/Q122783.webp",
+    "verdict": "replace",
+    "reason": "Foreground vegetation obscures the lower body and feet.",
+    "replacement": {
+      "title": "Oso negro (Ursus americanus), Parque natural provincial Tatshenshini-Alsek, Yukón, Canadá, 2017-08-25, DD 84.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Oso_negro_(Ursus_americanus),_Parque_natural_provincial_Tatshenshini-Alsek,_Yuk%C3%B3n,_Canad%C3%A1,_2017-08-25,_DD_84.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Diego Delso",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q122783.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 476026
+    }
+  },
+  {
+    "id": "Q81214",
+    "scientificName": "Physeter macrocephalus",
+    "oldPath": "animal-photos/approved/Q81214.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q173128",
+    "scientificName": "Mellivora capensis",
+    "oldPath": "animal-photos/approved/Q173128.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q159918",
+    "scientificName": "Ceratotherium simum",
+    "oldPath": "animal-photos/approved/Q159918.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q147267",
+    "scientificName": "Didelphis virginiana",
+    "oldPath": "animal-photos/approved/Q147267.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q737838",
+    "scientificName": "Gorilla gorilla",
+    "oldPath": "animal-photos/approved/Q737838.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q468500",
+    "scientificName": "Sciurus carolinensis",
+    "oldPath": "animal-photos/approved/Q468500.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q307157",
+    "scientificName": "Gorilla beringei",
+    "oldPath": "animal-photos/approved/Q307157.webp",
+    "verdict": "replace",
+    "reason": "Lower body and limbs are cut/concealed by original framing and vegetation."
+  },
+  {
+    "id": "Q25311",
+    "scientificName": "Mustela nivalis",
+    "oldPath": "animal-photos/approved/Q25311.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q27066",
+    "scientificName": "Meles meles",
+    "oldPath": "animal-photos/approved/Q27066.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q83310",
+    "scientificName": "Mus musculus",
+    "oldPath": "animal-photos/approved/Q83310.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q43375",
+    "scientificName": "Lynx lynx",
+    "oldPath": "animal-photos/approved/Q43375.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q4388",
+    "scientificName": "Sciurus vulgaris",
+    "oldPath": "animal-photos/approved/Q4388.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q25345",
+    "scientificName": "Mustela erminea",
+    "oldPath": "animal-photos/approved/Q25345.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q30847",
+    "scientificName": "Caracal caracal",
+    "oldPath": "animal-photos/approved/Q30847.webp",
+    "verdict": "replace",
+    "reason": "Head-and-shoulders close-up; complete body is outside the frame.",
+    "replacement": {
+      "title": "Caracal caracal — iNaturalist observation 237190672, photo 422085434",
+      "filePage": "https://www.inaturalist.org/observations/237190672",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "bogsuckers",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q30847.webp",
+      "width": 1024,
+      "height": 855,
+      "bytes": 273754
+    }
+  },
+  {
+    "id": "Q79794",
+    "scientificName": "Cervus elaphus",
+    "oldPath": "animal-photos/approved/Q79794.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q160042",
+    "scientificName": "Syncerus caffer",
+    "oldPath": "animal-photos/approved/Q160042.webp",
+    "verdict": "replace",
+    "reason": "Tall grass hides much of the legs and lower body.",
+    "replacement": {
+      "title": "Cape Buffalo (Syncerus caffer) bull and cow ... (53021591046).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cape_Buffalo_(Syncerus_caffer)_bull_and_cow_..._(53021591046).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Bernard DUPONT from FRANCE",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q160042.webp",
+      "width": 1280,
+      "height": 717,
+      "bytes": 330510
+    }
+  },
+  {
+    "id": "Q46212",
+    "scientificName": "Orycteropus afer",
+    "oldPath": "animal-photos/approved/Q46212.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q43576",
+    "scientificName": "Felis silvestris",
+    "oldPath": "animal-photos/approved/Q43576.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q42699",
+    "scientificName": "Leptailurus serval",
+    "oldPath": "animal-photos/approved/Q42699.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q128098",
+    "scientificName": "Canis aureus",
+    "oldPath": "animal-photos/approved/Q128098.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q25851",
+    "scientificName": "Oryctolagus cuniculus",
+    "oldPath": "animal-photos/approved/Q25851.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q19537",
+    "scientificName": "Pan paniscus",
+    "oldPath": "animal-photos/approved/Q19537.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q82037",
+    "scientificName": "Okapia johnstoni",
+    "oldPath": "animal-photos/approved/Q82037.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q82728",
+    "scientificName": "Bison bison",
+    "oldPath": "animal-photos/approved/Q82728.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q26046",
+    "scientificName": "Martes martes",
+    "oldPath": "animal-photos/approved/Q26046.webp",
+    "verdict": "replace",
+    "reason": "The long hanging tail is cut by the original lower image edge."
+  },
+  {
+    "id": "Q81091",
+    "scientificName": "Bison bonasus",
+    "oldPath": "animal-photos/approved/Q81091.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q132576",
+    "scientificName": "Aepyceros melampus",
+    "oldPath": "animal-photos/approved/Q132576.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q134964",
+    "scientificName": "Sarcophilus harrisii",
+    "oldPath": "animal-photos/approved/Q134964.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q33261",
+    "scientificName": "Leopardus pardalis",
+    "oldPath": "animal-photos/approved/Q33261.webp",
+    "verdict": "replace",
+    "reason": "Branches conceal the lower body and legs; portrait framing omits the tail.",
+    "replacement": {
+      "title": "Leopardus pardalis — iNaturalist observation 306086653, photo 551946198",
+      "filePage": "https://www.inaturalist.org/observations/306086653",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "desertnaturalist",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q33261.webp",
+      "width": 1024,
+      "height": 878,
+      "bytes": 166552
+    }
+  },
+  {
+    "id": "Q42623",
+    "scientificName": "Felis chaus",
+    "oldPath": "animal-photos/approved/Q42623.webp",
+    "verdict": "replace",
+    "reason": "Hindquarters/tail extend beyond the original right image edge.",
+    "replacement": {
+      "title": "Felis chaus — iNaturalist observation 142053263, photo 243480779",
+      "filePage": "https://www.inaturalist.org/observations/142053263",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Ramesh Shenai",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q42623.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 203182
+    }
+  },
+  {
+    "id": "Q166794",
+    "scientificName": "Otocolobus manul",
+    "oldPath": "animal-photos/approved/Q166794.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q124410",
+    "scientificName": "Ursus thibetanus",
+    "oldPath": "animal-photos/approved/Q124410.webp",
+    "verdict": "replace",
+    "reason": "Rock and pose conceal most of the lower body and limbs."
+  },
+  {
+    "id": "Q26838",
+    "scientificName": "Lepus europaeus",
+    "oldPath": "animal-photos/approved/Q26838.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q159426",
+    "scientificName": "Monodon monoceros",
+    "oldPath": "animal-photos/approved/Q159426.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q132585",
+    "scientificName": "Cuon alpinus",
+    "oldPath": "animal-photos/approved/Q132585.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q159857",
+    "scientificName": "Dama dama",
+    "oldPath": "animal-photos/approved/Q159857.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q132072",
+    "scientificName": "Delphinapterus leucas",
+    "oldPath": "animal-photos/approved/Q132072.webp",
+    "verdict": "replace",
+    "reason": "Head close-up above water; most of the body is absent."
+  },
+  {
+    "id": "Q184004",
+    "scientificName": "Ovibos moschatus",
+    "oldPath": "animal-photos/approved/Q184004.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q95036",
+    "scientificName": "Diceros bicornis",
+    "oldPath": "animal-photos/approved/Q95036.webp",
+    "verdict": "replace",
+    "reason": "Dense shrubs hide lower legs and feet.",
+    "replacement": {
+      "title": "Diceros bicornis — iNaturalist observation 268962011, photo 483522600",
+      "filePage": "https://www.inaturalist.org/observations/268962011",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "scaup",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q95036.webp",
+      "width": 1024,
+      "height": 616,
+      "bytes": 201694
+    }
+  },
+  {
+    "id": "Q175329",
+    "scientificName": "Felis margarita",
+    "oldPath": "animal-photos/approved/Q175329.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q131340",
+    "scientificName": "Rupicapra rupicapra",
+    "oldPath": "animal-photos/approved/Q131340.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q42627",
+    "scientificName": "Prionailurus bengalensis",
+    "oldPath": "animal-photos/approved/Q42627.webp",
+    "verdict": "replace",
+    "reason": "Lower body and limbs are outside/hidden by original framing and vegetation.",
+    "replacement": {
+      "title": "Prionailurus bengalensis — iNaturalist observation 51208019, photo 81345740",
+      "filePage": "https://www.inaturalist.org/observations/51208019",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Utain Pummarin",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q42627.webp",
+      "width": 1024,
+      "height": 684,
+      "bytes": 113140
+    }
+  },
+  {
+    "id": "Q181191",
+    "scientificName": "Castor fiber",
+    "oldPath": "animal-photos/approved/Q181191.webp",
+    "verdict": "replace",
+    "reason": "Partial upper-body view at the waterline; tail and much of the body are absent.",
+    "replacement": {
+      "title": "Castor fiber — iNaturalist observation 154712668, photo 267352485",
+      "filePage": "https://www.inaturalist.org/observations/154712668",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q181191.webp",
+      "width": 1024,
+      "height": 679,
+      "bytes": 223176
+    }
+  },
+  {
+    "id": "Q36135",
+    "scientificName": "Neofelis nebulosa",
+    "oldPath": "animal-photos/approved/Q36135.webp",
+    "verdict": "replace",
+    "reason": "Head-and-neck portrait; complete body is outside the frame.",
+    "replacement": {
+      "title": "Neofelis nebulosa — iNaturalist observation 302041475, photo 544317503",
+      "filePage": "https://www.inaturalist.org/observations/302041475",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Ian Dugdale",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q36135.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 141756
+    }
+  },
+  {
+    "id": "Q6145",
+    "scientificName": "Erinaceus europaeus",
+    "oldPath": "animal-photos/approved/Q6145.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q172886",
+    "scientificName": "Lama guanicoe",
+    "oldPath": "animal-photos/approved/Q172886.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q133189",
+    "scientificName": "Nyctereutes procyonoides",
+    "oldPath": "animal-photos/approved/Q133189.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q129544",
+    "scientificName": "Dugong dugon",
+    "oldPath": "animal-photos/approved/Q129544.webp",
+    "verdict": "replace",
+    "reason": "Original frame cuts off the rear body and flukes.",
+    "replacement": {
+      "title": "Dugong dugon — iNaturalist observation 191099988, photo 335161470",
+      "filePage": "https://www.inaturalist.org/observations/191099988",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Gergely Nigg",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q129544.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 116660
+    }
+  },
+  {
+    "id": "Q180404",
+    "scientificName": "Cervus canadensis",
+    "oldPath": "animal-photos/approved/Q180404.webp",
+    "verdict": "replace",
+    "reason": "Dense foreground vegetation substantially hides the legs.",
+    "replacement": {
+      "title": "Cervus canadensis — iNaturalist observation 127428959, photo 216336245",
+      "filePage": "https://www.inaturalist.org/observations/127428959",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Sam Eberhard",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q180404.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 179052
+    }
+  },
+  {
+    "id": "Q184224",
+    "scientificName": "Rattus norvegicus",
+    "oldPath": "animal-photos/approved/Q184224.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q129727",
+    "scientificName": "Lynx pardinus",
+    "oldPath": "animal-photos/approved/Q129727.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q144923",
+    "scientificName": "Helarctos malayanus",
+    "oldPath": "animal-photos/approved/Q144923.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q126683",
+    "scientificName": "Saiga tatarica",
+    "oldPath": "animal-photos/approved/Q126683.webp",
+    "verdict": "replace",
+    "reason": "Distant subjects with legs concealed by foreground grass; no clear complete main animal.",
+    "replacement": {
+      "title": "Saiga tatarica — iNaturalist observation 51501644, photo 81831106",
+      "filePage": "https://www.inaturalist.org/observations/51501644",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q126683.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 82434
+    }
+  },
+  {
+    "id": "Q167797",
+    "scientificName": "Vicugna vicugna",
+    "oldPath": "animal-photos/approved/Q167797.webp",
+    "verdict": "replace",
+    "reason": "Dense shrubs hide most of the lower legs and feet."
+  },
+  {
+    "id": "Q178089",
+    "scientificName": "Crocuta crocuta",
+    "oldPath": "animal-photos/approved/Q178089.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q47910",
+    "scientificName": "Rhinoceros unicornis",
+    "oldPath": "animal-photos/approved/Q47910.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q156606",
+    "scientificName": "Macaca mulatta",
+    "oldPath": "animal-photos/approved/Q156606.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q146457",
+    "scientificName": "Lynx canadensis",
+    "oldPath": "animal-photos/approved/Q146457.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q187704",
+    "scientificName": "Myocastor coypus",
+    "oldPath": "animal-photos/approved/Q187704.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q27179",
+    "scientificName": "Neogale vison",
+    "oldPath": "animal-photos/approved/Q27179.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q183339",
+    "scientificName": "Antilope cervicapra",
+    "oldPath": "animal-photos/approved/Q183339.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q213084",
+    "scientificName": "Antidorcas marsupialis",
+    "oldPath": "animal-photos/approved/Q213084.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q190674",
+    "scientificName": "Prionailurus viverrinus",
+    "oldPath": "animal-photos/approved/Q190674.webp",
+    "verdict": "replace",
+    "reason": "Reclining close-up with the rear body, tail and limbs outside the original frame.",
+    "replacement": {
+      "title": "Prionailurus viverrinus — iNaturalist observation 406524750, photo 746901047",
+      "filePage": "https://www.inaturalist.org/observations/406524750",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Wolfgang Ahlmer",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q190674.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 255202
+    }
+  },
+  {
+    "id": "Q178228",
+    "scientificName": "Capra aegagrus",
+    "oldPath": "animal-photos/approved/Q178228.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q190516",
+    "scientificName": "Cervus nippon",
+    "oldPath": "animal-photos/approved/Q190516.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q29220",
+    "scientificName": "Dicerorhinus sumatrensis",
+    "oldPath": "animal-photos/approved/Q29220.webp",
+    "verdict": "replace",
+    "reason": "Both main subjects have hindquarters outside the original right edge."
+  },
+  {
+    "id": "Q26913",
+    "scientificName": "Phoca vitulina",
+    "oldPath": "animal-photos/approved/Q26913.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q168327",
+    "scientificName": "Capra ibex",
+    "oldPath": "animal-photos/approved/Q168327.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  },
+  {
+    "id": "Q137641",
+    "scientificName": "Tremarctos ornatus",
+    "oldPath": "animal-photos/approved/Q137641.webp",
+    "verdict": "replace",
+    "reason": "Low clarity and original framing omit the lower body and limbs.",
+    "replacement": {
+      "title": "Tremarctos ornatus — iNaturalist observation 265870047, photo 477630278",
+      "filePage": "https://www.inaturalist.org/observations/265870047",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Francisco Sánchez Karste",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q137641.webp",
+      "width": 1024,
+      "height": 709,
+      "bytes": 443204
+    }
+  },
+  {
+    "id": "Q145016",
+    "scientificName": "Melursus ursinus",
+    "oldPath": "animal-photos/approved/Q145016.webp",
+    "verdict": "pass",
+    "reason": "Original image shows a clear, complete main subject. Naturally folded or far-side limbs need not all be extended."
+  }
+]

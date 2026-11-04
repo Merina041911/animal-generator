@@ -6,12 +6,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp",
     "photo": {
-      "title": "File:Leones (Panthera leo), parque nacional Serengueti, Tanzania, 2024-05-26, DD 48.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ALeones_%28Panthera_leo%29%2C_parque_nacional_Serengueti%2C_Tanzania%2C_2024-05-26%2C_DD_48.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Diego Delso",
-      "photoSource": "Wikimedia Commons"
+      "title": "Panthera leo (male) (181091659).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Panthera_leo_(male)_(181091659).jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Daniel Aufgang",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "de714f80c5205405dbf74a66431cce4c0ac6b61042bd077100d6840858aa5fb3"
     }
   },
   {
@@ -27,7 +30,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Seemaleena",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "3243f45802213f874bbd9ccf3408eed3e3aeea06605628687b44412fbb7f3280"
     }
   },
   {
@@ -42,7 +48,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "6e4c05b649e6bf8bf877c48a4ddd52e094462888c93c8ba62bd2934018255550"
     }
   },
   {
@@ -52,14 +61,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/c5362c8a-0c93-41f5-9d4d-674dbe231318.webp",
     "photo": {
-      "articleTitle": "Jaguar",
-      "articleUrl": "https://en.wikipedia.org/wiki/Jaguar",
-      "fileTitle": "Standing_jaguar.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Standing_jaguar.jpg",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "artist": "USFWS",
-      "photoSource": "Wikimedia Commons via Wikipedia article"
+      "title": "Jaguar (Panthera onca) in snow.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca)_in_snow.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Alexander Leisser",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "e6ebafa5909153ecaac06202797a47715b35ae16ffefb2d2ef688dd0c485df0d"
     }
   },
   {
@@ -69,12 +79,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/1b25ddef-22f8-467e-a8b1-0846bcba9b3b.webp",
     "photo": {
-      "title": "File:Cheetah (Acinonyx jubatus) cub.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ACheetah_%28Acinonyx_jubatus%29_cub.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Charles J. Sharp",
-      "photoSource": "Wikimedia Commons"
+      "title": "Acinonyx jubatus at Parc des Félins 16.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Acinonyx_jubatus_at_Parc_des_F%C3%A9lins_16.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Abujoy",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "12a12f0632777f0adeadd7b7b58bc4874e5e0d45f6eced2a04cdeda21516bbcf"
     }
   },
   {
@@ -84,13 +97,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q30197.webp",
     "photo": {
-      "title": "Snow Leopard Backlit (49092985883).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Snow_Leopard_Backlit_(49092985883).jpg",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "artist": "Eric Kilby  from Somerville, MA, USA",
+      "title": "Uncia uncia Ähtäri 7.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Uncia_uncia_%C3%84ht%C3%A4ri_7.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "kallerna",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "eba9b183e1d53f888ac3e25afb75f6a9752dbe7c1df4c68e176d83ec49144354"
     }
   },
   {
@@ -105,7 +120,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "3d52fa0f724a46980bfb026d34b584158473e4a25ec2c6b4824f8ea250b5cdb5"
     }
   },
   {
@@ -121,7 +139,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "User:Mas3cf",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "29f1410028b70d6f0bac4a11a2527e989c34f2eb831a82d617191d4883c990f8"
     }
   },
   {
@@ -137,7 +158,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "ClaudiaTen",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "822fc5c5d56a3a41df31b39666b642b4ddf640374dcf5837e163cb0f724f33d6"
     }
   },
   {
@@ -152,7 +176,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Nixette",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f056572e8ae1f303faa798a0a8a80fffd384abfe2a7bb7bb5ba7584dd3033961"
     }
   },
   {
@@ -160,15 +187,18 @@ window.ANIMAL_LIBRARY = [
     "name": "fennec fox",
     "scientificName": "Vulpes zerda",
     "category": "Mammals",
-    "image": "animal-photos/approved/Q131564.webp",
-    "photo": {
-      "title": "Fennec Fox (9163009503).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_(9163009503).jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "Daniel Ramirez  from Honolulu, USA",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q131564.webp",
+      "photo": {
+        "title": "Fennec Fox (9163009503).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_(9163009503).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "artist": "Daniel Ramirez  from Honolulu, USA",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "93c10d0294126303d5de62f5c6b1a7b52e6ed3e6e5bd28da43725cf13608096c"
     }
   },
   {
@@ -185,7 +215,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Yathin S Krishnappa",
-      "photoSource": "Wikimedia Commons via Wikipedia article"
+      "photoSource": "Wikimedia Commons via Wikipedia article",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "167610a3adeb9238011f2d79c651df8c26c8e308e5816604dc8f584332b6a270"
     }
   },
   {
@@ -200,7 +233,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "Lip Kee",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "542df772d8d1611f4d280d4f16fc33d4b3029692705d9a214fd891d8573cb08b"
     }
   },
   {
@@ -210,12 +246,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/1cddcd20-9c80-4c98-9a3a-881e724ee4e7.webp",
     "photo": {
-      "title": "File:Brown bear (Ursus arctos), Viiksimo, Kainuu region, Finland (29058988558).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ABrown_bear_%28Ursus_arctos%29%2C_Viiksimo%2C_Kainuu_region%2C_Finland_%2829058988558%29.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "Frank Vassen  from Brussels, Belgium",
-      "photoSource": "Wikimedia Commons"
+      "title": "Eurasian brown bear (Ursus arctos arctos) standing on rear legs, Skansen, Stockholm, Sweden julesvernex2.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Eurasian_brown_bear_(Ursus_arctos_arctos)_standing_on_rear_legs,_Skansen,_Stockholm,_Sweden_julesvernex2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Jules Verne Times Two",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "2187704c8355940f561201a0be05e77a2c791d12dcab184d385078f122c2585e"
     }
   },
   {
@@ -232,7 +271,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Alan Wilson",
-      "photoSource": "Wikimedia Commons via Wikipedia article"
+      "photoSource": "Wikimedia Commons via Wikipedia article",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "de8c3377b1ce701964f85bacf6b98e8dca0433640fb46957421f7a772c8fdd7d"
     }
   },
   {
@@ -248,7 +290,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "J. Patrick Fischer",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a7444e1f74a3a6c659a0108a65bf4ac3ed2bb2183ef091262e3baf0e95423cca"
     }
   },
   {
@@ -258,13 +303,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q41960.webp",
     "photo": {
-      "title": "RedPanda SingalilaNationalPark DFrame.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:RedPanda_SingalilaNationalPark_DFrame.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Ajit Hota",
+      "title": "Red Panda (24986761703).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Red_Panda_(24986761703).jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Mathias Appel",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "d17c854b4f2062cb2404f88f2712cb7eb80cd0b99f6a953143dfdcf6d2c792ca"
     }
   },
   {
@@ -274,12 +321,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/d1e9b847-ab06-4663-8095-c65c08bfe21e.webp",
     "photo": {
-      "title": "File:Northern sea otter (Enhydra lutris kenyoni) female and pup Quatsino.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ANorthern_sea_otter_%28Enhydra_lutris_kenyoni%29_female_and_pup_Quatsino.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Charles J. Sharp",
-      "photoSource": "Wikimedia Commons"
+      "title": "Enhydra lutris — iNaturalist observation 308999730, photo 557544676",
+      "filePage": "https://www.inaturalist.org/observations/308999730",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Mickey Wu",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "605b1a6f359140e0a85c299b866aed0a3214a738690b3dd1ab56e75d640061aa"
     }
   },
   {
@@ -289,12 +339,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/58214bec-f89b-4a03-8a32-f5de4303a54a.webp",
     "photo": {
-      "title": "File:NOR-2016-Svalbard-Sjuøyane-Phippsøya-Atlantic Walrus (Odobenus rosmarus rosmarus) 03.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ANOR-2016-Svalbard-Sju%C3%B8yane-Phipps%C3%B8ya-Atlantic_Walrus_%28Odobenus_rosmarus_rosmarus%29_03.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Godot13",
-      "photoSource": "Wikimedia Commons"
+      "title": "Odobenus rosmarus — iNaturalist observation 42402998, photo 67324781",
+      "filePage": "https://www.inaturalist.org/observations/42402998",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "William Stephens",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "b609ee1885d7ba4173d940e59d08cae4fa70ed181fd9b6c63faee89df0a4966e"
     }
   },
   {
@@ -309,7 +362,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "30783e9c3b47259f18d02fb88ef2751bc7a1269a3c0b8751ad9cf8c962957a21"
     }
   },
   {
@@ -319,12 +375,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/91e44407-08f2-4b96-b8a6-ab4ce6d4d38d.webp",
     "photo": {
-      "title": "File:Sitting Asian elephant (Elephas maximus) bathing in Tad Lo river, Laos.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ASitting_Asian_elephant_%28Elephas_maximus%29_bathing_in_Tad_Lo_river%2C_Laos.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Basile Morin",
-      "photoSource": "Wikimedia Commons"
+      "title": "Elephas maximus — iNaturalist observation 129075674, photo 219306743",
+      "filePage": "https://www.inaturalist.org/observations/129075674",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Morten Ross",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "0460b53f76dbec30b537ca6bbd442d43b9af36a6ceafc11b83faad223b97ee45"
     }
   },
   {
@@ -339,7 +398,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Mira Meijer  Burgers' Zoo",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a932af47064242f6ff791750fecb5e4ff647f2bf1f599406bb053a6fd33ec477"
     }
   },
   {
@@ -355,7 +417,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Diliff",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a6769184cc9098eefb410852b86e47322d78ba0a7355181133f0648499552e3b"
     }
   },
   {
@@ -370,7 +435,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "39ad3148f81c5a66f71028980f42adaf984a7324dc2bdde404396d763c83bcb4"
     }
   },
   {
@@ -380,14 +448,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/d52b48fc-be52-46a1-94b7-ac7790b4730c.webp",
     "photo": {
-      "articleTitle": "Giant anteater",
-      "articleUrl": "https://en.wikipedia.org/wiki/Giant_anteater",
-      "fileTitle": "Myresluger2.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Myresluger2.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Malene Thyssen",
-      "photoSource": "Wikimedia Commons via Wikipedia article"
+      "title": "Giant anteater knuckle walking.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Giant_anteater_knuckle_walking.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "LaggedOnUser",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "e5490f4aad00c033cf0a748bb669a120c0cfbf7f17ac73565e51eea740db5b7d"
     }
   },
   {
@@ -397,12 +466,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/9c234021-ce53-45d9-8fdd-b0ca3115a451.webp",
     "photo": {
-      "title": "File:Capivara(Hydrochoerus hydrochaeris).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ACapivara%28Hydrochoerus_hydrochaeris%29.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Clodomiro Esteves Junior",
-      "photoSource": "Wikimedia Commons"
+      "title": "Hydrochoerus hydrochaeris — iNaturalist observation 57700291, photo 92061420",
+      "filePage": "https://www.inaturalist.org/observations/57700291",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Antonio W. Salas",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "aebb90f7d7fcc6d65c641c4412e8f611842d6ae4a42d833b442d5b16ed229fa3"
     }
   },
   {
@@ -417,7 +489,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Diego Delso",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "b7d91afc25dcf438725ad2f13c2d9a4be200a7a53aaa132d5af6392609e51bf0"
     }
   },
   {
@@ -427,12 +502,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/94397ceb-67dc-4dcd-93bf-1a5bf38bba61.webp",
     "photo": {
-      "title": "File:Alce (Alces alces), Potter marsh, Alaska, Estados Unidos, 2017-08-22, DD 139.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AAlce_%28Alces_alces%29%2C_Potter_marsh%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_139.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Diego Delso",
-      "photoSource": "Wikimedia Commons"
+      "title": "Alces alces — iNaturalist observation 218636208, photo 386908311",
+      "filePage": "https://www.inaturalist.org/observations/218636208",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Bernadette Kavanaugh",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "71a73aa169b72ef36e889319443c503a1278e5f6932a77a845f76d468afd4e34"
     }
   },
   {
@@ -461,7 +539,10 @@ window.ANIMAL_LIBRARY = [
       "license": "Public domain",
       "licenseUrl": null,
       "artist": "Adrian Pingstone",
-      "photoSource": "Wikimedia Commons via Wikipedia article"
+      "photoSource": "Wikimedia Commons via Wikipedia article",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "e3f914483585b723f505f56165e45bce143cdfeee20146b14e14b921affee49c"
     }
   },
   {
@@ -483,12 +564,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/6260355c-1f7b-491c-baa5-4268710276d6.webp",
     "photo": {
-      "title": "File:Tursiops Truncatus.JPG",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ATursiops_Truncatus.JPG",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Cloudette-90",
-      "photoSource": "Wikimedia Commons"
+      "title": "Underwater dolphins 2 (15377184268).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Underwater_dolphins_2_(15377184268).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Tony Hisgett from Birmingham, UK",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "524c39a1e676c1137117df332f80efacf2ebe6aa6fbba5b48af4414648f93c69"
     }
   },
   {
@@ -496,15 +580,18 @@ window.ANIMAL_LIBRARY = [
     "name": "orca",
     "scientificName": "Orcinus orca",
     "category": "Mammals",
-    "image": "animal-photos/approved/Q26843.webp",
-    "photo": {
-      "title": "Killerwhales jumping.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Killerwhales_jumping.jpg",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "artist": "Robert Pittman",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q26843.webp",
+      "photo": {
+        "title": "Killerwhales jumping.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Killerwhales_jumping.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "artist": "Robert Pittman",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "8bf87ab11f4e71b0e8a8d60858c78ed041be871595d12e2ae9fc874d7dfccce8"
     }
   },
   {
@@ -516,17 +603,20 @@ window.ANIMAL_LIBRARY = [
   {
     "id": "fd8d3e5e-24a0-4aa2-9211-987ff86007dd",
     "name": "humpback whale",
-    "scientificName": "Balaenoptera novaeangliae",
+    "scientificName": "Megaptera novaeangliae",
     "category": "Mammals",
-    "image": "animal-photos/approved/Q132905.webp",
-    "photo": {
-      "title": "Humpback whales in singing position.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Humpback_whales_in_singing_position.jpg",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "artist": "Dr. Louis M. Herman.",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q132905.webp",
+      "photo": {
+        "title": "Humpback whales in singing position.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Humpback_whales_in_singing_position.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "artist": "Dr. Louis M. Herman.",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "4f98a3363f44db6902dd17868c38307c80aa2594d111c4280da8a46ccc114980"
     }
   },
   {
@@ -541,7 +631,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a44fcdd11d8c5113455eabd2559daa810ab189f6b8248c0a78d5f201daf7aa92"
     }
   },
   {
@@ -556,7 +649,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Gunnar Creutz",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f193598068b17c0ee82f2478562a62e667bca10a65420e372eaaf866df8466f7"
     }
   },
   {
@@ -572,7 +668,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Becker1999 (Paul and Cathy)",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "44a26f64e90c210dca45c96c7bb6d6d6e6d157071f4e02b3b8025b0f14dc4024"
     }
   },
   {
@@ -582,12 +681,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Birds",
     "image": "animal-photos/approved/80064052-3255-4b19-9125-5a0c79dec5bf.webp",
     "photo": {
-      "title": "File:Bald eagle (Haliaeetus leucocephalus washingtoniensis) mobbed by crows Tofino.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ABald_eagle_%28Haliaeetus_leucocephalus_washingtoniensis%29_mobbed_by_crows_Tofino.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Charles J. Sharp",
-      "photoSource": "Wikimedia Commons"
+      "title": "File:Bald Eagle (Haliaeetus leucocephalus) Kachemak Bay, Alaska.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_(Haliaeetus_leucocephalus)_Kachemak_Bay,_Alaska.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Andy  Morffew from Itchen Abbas, Hampshire, UK",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "715c1a844934cbbb7e28f018557d4492d1fd46d304440e238f5227b952c20de7"
     }
   },
   {
@@ -597,12 +699,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Birds",
     "image": "animal-photos/approved/20f92e20-e65b-4efd-b40f-b3aa8fde6011.webp",
     "photo": {
-      "title": "File:Aquila chrysaetos.402 - Betanzos.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AAquila_chrysaetos.402_-_Betanzos.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Fernando Losada Rodríguez",
-      "photoSource": "Wikimedia Commons"
+      "title": "Aquila chrysaetos — iNaturalist photo 120823804",
+      "filePage": "https://www.inaturalist.org/observations/73963285",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Morten Ross",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "af885fb60806f5b32ac7136c6cbe984a95f86ee7d2abb4ed10cbe58ade713ee0"
     }
   },
   {
@@ -629,7 +734,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Diego Delso",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "df4fe21177ac5c3e14a32620763205e24e9bc8d097e94adb54c908f527b1a0d0"
     }
   },
   {
@@ -643,14 +751,17 @@ window.ANIMAL_LIBRARY = [
     "name": "king penguin",
     "scientificName": "Aptenodytes patagonicus",
     "category": "Birds",
-    "image": "animal-photos/approved/bd302d4d-59a5-4359-a661-3e82242f5d0d.webp",
-    "photo": {
-      "title": "File:King penguin (Aptenodytes patagonicus) - Parque Pinguino Rey 01.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AKing_penguin_%28Aptenodytes_patagonicus%29_-_Parque_Pinguino_Rey_01.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Thomas Fuhrmann",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/bd302d4d-59a5-4359-a661-3e82242f5d0d.webp",
+      "photo": {
+        "title": "File:King penguin (Aptenodytes patagonicus) - Parque Pinguino Rey 01.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3AKing_penguin_%28Aptenodytes_patagonicus%29_-_Parque_Pinguino_Rey_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Thomas Fuhrmann",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "d3d2d78d3d2486aa44ff1e163ff013e29e96ec9812e65f84c66e873193e736eb"
     }
   },
   {
@@ -665,7 +776,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "fry_theonly",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "eb0a50759a1bedac8002f7acd6479ebeb9f0f42ad8f30000fef7fb17c8aff097"
     }
   },
   {
@@ -681,12 +795,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Birds",
     "image": "animal-photos/approved/f562234a-9b05-439c-aad5-0ea83ed4c553.webp",
     "photo": {
-      "title": "File:Anas platyrhynchos - Weiherwald - Karlsruhe 05.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AAnas_platyrhynchos_-_Weiherwald_-_Karlsruhe_05.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "H. Zell",
-      "photoSource": "Wikimedia Commons"
+      "title": "Anas platyrhynchos — iNaturalist photo 276357350",
+      "filePage": "https://www.inaturalist.org/observations/159942431",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "John Brew",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "81f9223dd3b00749ddae345b3dca0f67ce14639b655c9872a7cc45ee3a65a6de"
     }
   },
   {
@@ -701,7 +818,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "fab9ff41f38e538f087e5694066da7b4d2b3baa264c0a653c9bfe6d4dd06362a"
     }
   },
   {
@@ -716,7 +836,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Frank Schulenburg",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "b7bbfda2c178f2b3314998ab3e70490324a65889bf7562c7363e03b0d8ddf7d0"
     }
   },
   {
@@ -731,7 +854,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Chme82",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "ad8859931948d7aa12eeb90f09479e5840baad090ae2173817ff7dc5021f52de"
     }
   },
   {
@@ -746,7 +872,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Frank Schulenburg",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "775d30f9dc9a1df1ed3012fc287e244ea36e0462bb68e6072707b358ab812558"
     }
   },
   {
@@ -768,7 +897,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Artemy Voikhansky",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "7254a028963538c61f37f7486b40c9425101df2681e5c774501714841fc1a781"
     }
   },
   {
@@ -796,7 +928,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "william_stephens",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "7df8a256ae15c5f547c257979d886ce2482316c93dcff71f564275af1d3bc338"
     }
   },
   {
@@ -804,14 +939,17 @@ window.ANIMAL_LIBRARY = [
     "name": "magpie",
     "scientificName": "Pica pica",
     "category": "Birds",
-    "image": "animal-photos/approved/1f3bf322-4ca3-402f-80c9-0260843de5e4.webp",
-    "photo": {
-      "title": "File:Pica Pica in Austevoll.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3APica_Pica_in_Austevoll.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Marius Vassnes",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/1f3bf322-4ca3-402f-80c9-0260843de5e4.webp",
+      "photo": {
+        "title": "File:Pica Pica in Austevoll.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3APica_Pica_in_Austevoll.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Marius Vassnes",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "550f94ae3132658a3f0618b73a4a070d5f9b9850a8f97ae1857ed2b438ef4670"
     }
   },
   {
@@ -819,14 +957,17 @@ window.ANIMAL_LIBRARY = [
     "name": "turkey",
     "scientificName": "Meleagris gallopavo",
     "category": "Birds",
-    "image": "animal-photos/approved/3505388e-32ed-464d-816a-0bfca1b68934.webp",
-    "photo": {
-      "title": "File:Male wild turkey (Meleagris gallopavo) strutting.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AMale_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Frank Schulenburg",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/3505388e-32ed-464d-816a-0bfca1b68934.webp",
+      "photo": {
+        "title": "File:Male wild turkey (Meleagris gallopavo) strutting.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3AMale_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Frank Schulenburg",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "5de7f78a0b353042f88fade094630c8f7d862eadda22cadbf7dbe1eb1e8b54d7"
     }
   },
   {
@@ -836,12 +977,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Birds",
     "image": "animal-photos/approved/f16a316c-6580-4cc0-b6b5-fd2e895ba225.webp",
     "photo": {
-      "title": "File:Gallus gallus domesticus - Vogelpark Steinen 01.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AGallus_gallus_domesticus_-_Vogelpark_Steinen_01.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "H. Zell",
-      "photoSource": "Wikimedia Commons"
+      "title": "Gallus gallus domesticus — iNaturalist photo 92534634",
+      "filePage": "https://www.inaturalist.org/observations/57984002",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Sebastian Doak",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "cf00a5d0ae2cc89323d7011e4a779c54b151a21980a55883ed52f38c4986ce8e"
     }
   },
   {
@@ -849,14 +993,17 @@ window.ANIMAL_LIBRARY = [
     "name": "osprey",
     "scientificName": "Pandion haliaetus",
     "category": "Birds",
-    "image": "animal-photos/approved/d25f13d6-722e-4da3-8073-0a86b8a15976.webp",
-    "photo": {
-      "title": "File:Pandion haliaetus DSC 5659.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3APandion_haliaetus_DSC_5659.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "lwolfartist",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/d25f13d6-722e-4da3-8073-0a86b8a15976.webp",
+      "photo": {
+        "title": "File:Pandion haliaetus DSC 5659.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3APandion_haliaetus_DSC_5659.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "artist": "lwolfartist",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "9b6b4e8f4b8a7791b9530e8d1aeed505b05f15f03d082d066b7cbbf16dcd6740"
     }
   },
   {
@@ -869,10 +1016,13 @@ window.ANIMAL_LIBRARY = [
       "title": "Komodo dragon Varanus komodoensis Ragunan Zoo 2.JPG",
       "filePage": "https://commons.wikimedia.org/wiki/File:Komodo_dragon_Varanus_komodoensis_Ragunan_Zoo_2.JPG",
       "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "artist": "Midori",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "17cb2ee26b5033dac17165d5522fe08acf2991211285b578419c89f145e91606"
     }
   },
   {
@@ -894,7 +1044,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "",
       "artist": "Obtained from Molly Ebersold of the St. Augustine Alligator Farm",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "28bed319f3e884cbadac20203f9777eb74931ba329b69d5ec3bf61ae7df63c5d"
     }
   },
   {
@@ -904,12 +1057,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Reptiles",
     "image": "animal-photos/approved/0f07b2f6-92f5-40df-9cb0-6f30cb18dc60.webp",
     "photo": {
-      "title": "File:Alligator mississippiensis (American alligator) 6.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AAlligator_mississippiensis_%28American_alligator%29_6.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Bobyellow",
-      "photoSource": "Wikimedia Commons"
+      "title": "Alligator mississippiensis — iNaturalist photo 113744549",
+      "filePage": "https://www.inaturalist.org/observations/70017326",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "Zygy",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "10496c46650ba5061f5fd5510233dbd4bba88213b465d0eb02edf638a426d3ab"
     }
   },
   {
@@ -924,7 +1080,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "7b9d6bc91fe7583de90cf1570d96451c0bd8f7a5c0b5f714db6bb75588f9baf3"
     }
   },
   {
@@ -932,15 +1091,18 @@ window.ANIMAL_LIBRARY = [
     "name": "loggerhead sea turtle",
     "scientificName": "Caretta caretta",
     "category": "Reptiles",
-    "image": "animal-photos/approved/Q192095.webp",
-    "photo": {
-      "title": "Loggerhead sea turtle.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Loggerhead_sea_turtle.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "ukanda",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q192095.webp",
+      "photo": {
+        "title": "Loggerhead sea turtle.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Loggerhead_sea_turtle.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "artist": "ukanda",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "41fcfb92e60b4c250de7b1c35094e85098bf5cbb9e73fc85d9cd4d36440116d0"
     }
   },
   {
@@ -950,12 +1112,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Reptiles",
     "image": "animal-photos/approved/7d7ef734-8a79-4dcf-ad8e-f2cbcd1bf43e.webp",
     "photo": {
-      "title": "File:Ophiophagus hannah, King cobra (female) - Kaeng Krachan National Park (25458697183).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AOphiophagus_hannah%2C_King_cobra_%28female%29_-_Kaeng_Krachan_National_Park_%2825458697183%29.jpg",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "artist": "Rushen",
-      "photoSource": "Wikimedia Commons"
+      "title": "Ophiophagus hannah — iNaturalist photo 157899882",
+      "filePage": "https://www.inaturalist.org/observations/95133147",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Lawrence Hylton",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "69791c45725d1ba0ece19398161cd2b6a8daf3bac1aa09d4ef5b13ce343a8b13"
     }
   },
   {
@@ -965,13 +1130,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Reptiles",
     "image": "animal-photos/approved/Q207347.webp",
     "photo": {
-      "title": "Eunectes murinus (1).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Eunectes_murinus_(1).jpg",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "artist": "TimVickers",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Eunectes murinus — iNaturalist photo 265377609",
+      "filePage": "https://www.inaturalist.org/observations/153635576",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Conrado Pável de Oliveira",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "8848297f6616a0c030c109f06a78b9856445e8189f5b762cd5b1b418ce0027a2"
     }
   },
   {
@@ -981,12 +1148,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Reptiles",
     "image": "animal-photos/approved/c4419539-43de-49d4-82f4-1fc599f42a15.webp",
     "photo": {
-      "title": "File:Frill-necked Lizard (Chlamydosaurus kingii) (8691487073).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AFrill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288691487073%29.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "Matt  from Melbourne, Australia",
-      "photoSource": "Wikimedia Commons"
+      "title": "Chlamydosaurus kingii — iNaturalist photo 543438997",
+      "filePage": "https://www.inaturalist.org/observations/301576162",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "artist": "Romain Boisseau",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "9cfc7f25ed299256a5d447b1d96cb68f0140a2b61b31583876a2d6ba2c7cc9f7"
     }
   },
   {
@@ -996,13 +1166,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Reptiles",
     "image": "animal-photos/approved/Q17134.webp",
     "photo": {
-      "title": "Gharial san diego.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Gharial_san_diego.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "Bo Link  from Knoxville, TN, USA",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Gavialis gangeticus — iNaturalist photo 274530463",
+      "filePage": "https://www.inaturalist.org/observations/158892760",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "avocat",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "4e3566fecaa2a2c69c8a8aca5bf3ac3c3741366d582ca954bcfd12438de2e37f"
     }
   },
   {
@@ -1024,7 +1196,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "Josh Olander",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "54434976baffc59aad774aeabd316836dccd436941b267b4ed8b68b2392a0b24"
     }
   },
   {
@@ -1032,15 +1207,18 @@ window.ANIMAL_LIBRARY = [
     "name": "axolotl",
     "scientificName": "Ambystoma mexicanum",
     "category": "Amphibians",
-    "image": "animal-photos/approved/Q22718.webp",
-    "photo": {
-      "title": "Ambystoma mexicanum Natural History Museum University of Pisa (cropped).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_Natural_History_Museum_University_of_Pisa_(cropped).jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Mattia Nocciola",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q22718.webp",
+      "photo": {
+        "title": "Ambystoma mexicanum Natural History Museum University of Pisa (cropped).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_Natural_History_Museum_University_of_Pisa_(cropped).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Mattia Nocciola",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "3b277dae055f5d8239b8837cbc31087609cf749d8562a7dbf78bca691b787fb6"
     }
   },
   {
@@ -1055,7 +1233,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Geoff Gallice  from Gainesville, FL, USA",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "496f72f92c9e043f1ec68bc6764d7ab450d9998c1379402d7395a7eb285755a5"
     }
   },
   {
@@ -1063,14 +1244,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Chinese giant salamander",
     "scientificName": "Andrias davidianus",
     "category": "Amphibians",
-    "image": "animal-photos/approved/dd44eb4f-f4d1-4557-939e-44f35694b615.webp",
-    "photo": {
-      "title": "File:2009 Andrias davidianus.JPG",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3A2009_Andrias_davidianus.JPG",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "J. Patrick Fischer",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/dd44eb4f-f4d1-4557-939e-44f35694b615.webp",
+      "photo": {
+        "title": "File:2009 Andrias davidianus.JPG",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3A2009_Andrias_davidianus.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "J. Patrick Fischer",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "6cc56370d45f08c6f08017794b92666d9cd20564eed0566c88c9472a0afc407a"
     }
   },
   {
@@ -1078,14 +1262,17 @@ window.ANIMAL_LIBRARY = [
     "name": "olm",
     "scientificName": "Proteus anguinus",
     "category": "Amphibians",
-    "image": "animal-photos/approved/b20ac6bd-5100-4e76-945c-1b896de1c406.webp",
-    "photo": {
-      "title": "File:Olm (Proteus anguinus) in Moulis, Ariege (Laboratoire souterraine, CNRS) (33755905584).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AOlm_%28Proteus_anguinus%29_in_Moulis%2C_Ariege_%28Laboratoire_souterraine%2C_CNRS%29_%2833755905584%29.jpg",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "artist": "Javier Ábalos Alvarez  from Madrid, España",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/b20ac6bd-5100-4e76-945c-1b896de1c406.webp",
+      "photo": {
+        "title": "File:Olm (Proteus anguinus) in Moulis, Ariege (Laboratoire souterraine, CNRS) (33755905584).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3AOlm_%28Proteus_anguinus%29_in_Moulis%2C_Ariege_%28Laboratoire_souterraine%2C_CNRS%29_%2833755905584%29.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "artist": "Javier Ábalos Alvarez  from Madrid, España",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "ec0037d14495fb2bdba53aaa7fc6992c192eb9401e7ec99b237be239ede08435"
     }
   },
   {
@@ -1101,12 +1288,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Amphibians",
     "image": "animal-photos/approved/6a2be24b-bce0-4c60-81dc-07c1f1184ae4.webp",
     "photo": {
-      "title": "File:Tiger Salamander (Ambystoma tigrinum).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ATiger_Salamander_%28Ambystoma_tigrinum%29.jpg",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "artist": "USFWS Mountain Prairie",
-      "photoSource": "Wikimedia Commons"
+      "title": "Ambystoma tigrinum 65538455.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ambystoma_tigrinum_65538455.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "evangrimes",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a63f2595f853856ca408f940ad3b635f5658edc582ede9f55d9e6c06519de77f"
     }
   },
   {
@@ -1129,7 +1319,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Abe Khao Lak",
-      "photoSource": "Wikimedia Commons via Wikipedia article"
+      "photoSource": "Wikimedia Commons via Wikipedia article",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "d8e79ece0ffeb2361452143e44aea577ed1728536fe78a06d3605ef2fc65df76"
     }
   },
   {
@@ -1145,13 +1338,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Fish",
     "image": "animal-photos/approved/Q192285.webp",
     "photo": {
-      "title": "Mola mola.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Mola_mola.jpg",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "artist": "U.S. National Oceanic and Atmospheric Administration",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Mola mola — iNaturalist photo 114458708",
+      "filePage": "https://www.inaturalist.org/observations/70410479",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Sidonio Paes",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "94e2ebecfa9f1a8e719055b84c7c30f016010cb5ea5d122e6d7b8e17b1a5e337"
     }
   },
   {
@@ -1166,7 +1361,10 @@ window.ANIMAL_LIBRARY = [
       "license": "Public domain",
       "licenseUrl": "",
       "artist": "USFWS Mountain Prairie",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "ea61c5f496e9ba6a60750172b5c2b329a6b401aa403ca4f9b0db5840bf045182"
     }
   },
   {
@@ -1186,14 +1384,17 @@ window.ANIMAL_LIBRARY = [
     "name": "arapaima",
     "scientificName": "Arapaima gigas",
     "category": "Fish",
-    "image": "animal-photos/approved/dd5aa97d-9abe-42b2-8e35-59bd0c506569.webp",
-    "photo": {
-      "title": "File:Arapaima gigas 01.JPG",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AArapaima_gigas_01.JPG",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Bjoertvedt",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/dd5aa97d-9abe-42b2-8e35-59bd0c506569.webp",
+      "photo": {
+        "title": "File:Arapaima gigas 01.JPG",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3AArapaima_gigas_01.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Bjoertvedt",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "d5dfe595842d04019d5d37a383ce5eab6b8e098c15383abc588279694349f6a7"
     }
   },
   {
@@ -1216,7 +1417,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "artist": "Per Harald Olsen",
-      "photoSource": "Wikimedia Commons via Wikipedia article"
+      "photoSource": "Wikimedia Commons via Wikipedia article",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "1718195252b63b353b205fbbc0195e7493f6a7e4dc89258cf98e03e6aa39d2ca"
     }
   },
   {
@@ -1244,7 +1448,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "artist": "Georg Mittenecker",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "adf323ff1909669092f01d50f91863fc0aad620238d5c9d62d8fdfd9d095f688"
     }
   },
   {
@@ -1272,7 +1479,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Thomas Bresson",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "ada9c74e7213e240915c893db9fcae78f7789c2e758a3edf3135bf2e382ceaed"
     }
   },
   {
@@ -1283,12 +1493,15 @@ window.ANIMAL_LIBRARY = [
     "subgroup": "Insects",
     "image": "animal-photos/approved/fec113bd-c3ce-46bc-acbe-1474c9d8ca4d.webp",
     "photo": {
-      "title": "File:Mantis religiosa MHNT entière.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AMantis_religiosa_MHNT_enti%C3%A8re.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Didier Descouens",
-      "photoSource": "Wikimedia Commons"
+      "title": "A Mantis in my hand.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:A_Mantis_in_my_hand.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Gabrieluta",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "22267e2a7493134e1d69398182bf154d873885fb72b07dd9609aab76c530287d"
     }
   },
   {
@@ -1325,7 +1538,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Diego Delso",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "949e6b63090d9a514da131e60b7a15ea89a338a2de2252029d01cd228641ec04"
     }
   },
   {
@@ -1336,12 +1552,15 @@ window.ANIMAL_LIBRARY = [
     "subgroup": "Crustaceans",
     "image": "animal-photos/approved/79b7c6f7-0b2a-4d4b-a7e4-e2eb7dd09b63.webp",
     "photo": {
-      "title": "File:Coconut Crab - Birgus latro 7 (4091446580).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ACoconut_Crab_-_Birgus_latro_7_%284091446580%29.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "Drew Avery",
-      "photoSource": "Wikimedia Commons"
+      "title": "Crabe cocotiers Birgus latro (Linnaeus 1777).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Crabe_cocotiers_Birgus_latro_(Linnaeus_1777).jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Jebulon",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "0f4742c14d8424383c8a21e4491d1dd81c4d6305f387b7a3dd8a5dcacd897b25"
     }
   },
   {
@@ -1357,7 +1576,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Emőke Dénes",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "d79a3dcdc3be2253c4ee37c4849e5c2d9b5561952eb74382a0655ff5101e59e5"
     }
   },
   {
@@ -1368,12 +1590,15 @@ window.ANIMAL_LIBRARY = [
     "subgroup": "Echinoderms",
     "image": "animal-photos/approved/b7a75547-2a58-4303-9497-42eee2412700.webp",
     "photo": {
-      "title": "File:Etoile de mer tropicale \"dévoreuse de corail\" (Acanthaster planci) (Ifremer 00789-90105 - 50406).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AEtoile_de_mer_tropicale_%22d%C3%A9voreuse_de_corail%22_%28Acanthaster_planci%29_%28Ifremer_00789-90105_-_50406%29.jpg",
+      "title": "Acanthaster planci — iNaturalist photo 525906136",
+      "filePage": "https://www.inaturalist.org/observations/292257435",
       "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "artist": "Olivier Dugornay (IFREMER, Pôle Images, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané, France)",
-      "photoSource": "Wikimedia Commons"
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Nathan",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "97800b1fc25ef30fec1e162dc80758a970699d7067746dde26154c158c5f8cdb"
     }
   },
   {
@@ -1384,12 +1609,15 @@ window.ANIMAL_LIBRARY = [
     "subgroup": "Molluscs",
     "image": "animal-photos/approved/f400b519-3564-4183-b4bd-c3b922cc7c5e.webp",
     "photo": {
-      "title": "File:Pulpo (Octopus vulgaris), isla de Mouro, Santander, España, 2019-08-14, DD 30.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3APulpo_%28Octopus_vulgaris%29%2C_isla_de_Mouro%2C_Santander%2C_Espa%C3%B1a%2C_2019-08-14%2C_DD_30.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Diego Delso",
-      "photoSource": "Wikimedia Commons"
+      "title": "Babyoctopus.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Babyoctopus.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Babyoctopus.jpg#Licensing",
+      "artist": "Bart Braun",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "39084346acbb02de5790064de0d9a633cda5efe2e3c6ab104b8a1af009a29980"
     }
   },
   {
@@ -1400,12 +1628,15 @@ window.ANIMAL_LIBRARY = [
     "subgroup": "Molluscs",
     "image": "animal-photos/approved/8c89f14e-7c7b-4844-b0c3-dd3f90818660.webp",
     "photo": {
-      "title": "File:Lissachatina fulica snaily.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ALissachatina_fulica_snaily.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "ImagePerson",
-      "photoSource": "Wikimedia Commons"
+      "title": "Snail in Ubud, Bali, 2010 (1).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Snail_in_Ubud,_Bali,_2010_(1).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Alexander R. Jenner",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "446b96af3b455411f7adf52831187cb0d07300b22b3e3ef54871614537874296"
     }
   },
   {
@@ -1415,12 +1646,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Birds",
     "image": "animal-photos/approved/a93b67a0-15d5-4835-938b-212928ec6901.webp",
     "photo": {
-      "title": "File:Gray-headed Chachalaca. Ortalis cinereiceps - Flickr - gailhampshire.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AGray-headed_Chachalaca._Ortalis_cinereiceps_-_Flickr_-_gailhampshire.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "gailhampshire  from Cradley, Malvern, U.K",
-      "photoSource": "Wikimedia Commons"
+      "title": "Ortalis cinereiceps — iNaturalist photo 470866961",
+      "filePage": "https://www.inaturalist.org/observations/262054799",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "Irene",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "d138b4761fde8ca15764ca4c9d3dd8fbb6ab6c93fe8c7f2291b2412aff536eb4"
     }
   },
   {
@@ -1434,14 +1668,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Variegated Tinamou",
     "scientificName": "Crypturellus variegatus",
     "category": "Birds",
-    "image": "animal-photos/approved/13f03f76-ad05-41dc-9346-cdce51eacaf3.webp",
-    "photo": {
-      "title": "File:Ma - Crypturellus variegatus - 2.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AMa_-_Crypturellus_variegatus_-_2.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Emőke Dénes",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/13f03f76-ad05-41dc-9346-cdce51eacaf3.webp",
+      "photo": {
+        "title": "File:Ma - Crypturellus variegatus - 2.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3AMa_-_Crypturellus_variegatus_-_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Emőke Dénes",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "21950ff6f21cf31530b0367e2be25559643769c769c2c95cc46d86f77a2192a9"
     }
   },
   {
@@ -1462,7 +1699,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Nortondefeis",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "b2482cb22018bfc70abfa77cf61eb40e63a1b02a429991cd49d24ea2abbdb035"
     }
   },
   {
@@ -1483,7 +1723,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Cephas",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "25806f89551f2b79906dfb05f498f45466cf700655246459600399eb7a0cfebf"
     }
   },
   {
@@ -1504,7 +1747,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "Parth Kansara",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "49179db25fb94fc6bbed0f04d9e83e4689b552b0e90cb030df87c4307033d0fd"
     }
   },
   {
@@ -1514,12 +1760,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Birds",
     "image": "animal-photos/approved/41440b20-a497-417d-8f11-87428a867fc8.webp",
     "photo": {
-      "title": "File:Pterocles gutturalis.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3APterocles_gutturalis.jpg",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "artist": "Andrew Smith",
-      "photoSource": "Wikimedia Commons"
+      "title": "Pterocles gutturalis — iNaturalist photo 356397007",
+      "filePage": "https://www.inaturalist.org/observations/201855958",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "David Carey",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "3c48e6885491f0f4a9024d5b2c7ededc8f6c1ea61c502398aaabb146ea9fa07d"
     }
   },
   {
@@ -1540,7 +1789,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Andreas Trepte",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "4a6da48d40c707e07365e4c4402b4016f5caaf38a997af22cd7e1a77f4a00b28"
     }
   },
   {
@@ -1567,7 +1819,10 @@ window.ANIMAL_LIBRARY = [
       "license": "Public domain",
       "licenseUrl": "",
       "artist": "George Chernilevsky",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "5dc9da559572b390e620a6260cf16d7778e5b42c1df52cdd6f7e18c286e69c34"
     }
   },
   {
@@ -1581,14 +1836,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Black Rock Skink",
     "scientificName": "Egernia saxatilis",
     "category": "Reptiles",
-    "image": "animal-photos/approved/0e2a08ed-13a1-4b9e-a047-ef4045e7d88f.webp",
-    "photo": {
-      "title": "File:Black Rock Skink (Egernia saxatilis) (8397071247).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ABlack_Rock_Skink_%28Egernia_saxatilis%29_%288397071247%29.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "Matt  from Melbourne, Australia",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/0e2a08ed-13a1-4b9e-a047-ef4045e7d88f.webp",
+      "photo": {
+        "title": "File:Black Rock Skink (Egernia saxatilis) (8397071247).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3ABlack_Rock_Skink_%28Egernia_saxatilis%29_%288397071247%29.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "artist": "Matt  from Melbourne, Australia",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "370878fe145e3c86893852539571e8f69aba464035e6585449e5daab3258ca8a"
     }
   },
   {
@@ -1609,7 +1867,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Judy Gallagher",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a1266a44341911407eff29ad5956b16e5bf87fa2975fcde5674ba3b78b81547a"
     }
   },
   {
@@ -1632,7 +1893,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Ocrdu",
-      "photoSource": "Wikimedia Commons via Wikipedia article"
+      "photoSource": "Wikimedia Commons via Wikipedia article",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "ebde0ea9b187042c2d7596c9081638b3c109e410e59c86282cde10221ed24c06"
     }
   },
   {
@@ -1647,7 +1911,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "Francisco Farriols Sarabia",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a9dbad4766f43c69478c54ccf1d6aa42b40bca77c5ceba79f8deab0fb0454ae8"
     }
   },
   {
@@ -1662,7 +1929,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Wise Lum",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "dbe7299faf7c1e521787b8eec39109915bf8e72dde1f9746c24fc72c9b3ec30f"
     }
   },
   {
@@ -1670,14 +1940,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Tyrrhenian Wall Lizard",
     "scientificName": "Podarcis tiliguerta",
     "category": "Reptiles",
-    "image": "animal-photos/approved/bad1295c-4349-4992-af66-5ef7bdf83e7d.webp",
-    "photo": {
-      "title": "File:Podarcis Tiliguerta 002.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3APodarcis_Tiliguerta_002.jpg",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "artist": "Vinii4238",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/bad1295c-4349-4992-af66-5ef7bdf83e7d.webp",
+      "photo": {
+        "title": "File:Podarcis Tiliguerta 002.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3APodarcis_Tiliguerta_002.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "artist": "Vinii4238",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "a11883f24d188d5c3674b63351eb3f99a615ccf02373ecaf5485c2122e44c67c"
     }
   },
   {
@@ -1698,7 +1971,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "897128310445a2df9f183022c5a75af054caad19c2c33d1bcd97c90fd8f3c6c5"
     }
   },
   {
@@ -1708,12 +1984,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Amphibians",
     "image": "animal-photos/approved/9e1615e2-4fc8-4967-8a3a-baff830fef51.webp",
     "photo": {
-      "title": "File:Yellow-bellied toad - Bombina variegata (13972135890).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AYellow-bellied_toad_-_Bombina_variegata_%2813972135890%29.jpg",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "artist": "Björn S...",
-      "photoSource": "Wikimedia Commons"
+      "title": "Bombina variegata 32.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bombina_variegata_32.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Waugsberg",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f4f12c85be42b6e1c87bf489b3428059737d1c533a6eb3faa95fad96349b778b"
     }
   },
   {
@@ -1727,14 +2006,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Long-Tailed Clawed Salamander",
     "scientificName": "Onychodactylus fischeri",
     "category": "Amphibians",
-    "image": "animal-photos/approved/d1644001-d86d-4541-9501-295a873aed2a.webp",
-    "photo": {
-      "title": "File:Onychodactylus fischeri 48747459.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AOnychodactylus_fischeri_48747459.jpg",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "artist": "Alexander A. Fomichev",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/d1644001-d86d-4541-9501-295a873aed2a.webp",
+      "photo": {
+        "title": "File:Onychodactylus fischeri 48747459.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3AOnychodactylus_fischeri_48747459.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "artist": "Alexander A. Fomichev",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "58c414adcf1c60b1118b99d7a3966775f511f21e9d881d729cad238b61c6b6c8"
     }
   },
   {
@@ -1756,12 +2038,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Amphibians",
     "image": "animal-photos/approved/f8556ac8-b536-418a-8a68-0ce22d33f4d6.webp",
     "photo": {
-      "title": "File:Northern spectacled salamander (Salamandrina perspicillata) 02.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ANorthern_spectacled_salamander_%28Salamandrina_perspicillata%29_02.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "Noordelijke brilsalamander - northern spectacled salamander - Salamandrina perspicillata 5.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Noordelijke_brilsalamander_-_northern_spectacled_salamander_-_Salamandrina_perspicillata_5.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "Bouke ten Cate",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "3d8b0f030d739ca87c7119014485c04f537950a4845cf7a1886d731cab8f53b5"
     }
   },
   {
@@ -1776,7 +2061,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Caudatejake",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "519ee89bf6147178c1d7ea4c55bd4b8d14e8696b3af2d8d669fde96a38870e2b"
     }
   },
   {
@@ -1784,14 +2072,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Lorestan Newt",
     "scientificName": "Neurergus kaiseri",
     "category": "Amphibians",
-    "image": "animal-photos/approved/4c0abb14-1b44-490e-80e6-effa0d067394.webp",
-    "photo": {
-      "title": "File:Luristan Newt (Neurergus kaiseri) at the California Academy of Sciences 01.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ALuristan_Newt_%28Neurergus_kaiseri%29_at_the_California_Academy_of_Sciences_01.jpg",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "artist": "EvanBaldonado",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/4c0abb14-1b44-490e-80e6-effa0d067394.webp",
+      "photo": {
+        "title": "File:Luristan Newt (Neurergus kaiseri) at the California Academy of Sciences 01.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3ALuristan_Newt_%28Neurergus_kaiseri%29_at_the_California_Academy_of_Sciences_01.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "artist": "EvanBaldonado",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "dfd0aa20e1b1186d81563a24c708f61ff7e9a2b0ad6a0441bc386775f9b624fc"
     }
   },
   {
@@ -1799,16 +2090,19 @@ window.ANIMAL_LIBRARY = [
     "name": "Reedfish",
     "scientificName": "Erpetoichthys calabaricus",
     "category": "Fish",
-    "image": "animal-photos/approved/6f4673be-bc9e-4605-b455-e514d1348f60.webp",
-    "photo": {
-      "articleTitle": "Reedfish",
-      "articleUrl": "https://en.wikipedia.org/wiki/Reedfish",
-      "fileTitle": "Akwa19_reedfish.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Akwa19_reedfish.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Michał Zalewski",
-      "photoSource": "Wikimedia Commons via Wikipedia article"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/6f4673be-bc9e-4605-b455-e514d1348f60.webp",
+      "photo": {
+        "articleTitle": "Reedfish",
+        "articleUrl": "https://en.wikipedia.org/wiki/Reedfish",
+        "fileTitle": "Akwa19_reedfish.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Akwa19_reedfish.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "artist": "Michał Zalewski",
+        "photoSource": "Wikimedia Commons via Wikipedia article"
+      },
+      "sha256": "b034b8e3831f945e06eb0bee28f52a6e8636e7dd5d073688aff2498703baed67"
     }
   },
   {
@@ -1829,7 +2123,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Cliff  from Arlington, Virginia, USA",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f411e4f13851e11eb23775609b8eeb543a3a585af37411eb62d20398db08aac8"
     }
   },
   {
@@ -1856,7 +2153,10 @@ window.ANIMAL_LIBRARY = [
       "license": "Public domain",
       "licenseUrl": "",
       "artist": "USFWS Mountain Prairie",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "facdecf27295abcf89edce5e77ac1bb69810a8724474d539c0b68513b5e6f475"
     }
   },
   {
@@ -1872,14 +2172,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Fish",
     "image": "animal-photos/approved/cce80cff-99d2-4642-8ceb-3936c2cc4a3e.webp",
     "photo": {
-      "articleTitle": "Indo-Pacific tarpon",
-      "articleUrl": "https://en.wikipedia.org/wiki/Indo-Pacific_tarpon",
-      "fileTitle": "Megalops_cyprinoides2.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Megalops_cyprinoides2.jpg",
-      "license": "Public domain",
-      "licenseUrl": null,
-      "artist": "Melanochromis",
-      "photoSource": "Wikimedia Commons via Wikipedia article"
+      "title": "Megalops cyprinoides — iNaturalist photo 463583557",
+      "filePage": "https://www.inaturalist.org/observations/258390835",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "gwynmwilliams",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "40d837c2a0a85709c0dc44b968ab5e5ef83d4d62391148d3a5fde81d43cbae64"
     }
   },
   {
@@ -1957,12 +2258,15 @@ window.ANIMAL_LIBRARY = [
     "subgroup": "Insects",
     "image": "animal-photos/approved/dbbf10f2-2c5b-414a-bc72-7a08b4483e00.webp",
     "photo": {
-      "title": "File:Petrobius brevistylis - a shore bristletail.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3APetrobius_brevistylis_-_a_shore_bristletail.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "S. Rae  from Scotland, UK",
-      "photoSource": "Wikimedia Commons"
+      "title": "Petrobius brevistylis.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Petrobius_brevistylis.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Magne Flåten",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f432cd1f2a68d2e5af0c8bab6468526d1fc04cb761a2a2c80b5b66dc0860ddf4"
     }
   },
   {
@@ -1973,12 +2277,15 @@ window.ANIMAL_LIBRARY = [
     "subgroup": "Insects",
     "image": "animal-photos/approved/7862998a-d97c-4bf1-aeda-ee74cf8251bd.webp",
     "photo": {
-      "title": "File:Thermobia domestica Trento 03.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AThermobia_domestica_Trento_03.jpg",
+      "title": "Thermobia domestica Trento 02.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Thermobia_domestica_Trento_02.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Syrio",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "4cab94702114139fbe270f6c1ada1d80a591ba3eefff2e92aa8fcd7fd376f00f"
     }
   },
   {
@@ -1994,14 +2301,17 @@ window.ANIMAL_LIBRARY = [
     "scientificName": "Baetis rhodani",
     "category": "Invertebrates",
     "subgroup": "Insects",
-    "image": "animal-photos/approved/9e0ee363-98ac-4270-a236-0ada224cfa1d.webp",
-    "photo": {
-      "title": "File:Baetis rhodani (52612553371).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ABaetis_rhodani_%2852612553371%29.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "Ben Sale  from Stevenage, UK",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/9e0ee363-98ac-4270-a236-0ada224cfa1d.webp",
+      "photo": {
+        "title": "File:Baetis rhodani (52612553371).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3ABaetis_rhodani_%2852612553371%29.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "artist": "Ben Sale  from Stevenage, UK",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "8be72d2685c2a3d801394c0453235a9b4d79e394594952463c6d89b281eef101"
     }
   },
   {
@@ -2010,14 +2320,17 @@ window.ANIMAL_LIBRARY = [
     "scientificName": "Baetis fuscatus",
     "category": "Invertebrates",
     "subgroup": "Insects",
-    "image": "animal-photos/approved/92a2b163-34dc-4fef-9aef-f348d8b3af6c.webp",
-    "photo": {
-      "title": "File:Pale Watery iNaturalist.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3APale_Watery_iNaturalist.jpg",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "artist": "(c) Nasser Halaweh, some rights reserved (CC BY)",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/92a2b163-34dc-4fef-9aef-f348d8b3af6c.webp",
+      "photo": {
+        "title": "File:Pale Watery iNaturalist.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3APale_Watery_iNaturalist.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "artist": "(c) Nasser Halaweh, some rights reserved (CC BY)",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "5043ba33407eca3659f5eaaafd3a2cbb219fb6cb9be05a05e18d71de44784147"
     }
   },
   {
@@ -2033,14 +2346,17 @@ window.ANIMAL_LIBRARY = [
     "scientificName": "Haploembia solieri",
     "category": "Invertebrates",
     "subgroup": "Insects",
-    "image": "animal-photos/approved/82ea9749-7a98-4455-90c1-77cbaf2944bc.webp",
-    "photo": {
-      "title": "File:Haploembia solieri in the United States.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AHaploembia_solieri_in_the_United_States.jpg",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "artist": "Don Loarie",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/82ea9749-7a98-4455-90c1-77cbaf2944bc.webp",
+      "photo": {
+        "title": "File:Haploembia solieri in the United States.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3AHaploembia_solieri_in_the_United_States.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "artist": "Don Loarie",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "d36897a67fd620e0f535e6c0da4e441cd23f30b25312fbf7d756f4640ab63f25"
     }
   },
   {
@@ -2058,12 +2374,15 @@ window.ANIMAL_LIBRARY = [
     "subgroup": "Insects",
     "image": "animal-photos/approved/e642c1c1-76c1-4806-a024-aa9737d5bc41.webp",
     "photo": {
-      "title": "File:Cloeon dipterum agg. female imago Bytom.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3ACloeon_dipterum_agg._female_imago_Bytom.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Adrian Tync",
-      "photoSource": "Wikimedia Commons"
+      "title": "Cloeon dipterum — iNaturalist photo 279688469",
+      "filePage": "https://www.inaturalist.org/observations/161792754",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "empressmoth",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "75db7e16c1c8753013bce322f9b44acc86ca3ea97b8996ddfbd464be8d18a67a"
     }
   },
   {
@@ -2081,12 +2400,15 @@ window.ANIMAL_LIBRARY = [
     "subgroup": "Insects",
     "image": "animal-photos/approved/2757cb60-acda-422d-a318-85b812a658c2.webp",
     "photo": {
-      "title": "File:Ephemera danica male sub.JPG",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AEphemera_danica_male_sub.JPG",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Siga",
-      "photoSource": "Wikimedia Commons"
+      "title": "Ruhland, Parkstr. 11, Dänische Eintagsfliege, Frühsommer, 01.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ruhland,_Parkstr._11,_D%C3%A4nische_Eintagsfliege,_Fr%C3%BChsommer,_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Michael Reichelt",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "3ff66f6071f6c5dfea946862912b747d507e3efd5113b007f2292594976995ce"
     }
   },
   {
@@ -2109,7 +2431,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Donald Hobern  from Copenhagen, Denmark",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "ac328fbd1ac8a92a5d8a5b90d979a6793bf1ad426a2a36998496ee7578edaad9"
     }
   },
   {
@@ -2118,14 +2443,17 @@ window.ANIMAL_LIBRARY = [
     "scientificName": "Blattella germanica",
     "category": "Invertebrates",
     "subgroup": "Insects",
-    "image": "animal-photos/approved/b2e26249-80be-441b-8648-4c0361892ee0.webp",
-    "photo": {
-      "title": "File:German cockroach (Blattella germanica) probably (43118262090).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AGerman_cockroach_%28Blattella_germanica%29_probably_%2843118262090%29.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "gailhampshire  from Cradley, Malvern, U.K",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/b2e26249-80be-441b-8648-4c0361892ee0.webp",
+      "photo": {
+        "title": "File:German cockroach (Blattella germanica) probably (43118262090).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3AGerman_cockroach_%28Blattella_germanica%29_probably_%2843118262090%29.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "artist": "gailhampshire  from Cradley, Malvern, U.K",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "bf5750480ed4013c9e299c3018cb0fb9d6858eb4bc41a195df1ada6e94f7ed20"
     }
   },
   {
@@ -2148,7 +2476,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "LiCheng Shih",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "67dc33f23900c69072f990aef1816d88289880497f3f57da6078c15abcbd57c0"
     }
   },
   {
@@ -2158,12 +2489,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Fish",
     "image": "animal-photos/approved/ead318d0-2ded-4ca5-b263-b9702374a564.webp",
     "photo": {
-      "title": "File:Chelon ramada Italy.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AChelon_ramada_Italy.jpg",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "artist": "etrusko25",
-      "photoSource": "Wikimedia Commons"
+      "title": "Chelon ramada — iNaturalist photo 693889113",
+      "filePage": "https://www.inaturalist.org/observations/379342661",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "Niklas Wahlberg",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "3552484b6bef7eb2bf44f9f91835b0b823d6dd7eb2467f1cba82e27b6ef1f49f"
     }
   },
   {
@@ -2171,14 +2505,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Alligator Gar",
     "scientificName": "Atractosteus spatula",
     "category": "Fish",
-    "image": "animal-photos/approved/4b878d44-26e1-483e-8ef4-7879da69d1d7.webp",
-    "photo": {
-      "title": "File:Atractosteus spatula, GDY.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AAtractosteus_spatula%2C_GDY.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Raf24~commonswiki",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/4b878d44-26e1-483e-8ef4-7879da69d1d7.webp",
+      "photo": {
+        "title": "File:Atractosteus spatula, GDY.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3AAtractosteus_spatula%2C_GDY.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Raf24~commonswiki",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "f2fe4c70352e544b5a970497e122e98e424895537cf6a8f897d490c21d11a4c7"
     }
   },
   {
@@ -2264,7 +2601,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "Andy Murray",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "ddcfa55c8302670e1253f171e9c41845bb23617311c9ebe8294b9655e2edf4a2"
     }
   },
   {
@@ -2273,14 +2613,17 @@ window.ANIMAL_LIBRARY = [
     "scientificName": "Mitopus morio",
     "category": "Invertebrates",
     "subgroup": "Arachnids",
-    "image": "animal-photos/approved/0400219e-04c8-45ae-88f1-e2505fd7aaa5.webp",
-    "photo": {
-      "title": "File:Fjellvevkjerring (Mitopus morio) (4871315495).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AFjellvevkjerring_%28Mitopus_morio%29_%284871315495%29.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "Kjetil Fjellheim  from Bergen, Norway",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/0400219e-04c8-45ae-88f1-e2505fd7aaa5.webp",
+      "photo": {
+        "title": "File:Fjellvevkjerring (Mitopus morio) (4871315495).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3AFjellvevkjerring_%28Mitopus_morio%29_%284871315495%29.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "artist": "Kjetil Fjellheim  from Bergen, Norway",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "b77b9984e8ca55f5d529016c94e83488934a51038bdc0ac0a9cc29fa6664ff03"
     }
   },
   {
@@ -2289,14 +2632,17 @@ window.ANIMAL_LIBRARY = [
     "scientificName": "Phalangium opilio",
     "category": "Invertebrates",
     "subgroup": "Arachnids",
-    "image": "animal-photos/approved/05aa1876-bf3a-4c00-b286-1c8178f9c6c9.webp",
-    "photo": {
-      "title": "File:Phalangium opilio MHNT Male.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3APhalangium_opilio_MHNT_Male.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Didier Descouens",
-      "photoSource": "Wikimedia Commons"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/05aa1876-bf3a-4c00-b286-1c8178f9c6c9.webp",
+      "photo": {
+        "title": "File:Phalangium opilio MHNT Male.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File%3APhalangium_opilio_MHNT_Male.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Didier Descouens",
+        "photoSource": "Wikimedia Commons"
+      },
+      "sha256": "9738d72be1ce1a782ab9b100daa4bfc0d9865a53e0d9fc8c3081d864d20bc277"
     }
   },
   {
@@ -2321,12 +2667,15 @@ window.ANIMAL_LIBRARY = [
     "subgroup": "Arachnids",
     "image": "animal-photos/approved/e59382b6-0020-4a03-b4a6-891e47a9a0c4.webp",
     "photo": {
-      "title": "File:Chelifer cancroides 102105215.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3AChelifer_cancroides_102105215.jpg",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "artist": "Claire Moxon-Waltz",
-      "photoSource": "Wikimedia Commons"
+      "title": "CheliferCancroides1.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:CheliferCancroides1.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Christian Fischer",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "91037b5fda1974763ac9abf7b9013dd7134d74e7a370e70e003a52fb4a9ad23b"
     }
   },
   {
@@ -2364,7 +2713,10 @@ window.ANIMAL_LIBRARY = [
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Gip3798",
-      "photoSource": "Wikimedia Commons"
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "2c9a04bd5f3d0394a0b0f0c8ea09873d820fb5923a82fd40faa388a88ead8fa9"
     }
   },
   {
@@ -2384,12 +2736,15 @@ window.ANIMAL_LIBRARY = [
     "file": "beadlet-anemone-0f5491a8.svg",
     "image": "animal-photos/approved/0f5491a8-5250-427b-8231-6bf71d600e6f.webp",
     "photo": {
-      "title": "File:Pferdeaktinie Actinia equina 4.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File%3APferdeaktinie_Actinia_equina_4.jpg",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "artist": "Holger Krisp",
-      "photoSource": "Wikimedia Commons"
+      "title": "Actinia equina (Boulogne-sur-Mer).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Actinia_equina_(Boulogne-sur-Mer).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "\nHans Hillewaert",
+      "photoSource": "Wikimedia Commons",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f861bbeb8f9d4ab18eb5744f98ae8966645745638c62c2046937cec823b99066"
     }
   },
   {
@@ -2397,15 +2752,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Hippopotamus",
     "scientificName": "Hippopotamus amphibius",
     "category": "Mammals",
-    "image": "animal-photos/approved/Q34505.webp",
-    "photo": {
-      "title": "Portrait Hippopotamus in the water.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Portrait_Hippopotamus_in_the_water.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Muhammad Mahdi Karim",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q34505.webp",
+      "photo": {
+        "title": "Portrait Hippopotamus in the water.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Portrait_Hippopotamus_in_the_water.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Muhammad Mahdi Karim",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "bf63b5610e890f7e9f13b3de8b7724c12f9945f4f68f4c7ef776e18fcaf4c199"
     }
   },
   {
@@ -2415,13 +2773,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q15083.webp",
     "photo": {
-      "title": "Rothschild's giraffe (Giraffa camelopardalis rothschildi) - Murchison Falls National Park.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Rothschild's_giraffe_(Giraffa_camelopardalis_rothschildi)_-_Murchison_Falls_National_Park.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Thomas Fuhrmann",
+      "title": "Giraffe walking on the grass.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Giraffe_walking_on_the_grass.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Joselodos",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "74ae1a22507e40466bdc2c74f01e62afb6ec90a4f5e6b5c5c2f2987af7cba93f"
     }
   },
   {
@@ -2437,7 +2797,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Rhododendrites",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "356a6f82f3eb0bf43d5b8170c44fb9a2fbb09b6d37cbe1679995e8b140ffd9a2"
     }
   },
   {
@@ -2447,13 +2810,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q122783.webp",
     "photo": {
-      "title": "American Black Bear (44654884305).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:American_Black_Bear_(44654884305).jpg",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "artist": "ShenandoahNPS",
+      "title": "Oso negro (Ursus americanus), Parque natural provincial Tatshenshini-Alsek, Yukón, Canadá, 2017-08-25, DD 84.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Oso_negro_(Ursus_americanus),_Parque_natural_provincial_Tatshenshini-Alsek,_Yuk%C3%B3n,_Canad%C3%A1,_2017-08-25,_DD_84.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Diego Delso",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "ac51fbf0a38bd82f95198783e207436fd9fc47c285b56a30d10f63db5fd80403"
     }
   },
   {
@@ -2469,7 +2834,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "Gabriel Barathieu",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "3dca40ac40b1356a973ebe0ccb95735e94ef0e289369d6d4b869c4a233412f90"
     }
   },
   {
@@ -2485,7 +2853,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Gerhard mauracher",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "6342ed7d4f2681e461c4a39bd4c94ae9b476f07f8da09f1aac357b59cf76dbe1"
     }
   },
   {
@@ -2501,7 +2872,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Payamfarahani",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "0b7ce77a35c3b2303cc1e84ee2640d50ff8222d3519243f88af856bee8723c33"
     }
   },
   {
@@ -2517,7 +2891,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "artist": "Cody Pope",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "bc7f4adbb1d74563d990a015f18f29dcd78294351c23899fe25fa39d180f588f"
     }
   },
   {
@@ -2530,10 +2907,13 @@ window.ANIMAL_LIBRARY = [
       "title": "Gorilla gorilla at the Bronx Zoo 007.jpg",
       "filePage": "https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_at_the_Bronx_Zoo_007.jpg",
       "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "artist": "Postdlf",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "2914a41c97232e5feeb29217a8fbf7416958bad054d638db88a24d0a9fed812d"
     }
   },
   {
@@ -2549,7 +2929,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Dominic Nelson",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "c13106a6d99778bcf52c0333d6a1f9216da25ed972c6c748a91ac5782e715a6e"
     }
   },
   {
@@ -2557,15 +2940,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Eastern gorilla",
     "scientificName": "Gorilla beringei",
     "category": "Mammals",
-    "image": "animal-photos/approved/Q307157.webp",
-    "photo": {
-      "title": "Gorillas in Uganda-1, by Fiver Löcker.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Gorillas_in_Uganda-1,_by_Fiver_Löcker.jpg",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "artist": "Fiver Löcker  from Wellington, New Zealand",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q307157.webp",
+      "photo": {
+        "title": "Gorillas in Uganda-1, by Fiver Löcker.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Gorillas_in_Uganda-1,_by_Fiver_Löcker.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "artist": "Fiver Löcker  from Wellington, New Zealand",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "cc4e77b1f95465c14d7ed7a608dca90978a0efaefaf4c9439ceec376b3f118d1"
     }
   },
   {
@@ -2581,7 +2967,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "Keven Law",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "d044443d35f7f4d5bb4f72905b4d6a076a946679f18f733829ca3a1206e9be3b"
     }
   },
   {
@@ -2597,7 +2986,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "1b2da68ef71758af580e413e6223b7a9f0432329a0c4eb3fca401338e89551fe"
     }
   },
   {
@@ -2613,7 +3005,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "4028mdk09",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "8f1ae9a06a7fe09dab91c9220829101897832031821d19e0330d2a9a107c9cfa"
     }
   },
   {
@@ -2629,7 +3024,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Noah.schuldt",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "46d9d4e1674258d9037aee05556a04670fcfa5d143d28f692ab85c90d1ea6283"
     }
   },
   {
@@ -2645,7 +3043,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Peter Trimming",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "87880bb2332714af820c9aa797070ce44ab7671778d2b2c649c1ed90a95fbf39"
     }
   },
   {
@@ -2661,7 +3062,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Marton Berntsen , crop by  User:MPF",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "b24d8e18f8d102e5e1f1eacd9618feb7f385bc9f61d860cc87b0c25d5b1b94ec"
     }
   },
   {
@@ -2671,13 +3075,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q30847.webp",
     "photo": {
-      "title": "Caracal Caracal-001.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Caracal_Caracal-001.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Leo za1",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Caracal caracal — iNaturalist observation 237190672, photo 422085434",
+      "filePage": "https://www.inaturalist.org/observations/237190672",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "bogsuckers",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "88c86fb64576f7c32f46e525c6cd54d38d2df9fe4705f89fdde8106adf704a59"
     }
   },
   {
@@ -2693,7 +3099,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "713fc1116cdf77338a2bd95f26b2ddd4f6d2b72c8bd21ab1fd0a9c8215769ff3"
     }
   },
   {
@@ -2703,13 +3112,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q160042.webp",
     "photo": {
-      "title": "African Buffalo.JPG",
-      "filePage": "https://commons.wikimedia.org/wiki/File:African_Buffalo.JPG",
-      "license": "CC BY 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-      "artist": "Paul M Rae",
+      "title": "Cape Buffalo (Syncerus caffer) bull and cow ... (53021591046).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cape_Buffalo_(Syncerus_caffer)_bull_and_cow_..._(53021591046).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Bernard DUPONT from FRANCE",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "584375a27f3c5994a0c3337cf912227c022be0979d468cb6f25ed45cdc4da1fa"
     }
   },
   {
@@ -2722,10 +3133,13 @@ window.ANIMAL_LIBRARY = [
       "title": "Orycteropus afer I.jpg",
       "filePage": "https://commons.wikimedia.org/wiki/File:Orycteropus_afer_I.jpg",
       "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "artist": "Kelly Abram",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a81b7aa9d4dbcb2ec01e07dedde3cc7f1bcc38b56e53a2903a1d30ae9969d004"
     }
   },
   {
@@ -2741,7 +3155,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Lviatour",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f88e0f4f2f6f1e686290c0622281aa9c3b00b37a9e26e190c38475257bfb330c"
     }
   },
   {
@@ -2757,7 +3174,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "datadan",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "0752c5f5a5a85b0967de24b0da6cf6484a16ef5c2c2c5077254c8e0d3f60c9df"
     }
   },
   {
@@ -2773,7 +3193,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Giles Laurent",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "67d69d17dd9ba156a9b9dc39136fda08afbda0dd8096456393cb29d59c83b504"
     }
   },
   {
@@ -2789,7 +3212,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "JJ Harrison",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f2ee65ac58d26d35df2a180298bde175e9566b88701c6f647528d9474696bebc"
     }
   },
   {
@@ -2805,7 +3231,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "EdwinAlden.1995",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "66f51f33e52332b43e630ace93c68e986aca27dd4f7589091d03665e2f56881f"
     }
   },
   {
@@ -2821,7 +3250,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Alan Eng  from Brussels, Belgium",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f5b08230d6fbced206e50e39ac44bc8527aa488cf426e90f7c3bad474757d860"
     }
   },
   {
@@ -2837,7 +3269,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "",
       "artist": "Jack Dykinga",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "0c71354b2e8d884adbcade295a17e8589ac3f6ac0b7109113816fb205ffc13b1"
     }
   },
   {
@@ -2845,15 +3280,18 @@ window.ANIMAL_LIBRARY = [
     "name": "European pine marten",
     "scientificName": "Martes martes",
     "category": "Mammals",
-    "image": "animal-photos/approved/Q26046.webp",
-    "photo": {
-      "title": "Pine Marten (48173751702).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Pine_Marten_(48173751702).jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "caroline legg",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q26046.webp",
+      "photo": {
+        "title": "Pine Marten (48173751702).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Pine_Marten_(48173751702).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "artist": "caroline legg",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "af6794d244ee89924450e12890e442667f650b48de01cf188005dd9ea4f3317c"
     }
   },
   {
@@ -2869,7 +3307,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "d454374fd44fb42b746da45ab575ae2aaff1737311922c67d79317356ae8b7a4"
     }
   },
   {
@@ -2885,7 +3326,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "flowcomm",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f4c81e236fb7bdaa0ae28304f9fd0a657d9de3ba7df47f7513479cd39b8f3d6f"
     }
   },
   {
@@ -2901,7 +3345,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "JJ Harrison  ( https://www.jjharrison.com.au/ )",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "feb12e357f7808f44fc876299c0f56c5f43cc0dcc5890ef747efa4cb2b8ef29d"
     }
   },
   {
@@ -2911,13 +3358,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q33261.webp",
     "photo": {
-      "title": "081 Ocelot in Encontro das Águas State Park Photo by Giles Laurent.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:081_Ocelot_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Giles Laurent",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Leopardus pardalis — iNaturalist observation 306086653, photo 551946198",
+      "filePage": "https://www.inaturalist.org/observations/306086653",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "desertnaturalist",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f56327dcf604c467b853745a4002fb273c39a0433d54dc0332efd7b94a2d116d"
     }
   },
   {
@@ -2927,13 +3376,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q42623.webp",
     "photo": {
-      "title": "FelisChausMunsiari1.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:FelisChausMunsiari1.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "L. Shyamal",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Felis chaus — iNaturalist observation 142053263, photo 243480779",
+      "filePage": "https://www.inaturalist.org/observations/142053263",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Ramesh Shenai",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "d5516514061212747fcca8223758e0da967aca52e28fc3fd633994a40beae0e4"
     }
   },
   {
@@ -2949,7 +3400,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "Winkelbohrer",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "04ee91b9dcaf84d1f7a97235a02ee92166286f86a70a05223cd5533c809cc8b3"
     }
   },
   {
@@ -2957,15 +3411,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Asian black bear",
     "scientificName": "Ursus thibetanus",
     "category": "Mammals",
-    "image": "animal-photos/approved/Q124410.webp",
-    "photo": {
-      "title": "Moon bear at Beijing Wildlife Park image 1.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Moon_bear_at_Beijing_Wildlife_Park_image_1.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "TarnishedPath",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q124410.webp",
+      "photo": {
+        "title": "Moon bear at Beijing Wildlife Park image 1.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Moon_bear_at_Beijing_Wildlife_Park_image_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "TarnishedPath",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "14495d36444c03c1dab73276e8c27ecc931e34bb721652f2f1736fdfd190ddf3"
     }
   },
   {
@@ -2981,7 +3438,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "caroline legg",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f8572c3eae81892a27b5a0bb6bd92edf9813a2c0e5aff5767361a0897ed1aa0f"
     }
   },
   {
@@ -2997,7 +3457,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "пресс-служба ПАО \"Газпром нефть\"",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "783dec31195082f0116b0a8d370ddf87ca0ac7222f7bfc5e5b1dc7867ff2e04f"
     }
   },
   {
@@ -3013,7 +3476,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Davidvraju",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "52093e0547eb3fc7a12af7f0e9c995610fcb1d82a4227719ccc4bcfede5f35cf"
     }
   },
   {
@@ -3029,7 +3495,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "Johann-Nikolaus Andreae",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f770abb768567fa5302c5943a069c16d7d35cd10cb6469ed51da4a4b4ef98494"
     }
   },
   {
@@ -3037,15 +3506,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Beluga whale",
     "scientificName": "Delphinapterus leucas",
     "category": "Mammals",
-    "image": "animal-photos/approved/Q132072.webp",
-    "photo": {
-      "title": "Beluga 1 1999-07-03 cropped.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Beluga_1_1999-07-03_cropped.jpg",
-      "license": "CC BY-SA 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-      "artist": "Ansgar Walk",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q132072.webp",
+      "photo": {
+        "title": "Beluga 1 1999-07-03 cropped.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Beluga_1_1999-07-03_cropped.jpg",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "artist": "Ansgar Walk",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "b3d219e540054094a951ba0951e2cdab92d34f4340bdc9ef9e71f5baf80aacb7"
     }
   },
   {
@@ -3061,7 +3533,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Quartl",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "17f567a515acd7865868e246ccae7bb380cc3e04c3c5d56c05ec0094c2f14a51"
     }
   },
   {
@@ -3071,13 +3546,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q95036.webp",
     "photo": {
-      "title": "2012 Black Rhinoceros Gemsbokvlakte.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:2012_Black_Rhinoceros_Gemsbokvlakte.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Yathin S Krishnappa",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Diceros bicornis — iNaturalist observation 268962011, photo 483522600",
+      "filePage": "https://www.inaturalist.org/observations/268962011",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "scaup",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "83cc056ed4f0f47bd18f5c77e86b14d77b9c78c3ce8492854d33350dc1182d7b"
     }
   },
   {
@@ -3093,7 +3570,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Greg Hume",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "d836b46d8338d974e3788f58a867f0eeedb87b7bf747a0c3bcfd298a871ae251"
     }
   },
   {
@@ -3109,7 +3589,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Giles Laurent",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "27dc59e6ff01ada73bebbd1387915e2537ef912e3f6b7b0bba47f8300e7b929b"
     }
   },
   {
@@ -3119,13 +3602,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q42627.webp",
     "photo": {
-      "title": "Close-up of a Leopard Cat in Sundarban.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Close-up_of_a_Leopard_Cat_in_Sundarban.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Soumyajit Nandy",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Prionailurus bengalensis — iNaturalist observation 51208019, photo 81345740",
+      "filePage": "https://www.inaturalist.org/observations/51208019",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Utain Pummarin",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "96ce1592d8fedb8427718486709f0de8439cad505d8551926d27d70fcb1e2c2f"
     }
   },
   {
@@ -3135,13 +3620,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q181191.webp",
     "photo": {
-      "title": "Beaver pho34.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Beaver_pho34.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Per Harald Olsen",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Castor fiber — iNaturalist observation 154712668, photo 267352485",
+      "filePage": "https://www.inaturalist.org/observations/154712668",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "6fa2a91275ada907acf2abdf95faaf73c6ae87420f82446bdb703190e967c7cf"
     }
   },
   {
@@ -3151,13 +3638,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q36135.webp",
     "photo": {
-      "title": "Clouded Leopard (205918213).jpeg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Clouded_Leopard_(205918213).jpeg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Lee Elvin",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Neofelis nebulosa — iNaturalist observation 302041475, photo 544317503",
+      "filePage": "https://www.inaturalist.org/observations/302041475",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Ian Dugdale",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "4040122e5a3614a834ac2bf633e3c1d6764e7c50ccd15300726473b8dd9c5703"
     }
   },
   {
@@ -3173,7 +3662,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Michael Gäbler",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "00b9437975c24c7986a7c6b6f73c9156bc65ab38e81c7d2dfa047cbd2480208f"
     }
   },
   {
@@ -3189,7 +3681,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Sanjay Acharya",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f18b82bec1e5729fb1f8e690edb26e4840abf90106181e9f58645aeb1b664187"
     }
   },
   {
@@ -3205,7 +3700,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Доктор рукиноги",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "cb94e2352f77383341813d9755d4c29cdbed93844983b7eefc96a2e1b501fd9c"
     }
   },
   {
@@ -3215,13 +3713,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q129544.webp",
     "photo": {
-      "title": "Dugong Marsa Alam.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Dugong_Marsa_Alam.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Julien Willem",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Dugong dugon — iNaturalist observation 191099988, photo 335161470",
+      "filePage": "https://www.inaturalist.org/observations/191099988",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Gergely Nigg",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "237e445ffdb234bced2610f7ec1a3b7cc5a775170f31670c64d42bc4ecb700f3"
     }
   },
   {
@@ -3231,13 +3731,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q180404.webp",
     "photo": {
-      "title": "Jasper.Wapiti-Hirsch.P1033401.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Jasper.Wapiti-Hirsch.P1033401.jpg",
-      "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "artist": "Membeth",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Cervus canadensis — iNaturalist observation 127428959, photo 216336245",
+      "filePage": "https://www.inaturalist.org/observations/127428959",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Sam Eberhard",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a509f2916c385cd88159e83b7c8180055df4fe18fca24d23582b5ec731d07c11"
     }
   },
   {
@@ -3253,7 +3755,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Charles J. Sharp",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "dd3d5dffef1f0e7ea76bb2f1b18bd6b4cd78273c027297a8a05acda46119bc8d"
     }
   },
   {
@@ -3269,7 +3774,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Diego Delso",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "724dfdbbed1db0e604a83e1139964ad832e4461d919debe42ea784cae0912298"
     }
   },
   {
@@ -3285,7 +3793,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "Jan Ebr",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "23e4ffefaec5158e2e20185b93c96f8443f663cebbdc9824547ab6f67dd522ba"
     }
   },
   {
@@ -3295,13 +3806,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q126683.webp",
     "photo": {
-      "title": "Saiga tatarica, Bokeiorda Reserve, Kazakhstan DIL00119.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Saiga_tatarica,_Bokeiorda_Reserve,_Kazakhstan_DIL00119.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Dildakhmet",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Saiga tatarica — iNaturalist observation 51501644, photo 81831106",
+      "filePage": "https://www.inaturalist.org/observations/51501644",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "0d4b6841b6e88e59fb11fe9905d01eedd62dac60aae90d4650221fbf23f618f0"
     }
   },
   {
@@ -3309,15 +3822,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Vicuña",
     "scientificName": "Vicugna vicugna",
     "category": "Mammals",
-    "image": "animal-photos/approved/Q167797.webp",
-    "photo": {
-      "title": "Vicunacrop.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Vicunacrop.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Alexandre Buisse ( Nattfodd )",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q167797.webp",
+      "photo": {
+        "title": "Vicunacrop.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Vicunacrop.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "Alexandre Buisse ( Nattfodd )",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "2e1cb0dc096587ddb21bdb54b34a5022625387e32e51be9e8c6a4dd6e9fea2ba"
     }
   },
   {
@@ -3333,7 +3849,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Diego Delso",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "9cd94ab92f67f6757c67f56818e4a7db55c10c08c9e537d2a7e06448dd3df4bb"
     }
   },
   {
@@ -3349,7 +3868,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Aditya Pal",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "010dfb40c946fdddbb11c4476de17ace7aac9806d77cf7c905b86d30cf26fcb6"
     }
   },
   {
@@ -3365,7 +3887,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Giles Laurent",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "e21e064e0b6802e3fa851469a93329f1f83a3114f6d641e9d5b7db273889a55a"
     }
   },
   {
@@ -3381,7 +3906,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Michael Zahra",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "557c0ba8cd10b49ab14c3dd18de606280d1f5d219f420c9cc03132109d86281e"
     }
   },
   {
@@ -3394,10 +3922,13 @@ window.ANIMAL_LIBRARY = [
       "title": "Myocastor coypus - ragondin.jpg",
       "filePage": "https://commons.wikimedia.org/wiki/File:Myocastor_coypus_-_ragondin.jpg",
       "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "artist": "Philippe Amelant",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "3b8f28f1df530f023f290f5b204179278568e85a7452a4782612a1e989888794"
     }
   },
   {
@@ -3413,7 +3944,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Patrick Reijnders",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "089c415e42ccfcaeae24eb0212237070774d2e433ceebeac8a9b154f738e7e98"
     }
   },
   {
@@ -3429,7 +3963,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Sagar735",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "791698c18edd7391372048a39430d4a1ad3f6a7b5c828d7b37bb917a883572ac"
     }
   },
   {
@@ -3445,7 +3982,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Yathin S Krishnappa",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a68389fa8ba2c90714abb52c02f726349da3f13e4c1881c23588daf95985a7da"
     }
   },
   {
@@ -3455,13 +3995,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q190674.webp",
     "photo": {
-      "title": "Prionailurus viverrinus 01.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Prionailurus_viverrinus_01.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "Kelinahandbasket",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Prionailurus viverrinus — iNaturalist observation 406524750, photo 746901047",
+      "filePage": "https://www.inaturalist.org/observations/406524750",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Wolfgang Ahlmer",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "bd67e37f960e7e78d4a171c6b22e9c7cabbbb66053c577fb66a9a54a13e7f0be"
     }
   },
   {
@@ -3477,7 +4019,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Alexander Malkhasyan",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "c845ef3f6a4e97a09627b2d636b3132608601ceaf95ebe4fbbf0ab6bc7d21dfc"
     }
   },
   {
@@ -3490,10 +4035,13 @@ window.ANIMAL_LIBRARY = [
       "title": "Cervus nippon dybowski Solo.jpg",
       "filePage": "https://commons.wikimedia.org/wiki/File:Cervus_nippon_dybowski_Solo.jpg",
       "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "artist": "Altaileopard ; modified by  Wildfeuer",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "7742b0e7d7e2813232729cc01102f0623b6ca4bf94232c88886d4e93c45efd32"
     }
   },
   {
@@ -3501,15 +4049,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Sumatran rhinoceros",
     "scientificName": "Dicerorhinus sumatrensis",
     "category": "Mammals",
-    "image": "animal-photos/approved/Q29220.webp",
-    "photo": {
-      "title": "Sumatran Rhino 2.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Sumatran_Rhino_2.jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "Charles W. Hardin",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q29220.webp",
+      "photo": {
+        "title": "Sumatran Rhino 2.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Sumatran_Rhino_2.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "artist": "Charles W. Hardin",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "f09b356396592df608b5f5044900e44aea2996f8d58405de34f09c41f528791e"
     }
   },
   {
@@ -3525,7 +4076,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "artist": "Andreas Trepte",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "9c20f72dbe642791c6f8c2d948d4b333e13d63ae3a5b627456eaa735bab03665"
     }
   },
   {
@@ -3541,7 +4095,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Ibex73",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "3069617dd626dd6a059e65efeb5438a29d961bdea3a462ed7a09a9d186a78cea"
     }
   },
   {
@@ -3551,13 +4108,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Mammals",
     "image": "animal-photos/approved/Q137641.webp",
     "photo": {
-      "title": "Zoológico Paraguaná - Oso frontino Pacheco.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Zoológico_Paraguaná_-_Oso_frontino_Pacheco.jpg",
-      "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "artist": "Escarabajo Lunar",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Tremarctos ornatus — iNaturalist observation 265870047, photo 477630278",
+      "filePage": "https://www.inaturalist.org/observations/265870047",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Francisco Sánchez Karste",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "4d8d03a43005dfdd8399e39ba170169596bd26681c9b5c8ba464669c1ad9680f"
     }
   },
   {
@@ -3573,7 +4132,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Saumitra Newalkar",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "e8f533c00f03bf51d367afa282e097ee7e8284c512a354fb9876133b4bd1da79"
     }
   },
   {
@@ -3589,7 +4151,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "Lip Kee  from Singapore, Republic of Singapore",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "13cc7d164e6f5db2e7f8e1f474728e51213c48c0a04c6665b48fd42bdb3f6999"
     }
   },
   {
@@ -3605,7 +4170,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Rhododendrites",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "8caa60d252756ec072839224af56dde12d972a1142af6e78d59836f68896c804"
     }
   },
   {
@@ -3618,10 +4186,13 @@ window.ANIMAL_LIBRARY = [
       "title": "Amselmännchen der Unterart T. m. azorensis auf Terceira.jpg",
       "filePage": "https://commons.wikimedia.org/wiki/File:Amselmännchen_der_Unterart_T._m._azorensis_auf_Terceira.jpg",
       "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "artist": "Hobbyfotowiki",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "334adbaec944991d74369f0a30e9243e91a19b9343f11adaa27479a46dad7e0e"
     }
   },
   {
@@ -3637,7 +4208,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Michel Idre  from Plaisance du Touch, France",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "1f849a9570ce68af705c78c086793b61853cda919593b1fdead2e86261fcce7b"
     }
   },
   {
@@ -3653,7 +4227,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Jac. Janssen  from BAARLO LB, NL",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "9b4d3f7605d72d7399f282af4aa324a0426c8c0b68dbc4cfc4363c68b278f0d2"
     }
   },
   {
@@ -3669,7 +4246,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "marsupium photography",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "8d9a331d55b57bb1822a08fe56bb26d431c454cf9429f644b100089967253961"
     }
   },
   {
@@ -3682,10 +4262,13 @@ window.ANIMAL_LIBRARY = [
       "title": "Garrulus glandarius 1 Luc Viatour.jpg",
       "filePage": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg",
       "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "artist": "Luc Viatour",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "068b98fe0e39e938225f5ffc8822bd6f3b725e2b94bbe0b3a64f29a9eb5c2543"
     }
   },
   {
@@ -3701,7 +4284,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Bengt Nyman  from Vaxholm, Sweden",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "560f7b65e68e477cd98f6d4124ae04dc699830674222b7b5b1310ef412ea6a3c"
     }
   },
   {
@@ -3717,7 +4303,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Frank Vassen  from Brussels, Belgium",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "b55b6d879cdbf79bf746ecf8f45f64ba0830987e12d9e5172693a83e0b41002d"
     }
   },
   {
@@ -3733,7 +4322,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Morhaf Aljanee",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f3f09fed3a7b1151a594aaa50447cc83acaab7c973d0566cb4ac30b04e358561"
     }
   },
   {
@@ -3749,7 +4341,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Carlos Delgado",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "ba5373b715a0c0a573eda83884168d623de377093fd18de78702f5ff4c10ce0b"
     }
   },
   {
@@ -3765,7 +4360,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "MPF",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "dc4b30bba59ab77311d7e1befb81520eb466c37e4cf930f2022a1a0fbb9a1ac4"
     }
   },
   {
@@ -3781,13 +4379,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Birds",
     "image": "animal-photos/approved/Q26490.webp",
     "photo": {
-      "title": "Barbusano- Ponta São lourenço- Casa Sardinha Jun. 2017 (22).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Barbusano-_Ponta_São_lourenço-_Casa_Sardinha_Jun._2017_(22).jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Ruipa",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Falco tinnunculus — iNaturalist photo 255957127",
+      "filePage": "https://www.inaturalist.org/observations/148613413",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "Luis Ferreira",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "e58b0409215e0fcaa1bebe2df751eb5147406712268689e029242617b93f02a5"
     }
   },
   {
@@ -3803,7 +4403,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "",
       "artist": "YCapelle",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "65d9458dbc8ec6831135957305b147f0ffefde6730dee42f4937023dc4c24601"
     }
   },
   {
@@ -3811,15 +4414,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Greylag goose",
     "scientificName": "Anser anser",
     "category": "Birds",
-    "image": "animal-photos/approved/Q25882.webp",
-    "photo": {
-      "title": "00 3688 Graugans (Anser anser).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:00_3688_Graugans_(Anser_anser).jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "W. Bulach",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q25882.webp",
+      "photo": {
+        "title": "00 3688 Graugans (Anser anser).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:00_3688_Graugans_(Anser_anser).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "W. Bulach",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "baa6cb83726f0e409ec2ba8367bfccd1f03e4fef35fb620e9fad3dddd0b06632"
     }
   },
   {
@@ -3835,7 +4441,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Pierre Dalous",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "52b10f8182ecae10a8b1c3bde807a2c0c711e6a41e674ebf057889a5d7946774"
     }
   },
   {
@@ -3851,7 +4460,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "User:Alun Williams333",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "0ab669ff769a62ad889b7b76adeee39b67d1592243648d7a6d72cc2a1c4a5325"
     }
   },
   {
@@ -3867,7 +4479,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Noodle snacks",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "04488c8a3a9d88ba85ae9fd99eacdd883d9fb1a9a56c8739871fca830a099cb6"
     }
   },
   {
@@ -3875,15 +4490,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Common crane",
     "scientificName": "Grus grus",
     "category": "Birds",
-    "image": "animal-photos/approved/Q4764.webp",
-    "photo": {
-      "title": "2017.07.04.-01-Wendisch Rietz--Kranich.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:2017.07.04.-01-Wendisch_Rietz--Kranich.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Andreas Eichler",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q4764.webp",
+      "photo": {
+        "title": "2017.07.04.-01-Wendisch Rietz--Kranich.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:2017.07.04.-01-Wendisch_Rietz--Kranich.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Andreas Eichler",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "ea0bc41ca5ff8e6d1d4159b94d8956d837b7bd20362bd6b763d0795b19adca8e"
     }
   },
   {
@@ -3899,7 +4517,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "artist": "Brian Snelson  from Hockley, Essex, England",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "4f2d612e653e0a221e9abb64e74d20a44861abd5df2843a6adb4ce6abefe0a30"
     }
   },
   {
@@ -3907,15 +4528,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Northern pintail",
     "scientificName": "Anas acuta",
     "category": "Birds",
-    "image": "animal-photos/approved/Q25450.webp",
-    "photo": {
-      "title": "Male northern pintail at Llano Seco.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Male_northern_pintail_at_Llano_Seco.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Frank Schulenburg",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q25450.webp",
+      "photo": {
+        "title": "Male northern pintail at Llano Seco.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Male_northern_pintail_at_Llano_Seco.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Frank Schulenburg",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "5df889aaca259eab65be4b62cd89fcea7323052c457316f92923a4365df863dd"
     }
   },
   {
@@ -3931,7 +4555,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "artist": "Andreas Trepte",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "dc7b59a4df2ab7c6da748d90e1af8f5b52847027c66e39c46288f9cf0e876f47"
     }
   },
   {
@@ -3947,7 +4574,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Yiwenyiwen",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "5469612130260907fcd3675e77614e6fa3b5589eedf2bb0632051dc88ddb9824"
     }
   },
   {
@@ -3963,7 +4593,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "artist": "Thomas Kraft ( ThKraft )",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "51cec57275f15a3af03ba3b5baa80d987cd27fcdf3014a090b8d844b2abbfddf"
     }
   },
   {
@@ -3973,13 +4606,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Birds",
     "image": "animal-photos/approved/Q25393.webp",
     "photo": {
-      "title": "Հարավային սոխակ.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Հարավային_սոխակ.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Արարատ Թրվանց",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Luscinia megarhynchos — iNaturalist photo 70223528",
+      "filePage": "https://www.inaturalist.org/observations/44295754",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "Leonard Wägele",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f4eb297df570e18c08e18949d6f328398e91554d9ce3a0ca87256219a0360335"
     }
   },
   {
@@ -3987,15 +4622,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Indian peafowl",
     "scientificName": "Pavo cristatus",
     "category": "Birds",
-    "image": "animal-photos/approved/Q61865.webp",
-    "photo": {
-      "title": "Indian Peacock in Tholpetty Wildlife Sanctuary 01.JPG",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Indian_Peacock_in_Tholpetty_Wildlife_Sanctuary_01.JPG",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Praveenp",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q61865.webp",
+      "photo": {
+        "title": "Indian Peacock in Tholpetty Wildlife Sanctuary 01.JPG",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Indian_Peacock_in_Tholpetty_Wildlife_Sanctuary_01.JPG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Praveenp",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "aff1fdb9b662bac5fa21b244fdb5bc3d62d065dc7d182e7e159c2412387e7c0e"
     }
   },
   {
@@ -4011,7 +4649,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Francis Franklin",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "5eb5c1a26fe556c26a35776ccf49429931c00fc6b875ca81fd2064792a396b01"
     }
   },
   {
@@ -4019,15 +4660,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Little grebe",
     "scientificName": "Tachybaptus ruficollis",
     "category": "Birds",
-    "image": "animal-photos/approved/Q25421.webp",
-    "photo": {
-      "title": "Little Grebe - Tachybaptus ruficollis 15-1.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Little_Grebe_-_Tachybaptus_ruficollis_15-1.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Zeynel Cebeci",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q25421.webp",
+      "photo": {
+        "title": "Little Grebe - Tachybaptus ruficollis 15-1.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Little_Grebe_-_Tachybaptus_ruficollis_15-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Zeynel Cebeci",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "25a80351d7a383c13095725cc613b28d8d3b24b444a61de7c02c4aaaf68b899f"
     }
   },
   {
@@ -4043,7 +4687,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "artist": "Benny Trapp",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "fd3f68634765e19bad2b02ef13401f09a6381567dfc235e23ca6523c11640f3d"
     }
   },
   {
@@ -4051,15 +4698,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Grass snake",
     "scientificName": "Natrix natrix",
     "category": "Reptiles",
-    "image": "animal-photos/approved/Q170713.webp",
-    "photo": {
-      "title": "2017.07.17.-17-Tiefer See oder Grubensee-Storkow (Mark)--Ringelnatter.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:2017.07.17.-17-Tiefer_See_oder_Grubensee-Storkow_(Mark)--Ringelnatter.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Andreas Eichler",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q170713.webp",
+      "photo": {
+        "title": "2017.07.17.-17-Tiefer See oder Grubensee-Storkow (Mark)--Ringelnatter.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:2017.07.17.-17-Tiefer_See_oder_Grubensee-Storkow_(Mark)--Ringelnatter.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Andreas Eichler",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "2cc0d838baf551353827a16ba50de677bf6abe004134c6406f4dabf9132e87f7"
     }
   },
   {
@@ -4069,13 +4719,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Reptiles",
     "image": "animal-photos/approved/Q183660.webp",
     "photo": {
-      "title": "Anguidae.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Anguidae.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Unknown author",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Anguis fragilis — iNaturalist photo 361378564",
+      "filePage": "https://www.inaturalist.org/observations/204449478",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Diego González Dopico",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "3c18cd7bff02c71bf020ab042cbc6885811a82459d566090d7e4836e5a554595"
     }
   },
   {
@@ -4091,7 +4743,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "Julien Renoult",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "1609070fab1271fc169f111e6b5b8f8cdddc7b9dd32de7deb0d31193a390b563"
     }
   },
   {
@@ -4099,15 +4754,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Boa constrictor",
     "scientificName": "Boa constrictor",
     "category": "Reptiles",
-    "image": "animal-photos/approved/Q215388.webp",
-    "photo": {
-      "title": "Boa constrictor, Vaňkovka, Brno (2).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Boa_constrictor,_Vaňkovka,_Brno_(2).jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "I would appreciate  being notified  if you use my work outside Wikimedia.\n Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please  contact me  to negotiate terms.\n \nMore of my work can be found in my  personal gallery .",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q215388.webp",
+      "photo": {
+        "title": "Boa constrictor, Vaňkovka, Brno (2).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Boa_constrictor,_Vaňkovka,_Brno_(2).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "I would appreciate  being notified  if you use my work outside Wikimedia.\n Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please  contact me  to negotiate terms.\n \nMore of my work can be found in my  personal gallery .",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "47c180c16cf67547138352cdd3a468a6b5d2de16067f4d7dd1921b2bb134f357"
     }
   },
   {
@@ -4123,7 +4781,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Diego Delso",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "0d5eb1a34554ea13c8ba58b63f5bbb5d6fd85a6a057c053b036c4acaf2f8df4f"
     }
   },
   {
@@ -4139,7 +4800,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "artist": "Karunakar Rayker  from India",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "b92b0e573df393a23644ef57170cadebb765d481e422091a8f4ff3330e880073"
     }
   },
   {
@@ -4155,23 +4819,29 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Christian Fischer",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "29a58eb7f513cef6b0fc56741b0f6dba36415e1d91c57a118e70eed650c0b48d"
     }
   },
   {
     "id": "Q187036",
     "name": "European pond turtle",
-    "scientificName": "Emys orbicularitosa",
+    "scientificName": "Emys orbicularis",
     "category": "Reptiles",
-    "image": "animal-photos/approved/Q187036.webp",
-    "photo": {
-      "title": "Emys orbicularis by Christian Ursilva.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Emys_orbicularis_by_Christian_Ursilva.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Christian Ursilva  from København, Danmark",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q187036.webp",
+      "photo": {
+        "title": "Emys orbicularis by Christian Ursilva.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Emys_orbicularis_by_Christian_Ursilva.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Christian Ursilva  from København, Danmark",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "853af7eea34c6cc3102a98e64cdf4f7c4fd49372d265093ea12e1ef131b4227b"
     }
   },
   {
@@ -4181,13 +4851,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Reptiles",
     "image": "animal-photos/approved/Q208796.webp",
     "photo": {
-      "title": "Marine Iguana (Amblyrhynchus cristatus) feeding underwater off Fernandina Island, Galápagos Islands.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Marine_Iguana_(Amblyrhynchus_cristatus)_feeding_underwater_off_Fernandina_Island,_Galápagos_Islands.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Sodacan",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Amblyrhynchus cristatus — iNaturalist photo 350582363",
+      "filePage": "https://www.inaturalist.org/observations/198861828",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Rob Foster",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "578ac8d1a8a1e6d62a1dcf1511a061fc4b03dcacb61e3c081014573d0070bf64"
     }
   },
   {
@@ -4197,13 +4869,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Amphibians",
     "image": "animal-photos/approved/Q26395.webp",
     "photo": {
-      "title": "Саламандра.JPG",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Саламандра.JPG",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "LorikNov",
+      "title": "Salamandra salamandra Unterlamm 02.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Salamandra_salamandra_Unterlamm_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Uoaei1",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "591aeaa5d0a20747de4205b9596edafd843197313c0d8a9d1bec921cddc4fd6a"
     }
   },
   {
@@ -4211,15 +4885,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Common toad",
     "scientificName": "Bufo bufo",
     "category": "Amphibians",
-    "image": "animal-photos/approved/Q146375.webp",
-    "photo": {
-      "title": "Bufo bufo 2 (2005 07 11).jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Bufo_bufo_2_(2005_07_11).jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Taka",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q146375.webp",
+      "photo": {
+        "title": "Bufo bufo 2 (2005 07 11).jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Bufo_bufo_2_(2005_07_11).jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "artist": "Taka",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "8064b1f31651abf9402d9253a1436b0f00b434a77d4fa3281d205368ec3afbfb"
     }
   },
   {
@@ -4235,7 +4912,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "artist": "Richard Bartz , Munich aka  Makro Freak   Image:MFB.jpg",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "b50add3abb16b4fbace5046875d9a67b5782f61099c0310312c244808db2390d"
     }
   },
   {
@@ -4245,13 +4925,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Amphibians",
     "image": "animal-photos/approved/Q319393.webp",
     "photo": {
-      "title": "RanaRidibundaFemale.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:RanaRidibundaFemale.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "Christian Fischer",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Pelophylax ridibundus — iNaturalist photo 193589723",
+      "filePage": "https://www.inaturalist.org/observations/114654160",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Kseniia Marianna Prondzynska",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "ca896fa3630f8b3496ecd2b2c7faaddb7f93a9d8a1b88f60cd728fde61b7a6fe"
     }
   },
   {
@@ -4261,13 +4943,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Amphibians",
     "image": "animal-photos/approved/Q215247.webp",
     "photo": {
-      "title": "LissotritonVulgarisMaleWater.JPG",
-      "filePage": "https://commons.wikimedia.org/wiki/File:LissotritonVulgarisMaleWater.JPG",
-      "license": "CC BY-SA 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-      "artist": "Piet Spaans  Viridiflavus  21:50, 10 April 2007 (UTC)",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Lissotriton vulgaris — iNaturalist photo 60293320",
+      "filePage": "https://www.inaturalist.org/observations/37979629",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Christoph Moning",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "a7bcc9c0f537d9d7c5c5a4bbfd1c6c68ae63131cf97b471fc23714558baa7b8a"
     }
   },
   {
@@ -4275,15 +4959,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Common carp",
     "scientificName": "Cyprinus carpio",
     "category": "Fish",
-    "image": "animal-photos/approved/Q81110.webp",
-    "photo": {
-      "title": "2018-04-04 Wildpark Güstrow 02.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:2018-04-04_Wildpark_Güstrow_02.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Meine Mutter (Erlaubnis liegt vor)",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q81110.webp",
+      "photo": {
+        "title": "2018-04-04 Wildpark Güstrow 02.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:2018-04-04_Wildpark_Güstrow_02.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "artist": "Meine Mutter (Erlaubnis liegt vor)",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "75323293edf8efb6e68611f2fee1279449c83620115bfb3ca7022e3c54a9e9b7"
     }
   },
   {
@@ -4299,7 +4986,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "artist": "David Perez",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "268b6e40eba85671d14d50cce0cb8462355f81b0a365f49266fb8c84e5a659e5"
     }
   },
   {
@@ -4315,7 +5005,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Mattia Nocciola",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "dba631337fa83f8dd5eff87f6fa6f8149b6a5623b691216954c88009738479ea"
     }
   },
   {
@@ -4323,15 +5016,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Burbot",
     "scientificName": "Lota lota",
     "category": "Fish",
-    "image": "animal-photos/approved/Q144700.webp",
-    "photo": {
-      "title": "Trüsche Walchensee.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Trüsche_Walchensee.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Unknown author",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q144700.webp",
+      "photo": {
+        "title": "Trüsche Walchensee.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Trüsche_Walchensee.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "artist": "Unknown author",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "cd843704d625aa31407264230941ce568d725c1aefd4b767426afa91d58db2d9"
     }
   },
   {
@@ -4339,15 +5035,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Electric eel",
     "scientificName": "Electrophorus electricus",
     "category": "Fish",
-    "image": "animal-photos/approved/Q201235.webp",
-    "photo": {
-      "title": "Electric-eel.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Electric-eel.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Steven G. Johnson",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q201235.webp",
+      "photo": {
+        "title": "Electric-eel.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Electric-eel.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "artist": "Steven G. Johnson",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "8afa8d00d6766f9eb78b92dc373ce8ad30bf51ac9087b1610f6f34bd84f3f564"
     }
   },
   {
@@ -4355,15 +5054,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Common roach",
     "scientificName": "Rutilus rutilus",
     "category": "Fish",
-    "image": "animal-photos/approved/Q182976.webp",
-    "photo": {
-      "title": "Blausteinsee Tierwelt 03.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Blausteinsee_Tierwelt_03.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Creator: Ullrich Mühlhoff Uploader:  Cornelius Herget",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q182976.webp",
+      "photo": {
+        "title": "Blausteinsee Tierwelt 03.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Blausteinsee_Tierwelt_03.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "artist": "Creator: Ullrich Mühlhoff Uploader:  Cornelius Herget",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "1b55ea8e608afa93aa303ac0f4a0e82539b3d1813a8356cdf5276a3af512d7b0"
     }
   },
   {
@@ -4385,7 +5087,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Rainer Lück  http://1RL.de",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "bd8ba13d056d23f9514322dcd6d8afee852043bce54183b5c7c18482cf9e8de7"
     }
   },
   {
@@ -4401,7 +5106,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "Julien Renoult",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "115f224608526be3d2214384967b6da09840ef1f8584dc35b8edbfb14892420e"
     }
   },
   {
@@ -4417,7 +5125,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "artist": "Henryk Niestrój",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "df86b30af44b13723116a8de3d314a9c84739f9cc0855d76341adce79c967185"
     }
   },
   {
@@ -4425,15 +5136,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Basking shark",
     "scientificName": "Cetorhinus maximus",
     "category": "Fish",
-    "image": "animal-photos/approved/Q185260.webp",
-    "photo": {
-      "title": "Basking Shark.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Basking_Shark.jpg",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "artist": "Unknown author",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q185260.webp",
+      "photo": {
+        "title": "Basking Shark.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Basking_Shark.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "artist": "Unknown author",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "648518060d22edb6ab8bedd60b83d259cae6fc1bfae9b4d6af89802ab3f99b1c"
     }
   },
   {
@@ -4449,7 +5163,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Toni Wöhrl",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "b3edbeec98252212d6e4ff27aee1358c6c23be2cdbcee6066ed6fd83285da8cf"
     }
   },
   {
@@ -4465,7 +5182,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "",
       "artist": "No machine-readable author provided.  Esv  assumed (based on copyright claims).",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "0a23ecc573a43615ac2b7eb10f06669e2d8f36f89473f9e4406c0dbc74e3f024"
     }
   },
   {
@@ -4481,13 +5201,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Invertebrates",
     "image": "animal-photos/approved/Q245314.webp",
     "photo": {
-      "title": "Helix pomatia 89a.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Helix_pomatia_89a.jpg",
+      "title": "Grapevinesnail 01.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Grapevinesnail_01.jpg",
       "license": "CC BY-SA 3.0",
-      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Waugsberg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Jürgen Schoner",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "e1efefc5c7dbed0f59437cb9117943b2cfa8a0ff1072ca59461529c46a985932"
     }
   },
   {
@@ -4503,7 +5225,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "artist": "Sayan Sanyal",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "45f55720bb1095a5773793a00fe09b4c701fe6cb4e8cb82afff6be5f50fa9ba8"
     }
   },
   {
@@ -4519,7 +5244,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "",
       "artist": "Tbc",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "f1ad3e682dcc6ead42bd1b7606f222cd4f80c04a0b625186cd494968ce55af72"
     }
   },
   {
@@ -4527,15 +5255,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Noble crayfish",
     "scientificName": "Astacus astacus",
     "category": "Invertebrates",
-    "image": "animal-photos/approved/Q210959.webp",
-    "photo": {
-      "title": "Astacus astacus 02.JPG",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Astacus_astacus_02.JPG",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "artist": "H. Zell",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q210959.webp",
+      "photo": {
+        "title": "Astacus astacus 02.JPG",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Astacus_astacus_02.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "artist": "H. Zell",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "6fe6cdd9b403f501b4838c72fa8a1404078bc7ee355641e4d84733fe28e0330c"
     }
   },
   {
@@ -4545,13 +5276,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Invertebrates",
     "image": "animal-photos/approved/Q27690.webp",
     "photo": {
-      "title": "KreeftbijDenOsse.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:KreeftbijDenOsse.jpg",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "artist": "Bart Braun",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Homarus gammarus (iNaturalist photo 218120267)",
+      "filePage": "https://www.inaturalist.org/observations/128414227",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "corcan",
+      "photoSource": "iNaturalist (research-grade observation)",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "dca7d6fc9827ae64d15c201cbe41e14b0b8d23ff315f69e6e5d88a0383ef428e"
     }
   },
   {
@@ -4567,7 +5300,10 @@ window.ANIMAL_LIBRARY = [
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "artist": "Kymi",
       "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "curated": "manual photo review",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "8e681c421b3637fcabb43ab852bdb99ee431598b3279b9d2792b8891d5a6d88a"
     }
   },
   {
@@ -4575,15 +5311,18 @@ window.ANIMAL_LIBRARY = [
     "name": "Emperor dragonfly",
     "scientificName": "Anax imperator",
     "category": "Invertebrates",
-    "image": "animal-photos/approved/Q527496.webp",
-    "photo": {
-      "title": "Anax imperator qtl2.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Anax_imperator_qtl2.jpg",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "artist": "Quartl",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+    "pendingPhoto": {
+      "image": "animal-photos/approved/Q527496.webp",
+      "photo": {
+        "title": "Anax imperator qtl2.jpg",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Anax_imperator_qtl2.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "artist": "Quartl",
+        "photoSource": "Wikimedia Commons",
+        "curated": "manual photo review"
+      },
+      "sha256": "56e47ec18c4892b50d661eccce82f49079a6fc2698aa4864ffadffa8230dca84"
     }
   },
   {
@@ -4593,13 +5332,15 @@ window.ANIMAL_LIBRARY = [
     "category": "Invertebrates",
     "image": "animal-photos/approved/Q551915.webp",
     "photo": {
-      "title": "Nephrops norvegicus.jpg",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Nephrops_norvegicus.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Hans Hillewaert",
-      "photoSource": "Wikimedia Commons",
-      "curated": "manual photo review"
+      "title": "Nephrops norvegicus — iNaturalist photo 21070614",
+      "filePage": "https://www.inaturalist.org/observations/14205657",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Dodly",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-04",
+      "fullBodySha256": "63b124f8abdfcd83ed4dcb4029709bb6ce2024c092aca86af2455ebe12037d29"
     }
   }
 ];

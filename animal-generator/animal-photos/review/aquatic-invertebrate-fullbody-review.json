@@ -1,0 +1,782 @@
+[
+  {
+    "id": "99c89d19-488d-496a-9fb9-cf4f76da7297",
+    "scientificName": "Ambystoma mexicanum",
+    "oldPath": "animal-photos/approved/Q22718.webp",
+    "verdict": "replace",
+    "reason": "Rear body and tail are hidden behind the foreground rock; not a full-body view."
+  },
+  {
+    "id": "3bbd487e-31ef-4121-b030-f06f830132b8",
+    "scientificName": "Agalychnis callidryas",
+    "oldPath": "animal-photos/approved/3bbd487e-31ef-4121-b030-f06f830132b8.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "dd44eb4f-f4d1-4557-939e-44f35694b615",
+    "scientificName": "Andrias davidianus",
+    "oldPath": "animal-photos/approved/dd44eb4f-f4d1-4557-939e-44f35694b615.webp",
+    "verdict": "replace",
+    "reason": "Body overlaps other large animals in a dark aquarium; complete individual outline is not clear."
+  },
+  {
+    "id": "b20ac6bd-5100-4e76-945c-1b896de1c406",
+    "scientificName": "Proteus anguinus",
+    "oldPath": "animal-photos/approved/b20ac6bd-5100-4e76-945c-1b896de1c406.webp",
+    "verdict": "replace",
+    "reason": "Only head, front trunk and forelimbs are shown; rear body and tail run beyond the upper-right image edge."
+  },
+  {
+    "id": "6a2be24b-bce0-4c60-81dc-07c1f1184ae4",
+    "scientificName": "Ambystoma tigrinum",
+    "oldPath": "animal-photos/approved/6a2be24b-bce0-4c60-81dc-07c1f1184ae4.webp",
+    "verdict": "replace",
+    "reason": "Posterior body/tail is cut off at the right edge and out of focus.",
+    "replacement": {
+      "path": "animal-photos/approved/6a2be24b-bce0-4c60-81dc-07c1f1184ae4.webp",
+      "title": "Ambystoma tigrinum 65538455.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ambystoma_tigrinum_65538455.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "evangrimes",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 640,
+      "bytes": 290508
+    }
+  },
+  {
+    "id": "fc816f8b-005d-4414-b962-1b99ed5129fe",
+    "scientificName": "Rhincodon typus",
+    "oldPath": "animal-photos/approved/fc816f8b-005d-4414-b962-1b99ed5129fe.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "d9cac44e-06e8-4658-abdb-5ee9b9cfc812",
+    "scientificName": "Mola mola",
+    "oldPath": "animal-photos/approved/Q192285.webp",
+    "verdict": "replace",
+    "reason": "Dorsal fin extends beyond the top border; complete fin outline is missing.",
+    "replacement": {
+      "path": "animal-photos/approved/Q192285.webp",
+      "title": "Mola mola — iNaturalist photo 114458708",
+      "filePage": "https://www.inaturalist.org/observations/70410479",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Sidonio Paes",
+      "photoSource": "iNaturalist",
+      "width": 843,
+      "height": 843,
+      "bytes": 43580
+    }
+  },
+  {
+    "id": "418b89e2-0617-4e65-acb4-75e37919960d",
+    "scientificName": "Oncorhynchus mykiss",
+    "oldPath": "animal-photos/approved/418b89e2-0617-4e65-acb4-75e37919960d.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "dd5aa97d-9abe-42b2-8e35-59bd0c506569",
+    "scientificName": "Arapaima gigas",
+    "oldPath": "animal-photos/approved/dd5aa97d-9abe-42b2-8e35-59bd0c506569.webp",
+    "verdict": "replace",
+    "reason": "Tail fin is cropped off at the left border."
+  },
+  {
+    "id": "b6fa87f2-1289-438a-beed-edde05302df9",
+    "scientificName": "Poecilia reticulata",
+    "oldPath": "animal-photos/approved/b6fa87f2-1289-438a-beed-edde05302df9.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "f1b65f8b-967e-4902-8ae3-03675d5daf45",
+    "scientificName": "Esox lucius",
+    "oldPath": "animal-photos/approved/Q165278.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "e2cdafc4-2e97-45e3-8799-1a965fc24d85",
+    "scientificName": "Danaus plexippus",
+    "oldPath": "animal-photos/approved/e2cdafc4-2e97-45e3-8799-1a965fc24d85.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "fec113bd-c3ce-46bc-acbe-1474c9d8ca4d",
+    "scientificName": "Mantis religiosa",
+    "oldPath": "animal-photos/approved/fec113bd-c3ce-46bc-acbe-1474c9d8ca4d.webp",
+    "verdict": "replace",
+    "reason": "Antennae extend out of the top edge; incomplete full silhouette.",
+    "replacement": {
+      "path": "animal-photos/approved/fec113bd-c3ce-46bc-acbe-1474c9d8ca4d.webp",
+      "title": "A Mantis in my hand.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:A_Mantis_in_my_hand.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Gabrieluta",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 1122,
+      "bytes": 149564
+    }
+  },
+  {
+    "id": "6cbff80e-9537-4130-8397-ebbf77464ea4",
+    "scientificName": "Sepia officinalis",
+    "oldPath": "animal-photos/approved/6cbff80e-9537-4130-8397-ebbf77464ea4.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "79b7c6f7-0b2a-4d4b-a7e4-e2eb7dd09b63",
+    "scientificName": "Birgus latro",
+    "oldPath": "animal-photos/approved/79b7c6f7-0b2a-4d4b-a7e4-e2eb7dd09b63.webp",
+    "verdict": "replace",
+    "reason": "Crab is mostly inside a shell; legs, claws and body are hidden.",
+    "replacement": {
+      "path": "animal-photos/approved/79b7c6f7-0b2a-4d4b-a7e4-e2eb7dd09b63.webp",
+      "title": "Crabe cocotiers Birgus latro (Linnaeus 1777).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Crabe_cocotiers_Birgus_latro_(Linnaeus_1777).jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Jebulon",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 1373,
+      "bytes": 187882
+    }
+  },
+  {
+    "id": "a6be7f5c-82bb-42b8-8b17-fb0b8b2d277d",
+    "scientificName": "Vampyroteuthis infernalis",
+    "oldPath": "animal-photos/approved/a6be7f5c-82bb-42b8-8b17-fb0b8b2d277d.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "b7a75547-2a58-4303-9497-42eee2412700",
+    "scientificName": "Acanthaster planci",
+    "oldPath": "animal-photos/approved/b7a75547-2a58-4303-9497-42eee2412700.webp",
+    "verdict": "replace",
+    "reason": "Arms are overlapped by coral and the outer right body outline is cropped.",
+    "replacement": {
+      "path": "animal-photos/approved/b7a75547-2a58-4303-9497-42eee2412700.webp",
+      "title": "Acanthaster planci — iNaturalist photo 525906136",
+      "filePage": "https://www.inaturalist.org/observations/292257435",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Nathan",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 768,
+      "bytes": 284474
+    }
+  },
+  {
+    "id": "f400b519-3564-4183-b4bd-c3b922cc7c5e",
+    "scientificName": "Octopus vulgaris",
+    "oldPath": "animal-photos/approved/f400b519-3564-4183-b4bd-c3b922cc7c5e.webp",
+    "verdict": "replace",
+    "reason": "Octopus is inside a rock crevice, hiding much of the body and arms.",
+    "replacement": {
+      "path": "animal-photos/approved/f400b519-3564-4183-b4bd-c3b922cc7c5e.webp",
+      "title": "Babyoctopus.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Babyoctopus.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Babyoctopus.jpg#Licensing",
+      "artist": "Bart Braun",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 675,
+      "bytes": 352730
+    }
+  },
+  {
+    "id": "8c89f14e-7c7b-4844-b0c3-dd3f90818660",
+    "scientificName": "Lissachatina fulica",
+    "oldPath": "animal-photos/approved/8c89f14e-7c7b-4844-b0c3-dd3f90818660.webp",
+    "verdict": "replace",
+    "reason": "Head and tentacles extend beyond the left image edge.",
+    "replacement": {
+      "path": "animal-photos/approved/8c89f14e-7c7b-4844-b0c3-dd3f90818660.webp",
+      "title": "Snail in Ubud, Bali, 2010 (1).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Snail_in_Ubud,_Bali,_2010_(1).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Alexander R. Jenner",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 720,
+      "bytes": 270562
+    }
+  },
+  {
+    "id": "01a21193-6599-463c-a5f0-75b6fe03189d",
+    "scientificName": "Leiopelma archeyi",
+    "oldPath": "animal-photos/approved/01a21193-6599-463c-a5f0-75b6fe03189d.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "9e1615e2-4fc8-4967-8a3a-baff830fef51",
+    "scientificName": "Bombina variegata",
+    "oldPath": "animal-photos/approved/9e1615e2-4fc8-4967-8a3a-baff830fef51.webp",
+    "verdict": "replace",
+    "reason": "A hind foot is clipped at the bottom/right edge.",
+    "replacement": {
+      "path": "animal-photos/approved/9e1615e2-4fc8-4967-8a3a-baff830fef51.webp",
+      "title": "Bombina variegata 32.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bombina_variegata_32.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Waugsberg",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 720,
+      "bytes": 80176
+    }
+  },
+  {
+    "id": "d1644001-d86d-4541-9501-295a873aed2a",
+    "scientificName": "Onychodactylus fischeri",
+    "oldPath": "animal-photos/approved/d1644001-d86d-4541-9501-295a873aed2a.webp",
+    "verdict": "replace",
+    "reason": "Curled tail reaches the right image edge and its terminal contour is clipped."
+  },
+  {
+    "id": "f8556ac8-b536-418a-8a68-0ce22d33f4d6",
+    "scientificName": "Salamandrina perspicillata",
+    "oldPath": "animal-photos/approved/f8556ac8-b536-418a-8a68-0ce22d33f4d6.webp",
+    "verdict": "replace",
+    "reason": "Tail disappears out of the right edge and is severely out of focus.",
+    "replacement": {
+      "path": "animal-photos/approved/f8556ac8-b536-418a-8a68-0ce22d33f4d6.webp",
+      "title": "Noordelijke brilsalamander - northern spectacled salamander - Salamandrina perspicillata 5.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Noordelijke_brilsalamander_-_northern_spectacled_salamander_-_Salamandrina_perspicillata_5.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Bouke ten Cate",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 1440,
+      "bytes": 714286
+    }
+  },
+  {
+    "id": "2ceb333b-e712-4932-9757-1366cb12ba8e",
+    "scientificName": "Rhyacotriton variegatus",
+    "oldPath": "animal-photos/approved/2ceb333b-e712-4932-9757-1366cb12ba8e.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "4c0abb14-1b44-490e-80e6-effa0d067394",
+    "scientificName": "Neurergus kaiseri",
+    "oldPath": "animal-photos/approved/4c0abb14-1b44-490e-80e6-effa0d067394.webp",
+    "verdict": "replace",
+    "reason": "Tail end and hind-limb contour meet/cross the bottom/right crop."
+  },
+  {
+    "id": "6f4673be-bc9e-4605-b455-e514d1348f60",
+    "scientificName": "Erpetoichthys calabaricus",
+    "oldPath": "animal-photos/approved/6f4673be-bc9e-4605-b455-e514d1348f60.webp",
+    "verdict": "replace",
+    "reason": "Most body and tail are blurred, with the tail disappearing from view."
+  },
+  {
+    "id": "58efac32-123c-4043-9de8-f0937c149da7",
+    "scientificName": "Acipenser transmontanus",
+    "oldPath": "animal-photos/approved/58efac32-123c-4043-9de8-f0937c149da7.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "6b315534-8823-4a77-b2ab-152a7184f948",
+    "scientificName": "Acipenser fulvescens",
+    "oldPath": "animal-photos/approved/6b315534-8823-4a77-b2ab-152a7184f948.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "cce80cff-99d2-4642-8ceb-3936c2cc4a3e",
+    "scientificName": "Megalops cyprinoides",
+    "oldPath": "animal-photos/approved/cce80cff-99d2-4642-8ceb-3936c2cc4a3e.webp",
+    "verdict": "replace",
+    "reason": "Tail fin is cut off on the left image edge.",
+    "replacement": {
+      "path": "animal-photos/approved/cce80cff-99d2-4642-8ceb-3936c2cc4a3e.webp",
+      "title": "Megalops cyprinoides — iNaturalist photo 463583557",
+      "filePage": "https://www.inaturalist.org/observations/258390835",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "gwynmwilliams",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 768,
+      "bytes": 190028
+    }
+  },
+  {
+    "id": "dbbf10f2-2c5b-414a-bc72-7a08b4483e00",
+    "scientificName": "Petrobius brevistylis",
+    "oldPath": "animal-photos/approved/dbbf10f2-2c5b-414a-bc72-7a08b4483e00.webp",
+    "verdict": "replace",
+    "reason": "Antennae extend out of the upper edge; body is low contrast against bark.",
+    "replacement": {
+      "path": "animal-photos/approved/dbbf10f2-2c5b-414a-bc72-7a08b4483e00.webp",
+      "title": "Petrobius brevistylis.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Petrobius_brevistylis.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Magne Flåten",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 569,
+      "bytes": 84202
+    }
+  },
+  {
+    "id": "7862998a-d97c-4bf1-aeda-ee74cf8251bd",
+    "scientificName": "Thermobia domestica",
+    "oldPath": "animal-photos/approved/7862998a-d97c-4bf1-aeda-ee74cf8251bd.webp",
+    "verdict": "replace",
+    "reason": "Whole insect is soft and dark; body detail is insufficiently clear.",
+    "replacement": {
+      "path": "animal-photos/approved/7862998a-d97c-4bf1-aeda-ee74cf8251bd.webp",
+      "title": "Thermobia domestica Trento 02.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Thermobia_domestica_Trento_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Syrio",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 720,
+      "bytes": 48098
+    }
+  },
+  {
+    "id": "9e0ee363-98ac-4270-a236-0ada224cfa1d",
+    "scientificName": "Baetis rhodani",
+    "oldPath": "animal-photos/approved/9e0ee363-98ac-4270-a236-0ada224cfa1d.webp",
+    "verdict": "replace",
+    "reason": "Long tail filaments extend beyond the right image edge."
+  },
+  {
+    "id": "92a2b163-34dc-4fef-9aef-f348d8b3af6c",
+    "scientificName": "Baetis fuscatus",
+    "oldPath": "animal-photos/approved/92a2b163-34dc-4fef-9aef-f348d8b3af6c.webp",
+    "verdict": "replace",
+    "reason": "Tail filaments extend beyond the left edge."
+  },
+  {
+    "id": "82ea9749-7a98-4455-90c1-77cbaf2944bc",
+    "scientificName": "Haploembia solieri",
+    "oldPath": "animal-photos/approved/82ea9749-7a98-4455-90c1-77cbaf2944bc.webp",
+    "verdict": "replace",
+    "reason": "Both antennae extend beyond the left crop."
+  },
+  {
+    "id": "e642c1c1-76c1-4806-a024-aa9737d5bc41",
+    "scientificName": "Cloeon dipterum",
+    "oldPath": "animal-photos/approved/e642c1c1-76c1-4806-a024-aa9737d5bc41.webp",
+    "verdict": "replace",
+    "reason": "Tail filaments are cut off by the right crop.",
+    "replacement": {
+      "path": "animal-photos/approved/e642c1c1-76c1-4806-a024-aa9737d5bc41.webp",
+      "title": "Cloeon dipterum — iNaturalist photo 279688469",
+      "filePage": "https://www.inaturalist.org/observations/161792754",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "empressmoth",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 768,
+      "bytes": 46756
+    }
+  },
+  {
+    "id": "2757cb60-acda-422d-a318-85b812a658c2",
+    "scientificName": "Ephemera danica",
+    "oldPath": "animal-photos/approved/2757cb60-acda-422d-a318-85b812a658c2.webp",
+    "verdict": "replace",
+    "reason": "Tail filaments are cut off by the right crop.",
+    "replacement": {
+      "path": "animal-photos/approved/2757cb60-acda-422d-a318-85b812a658c2.webp",
+      "title": "Ruhland, Parkstr. 11, Dänische Eintagsfliege, Frühsommer, 01.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ruhland,_Parkstr._11,_D%C3%A4nische_Eintagsfliege,_Fr%C3%BChsommer,_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Michael Reichelt",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 1440,
+      "bytes": 134270
+    }
+  },
+  {
+    "id": "a0d31f72-3884-466c-8b18-32ce41daf610",
+    "scientificName": "Labidura riparia",
+    "oldPath": "animal-photos/approved/a0d31f72-3884-466c-8b18-32ce41daf610.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "b2e26249-80be-441b-8648-4c0361892ee0",
+    "scientificName": "Blattella germanica",
+    "oldPath": "animal-photos/approved/b2e26249-80be-441b-8648-4c0361892ee0.webp",
+    "verdict": "replace",
+    "reason": "Antenna extends beyond the right crop."
+  },
+  {
+    "id": "04cfa0a6-3c8d-418c-99cb-12fb88c00fe0",
+    "scientificName": "Periplaneta americana",
+    "oldPath": "animal-photos/approved/04cfa0a6-3c8d-418c-99cb-12fb88c00fe0.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "ead318d0-2ded-4ca5-b263-b9702374a564",
+    "scientificName": "Chelon ramada",
+    "oldPath": "animal-photos/approved/ead318d0-2ded-4ca5-b263-b9702374a564.webp",
+    "verdict": "replace",
+    "reason": "Tail fin is cut off at the right border and body overlaps vegetation.",
+    "replacement": {
+      "path": "animal-photos/approved/ead318d0-2ded-4ca5-b263-b9702374a564.webp",
+      "title": "Chelon ramada — iNaturalist photo 693889113",
+      "filePage": "https://www.inaturalist.org/observations/379342661",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "Niklas Wahlberg",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 768,
+      "bytes": 30196
+    }
+  },
+  {
+    "id": "4b878d44-26e1-483e-8ef4-7879da69d1d7",
+    "scientificName": "Atractosteus spatula",
+    "oldPath": "animal-photos/approved/4b878d44-26e1-483e-8ef4-7879da69d1d7.webp",
+    "verdict": "replace",
+    "reason": "Tail fin is cut off at the left border."
+  },
+  {
+    "id": "27e86f16-d3d8-4e6a-9fb6-13014f5153de",
+    "scientificName": "Ixodes ricinus",
+    "oldPath": "animal-photos/approved/27e86f16-d3d8-4e6a-9fb6-13014f5153de.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "0400219e-04c8-45ae-88f1-e2505fd7aaa5",
+    "scientificName": "Mitopus morio",
+    "oldPath": "animal-photos/approved/0400219e-04c8-45ae-88f1-e2505fd7aaa5.webp",
+    "verdict": "replace",
+    "reason": "Multiple long legs extend beyond the image frame."
+  },
+  {
+    "id": "05aa1876-bf3a-4c00-b286-1c8178f9c6c9",
+    "scientificName": "Phalangium opilio",
+    "oldPath": "animal-photos/approved/05aa1876-bf3a-4c00-b286-1c8178f9c6c9.webp",
+    "verdict": "replace",
+    "reason": "Several legs extend beyond the right/bottom border."
+  },
+  {
+    "id": "e59382b6-0020-4a03-b4a6-891e47a9a0c4",
+    "scientificName": "Chelifer cancroides",
+    "oldPath": "animal-photos/approved/e59382b6-0020-4a03-b4a6-891e47a9a0c4.webp",
+    "verdict": "replace",
+    "reason": "Image is soft and low contrast; appendages are not sharply resolved.",
+    "replacement": {
+      "path": "animal-photos/approved/e59382b6-0020-4a03-b4a6-891e47a9a0c4.webp",
+      "title": "CheliferCancroides1.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:CheliferCancroides1.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Christian Fischer",
+      "photoSource": "Wikimedia Commons",
+      "width": 687,
+      "height": 586,
+      "bytes": 76958
+    }
+  },
+  {
+    "id": "f0494167-77f6-46eb-841d-c4cefb683bbd",
+    "scientificName": "Aurelia aurita",
+    "oldPath": "animal-photos/approved/f0494167-77f6-46eb-841d-c4cefb683bbd.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "0f5491a8-5250-427b-8231-6bf71d600e6f",
+    "scientificName": "Actinia equina",
+    "oldPath": "animal-photos/approved/0f5491a8-5250-427b-8231-6bf71d600e6f.webp",
+    "verdict": "replace",
+    "reason": "Rock overhang hides the upper body outline and tentacle attachment area.",
+    "replacement": {
+      "path": "animal-photos/approved/0f5491a8-5250-427b-8231-6bf71d600e6f.webp",
+      "title": "Actinia equina (Boulogne-sur-Mer).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Actinia_equina_(Boulogne-sur-Mer).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "\nHans Hillewaert",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 720,
+      "bytes": 257030
+    }
+  },
+  {
+    "id": "Q26395",
+    "scientificName": "Salamandra salamandra",
+    "oldPath": "animal-photos/approved/Q26395.webp",
+    "verdict": "replace",
+    "reason": "Rear trunk and tail extend beyond the left edge.",
+    "replacement": {
+      "path": "animal-photos/approved/Q26395.webp",
+      "title": "Salamandra salamandra Unterlamm 02.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Salamandra_salamandra_Unterlamm_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Uoaei1",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 640,
+      "bytes": 333040
+    }
+  },
+  {
+    "id": "Q146375",
+    "scientificName": "Bufo bufo",
+    "oldPath": "animal-photos/approved/Q146375.webp",
+    "verdict": "replace",
+    "reason": "Foreground legs/feet extend beyond the image frame."
+  },
+  {
+    "id": "Q27465",
+    "scientificName": "Rana temporaria",
+    "oldPath": "animal-photos/approved/Q27465.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q319393",
+    "scientificName": "Pelophylax ridibundus",
+    "oldPath": "animal-photos/approved/Q319393.webp",
+    "verdict": "replace",
+    "reason": "Hind body and feet extend beyond the top edge.",
+    "replacement": {
+      "path": "animal-photos/approved/Q319393.webp",
+      "title": "Pelophylax ridibundus — iNaturalist photo 193589723",
+      "filePage": "https://www.inaturalist.org/observations/114654160",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Kseniia Marianna Prondzynska",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 768,
+      "bytes": 335772
+    }
+  },
+  {
+    "id": "Q215247",
+    "scientificName": "Lissotriton vulgaris",
+    "oldPath": "animal-photos/approved/Q215247.webp",
+    "verdict": "replace",
+    "reason": "Tail/body outline is blurred and partly hidden by plants.",
+    "replacement": {
+      "path": "animal-photos/approved/Q215247.webp",
+      "title": "Lissotriton vulgaris — iNaturalist photo 60293320",
+      "filePage": "https://www.inaturalist.org/observations/37979629",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Christoph Moning",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 640,
+      "bytes": 54204
+    }
+  },
+  {
+    "id": "Q81110",
+    "scientificName": "Cyprinus carpio",
+    "oldPath": "animal-photos/approved/Q81110.webp",
+    "verdict": "replace",
+    "reason": "Tail fin is cropped off on the left border."
+  },
+  {
+    "id": "Q26387",
+    "scientificName": "Anguilla anguilla",
+    "oldPath": "animal-photos/approved/Q26387.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q76280",
+    "scientificName": "Tinca tinca",
+    "oldPath": "animal-photos/approved/Q76280.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q144700",
+    "scientificName": "Lota lota",
+    "oldPath": "animal-photos/approved/Q144700.webp",
+    "verdict": "replace",
+    "reason": "Head and tail are too close to/right against the image borders; full silhouette is not securely contained."
+  },
+  {
+    "id": "Q201235",
+    "scientificName": "Electrophorus electricus",
+    "oldPath": "animal-photos/approved/Q201235.webp",
+    "verdict": "replace",
+    "reason": "Most of the electric eel is hidden behind aquarium plants."
+  },
+  {
+    "id": "Q182976",
+    "scientificName": "Rutilus rutilus",
+    "oldPath": "animal-photos/approved/Q182976.webp",
+    "verdict": "replace",
+    "reason": "Vegetation covers substantial body and tail-fin detail."
+  },
+  {
+    "id": "Q76098",
+    "scientificName": "Ctenopharyngodon idella",
+    "oldPath": "animal-photos/approved/Q76098.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q217129",
+    "scientificName": "Dicentrarchus labrax",
+    "oldPath": "animal-photos/approved/Q217129.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q549",
+    "scientificName": "Betta splendens",
+    "oldPath": "animal-photos/approved/Q549.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q185260",
+    "scientificName": "Cetorhinus maximus",
+    "oldPath": "animal-photos/approved/Q185260.webp",
+    "verdict": "replace",
+    "reason": "Frontal foreshortened view hides much of posterior body/tail; complete outline is not visible."
+  },
+  {
+    "id": "Q156454",
+    "scientificName": "Vanessa atalanta",
+    "oldPath": "animal-photos/approved/Q156454.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q190491",
+    "scientificName": "Lucanus cervus",
+    "oldPath": "animal-photos/approved/Q190491.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q245314",
+    "scientificName": "Helix pomatia",
+    "oldPath": "animal-photos/approved/Q245314.webp",
+    "verdict": "replace",
+    "reason": "Extended foot/body continues beyond the right edge.",
+    "replacement": {
+      "path": "animal-photos/approved/Q245314.webp",
+      "title": "Grapevinesnail 01.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Grapevinesnail_01.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Jürgen Schoner",
+      "photoSource": "Wikimedia Commons",
+      "width": 960,
+      "height": 566,
+      "bytes": 51984
+    }
+  },
+  {
+    "id": "Q158603",
+    "scientificName": "Vanessa cardui",
+    "oldPath": "animal-photos/approved/Q158603.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q31080",
+    "scientificName": "Iphiclides podalirius",
+    "oldPath": "animal-photos/approved/Q31080.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q210959",
+    "scientificName": "Astacus astacus",
+    "oldPath": "animal-photos/approved/Q210959.webp",
+    "verdict": "replace",
+    "reason": "Long antennae extend beyond the left crop."
+  },
+  {
+    "id": "Q27690",
+    "scientificName": "Homarus gammarus",
+    "oldPath": "animal-photos/approved/Q27690.webp",
+    "verdict": "replace",
+    "reason": "Claws and long antennae extend beyond the right edge.",
+    "replacement": {
+      "path": "animal-photos/approved/Q27690.webp",
+      "title": "Homarus gammarus (iNaturalist photo 218120267)",
+      "filePage": "https://www.inaturalist.org/observations/128414227",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "corcan",
+      "photoSource": "iNaturalist (research-grade observation)",
+      "width": 768,
+      "height": 1024,
+      "bytes": 415146
+    }
+  },
+  {
+    "id": "Q503989",
+    "scientificName": "Nymphalis antiopa",
+    "oldPath": "animal-photos/approved/Q503989.webp",
+    "verdict": "pass",
+    "reason": "Viewed original photo: main animal body and visible appendages are contained in frame and sufficiently clear."
+  },
+  {
+    "id": "Q527496",
+    "scientificName": "Anax imperator",
+    "oldPath": "animal-photos/approved/Q527496.webp",
+    "verdict": "replace",
+    "reason": "Abdomen/tail end is cropped at the bottom edge."
+  },
+  {
+    "id": "Q551915",
+    "scientificName": "Nephrops norvegicus",
+    "oldPath": "animal-photos/approved/Q551915.webp",
+    "verdict": "replace",
+    "reason": "Tail extends beyond the right border; antennae beyond the left border.",
+    "replacement": {
+      "path": "animal-photos/approved/Q551915.webp",
+      "title": "Nephrops norvegicus — iNaturalist photo 21070614",
+      "filePage": "https://www.inaturalist.org/observations/14205657",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Dodly",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 768,
+      "bytes": 138630
+    }
+  }
+]

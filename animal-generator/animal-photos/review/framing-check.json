@@ -1,0 +1,25 @@
+{
+  "checkedOn": "2026-11-04",
+  "findings": [
+    {
+      "viewport": 1920,
+      "checked": 213,
+      "failures": []
+    },
+    {
+      "viewport": 1152,
+      "checked": 213,
+      "failures": []
+    },
+    {
+      "viewport": 390,
+      "checked": 213,
+      "failures": []
+    },
+    {
+      "viewport": 320,
+      "checked": 213,
+      "failures": []
+    }
+  ]
+}

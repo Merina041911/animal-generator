@@ -1,0 +1,2185 @@
+[
+  {
+    "id": "80064052-3255-4b19-9125-5a0c79dec5bf",
+    "scientificName": "Haliaeetus leucocephalus",
+    "habitats": [
+      "forest",
+      "freshwater",
+      "ocean",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Haliaeetus_leucocephalus/",
+        "title": "University of Michigan Animal Diversity Web: Haliaeetus leucocephalus"
+      }
+    ]
+  },
+  {
+    "id": "20f92e20-e65b-4efd-b40f-b3aa8fde6011",
+    "scientificName": "Aquila chrysaetos",
+    "habitats": [
+      "grassland",
+      "forest",
+      "mountains",
+      "tundra",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Aquila_chrysaetos/",
+        "title": "University of Michigan Animal Diversity Web: Aquila chrysaetos"
+      }
+    ]
+  },
+  {
+    "id": "a1244226-f2c2-41dc-b113-f1c6545958ce",
+    "scientificName": "Phoenicopterus roseus",
+    "habitats": [
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Phoenicopterus_roseus/",
+        "title": "University of Michigan Animal Diversity Web: Phoenicopterus roseus"
+      }
+    ],
+    "notes": "Adult source length range 80–150 cm crosses the 100 cm boundary. Mixed animal/algal food is treated as omnivory. Excludes erroneous/unspecified South American records from an older ADW account."
+  },
+  {
+    "id": "bd302d4d-59a5-4359-a661-3e82242f5d0d",
+    "scientificName": "Aptenodytes patagonicus",
+    "habitats": [
+      "ocean",
+      "tundra"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "oceans",
+      "south-america",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Aptenodytes_patagonicus/",
+        "title": "University of Michigan Animal Diversity Web: Aptenodytes patagonicus"
+      }
+    ],
+    "notes": "Subantarctic breeding islands are not mainland Antarctica; the broad ocean filter covers Southern Ocean range. ADW adult length 85–95 cm is below the 100 cm boundary."
+  },
+  {
+    "id": "bae88982-352f-43d0-b2ed-8d7661fa1d6f",
+    "scientificName": "Dromaius novaehollandiae",
+    "habitats": [
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Dromaius_novaehollandiae/",
+        "title": "University of Michigan Animal Diversity Web: Dromaius novaehollandiae"
+      }
+    ]
+  },
+  {
+    "id": "f562234a-9b05-439c-aad5-0ea83ed4c553",
+    "scientificName": "Anas platyrhynchos",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anas_platyrhynchos/",
+        "title": "University of Michigan Animal Diversity Web: Anas platyrhynchos"
+      },
+      {
+        "url": "https://www.fws.gov/species/mallard-anas-platyrhynchos",
+        "title": "U.S. Fish & Wildlife Service: Mallard adult length 50–65 cm, wetland and urban habitat"
+      }
+    ],
+    "notes": "Native Northern Hemisphere range is used; introduced Southern Hemisphere populations are excluded. Adult body length 50–65 cm is distinguished from wingspan."
+  },
+  {
+    "id": "18ff6244-3ec9-4750-a29a-aaad7e2f14ad",
+    "scientificName": "Fratercula arctica",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "north-america",
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Fratercula_arctica/",
+        "title": "University of Michigan Animal Diversity Web: Fratercula arctica"
+      }
+    ]
+  },
+  {
+    "id": "ef8228ef-8738-4110-927c-3ab6b9c03b0e",
+    "scientificName": "Ardea herodias",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ardea_herodias/",
+        "title": "University of Michigan Animal Diversity Web: Ardea herodias"
+      }
+    ]
+  },
+  {
+    "id": "b0d54194-4105-4694-b670-b693df1640cf",
+    "scientificName": "Erithacus rubecula",
+    "habitats": [
+      "forest",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/robin",
+        "title": "Robin Red Breast Bird Facts | Erithacus rubecula"
+      },
+      {
+        "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=130847",
+        "title": "Naturalis Biodiversity Center: European Robin"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://www.bto.org/sites/default/files/shared_documents/publications/research-reports/1990/rr058.pdf",
+        "title": "BTO Research Report 58: European Robin breeding and winter ranges"
+      }
+    ]
+  },
+  {
+    "id": "b4e2e9ef-2b55-4c5e-99b5-5b0db859f59b",
+    "scientificName": "Corvus corax",
+    "habitats": [
+      "forest",
+      "grassland",
+      "desert",
+      "mountains",
+      "tundra",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Corvus_corax/",
+        "title": "University of Michigan Animal Diversity Web: Corvus corax"
+      }
+    ]
+  },
+  {
+    "id": "75458c84-36a3-4182-879b-105b1ccbc849",
+    "scientificName": "Alcedo atthis",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Alcedo_atthis/",
+        "title": "University of Michigan Animal Diversity Web: Alcedo atthis"
+      }
+    ]
+  },
+  {
+    "id": "310b4994-af54-4d7b-93ac-27bbf80f7706",
+    "scientificName": "Columba livia",
+    "habitats": [
+      "grassland",
+      "urban",
+      "ocean"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Columba_livia/",
+        "title": "University of Michigan Animal Diversity Web: Columba livia"
+      }
+    ],
+    "notes": "Region uses original wild rock-dove range, excluding introduced worldwide feral populations; urban habitat retains the familiar feral form."
+  },
+  {
+    "id": "1f3bf322-4ca3-402f-80c9-0260843de5e4",
+    "scientificName": "Pica pica",
+    "habitats": [
+      "forest",
+      "grassland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/magpie",
+        "title": "Magpie Bird Facts | Pica Pica"
+      },
+      {
+        "url": "https://www.bto.org/learn/about-birds/birdfacts/magpie",
+        "title": "British Trust for Ornithology: Magpie (45 cm)"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://www.mapa.gob.es/dam/mapa/contenido/ganaderia/temas/produccion-y-mercados-ganaderos/caza/aspectos-generales/documentos/kcd_speciesaccounts_2021_11_14.pdf",
+        "title": "European Commission / Spanish Ministry: key concepts species accounts, Magpie distribution across Eurasia"
+      }
+    ]
+  },
+  {
+    "id": "3505388e-32ed-464d-816a-0bfca1b68934",
+    "scientificName": "Meleagris gallopavo",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Meleagris_gallopavo/",
+        "title": "University of Michigan Animal Diversity Web: Meleagris gallopavo"
+      },
+      {
+        "url": "https://www.allaboutbirds.org/guide/Wild_Turkey/id",
+        "title": "Cornell Lab of Ornithology: Wild Turkey identification (adult length 110–115 cm)"
+      }
+    ]
+  },
+  {
+    "id": "f16a316c-6580-4cc0-b6b5-fd2e895ba225",
+    "scientificName": "Gallus gallus domesticus",
+    "habitats": [
+      "grassland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america",
+      "south-america",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Gallus_gallus/",
+        "title": "University of Michigan Animal Diversity Web: Gallus gallus domesticus"
+      }
+    ],
+    "notes": "Domestic chicken: inhabited-continent distribution is domestic, not a claim of native wild status. ADW source describes ancestor Gallus gallus; breed-dependent adult size/habitat needs domestic-specific refinement."
+  },
+  {
+    "id": "d25f13d6-722e-4da3-8073-0a86b8a15976",
+    "scientificName": "Pandion haliaetus",
+    "habitats": [
+      "freshwater",
+      "ocean",
+      "wetland",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america",
+      "south-america",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Pandion_haliaetus/",
+        "title": "University of Michigan Animal Diversity Web: Pandion haliaetus"
+      }
+    ]
+  },
+  {
+    "id": "ce6a78bc-3ef1-4d60-ab40-113eb84c7802",
+    "scientificName": "Varanus komodoensis",
+    "habitats": [
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Varanus_komodoensis/",
+        "title": "University of Michigan Animal Diversity Web: Varanus komodoensis"
+      }
+    ]
+  },
+  {
+    "id": "23d00f89-94c4-4c5b-beee-31ba2da5d45c",
+    "scientificName": "Crocodylus porosus",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia",
+      "oceania",
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Crocodylus_porosus/",
+        "title": "University of Michigan Animal Diversity Web: Crocodylus porosus"
+      }
+    ]
+  },
+  {
+    "id": "0f07b2f6-92f5-40df-9cb0-6f30cb18dc60",
+    "scientificName": "Alligator mississippiensis",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Alligator_mississippiensis/",
+        "title": "University of Michigan Animal Diversity Web: Alligator mississippiensis"
+      }
+    ]
+  },
+  {
+    "id": "6cebfd77-1ad5-449f-8440-c6f9f18f41d8",
+    "scientificName": "Chelonia mydas",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Chelonia_mydas/",
+        "title": "University of Michigan Animal Diversity Web: Chelonia mydas"
+      }
+    ],
+    "notes": "Adult green turtles are primarily herbivorous; juveniles are more omnivorous. Region is world oceans, rather than inferring a continental range from nesting beaches."
+  },
+  {
+    "id": "d3c269f4-05cf-4c22-9a71-8d6912fe50ec",
+    "scientificName": "Caretta caretta",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Caretta_caretta/",
+        "title": "University of Michigan Animal Diversity Web: Caretta caretta"
+      }
+    ],
+    "notes": "Adult length approximately 85–100 cm and larger animals reaches both medium and large bins. Mainly animal diet; occasional plant food does not change the principal carnivore classification."
+  },
+  {
+    "id": "7d7ef734-8a79-4dcf-ad8e-f2cbcd1bf43e",
+    "scientificName": "Ophiophagus hannah",
+    "habitats": [
+      "forest",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ophiophagus_hannah/",
+        "title": "University of Michigan Animal Diversity Web: Ophiophagus hannah"
+      }
+    ]
+  },
+  {
+    "id": "3bc382f7-f157-4462-b28d-2d30f5a6ba96",
+    "scientificName": "Eunectes murinus",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Eunectes_murinus/",
+        "title": "University of Michigan Animal Diversity Web: Eunectes murinus"
+      }
+    ]
+  },
+  {
+    "id": "c4419539-43de-49d4-82f4-1fc599f42a15",
+    "scientificName": "Chlamydosaurus kingii",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Chlamydosaurus_kingii/",
+        "title": "University of Michigan Animal Diversity Web: Chlamydosaurus kingii"
+      }
+    ]
+  },
+  {
+    "id": "e862a9cc-dcd0-416d-bf67-0df70e4380b8",
+    "scientificName": "Gavialis gangeticus",
+    "habitats": [
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Gavialis_gangeticus/",
+        "title": "University of Michigan Animal Diversity Web: Gavialis gangeticus"
+      }
+    ]
+  },
+  {
+    "id": "9cae2028-126b-416f-9094-250782c5bc22",
+    "scientificName": "Heloderma suspectum",
+    "habitats": [
+      "desert"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Heloderma_suspectum/",
+        "title": "University of Michigan Animal Diversity Web: Heloderma suspectum"
+      }
+    ]
+  },
+  {
+    "id": "a93b67a0-15d5-4835-938b-212928ec6901",
+    "scientificName": "Ortalis cinereiceps",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://americanornithology.org/wp-content/uploads/2019/07/AOSChecklistGall-Charad.pdf",
+        "title": "American Ornithological Society checklist: Gray-headed Chachalaca habitat and range"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://pedia.cloud.edu.tw/Entry/Detail?title=%E5%B0%8F%E7%81%B0%E9%A0%AD%E7%A8%9A%E5%86%A0%E9%9B%89",
+        "title": "Taiwan Ministry of Education / National Academy for Educational Research: Gray-headed Chachalaca body length 46–58 cm"
+      }
+    ],
+    "notes": "Length is from an institutional reference account; habitat/native range from AOS and dietary composition from the SAviTraits author dataset."
+  },
+  {
+    "id": "13f03f76-ad05-41dc-9346-cdce51eacaf3",
+    "scientificName": "Crypturellus variegatus",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://birdsofbolivia.org/species-fact-sheets-2/tinamous-perdices/crypturellus-variegatus/",
+        "title": "Crypturellus variegatus &#8211; Birds of Bolivia"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      }
+    ]
+  },
+  {
+    "id": "2aac956a-1c48-4a67-939e-48c33f0897cf",
+    "scientificName": "Tinamus solitarius",
+    "habitats": [
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://koelnerzoo.de/portfolio/zimttinamu/",
+        "title": "Zimttinamu &#8211; Koelnerzoo"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      }
+    ]
+  },
+  {
+    "id": "0b787dde-fb79-4e1a-ab58-da3fa04d96dc",
+    "scientificName": "Chordeiles minor",
+    "habitats": [
+      "grassland",
+      "forest",
+      "desert",
+      "urban"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Chordeiles_minor/",
+        "title": "University of Michigan Animal Diversity Web: Chordeiles minor"
+      }
+    ]
+  },
+  {
+    "id": "480610c8-7a3d-4ffe-adbd-95e8a68440c4",
+    "scientificName": "Pterocles exustus",
+    "habitats": [
+      "desert",
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://osme.org/wp-content/uploads/2023/06/The-Birds-of-Saudi-Arabia-Volume-2-2.pdf",
+        "title": "The Birds of Saudi Arabia: Chestnut-bellied Sandgrouse (31–33 cm)"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      }
+    ]
+  },
+  {
+    "id": "41440b20-a497-417d-8f11-87428a867fc8",
+    "scientificName": "Pterocles gutturalis",
+    "habitats": [
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://www.birdlife.org.za/red-data-book/red-list/yellow-throated-sandgrouse/",
+        "title": "Yellow-throated Sandgrouse - BirdLife South Africa"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      }
+    ]
+  },
+  {
+    "id": "7d6a29b5-ff04-45da-b625-4b6534f8725b",
+    "scientificName": "Pterocles orientalis",
+    "habitats": [
+      "desert",
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://datazone.birdlife.org/species/factsheet/black-bellied-sandgrouse-pterocles-orientalis",
+        "title": "BirdLife International: Black-bellied Sandgrouse habitat, diet and native range"
+      },
+      {
+        "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?epi=207&id=130696",
+        "title": "Naturalis Biodiversity Center: Black-bellied Sandgrouse (35 cm)"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      }
+    ]
+  },
+  {
+    "id": "18af6753-2f5b-49d2-a28d-4cc1b7deaf6f",
+    "scientificName": "Lacerta agilis",
+    "habitats": [
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://www.iucn.it/scheda.php?id=1843186824",
+        "title": "IUCN Italy: Lacerta agilis native range from Pyrenees to Mongolia"
+      },
+      {
+        "url": "https://zowiac.eu/en/endangered_species/sandlizard/",
+        "title": "ZOWIAC / Goethe University Frankfurt: Sand lizard habitat, insectivory and total length"
+      },
+      {
+        "url": "https://www.wildlifetrusts.org/wildlife-explorer/reptiles/sand-lizard",
+        "title": "The Wildlife Trusts: Sand Lizard total length 20 cm and sandy heath/dune habitat"
+      }
+    ]
+  },
+  {
+    "id": "0e2a08ed-13a1-4b9e-a047-ef4045e7d88f",
+    "scientificName": "Egernia saxatilis",
+    "habitats": [
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://www.environment.nsw.gov.au/sites/default/files/2024-09/data-deficient-warrumbungles-black-rock-skink-ergenia-saxatalis.pdf",
+        "title": "NSW Threatened Species Scientific Committee: Egernia saxatilis conservation assessment"
+      },
+      {
+        "url": "https://journals.australian.museum/media/Uploads/Journals/17409/657_complete.pdf",
+        "title": "Cogger (1960), Australian Museum: original Egernia saxatilis description, adult total length 260 mm"
+      }
+    ],
+    "notes": "Rock-crevice species in wooded mountain/outcrop landscapes. Diet includes seasonally significant plant food; E. s. saxatilis diet is incompletely known, whereas E. s. intermedia omnivory is documented."
+  },
+  {
+    "id": "3dc70587-4e15-4f59-a246-4ec21390957b",
+    "scientificName": "Plestiodon fasciatus",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Plestiodon_fasciatus/",
+        "title": "University of Michigan Animal Diversity Web: Plestiodon fasciatus"
+      }
+    ],
+    "notes": "ADW text uses historical synonym Eumeces fasciatus; source range length 12.7–21.6 cm supports medium."
+  },
+  {
+    "id": "b471c37e-8e9e-4ef2-a486-1fdee807b85a",
+    "scientificName": "Zootoca vivipara",
+    "habitats": [
+      "forest",
+      "grassland",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Zootoca_vivipara/",
+        "title": "University of Michigan Animal Diversity Web: Zootoca vivipara"
+      },
+      {
+        "url": "https://www.wildlifetrusts.org/wildlife-explorer/reptiles/common-lizard",
+        "title": "The Wildlife Trusts: Common Lizard adult total length 10–15 cm"
+      }
+    ],
+    "notes": "Wildlife Trusts total adult length 10–15 cm is used. ADW gives 50–77 mm under total length, apparently confusing head-body and total measures."
+  },
+  {
+    "id": "b915aa26-40dd-4283-8ce4-d2dec024aa07",
+    "scientificName": "Coleonyx fasciatus",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://reptile-database.reptarium.cz/Coleonyx/fasciatus?search_param=%28%28genus%3D%27e%27%29%29",
+        "title": "The Reptile Database: Coleonyx fasciatus native Mexican distribution"
+      },
+      {
+        "url": "https://www.researchgate.net/publication/339199867_Other_Contributions_NATURE_NOTES",
+        "title": "Lara-Resendiz et al. (2017), Mesoamerican Herpetology 4(4): Coleonyx fasciatus observed in tropical deciduous forest"
+      },
+      {
+        "url": "https://herp.mx/pubs/1945-Klauber-Coleonyx.pdf",
+        "title": "Klauber (1945), The geckos of the genus Coleonyx, pp.182–184: measured adult Coleonyx fasciatus"
+      },
+      {
+        "url": "https://doi.org/10.6084/m9.figshare.24572683",
+        "title": "Oskyrko et al. (2024), ReptTraits author dataset v1-2: Coleonyx fasciatus diet and diet-source cells are NA"
+      }
+    ],
+    "notes": "Klauber (1945), p.183 records an adult male with 58.5 mm head-body and 53 mm regenerated tail: 111.5 mm total. This supports a medium adult specimen, not a complete population range. Wild diet remains unverified: the author-published ReptTraits v1-2 row has Diet=NA and no diet source. diets is deliberately unknown, rather than copied from related species."
+  },
+  {
+    "id": "ab5f2016-d5f5-4d69-aa43-4cd509ebdfdb",
+    "scientificName": "Carphodactylus laevis",
+    "habitats": [
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://www.museum.qld.gov.au/learn-and-discover/animals-of-queensland/geckos",
+        "title": "Geckos - Animals of Queensland | Queensland Museum"
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Carphodactylus/laevis",
+        "title": "The Reptile Database: Carphodactylus laevis distribution and adult size"
+      },
+      {
+        "url": "https://www.wettropics.gov.au/site/user-assets/docs/33%20Lizards.pdf",
+        "title": "Wet Tropics Management Authority: Tropical Topics 33, rainforest lizards"
+      },
+      {
+        "url": "https://www.livefoods.com.au/image/data/PDFs/gekko_4%2C_i-8.pdf",
+        "title": "Porter (2002): husbandry and first recorded captive breeding of Carphodactylus laevis; feeding observations"
+      }
+    ],
+    "notes": "Museum/government rainforest range and body size support medium; feeding evidence includes direct captive arthropod-feeding observations, not a quantified wild diet."
+  },
+  {
+    "id": "bad1295c-4349-4992-af66-5ef7bdf83e7d",
+    "scientificName": "Podarcis tiliguerta",
+    "habitats": [
+      "grassland",
+      "mountains",
+      "urban"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://faunesauvagedecorse.oec.fr/Podarcis_tiliguerta_Gmelin_1789_mpage_274_idtaxon%2C1133.htm",
+        "title": "Office de l’Environnement de la Corse: Tyrrhenian wall lizard, 180–240 mm total length, diet, habitat and range"
+      }
+    ]
+  },
+  {
+    "id": "Q17592",
+    "scientificName": "Struthio camelus",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Struthio_camelus/",
+        "title": "University of Michigan Animal Diversity Web: Struthio camelus"
+      }
+    ]
+  },
+  {
+    "id": "Q14683",
+    "scientificName": "Passer domesticus",
+    "habitats": [
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Passer_domesticus/",
+        "title": "University of Michigan Animal Diversity Web: Passer domesticus"
+      }
+    ]
+  },
+  {
+    "id": "Q25234",
+    "scientificName": "Turdus merula",
+    "habitats": [
+      "forest",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Turdus_merula/",
+        "title": "University of Michigan Animal Diversity Web: Turdus merula"
+      }
+    ]
+  },
+  {
+    "id": "Q25388",
+    "scientificName": "Oriolus oriolus",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/golden-oriole",
+        "title": "Golden Oriole Bird Facts | Oriolus Oriolus"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://migrationatlas.org/node/1567",
+        "title": "EURING/CMS European-African Bird Migration Atlas: Eurasian Golden Oriole breeding Eurasia and wintering Africa"
+      }
+    ]
+  },
+  {
+    "id": "Q25399",
+    "scientificName": "Motacilla alba",
+    "habitats": [
+      "grassland",
+      "urban",
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/pied-wagtail",
+        "title": "Pied Wagtail Bird Facts | Motacilla Alba"
+      },
+      {
+        "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?cat=TAB_DESCRIPTION&id=130829",
+        "title": "Naturalis Biodiversity Center: White Wagtail (18 cm), habitat and invertebrate diet"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://www.allaboutbirds.org/guide/White_Wagtail/id",
+        "title": "Cornell Lab: White Wagtail measurements and subspecies breeding in Eurasia, Morocco and Alaska"
+      },
+      {
+        "url": "https://migrationatlas.org/node/1769",
+        "title": "EURING/CMS European-African Bird Migration Atlas: White Wagtail winter range Africa and Middle East"
+      }
+    ]
+  },
+  {
+    "id": "Q25469",
+    "scientificName": "Sturnus vulgaris",
+    "habitats": [
+      "grassland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Sturnus_vulgaris/",
+        "title": "University of Michigan Animal Diversity Web: Sturnus vulgaris"
+      }
+    ]
+  },
+  {
+    "id": "Q25354",
+    "scientificName": "Garrulus glandarius",
+    "habitats": [
+      "forest",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Garrulus_glandarius/",
+        "title": "University of Michigan Animal Diversity Web: Garrulus glandarius"
+      }
+    ]
+  },
+  {
+    "id": "Q25273",
+    "scientificName": "Ardea cinerea",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean",
+      "grassland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ardea_cinerea/",
+        "title": "University of Michigan Animal Diversity Web: Ardea cinerea"
+      }
+    ]
+  },
+  {
+    "id": "Q25485",
+    "scientificName": "Parus major",
+    "habitats": [
+      "forest",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/great-tit",
+        "title": "Great Tit Bird Facts | Parus Major"
+      },
+      {
+        "url": "https://datazone.birdlife.org/species/factsheet/great-tit-parus-major",
+        "title": "BirdLife International: Great Tit native country distribution and ecology"
+      },
+      {
+        "url": "https://www.bto.org/learn/about-birds/birdfacts/great-tit",
+        "title": "British Trust for Ornithology: Great Tit habitat and seasonal insect feeding"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://www.mme.hu/en/magyarorszagmadarai/madaradatbazis-parmaj",
+        "title": "MME / BirdLife Hungary: Great Tit body length 14 cm, wingspan separately listed"
+      }
+    ],
+    "notes": "Adult body length is 14 cm, excluding wingspan; seasonal plant and animal foods are grouped as omnivory."
+  },
+  {
+    "id": "Q25429",
+    "scientificName": "Hirundo rustica",
+    "habitats": [
+      "grassland",
+      "urban",
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america",
+      "south-america",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Hirundo_rustica/",
+        "title": "University of Michigan Animal Diversity Web: Hirundo rustica"
+      }
+    ],
+    "notes": "Includes regular non-breeding Micronesian range within Oceania; excludes introduced populations."
+  },
+  {
+    "id": "Q25352",
+    "scientificName": "Ciconia ciconia",
+    "habitats": [
+      "grassland",
+      "wetland",
+      "urban"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ciconia_ciconia/",
+        "title": "University of Michigan Animal Diversity Web: Ciconia ciconia"
+      }
+    ]
+  },
+  {
+    "id": "Q25440",
+    "scientificName": "Phalacrocorax carbo",
+    "habitats": [
+      "freshwater",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Phalacrocorax_carbo/",
+        "title": "University of Michigan Animal Diversity Web: Phalacrocorax carbo"
+      }
+    ]
+  },
+  {
+    "id": "Q26490",
+    "scientificName": "Falco tinnunculus",
+    "habitats": [
+      "grassland",
+      "desert",
+      "urban",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Falco_tinnunculus/",
+        "title": "University of Michigan Animal Diversity Web: Falco tinnunculus"
+      }
+    ]
+  },
+  {
+    "id": "Q25380",
+    "scientificName": "Accipiter nisus",
+    "habitats": [
+      "forest",
+      "urban"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Accipiter_nisus/",
+        "title": "University of Michigan Animal Diversity Web: Accipiter nisus"
+      }
+    ]
+  },
+  {
+    "id": "Q25882",
+    "scientificName": "Anser anser",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anser_anser/",
+        "title": "University of Michigan Animal Diversity Web: Anser anser"
+      }
+    ]
+  },
+  {
+    "id": "Q25418",
+    "scientificName": "Carduelis carduelis",
+    "habitats": [
+      "forest",
+      "grassland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/goldfinch",
+        "title": "Goldfinch Bird Facts | Carduelis Carduelis"
+      },
+      {
+        "url": "https://vogels-europa.linnaeus.naturalis.nl/linnaeus_ng/app/views/highertaxa/taxon.php?id=6237",
+        "title": "Naturalis Biodiversity Center: European Goldfinch (12 cm), habitat and diet"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://www.nzbirdsonline.org.nz/species/european-goldfinch",
+        "title": "Te Papa / DOC / Birds New Zealand: European Goldfinch natural range versus introduced populations"
+      }
+    ]
+  },
+  {
+    "id": "Q25317",
+    "scientificName": "Tyto alba",
+    "habitats": [
+      "grassland",
+      "forest",
+      "urban"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Tyto_alba/",
+        "title": "University of Michigan Animal Diversity Web: Tyto alba"
+      },
+      {
+        "url": "https://www.allaboutbirds.org/guide/barn_owl/overview",
+        "title": "Cornell Lab of Ornithology: 2024 split of barn owls and distinct Western Barn Owl geographic range"
+      }
+    ],
+    "notes": "Uses Western Barn Owl Tyto alba after the 2024 species split: Europe, Africa and western Asia. Excludes the Americas (Tyto furcata) and eastern Asia/Australasia (Tyto javanica), despite the older broad ADW account."
+  },
+  {
+    "id": "Q25376",
+    "scientificName": "Fulica atra",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/coot",
+        "title": "Error 404"
+      },
+      {
+        "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?epi=207&id=130559",
+        "title": "Naturalis Biodiversity Center: Common Coot (38 cm), habitat and diet"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://www.nzbirdsonline.org.nz/species/australian-coot",
+        "title": "Te Papa / DOC / Birds New Zealand: Australian/Eurasian Coot native range and natural New Zealand colonisation"
+      }
+    ]
+  },
+  {
+    "id": "Q4764",
+    "scientificName": "Grus grus",
+    "habitats": [
+      "wetland",
+      "grassland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/crane",
+        "title": "Crane Bird Facts | Grus Grus"
+      },
+      {
+        "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=130563",
+        "title": "Naturalis Biodiversity Center: Common Crane (110–120 cm), habitat and diet"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://savingcranes.org/species/eurasian-crane/",
+        "title": "International Crane Foundation: Eurasian Crane range, diet and body size"
+      }
+    ]
+  },
+  {
+    "id": "Q25386",
+    "scientificName": "Corvus frugilegus",
+    "habitats": [
+      "grassland",
+      "urban",
+      "forest"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Corvus_frugilegus/",
+        "title": "University of Michigan Animal Diversity Web: Corvus frugilegus"
+      }
+    ]
+  },
+  {
+    "id": "Q25450",
+    "scientificName": "Anas acuta",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anas_acuta/",
+        "title": "University of Michigan Animal Diversity Web: Anas acuta"
+      }
+    ]
+  },
+  {
+    "id": "Q25392",
+    "scientificName": "Vanellus vanellus",
+    "habitats": [
+      "wetland",
+      "grassland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Vanellus_vanellus/",
+        "title": "University of Michigan Animal Diversity Web: Vanellus vanellus"
+      }
+    ]
+  },
+  {
+    "id": "Q25968",
+    "scientificName": "Passer montanus",
+    "habitats": [
+      "grassland",
+      "forest",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/tree-sparrow",
+        "title": "Tree Sparrow Bird Facts | Passer Montanus"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://migrationatlas.org/node/?page=1",
+        "title": "EURING/CMS European-African Bird Migration Atlas: Eurasian Tree Sparrow native ranges including North Africa and Asia"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/-/media/nparks-real-content/about-us/publications/garden_bird_watch_lowres.pdf",
+        "title": "Singapore National Parks Board: Eurasian Tree Sparrow global range and introduced populations"
+      },
+      {
+        "url": "https://www.acopiancenter.am/boa.asp?id=347",
+        "title": "American University of Armenia Acopian Center: Eurasian Tree Sparrow length 14 cm, wingspan separate"
+      }
+    ]
+  },
+  {
+    "id": "Q80362",
+    "scientificName": "Milvus migrans",
+    "habitats": [
+      "forest",
+      "grassland",
+      "freshwater",
+      "wetland",
+      "ocean",
+      "urban"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Milvus_migrans/",
+        "title": "University of Michigan Animal Diversity Web: Milvus migrans"
+      }
+    ]
+  },
+  {
+    "id": "Q25393",
+    "scientificName": "Luscinia megarhynchos",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Luscinia_megarhynchos/",
+        "title": "University of Michigan Animal Diversity Web: Luscinia megarhynchos"
+      }
+    ]
+  },
+  {
+    "id": "Q61865",
+    "scientificName": "Pavo cristatus",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Pavo_cristatus/",
+        "title": "University of Michigan Animal Diversity Web: Pavo cristatus"
+      }
+    ],
+    "notes": "Adult reported lengths 86–212 cm include the male train; medium/large retain sexual differences. Native Asian range is used, excluding captive/introduced records and misleading Congo wording in an older account."
+  },
+  {
+    "id": "Q25382",
+    "scientificName": "Pyrrhula pyrrhula",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Pyrrhula_pyrrhula/",
+        "title": "University of Michigan Animal Diversity Web: Pyrrhula pyrrhula"
+      }
+    ]
+  },
+  {
+    "id": "Q25421",
+    "scientificName": "Tachybaptus ruficollis",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/little-grebe",
+        "title": "Little Grebe Bird Facts | Tachybaptus Ruficollis"
+      },
+      {
+        "url": "https://www.birdlife.org.za/red-data-book/red-list/little-grebe/",
+        "title": "BirdLife South Africa: Little Grebe geographic range, freshwater habitat and carnivorous diet"
+      },
+      {
+        "url": "https://github.com/martaajarzyna/SAviTraits_database/blob/main/database-files-v1.0/SAviTraits_1-0_1.csv",
+        "title": "Murphy et al., SAviTraits 1.0: author-published bird dietary categories and seasonal proportions"
+      },
+      {
+        "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/7/0/702",
+        "title": "Singapore National Parks Board: Little Grebe, 28 cm, freshwater habitat and Europe/Africa/Asia/New Guinea distribution"
+      },
+      {
+        "url": "https://birds-europe.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?cat=TAB_DESCRIPTION&id=130331",
+        "title": "Naturalis Biodiversity Center: Little Grebe (25–29 cm), habitat and diet"
+      }
+    ]
+  },
+  {
+    "id": "Q192056",
+    "scientificName": "Vipera berus",
+    "habitats": [
+      "forest",
+      "grassland",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Vipera_berus/",
+        "title": "University of Michigan Animal Diversity Web: Vipera berus"
+      }
+    ]
+  },
+  {
+    "id": "Q170713",
+    "scientificName": "Natrix natrix",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "grassland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://reptile-database.reptarium.cz/Natrix/natrix",
+        "title": "The Reptile Database: Natrix natrix taxonomy and range; distinct from Natrix helvetica"
+      },
+      {
+        "url": "https://www.donauauen.at/en/facts/nature-science/fauna-engl/grass-snake",
+        "title": "Donau-Auen National Park: Natrix natrix male/female adult lengths and diet"
+      }
+    ],
+    "notes": "Uses Natrix natrix, distinct from British Natrix helvetica. Adult male 60–70 cm and female 80–100 cm; the documented range crosses the 100 cm boundary."
+  },
+  {
+    "id": "Q183660",
+    "scientificName": "Anguis fragilis",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anguis_fragilis/",
+        "title": "University of Michigan Animal Diversity Web: Anguis fragilis"
+      }
+    ]
+  },
+  {
+    "id": "Q120043",
+    "scientificName": "Dermochelys coriacea",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Dermochelys_coriacea/",
+        "title": "University of Michigan Animal Diversity Web: Dermochelys coriacea"
+      }
+    ]
+  },
+  {
+    "id": "Q215388",
+    "scientificName": "Boa constrictor",
+    "habitats": [
+      "forest",
+      "grassland",
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Boa_constrictor/",
+        "title": "University of Michigan Animal Diversity Web: Boa constrictor"
+      }
+    ]
+  },
+  {
+    "id": "Q203538",
+    "scientificName": "Eretmochelys imbricata",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Eretmochelys_imbricata/",
+        "title": "University of Michigan Animal Diversity Web: Eretmochelys imbricata"
+      }
+    ]
+  },
+  {
+    "id": "Q81207",
+    "scientificName": "Crocodylus palustris",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Crocodylus_palustris/",
+        "title": "University of Michigan Animal Diversity Web: Crocodylus palustris"
+      }
+    ]
+  },
+  {
+    "id": "Q208648",
+    "scientificName": "Coronella austriaca",
+    "habitats": [
+      "grassland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://www.wildlifetrusts.org/wildlife-explorer/reptiles/smooth-snake",
+        "title": "The Wildlife Trusts: Smooth Snake, 50–70 cm, heathland habitat and carnivorous diet"
+      },
+      {
+        "url": "https://iucn.it/scheda.php?id=90064860",
+        "title": "IUCN Italy: Coronella austriaca native range across Europe and western Asia"
+      }
+    ]
+  },
+  {
+    "id": "Q187036",
+    "scientificName": "Emys orbicularis",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Emys_orbicularis/",
+        "title": "University of Michigan Animal Diversity Web: Emys orbicularitosa"
+      }
+    ],
+    "notes": "Catalog scientificName is misspelled: correct taxon is Emys orbicularis. Identified by stable id and common name. ADW shell length 12–38 cm is the size measure for this turtle."
+  },
+  {
+    "id": "Q208796",
+    "scientificName": "Amblyrhynchus cristatus",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "south-america",
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Amblyrhynchus_cristatus/",
+        "title": "University of Michigan Animal Diversity Web: Amblyrhynchus cristatus"
+      },
+      {
+        "url": "https://galapagosconservation.org.uk/species/marine-iguana/",
+        "title": "Galapagos Conservation Trust: Marine iguana diet, endemic range and adult total length"
+      }
+    ],
+    "notes": "Galapagos marine-algal herbivore. Conservation account gives average length 0.7 m and maximum 1.5 m, supporting both medium and large bins."
+  }
+]

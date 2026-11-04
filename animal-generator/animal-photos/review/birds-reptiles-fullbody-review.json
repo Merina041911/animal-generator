@@ -1,0 +1,728 @@
+[
+  {
+    "id": "80064052-3255-4b19-9125-5a0c79dec5bf",
+    "scientificName": "Haliaeetus leucocephalus",
+    "oldPath": "animal-photos/approved/80064052-3255-4b19-9125-5a0c79dec5bf.webp",
+    "verdict": "replace",
+    "reason": "主体白头海雕占画面过小，羽毛和脚部细节不清。",
+    "replacement": {
+      "title": "File:Bald Eagle (Haliaeetus leucocephalus) Kachemak Bay, Alaska.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_(Haliaeetus_leucocephalus)_Kachemak_Bay,_Alaska.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Andy  Morffew from Itchen Abbas, Hampshire, UK",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/80064052-3255-4b19-9125-5a0c79dec5bf.webp",
+      "width": 960,
+      "height": 1109,
+      "bytes": 178892
+    }
+  },
+  {
+    "id": "20f92e20-e65b-4efd-b40f-b3aa8fde6011",
+    "scientificName": "Aquila chrysaetos",
+    "oldPath": "animal-photos/approved/20f92e20-e65b-4efd-b40f-b3aa8fde6011.webp",
+    "verdict": "replace",
+    "reason": "画面只有脚爪与下肢，没有头部和躯干。",
+    "replacement": {
+      "title": "Aquila chrysaetos — iNaturalist photo 120823804",
+      "filePage": "https://www.inaturalist.org/observations/73963285",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "(c) Morten Ross, some rights reserved (CC BY)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/20f92e20-e65b-4efd-b40f-b3aa8fde6011.webp",
+      "width": 1024,
+      "height": 682,
+      "bytes": 52264
+    }
+  },
+  {
+    "id": "a1244226-f2c2-41dc-b113-f1c6545958ce",
+    "scientificName": "Phoenicopterus roseus",
+    "oldPath": "animal-photos/approved/a1244226-f2c2-41dc-b113-f1c6545958ce.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "bd302d4d-59a5-4359-a661-3e82242f5d0d",
+    "scientificName": "Aptenodytes patagonicus",
+    "oldPath": "animal-photos/approved/bd302d4d-59a5-4359-a661-3e82242f5d0d.webp",
+    "verdict": "replace",
+    "reason": "群体远景，多数个体互相遮挡，缺少清晰完整主体。"
+  },
+  {
+    "id": "bae88982-352f-43d0-b2ed-8d7661fa1d6f",
+    "scientificName": "Dromaius novaehollandiae",
+    "oldPath": "animal-photos/approved/bae88982-352f-43d0-b2ed-8d7661fa1d6f.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "f562234a-9b05-439c-aad5-0ea83ed4c553",
+    "scientificName": "Anas platyrhynchos",
+    "oldPath": "animal-photos/approved/f562234a-9b05-439c-aad5-0ea83ed4c553.webp",
+    "verdict": "replace",
+    "reason": "浮于水面，下半身及双腿不可见。",
+    "replacement": {
+      "path": "animal-photos/approved/f562234a-9b05-439c-aad5-0ea83ed4c553.webp",
+      "title": "Anas platyrhynchos — iNaturalist photo 276357350",
+      "filePage": "https://www.inaturalist.org/observations/159942431",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "John Brew",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 569,
+      "bytes": 333472
+    }
+  },
+  {
+    "id": "18ff6244-3ec9-4750-a29a-aaad7e2f14ad",
+    "scientificName": "Fratercula arctica",
+    "oldPath": "animal-photos/approved/18ff6244-3ec9-4750-a29a-aaad7e2f14ad.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "ef8228ef-8738-4110-927c-3ab6b9c03b0e",
+    "scientificName": "Ardea herodias",
+    "oldPath": "animal-photos/approved/ef8228ef-8738-4110-927c-3ab6b9c03b0e.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "b0d54194-4105-4694-b670-b693df1640cf",
+    "scientificName": "Erithacus rubecula",
+    "oldPath": "animal-photos/approved/b0d54194-4105-4694-b670-b693df1640cf.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "b4e2e9ef-2b55-4c5e-99b5-5b0db859f59b",
+    "scientificName": "Corvus corax",
+    "oldPath": "animal-photos/approved/b4e2e9ef-2b55-4c5e-99b5-5b0db859f59b.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "75458c84-36a3-4182-879b-105b1ccbc849",
+    "scientificName": "Alcedo atthis",
+    "oldPath": "animal-photos/approved/Q79915.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "310b4994-af54-4d7b-93ac-27bbf80f7706",
+    "scientificName": "Columba livia",
+    "oldPath": "animal-photos/approved/Q42326.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "1f3bf322-4ca3-402f-80c9-0260843de5e4",
+    "scientificName": "Pica pica",
+    "oldPath": "animal-photos/approved/1f3bf322-4ca3-402f-80c9-0260843de5e4.webp",
+    "verdict": "replace",
+    "reason": "伏在草地，腹部和双腿被遮挡。"
+  },
+  {
+    "id": "3505388e-32ed-464d-816a-0bfca1b68934",
+    "scientificName": "Meleagris gallopavo",
+    "oldPath": "animal-photos/approved/3505388e-32ed-464d-816a-0bfca1b68934.webp",
+    "verdict": "replace",
+    "reason": "草丛遮挡脚爪，无法完整辨识全身。"
+  },
+  {
+    "id": "f16a316c-6580-4cc0-b6b5-fd2e895ba225",
+    "scientificName": "Gallus gallus domesticus",
+    "oldPath": "animal-photos/approved/f16a316c-6580-4cc0-b6b5-fd2e895ba225.webp",
+    "verdict": "replace",
+    "reason": "雏鸡伏于草窝，腿脚被稻草遮挡。",
+    "replacement": {
+      "path": "animal-photos/approved/f16a316c-6580-4cc0-b6b5-fd2e895ba225.webp",
+      "title": "Gallus gallus domesticus — iNaturalist photo 92534634",
+      "filePage": "https://www.inaturalist.org/observations/57984002",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Sebastian Doak",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 768,
+      "bytes": 389694
+    }
+  },
+  {
+    "id": "d25f13d6-722e-4da3-8073-0a86b8a15976",
+    "scientificName": "Pandion haliaetus",
+    "oldPath": "animal-photos/approved/d25f13d6-722e-4da3-8073-0a86b8a15976.webp",
+    "verdict": "replace",
+    "reason": "飞行主体逆光较暗且较小，细节不清。"
+  },
+  {
+    "id": "ce6a78bc-3ef1-4d60-ab40-113eb84c7802",
+    "scientificName": "Varanus komodoensis",
+    "oldPath": "animal-photos/approved/Q4504.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "23d00f89-94c4-4c5b-beee-31ba2da5d45c",
+    "scientificName": "Crocodylus porosus",
+    "oldPath": "animal-photos/approved/Q182599.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "0f07b2f6-92f5-40df-9cb0-6f30cb18dc60",
+    "scientificName": "Alligator mississippiensis",
+    "oldPath": "animal-photos/approved/0f07b2f6-92f5-40df-9cb0-6f30cb18dc60.webp",
+    "verdict": "replace",
+    "reason": "远景鳄鱼部分被岸边植物遮挡，轮廓细节不清。",
+    "replacement": {
+      "path": "animal-photos/approved/0f07b2f6-92f5-40df-9cb0-6f30cb18dc60.webp",
+      "title": "Alligator mississippiensis — iNaturalist photo 113744549",
+      "filePage": "https://www.inaturalist.org/observations/70017326",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "Zygy",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 683,
+      "bytes": 128194
+    }
+  },
+  {
+    "id": "6cebfd77-1ad5-449f-8440-c6f9f18f41d8",
+    "scientificName": "Chelonia mydas",
+    "oldPath": "animal-photos/approved/6cebfd77-1ad5-449f-8440-c6f9f18f41d8.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "d3c269f4-05cf-4c22-9a71-8d6912fe50ec",
+    "scientificName": "Caretta caretta",
+    "oldPath": "animal-photos/approved/Q192095.webp",
+    "verdict": "replace",
+    "reason": "身体与后肢在画面右边缘被截断。"
+  },
+  {
+    "id": "7d7ef734-8a79-4dcf-ad8e-f2cbcd1bf43e",
+    "scientificName": "Ophiophagus hannah",
+    "oldPath": "animal-photos/approved/7d7ef734-8a79-4dcf-ad8e-f2cbcd1bf43e.webp",
+    "verdict": "replace",
+    "reason": "仅头颈及部分前段躯干，尾部未显示。",
+    "replacement": {
+      "path": "animal-photos/approved/7d7ef734-8a79-4dcf-ad8e-f2cbcd1bf43e.webp",
+      "title": "Ophiophagus hannah — iNaturalist photo 157899882",
+      "filePage": "https://www.inaturalist.org/observations/95133147",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Lawrence Hylton",
+      "photoSource": "iNaturalist",
+      "width": 819,
+      "height": 1024,
+      "bytes": 168404
+    }
+  },
+  {
+    "id": "3bc382f7-f157-4462-b28d-2d30f5a6ba96",
+    "scientificName": "Eunectes murinus",
+    "oldPath": "animal-photos/approved/Q207347.webp",
+    "verdict": "replace",
+    "reason": "仅头部与部分蛇身，主体其余部分在画面外。",
+    "replacement": {
+      "path": "animal-photos/approved/Q207347.webp",
+      "title": "Eunectes murinus — iNaturalist photo 265377609",
+      "filePage": "https://www.inaturalist.org/observations/153635576",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Conrado Pável de Oliveira",
+      "photoSource": "iNaturalist",
+      "width": 683,
+      "height": 1024,
+      "bytes": 184734
+    }
+  },
+  {
+    "id": "c4419539-43de-49d4-82f4-1fc599f42a15",
+    "scientificName": "Chlamydosaurus kingii",
+    "oldPath": "animal-photos/approved/c4419539-43de-49d4-82f4-1fc599f42a15.webp",
+    "verdict": "replace",
+    "reason": "仅头部与颈褶特写，躯干、尾巴和腿不完整。",
+    "replacement": {
+      "path": "animal-photos/approved/c4419539-43de-49d4-82f4-1fc599f42a15.webp",
+      "title": "Chlamydosaurus kingii — iNaturalist photo 543438997",
+      "filePage": "https://www.inaturalist.org/observations/301576162",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "artist": "Romain Boisseau",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 683,
+      "bytes": 142492
+    }
+  },
+  {
+    "id": "e862a9cc-dcd0-416d-bf67-0df70e4380b8",
+    "scientificName": "Gavialis gangeticus",
+    "oldPath": "animal-photos/approved/Q17134.webp",
+    "verdict": "replace",
+    "reason": "尾端被原图上边缘截断。",
+    "replacement": {
+      "path": "animal-photos/approved/Q17134.webp",
+      "title": "Gavialis gangeticus — iNaturalist photo 274530463",
+      "filePage": "https://www.inaturalist.org/observations/158892760",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "avocat",
+      "photoSource": "iNaturalist",
+      "width": 1000,
+      "height": 700,
+      "bytes": 147904
+    }
+  },
+  {
+    "id": "9cae2028-126b-416f-9094-250782c5bc22",
+    "scientificName": "Heloderma suspectum",
+    "oldPath": "animal-photos/approved/Q207058.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "a93b67a0-15d5-4835-938b-212928ec6901",
+    "scientificName": "Ortalis cinereiceps",
+    "oldPath": "animal-photos/approved/a93b67a0-15d5-4835-938b-212928ec6901.webp",
+    "verdict": "replace",
+    "reason": "枝干横跨胸腹并遮挡腿部，主体较小。",
+    "replacement": {
+      "path": "animal-photos/approved/a93b67a0-15d5-4835-938b-212928ec6901.webp",
+      "title": "Ortalis cinereiceps — iNaturalist photo 470866961",
+      "filePage": "https://www.inaturalist.org/observations/262054799",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "Irene",
+      "photoSource": "iNaturalist",
+      "width": 831,
+      "height": 895,
+      "bytes": 277530
+    }
+  },
+  {
+    "id": "13f03f76-ad05-41dc-9346-cdce51eacaf3",
+    "scientificName": "Crypturellus variegatus",
+    "oldPath": "animal-photos/approved/13f03f76-ad05-41dc-9346-cdce51eacaf3.webp",
+    "verdict": "replace",
+    "reason": "博物馆标本展示照，主体阴暗，非自然活体全身照片。"
+  },
+  {
+    "id": "2aac956a-1c48-4a67-939e-48c33f0897cf",
+    "scientificName": "Tinamus solitarius",
+    "oldPath": "animal-photos/approved/2aac956a-1c48-4a67-939e-48c33f0897cf.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "0b787dde-fb79-4e1a-ab58-da3fa04d96dc",
+    "scientificName": "Chordeiles minor",
+    "oldPath": "animal-photos/approved/0b787dde-fb79-4e1a-ab58-da3fa04d96dc.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "480610c8-7a3d-4ffe-adbd-95e8a68440c4",
+    "scientificName": "Pterocles exustus",
+    "oldPath": "animal-photos/approved/480610c8-7a3d-4ffe-adbd-95e8a68440c4.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "41440b20-a497-417d-8f11-87428a867fc8",
+    "scientificName": "Pterocles gutturalis",
+    "oldPath": "animal-photos/approved/41440b20-a497-417d-8f11-87428a867fc8.webp",
+    "verdict": "replace",
+    "reason": "现图为绘画插图，不是真实照片。",
+    "replacement": {
+      "path": "animal-photos/approved/41440b20-a497-417d-8f11-87428a867fc8.webp",
+      "title": "Pterocles gutturalis — iNaturalist photo 356397007",
+      "filePage": "https://www.inaturalist.org/observations/201855958",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "David Carey",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 732,
+      "bytes": 161550
+    }
+  },
+  {
+    "id": "7d6a29b5-ff04-45da-b625-4b6534f8725b",
+    "scientificName": "Pterocles orientalis",
+    "oldPath": "animal-photos/approved/7d6a29b5-ff04-45da-b625-4b6534f8725b.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "18af6753-2f5b-49d2-a28d-4cc1b7deaf6f",
+    "scientificName": "Lacerta agilis",
+    "oldPath": "animal-photos/approved/18af6753-2f5b-49d2-a28d-4cc1b7deaf6f.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "0e2a08ed-13a1-4b9e-a047-ef4045e7d88f",
+    "scientificName": "Egernia saxatilis",
+    "oldPath": "animal-photos/approved/0e2a08ed-13a1-4b9e-a047-ef4045e7d88f.webp",
+    "verdict": "replace",
+    "reason": "仅头部与前段身体，尾和腿未显示。"
+  },
+  {
+    "id": "3dc70587-4e15-4f59-a246-4ec21390957b",
+    "scientificName": "Plestiodon fasciatus",
+    "oldPath": "animal-photos/approved/3dc70587-4e15-4f59-a246-4ec21390957b.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "b471c37e-8e9e-4ef2-a486-1fdee807b85a",
+    "scientificName": "Zootoca vivipara",
+    "oldPath": "animal-photos/approved/b471c37e-8e9e-4ef2-a486-1fdee807b85a.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "b915aa26-40dd-4283-8ce4-d2dec024aa07",
+    "scientificName": "Coleonyx fasciatus",
+    "oldPath": "animal-photos/approved/b915aa26-40dd-4283-8ce4-d2dec024aa07.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "ab5f2016-d5f5-4d69-aa43-4cd509ebdfdb",
+    "scientificName": "Carphodactylus laevis",
+    "oldPath": "animal-photos/approved/ab5f2016-d5f5-4d69-aa43-4cd509ebdfdb.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "bad1295c-4349-4992-af66-5ef7bdf83e7d",
+    "scientificName": "Podarcis tiliguerta",
+    "oldPath": "animal-photos/approved/bad1295c-4349-4992-af66-5ef7bdf83e7d.webp",
+    "verdict": "replace",
+    "reason": "蜥蜴尾部被下边缘截断，主体较小。"
+  },
+  {
+    "id": "Q17592",
+    "scientificName": "Struthio camelus",
+    "oldPath": "animal-photos/approved/Q17592.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q14683",
+    "scientificName": "Passer domesticus",
+    "oldPath": "animal-photos/approved/Q14683.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25234",
+    "scientificName": "Turdus merula",
+    "oldPath": "animal-photos/approved/Q25234.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25388",
+    "scientificName": "Oriolus oriolus",
+    "oldPath": "animal-photos/approved/Q25388.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25399",
+    "scientificName": "Motacilla alba",
+    "oldPath": "animal-photos/approved/Q25399.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25469",
+    "scientificName": "Sturnus vulgaris",
+    "oldPath": "animal-photos/approved/Q25469.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25354",
+    "scientificName": "Garrulus glandarius",
+    "oldPath": "animal-photos/approved/Q25354.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25273",
+    "scientificName": "Ardea cinerea",
+    "oldPath": "animal-photos/approved/Q25273.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25485",
+    "scientificName": "Parus major",
+    "oldPath": "animal-photos/approved/Q25485.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25429",
+    "scientificName": "Hirundo rustica",
+    "oldPath": "animal-photos/approved/Q25429.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25352",
+    "scientificName": "Ciconia ciconia",
+    "oldPath": "animal-photos/approved/Q25352.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25440",
+    "scientificName": "Phalacrocorax carbo",
+    "oldPath": "animal-photos/approved/Q25440.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q26490",
+    "scientificName": "Falco tinnunculus",
+    "oldPath": "animal-photos/approved/Q26490.webp",
+    "verdict": "replace",
+    "reason": "主体较小且细节模糊，脚部也被岩石遮挡。",
+    "replacement": {
+      "path": "animal-photos/approved/Q26490.webp",
+      "title": "Falco tinnunculus — iNaturalist photo 255957127",
+      "filePage": "https://www.inaturalist.org/observations/148613413",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "Luis Ferreira",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 787,
+      "bytes": 134038
+    }
+  },
+  {
+    "id": "Q25380",
+    "scientificName": "Accipiter nisus",
+    "oldPath": "animal-photos/approved/Q25380.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25882",
+    "scientificName": "Anser anser",
+    "oldPath": "animal-photos/approved/Q25882.webp",
+    "verdict": "replace",
+    "reason": "雁群拥挤，主体脚部被草和其他个体遮挡。"
+  },
+  {
+    "id": "Q25418",
+    "scientificName": "Carduelis carduelis",
+    "oldPath": "animal-photos/approved/Q25418.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25317",
+    "scientificName": "Tyto alba",
+    "oldPath": "animal-photos/approved/Q25317.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25376",
+    "scientificName": "Fulica atra",
+    "oldPath": "animal-photos/approved/Q25376.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q4764",
+    "scientificName": "Grus grus",
+    "oldPath": "animal-photos/approved/Q4764.webp",
+    "verdict": "replace",
+    "reason": "较深草丛遮住双腿，不能显示完整全身。"
+  },
+  {
+    "id": "Q25386",
+    "scientificName": "Corvus frugilegus",
+    "oldPath": "animal-photos/approved/Q25386.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25450",
+    "scientificName": "Anas acuta",
+    "oldPath": "animal-photos/approved/Q25450.webp",
+    "verdict": "replace",
+    "reason": "水面游泳，双腿和腹部不可见。"
+  },
+  {
+    "id": "Q25392",
+    "scientificName": "Vanellus vanellus",
+    "oldPath": "animal-photos/approved/Q25392.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25968",
+    "scientificName": "Passer montanus",
+    "oldPath": "animal-photos/approved/Q25968.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q80362",
+    "scientificName": "Milvus migrans",
+    "oldPath": "animal-photos/approved/Q80362.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25393",
+    "scientificName": "Luscinia megarhynchos",
+    "oldPath": "animal-photos/approved/Q25393.webp",
+    "verdict": "replace",
+    "reason": "枝条横跨胸腹，双腿被遮挡。",
+    "replacement": {
+      "path": "animal-photos/approved/Q25393.webp",
+      "title": "Luscinia megarhynchos — iNaturalist photo 70223528",
+      "filePage": "https://www.inaturalist.org/observations/44295754",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "Leonard Wägele",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 682,
+      "bytes": 88312
+    }
+  },
+  {
+    "id": "Q61865",
+    "scientificName": "Pavo cristatus",
+    "oldPath": "animal-photos/approved/Q61865.webp",
+    "verdict": "replace",
+    "reason": "长尾羽右侧被画面边缘截断，双脚也有草叶遮挡。"
+  },
+  {
+    "id": "Q25382",
+    "scientificName": "Pyrrhula pyrrhula",
+    "oldPath": "animal-photos/approved/Q25382.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q25421",
+    "scientificName": "Tachybaptus ruficollis",
+    "oldPath": "animal-photos/approved/Q25421.webp",
+    "verdict": "replace",
+    "reason": "浮于水面，双腿和腹部不可见。"
+  },
+  {
+    "id": "Q192056",
+    "scientificName": "Vipera berus",
+    "oldPath": "animal-photos/approved/Q192056.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q170713",
+    "scientificName": "Natrix natrix",
+    "oldPath": "animal-photos/approved/Q170713.webp",
+    "verdict": "replace",
+    "reason": "盘绕蛇身近景，左侧躯干触及画面边缘且尾尖不可确认。"
+  },
+  {
+    "id": "Q183660",
+    "scientificName": "Anguis fragilis",
+    "oldPath": "animal-photos/approved/Q183660.webp",
+    "verdict": "replace",
+    "reason": "尾尖被原图上边缘截断，原图700×523且细节略软。",
+    "replacement": {
+      "path": "animal-photos/approved/Q183660.webp",
+      "title": "Anguis fragilis — iNaturalist photo 361378564",
+      "filePage": "https://www.inaturalist.org/observations/204449478",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Diego González Dopico",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 683,
+      "bytes": 212174
+    }
+  },
+  {
+    "id": "Q120043",
+    "scientificName": "Dermochelys coriacea",
+    "oldPath": "animal-photos/approved/Q120043.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q215388",
+    "scientificName": "Boa constrictor",
+    "oldPath": "animal-photos/approved/Q215388.webp",
+    "verdict": "replace",
+    "reason": "盘绕蛇身右端出画，尾端不完整。"
+  },
+  {
+    "id": "Q203538",
+    "scientificName": "Eretmochelys imbricata",
+    "oldPath": "animal-photos/approved/Q203538.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q81207",
+    "scientificName": "Crocodylus palustris",
+    "oldPath": "animal-photos/approved/Q81207.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q208648",
+    "scientificName": "Coronella austriaca",
+    "oldPath": "animal-photos/approved/Q208648.webp",
+    "verdict": "pass",
+    "reason": "实际查看原图：头、躯干及正常可见的尾或肢体轮廓完整，无原图边缘截断；侧后侧肢体自然隐藏可接受。"
+  },
+  {
+    "id": "Q187036",
+    "scientificName": "Emys orbicularis",
+    "oldPath": "animal-photos/approved/Q187036.webp",
+    "verdict": "replace",
+    "reason": "植被遮住后半身和腿部，无法显示完整轮廓。"
+  },
+  {
+    "id": "Q208796",
+    "scientificName": "Amblyrhynchus cristatus",
+    "oldPath": "animal-photos/approved/Q208796.webp",
+    "verdict": "replace",
+    "reason": "水下低对比远景，尾部及后肢不清楚。",
+    "replacement": {
+      "path": "animal-photos/approved/Q208796.webp",
+      "title": "Amblyrhynchus cristatus — iNaturalist photo 350582363",
+      "filePage": "https://www.inaturalist.org/observations/198861828",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Rob Foster",
+      "photoSource": "iNaturalist",
+      "width": 1024,
+      "height": 683,
+      "bytes": 142014
+    }
+  }
+]

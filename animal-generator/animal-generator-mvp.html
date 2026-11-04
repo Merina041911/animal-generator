@@ -356,7 +356,7 @@
 
     <script src="animal-library.js"></script>
     <script>
-      const animals = (window.ANIMAL_LIBRARY || []).filter((animal) => Boolean(animal.image));
+      const animals = (window.ANIMAL_LIBRARY || []).filter((animal) => Boolean(animal.image) && animal.photo?.fullBodyApproved === true);
       const $ = (id) => document.getElementById(id);
       const resultGrid = $("results");
       const categoryLabel = (animal) => animal.category;

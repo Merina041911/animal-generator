@@ -1,0 +1,2795 @@
+[
+  {
+    "id": "1b25ddef-22f8-467e-a8b1-0846bcba9b3b",
+    "scientificName": "Acinonyx jubatus",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Acinonyx_jubatus/",
+        "title": "Animal Diversity Web: Acinonyx jubatus"
+      }
+    ]
+  },
+  {
+    "id": "Q132576",
+    "scientificName": "Aepyceros melampus",
+    "habitats": [
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Aepyceros_melampus/",
+        "title": "Animal Diversity Web: Aepyceros melampus"
+      }
+    ]
+  },
+  {
+    "id": "887ea34b-b62a-4126-9e98-434d6000dd0c",
+    "scientificName": "Ailuropoda melanoleuca",
+    "habitats": [
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ailuropoda_melanoleuca/",
+        "title": "Animal Diversity Web: Ailuropoda melanoleuca"
+      }
+    ]
+  },
+  {
+    "id": "02990f6d-82d3-45a9-b85e-99deb69d2a96",
+    "scientificName": "Ailurus fulgens",
+    "habitats": [
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ailurus_fulgens/",
+        "title": "Animal Diversity Web: Ailurus fulgens"
+      }
+    ]
+  },
+  {
+    "id": "94397ceb-67dc-4dcd-93bf-1a5bf38bba61",
+    "scientificName": "Alces alces",
+    "habitats": [
+      "forest",
+      "wetland",
+      "freshwater",
+      "tundra",
+      "mountains"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Alces_alces/",
+        "title": "Animal Diversity Web: Alces alces"
+      }
+    ]
+  },
+  {
+    "id": "Q213084",
+    "scientificName": "Antidorcas marsupialis",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Antidorcas_marsupialis/",
+        "title": "Animal Diversity Web: Antidorcas marsupialis"
+      }
+    ]
+  },
+  {
+    "id": "Q183339",
+    "scientificName": "Antilope cervicapra",
+    "habitats": [
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Antilope_cervicapra/",
+        "title": "Animal Diversity Web: Antilope cervicapra"
+      }
+    ]
+  },
+  {
+    "id": "fd8d3e5e-24a0-4aa2-9211-987ff86007dd",
+    "scientificName": "Balaenoptera novaeangliae",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans",
+      "antarctica"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Megaptera_novaeangliae/",
+        "title": "Animal Diversity Web: Balaenoptera novaeangliae"
+      }
+    ],
+    "notes": "The catalog uses an outdated/incorrect genus combination; the source account identifies the humpback whale as Megaptera novaeangliae. World-ocean range is represented by Oceans; Antarctic waters are explicitly documented."
+  },
+  {
+    "id": "Q82728",
+    "scientificName": "Bison bison",
+    "habitats": [
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Bison_bison/",
+        "title": "Animal Diversity Web: Bison bison"
+      }
+    ]
+  },
+  {
+    "id": "Q81091",
+    "scientificName": "Bison bonasus",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Bison_bonasus/",
+        "title": "Animal Diversity Web: Bison bonasus"
+      }
+    ]
+  },
+  {
+    "id": "Q128098",
+    "scientificName": "Canis aureus",
+    "habitats": [
+      "grassland",
+      "forest",
+      "desert",
+      "wetland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Canis_aureus/",
+        "title": "Animal Diversity Web: Canis aureus"
+      },
+      {
+        "url": "https://www.consevol.org/pdf/Koepfli_2015_CurBiol.pdf",
+        "title": "Genome-wide Evidence Reveals that African and Eurasian Golden Jackals Are Distinct Species"
+      },
+      {
+        "url": "https://canids.org/canids/golden-jackal/",
+        "title": "IUCN Canid Specialist Group: Golden jackal"
+      }
+    ],
+    "notes": "African golden wolves are excluded from the golden jackal range following the 2015 genomic species split; some older accounts retain the African range."
+  },
+  {
+    "id": "f787cef9-1801-4387-8f6c-4234b5c8d72a",
+    "scientificName": "Canis latrans",
+    "habitats": [
+      "grassland",
+      "forest",
+      "desert",
+      "mountains",
+      "wetland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Canis_latrans/",
+        "title": "Animal Diversity Web: Canis latrans"
+      }
+    ],
+    "notes": "Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "b416b85f-aa39-4689-9ca0-cb25f1258013",
+    "scientificName": "Canis lupus",
+    "habitats": [
+      "forest",
+      "grassland",
+      "mountains",
+      "tundra"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Canis_lupus/",
+        "title": "Animal Diversity Web: Canis lupus"
+      }
+    ],
+    "notes": "Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q178228",
+    "scientificName": "Capra aegagrus",
+    "habitats": [
+      "mountains",
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Capra_hircus/",
+        "title": "Animal Diversity Web: Capra aegagrus"
+      },
+      {
+        "url": "https://doi.org/10.2305/IUCN.UK.2020-2.RLTS.T3786A22145942.en",
+        "title": "IUCN Red List: Capra aegagrus"
+      },
+      {
+        "url": "https://doi.org/10.1002/jqs.3414",
+        "title": "Journal of Quaternary Science: Oumm Qatafa mammal taxonomy and body-size comparisons"
+      }
+    ],
+    "notes": "Wild goat, not domestic goat. Wild native range and habitat are checked against IUCN. The published species-size comparison reports adult total length around 150 cm; this is well above the 100 cm bin boundary even after excluding the short tail. The ADW domestic-goat account supplies related ecological context only."
+  },
+  {
+    "id": "Q168327",
+    "scientificName": "Capra ibex",
+    "habitats": [
+      "mountains",
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Capra_ibex/",
+        "title": "Animal Diversity Web: Capra ibex"
+      },
+      {
+        "url": "https://doi.org/10.2305/IUCN.UK.2020-2.RLTS.T42397A161916377.en",
+        "title": "IUCN Red List: Capra ibex"
+      }
+    ],
+    "notes": "Alpine ibex is restricted to Europe; the older ADW account combines a broader ibex concept. Range checked against IUCN."
+  },
+  {
+    "id": "Q30847",
+    "scientificName": "Caracal caracal",
+    "habitats": [
+      "grassland",
+      "forest",
+      "desert",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "africa",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Caracal_caracal/",
+        "title": "Animal Diversity Web: Caracal caracal"
+      },
+      {
+        "url": "https://academic.oup.com/mspecies/article/52/993/71/6016926",
+        "title": "Mammalian Species: Caracal caracal"
+      }
+    ],
+    "notes": "The Mammalian Species account reports head-body lengths 61–106 cm, excluding the tail, crossing the 100 cm threshold. Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q181191",
+    "scientificName": "Castor fiber",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Castor_fiber/",
+        "title": "Animal Diversity Web: Castor fiber"
+      },
+      {
+        "url": "https://www.wildlifetrusts.org/wildlife-explorer/mammals/beaver",
+        "title": "The Wildlife Trusts: Beaver"
+      }
+    ],
+    "notes": "The Wildlife Trusts reports body length 70–100 cm; the 100 cm endpoint belongs to the large bin while smaller adults belong to medium. Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q159918",
+    "scientificName": "Ceratotherium simum",
+    "habitats": [
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ceratotherium_simum/",
+        "title": "Animal Diversity Web: Ceratotherium simum"
+      }
+    ]
+  },
+  {
+    "id": "Q180404",
+    "scientificName": "Cervus canadensis",
+    "habitats": [
+      "grassland",
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Cervus_elaphus/",
+        "title": "Animal Diversity Web: Cervus canadensis"
+      },
+      {
+        "url": "https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.1353292/Cervus_canadensis",
+        "title": "NatureServe: Cervus canadensis"
+      }
+    ],
+    "notes": "Elk/wapiti is treated separately from Cervus elaphus; native regions are Asia and North America, not the full range of older combined red-deer accounts."
+  },
+  {
+    "id": "Q79794",
+    "scientificName": "Cervus elaphus",
+    "habitats": [
+      "forest",
+      "grassland",
+      "mountains"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Cervus_elaphus/",
+        "title": "Animal Diversity Web: Cervus elaphus"
+      },
+      {
+        "url": "https://bds.org.uk/information-advice/about-deer/deer-species/red-deer/",
+        "title": "British Deer Society: Red deer"
+      }
+    ],
+    "notes": "Red deer excludes the separately catalogued elk/wapiti; the native range includes North Africa, Europe and western Asia."
+  },
+  {
+    "id": "Q190516",
+    "scientificName": "Cervus nippon",
+    "habitats": [
+      "forest",
+      "grassland",
+      "mountains",
+      "wetland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Cervus_nippon/",
+        "title": "Animal Diversity Web: Cervus nippon"
+      }
+    ],
+    "notes": "Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q178089",
+    "scientificName": "Crocuta crocuta",
+    "habitats": [
+      "grassland",
+      "desert",
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Crocuta_crocuta/",
+        "title": "Animal Diversity Web: Crocuta crocuta"
+      }
+    ],
+    "notes": "Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q132585",
+    "scientificName": "Cuon alpinus",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Cuon_alpinus/",
+        "title": "Animal Diversity Web: Cuon alpinus"
+      }
+    ]
+  },
+  {
+    "id": "Q159857",
+    "scientificName": "Dama dama",
+    "habitats": [
+      "forest",
+      "grassland",
+      "mountains"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Dama_dama/",
+        "title": "Animal Diversity Web: Dama dama"
+      }
+    ]
+  },
+  {
+    "id": "Q132072",
+    "scientificName": "Delphinapterus leucas",
+    "habitats": [
+      "ocean",
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans",
+      "north-america",
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Delphinapterus_leucas/",
+        "title": "Animal Diversity Web: Delphinapterus leucas"
+      }
+    ]
+  },
+  {
+    "id": "Q29220",
+    "scientificName": "Dicerorhinus sumatrensis",
+    "habitats": [
+      "forest",
+      "wetland",
+      "mountains"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Dicerorhinus_sumatrensis/",
+        "title": "Animal Diversity Web: Dicerorhinus sumatrensis"
+      }
+    ]
+  },
+  {
+    "id": "Q95036",
+    "scientificName": "Diceros bicornis",
+    "habitats": [
+      "grassland",
+      "desert",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Diceros_bicornis/",
+        "title": "Animal Diversity Web: Diceros bicornis"
+      }
+    ]
+  },
+  {
+    "id": "Q147267",
+    "scientificName": "Didelphis virginiana",
+    "habitats": [
+      "forest",
+      "wetland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Didelphis_virginiana/",
+        "title": "Animal Diversity Web: Didelphis virginiana"
+      }
+    ]
+  },
+  {
+    "id": "Q129544",
+    "scientificName": "Dugong dugon",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans",
+      "africa",
+      "asia",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Dugong_dugon/",
+        "title": "Animal Diversity Web: Dugong dugon"
+      }
+    ]
+  },
+  {
+    "id": "91e44407-08f2-4b96-b8a6-ab4ce6d4d38d",
+    "scientificName": "Elephas maximus",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Elephas_maximus/",
+        "title": "Animal Diversity Web: Elephas maximus"
+      }
+    ]
+  },
+  {
+    "id": "d1e9b847-ab06-4663-8095-c65c08bfe21e",
+    "scientificName": "Enhydra lutris",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Enhydra_lutris/",
+        "title": "Animal Diversity Web: Enhydra lutris"
+      }
+    ]
+  },
+  {
+    "id": "ab0c5152-01eb-4d29-8d2f-74dd155bd06a",
+    "scientificName": "Equus africanus asinus",
+    "habitats": [
+      "grassland",
+      "desert",
+      "mountains"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america",
+      "south-america",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Equus_asinus/",
+        "title": "Animal Diversity Web: Equus africanus asinus"
+      }
+    ],
+    "notes": "This catalog entry is a domestic donkey. Regions describe established domestic distribution; they are not a claim of native wild donkey range. Habitats include human-managed grazing settings."
+  },
+  {
+    "id": "Q6145",
+    "scientificName": "Erinaceus europaeus",
+    "habitats": [
+      "forest",
+      "grassland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Erinaceus_europaeus/",
+        "title": "Animal Diversity Web: Erinaceus europaeus"
+      },
+      {
+        "url": "https://doi.org/10.2305/IUCN.UK.2016-3.RLTS.T29650A2791303.en",
+        "title": "IUCN Red List: Erinaceus europaeus native geographic range"
+      },
+      {
+        "url": "https://www.nhm.ac.uk/discover/hedgehog-erinaceus-europaeus.html",
+        "title": "Natural History Museum: European hedgehog"
+      }
+    ],
+    "notes": "Uses the western European-hedgehog concept; eastern European and Asian hedgehog species are not intended."
+  },
+  {
+    "id": "Q42623",
+    "scientificName": "Felis chaus",
+    "habitats": [
+      "wetland",
+      "grassland",
+      "forest",
+      "desert"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Felis_chaus/",
+        "title": "Animal Diversity Web: Felis chaus"
+      },
+      {
+        "url": "https://www.catsg.org/living-species-junglecat",
+        "title": "IUCN Cat Specialist Group: Jungle cat"
+      }
+    ],
+    "notes": "Head-body length is 58–76 cm in the Cat Specialist Group account, excluding tail; the broader ADW length includes a different measurement convention."
+  },
+  {
+    "id": "Q175329",
+    "scientificName": "Felis margarita",
+    "habitats": [
+      "desert"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Felis_margarita/",
+        "title": "Animal Diversity Web: Felis margarita"
+      }
+    ]
+  },
+  {
+    "id": "Q43576",
+    "scientificName": "Felis silvestris",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Felis_silvestris/",
+        "title": "Animal Diversity Web: Felis silvestris"
+      },
+      {
+        "url": "https://www.catsg.org/living-species-europeanwildcat",
+        "title": "IUCN Cat Specialist Group: European wildcat"
+      }
+    ],
+    "notes": "Uses the current European-wildcat concept, excluding Afro-Asiatic Felis lybica covered by older combined accounts."
+  },
+  {
+    "id": "Q15083",
+    "scientificName": "Giraffa camelopardalis",
+    "habitats": [
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Giraffa_camelopardalis/",
+        "title": "Animal Diversity Web: Giraffa camelopardalis"
+      }
+    ]
+  },
+  {
+    "id": "Q307157",
+    "scientificName": "Gorilla beringei",
+    "habitats": [
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Gorilla_beringei/",
+        "title": "Animal Diversity Web: Gorilla beringei"
+      }
+    ]
+  },
+  {
+    "id": "Q737838",
+    "scientificName": "Gorilla gorilla",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Gorilla_gorilla/",
+        "title": "Animal Diversity Web: Gorilla gorilla"
+      }
+    ]
+  },
+  {
+    "id": "bee678d0-5742-430e-9a59-e877a47eaaf1",
+    "scientificName": "Gulo gulo",
+    "habitats": [
+      "forest",
+      "tundra",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Gulo_gulo/",
+        "title": "Animal Diversity Web: Gulo gulo"
+      }
+    ],
+    "notes": "Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q144923",
+    "scientificName": "Helarctos malayanus",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Helarctos_malayanus/",
+        "title": "Animal Diversity Web: Helarctos malayanus"
+      }
+    ]
+  },
+  {
+    "id": "Q34505",
+    "scientificName": "Hippopotamus amphibius",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Hippopotamus_amphibius/",
+        "title": "Animal Diversity Web: Hippopotamus amphibius"
+      }
+    ]
+  },
+  {
+    "id": "9c234021-ce53-45d9-8fdd-b0ca3115a451",
+    "scientificName": "Hydrochoerus hydrochaeris",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Hydrochoerus_hydrochaeris/",
+        "title": "Animal Diversity Web: Hydrochoerus hydrochaeris"
+      }
+    ]
+  },
+  {
+    "id": "Q172886",
+    "scientificName": "Lama guanicoe",
+    "habitats": [
+      "grassland",
+      "desert",
+      "mountains",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Lama_guanicoe/",
+        "title": "Animal Diversity Web: Lama guanicoe"
+      }
+    ]
+  },
+  {
+    "id": "c8aeba86-0838-4c2e-8a3c-512608a2656c",
+    "scientificName": "Lemur catta",
+    "habitats": [
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Lemur_catta/",
+        "title": "Animal Diversity Web: Lemur catta"
+      },
+      {
+        "url": "https://perthzoo.wa.gov.au/animal/ring-tailed-lemur",
+        "title": "Perth Zoo: Ring-tailed lemur"
+      }
+    ],
+    "notes": "Perth Zoo gives body length 39–46 cm; the ADW structured length field incorrectly labels this range in mm."
+  },
+  {
+    "id": "Q33261",
+    "scientificName": "Leopardus pardalis",
+    "habitats": [
+      "forest",
+      "grassland",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Leopardus_pardalis/",
+        "title": "Animal Diversity Web: Leopardus pardalis"
+      }
+    ]
+  },
+  {
+    "id": "Q42699",
+    "scientificName": "Leptailurus serval",
+    "habitats": [
+      "grassland",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Leptailurus_serval/",
+        "title": "Animal Diversity Web: Leptailurus serval"
+      },
+      {
+        "url": "https://www.catsg.org/living-species-serval",
+        "title": "IUCN Cat Specialist Group: Serval"
+      }
+    ],
+    "notes": "Cat Specialist Group body length 59–100 cm includes the boundary at 100 cm; many other accounts give an upper bound of 92 cm. Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q26838",
+    "scientificName": "Lepus europaeus",
+    "habitats": [
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Lepus_europaeus/",
+        "title": "Animal Diversity Web: Lepus europaeus"
+      }
+    ]
+  },
+  {
+    "id": "b98f5417-9fa3-400f-b389-4bf1a961cce3",
+    "scientificName": "Loxodonta africana",
+    "habitats": [
+      "grassland",
+      "forest",
+      "desert"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Loxodonta_africana/",
+        "title": "Animal Diversity Web: Loxodonta africana"
+      }
+    ],
+    "notes": "Uses the African savanna-elephant concept; older source prose also includes rainforest elephants now separated as Loxodonta cyclotis."
+  },
+  {
+    "id": "41e86fdc-c817-4262-9cdf-e18c6b8053c4",
+    "scientificName": "Lycaon pictus",
+    "habitats": [
+      "grassland",
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Lycaon_pictus/",
+        "title": "Animal Diversity Web: Lycaon pictus"
+      }
+    ],
+    "notes": "Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q146457",
+    "scientificName": "Lynx canadensis",
+    "habitats": [
+      "forest",
+      "tundra"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Lynx_canadensis/",
+        "title": "Animal Diversity Web: Lynx canadensis"
+      }
+    ],
+    "notes": "Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q43375",
+    "scientificName": "Lynx lynx",
+    "habitats": [
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Lynx_lynx/",
+        "title": "Animal Diversity Web: Lynx lynx"
+      }
+    ],
+    "notes": "Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q129727",
+    "scientificName": "Lynx pardinus",
+    "habitats": [
+      "forest",
+      "grassland",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Lynx_pardinus/",
+        "title": "Animal Diversity Web: Lynx pardinus"
+      },
+      {
+        "url": "https://www.catsg.org/living-species-iberianlynx",
+        "title": "IUCN Cat Specialist Group: Iberian lynx"
+      }
+    ],
+    "notes": "Head-body length 65–92 cm from the Cat Specialist Group is used rather than the longer ADW combined measurement."
+  },
+  {
+    "id": "b48db64c-2590-41d1-b4f7-c9588eb11444",
+    "scientificName": "Lynx rufus",
+    "habitats": [
+      "forest",
+      "grassland",
+      "desert",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Lynx_rufus/",
+        "title": "Animal Diversity Web: Lynx rufus"
+      }
+    ],
+    "notes": "Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q156606",
+    "scientificName": "Macaca mulatta",
+    "habitats": [
+      "forest",
+      "grassland",
+      "mountains",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Macaca_mulatta/",
+        "title": "Animal Diversity Web: Macaca mulatta"
+      }
+    ]
+  },
+  {
+    "id": "Q26046",
+    "scientificName": "Martes martes",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Martes_martes/",
+        "title": "Animal Diversity Web: Martes martes"
+      }
+    ]
+  },
+  {
+    "id": "Q27066",
+    "scientificName": "Meles meles",
+    "habitats": [
+      "forest",
+      "grassland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Meles_meles/",
+        "title": "Animal Diversity Web: Meles meles"
+      },
+      {
+        "url": "https://mammal.org.uk/s/Badger-Fact-Sheet-v2.pdf",
+        "title": "Mammal Society: Badger fact sheet"
+      }
+    ],
+    "notes": "European/western Asian badgers are intended, excluding Japanese and other eastern Asian species. The Mammal Society reports body lengths up to 100 cm, so the threshold is shared by medium and large."
+  },
+  {
+    "id": "Q173128",
+    "scientificName": "Mellivora capensis",
+    "habitats": [
+      "grassland",
+      "desert",
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Mellivora_capensis/",
+        "title": "Animal Diversity Web: Mellivora capensis"
+      }
+    ]
+  },
+  {
+    "id": "Q145016",
+    "scientificName": "Melursus ursinus",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Melursus_ursinus/",
+        "title": "Animal Diversity Web: Melursus ursinus"
+      }
+    ]
+  },
+  {
+    "id": "Q159426",
+    "scientificName": "Monodon monoceros",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans",
+      "north-america",
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Monodon_monoceros/",
+        "title": "Animal Diversity Web: Monodon monoceros"
+      }
+    ]
+  },
+  {
+    "id": "Q83310",
+    "scientificName": "Mus musculus",
+    "habitats": [
+      "forest",
+      "grassland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "small"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Mus_musculus/",
+        "title": "Animal Diversity Web: Mus musculus"
+      }
+    ],
+    "notes": "Region describes the inferred native Eurasian range; worldwide human-assisted introductions are excluded. Adult head-body length is 65–95 mm, excluding the tail."
+  },
+  {
+    "id": "Q25345",
+    "scientificName": "Mustela erminea",
+    "habitats": [
+      "forest",
+      "grassland",
+      "tundra",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Mustela_erminea/",
+        "title": "Animal Diversity Web: Mustela erminea"
+      }
+    ]
+  },
+  {
+    "id": "Q25311",
+    "scientificName": "Mustela nivalis",
+    "habitats": [
+      "forest",
+      "grassland",
+      "tundra"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america",
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Mustela_nivalis/",
+        "title": "Animal Diversity Web: Mustela nivalis"
+      }
+    ]
+  },
+  {
+    "id": "Q187704",
+    "scientificName": "Myocastor coypus",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Myocastor_coypus/",
+        "title": "Animal Diversity Web: Myocastor coypus"
+      }
+    ]
+  },
+  {
+    "id": "d52b48fc-be52-46a1-94b7-ac7790b4730c",
+    "scientificName": "Myrmecophaga tridactyla",
+    "habitats": [
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Myrmecophaga_tridactyla/",
+        "title": "Animal Diversity Web: Myrmecophaga tridactyla"
+      }
+    ]
+  },
+  {
+    "id": "Q36135",
+    "scientificName": "Neofelis nebulosa",
+    "habitats": [
+      "forest",
+      "mountains",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Neofelis_nebulosa/",
+        "title": "Animal Diversity Web: Neofelis nebulosa"
+      },
+      {
+        "url": "https://www.catsg.org/living-species-cloudedleopard",
+        "title": "IUCN Cat Specialist Group: Clouded leopard"
+      }
+    ],
+    "notes": "Head-body length 69–108 cm crosses the 100 cm boundary; ADW total length is not treated as body length."
+  },
+  {
+    "id": "Q27179",
+    "scientificName": "Neogale vison",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Neovison_vison/",
+        "title": "Animal Diversity Web: Neogale vison"
+      }
+    ],
+    "notes": "ADW uses the older genus Neovison. Introduced populations outside North America are excluded from the region filter."
+  },
+  {
+    "id": "Q133189",
+    "scientificName": "Nyctereutes procyonoides",
+    "habitats": [
+      "forest",
+      "mountains",
+      "wetland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Nyctereutes_procyonoides/",
+        "title": "Animal Diversity Web: Nyctereutes procyonoides"
+      }
+    ]
+  },
+  {
+    "id": "58214bec-f89b-4a03-8a32-f5de4303a54a",
+    "scientificName": "Odobenus rosmarus",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans",
+      "north-america",
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Odobenus_rosmarus/",
+        "title": "Animal Diversity Web: Odobenus rosmarus"
+      }
+    ]
+  },
+  {
+    "id": "Q82037",
+    "scientificName": "Okapia johnstoni",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Okapia_johnstoni/",
+        "title": "Animal Diversity Web: Okapia johnstoni"
+      }
+    ]
+  },
+  {
+    "id": "c8cbec13-a69c-40d8-836b-902a6b1defcf",
+    "scientificName": "Orcinus orca",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans",
+      "antarctica"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Orcinus_orca/",
+        "title": "Animal Diversity Web: Orcinus orca"
+      }
+    ],
+    "notes": "Worldwide marine range is represented by Oceans; Antarctic waters are explicitly documented."
+  },
+  {
+    "id": "3ca524e8-74c5-45ad-a267-9f599ab7d751",
+    "scientificName": "Ornithorhynchus anatinus",
+    "habitats": [
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ornithorhynchus_anatinus/",
+        "title": "Animal Diversity Web: Ornithorhynchus anatinus"
+      }
+    ]
+  },
+  {
+    "id": "Q46212",
+    "scientificName": "Orycteropus afer",
+    "habitats": [
+      "grassland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Orycteropus_afer/",
+        "title": "Animal Diversity Web: Orycteropus afer"
+      }
+    ]
+  },
+  {
+    "id": "Q25851",
+    "scientificName": "Oryctolagus cuniculus",
+    "habitats": [
+      "grassland",
+      "forest",
+      "urban"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Oryctolagus_cuniculus/",
+        "title": "Animal Diversity Web: Oryctolagus cuniculus"
+      }
+    ]
+  },
+  {
+    "id": "Q166794",
+    "scientificName": "Otocolobus manul",
+    "habitats": [
+      "grassland",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Felis_manul/",
+        "title": "Animal Diversity Web: Otocolobus manul"
+      }
+    ]
+  },
+  {
+    "id": "Q184004",
+    "scientificName": "Ovibos moschatus",
+    "habitats": [
+      "tundra"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ovibos_moschatus/",
+        "title": "Animal Diversity Web: Ovibos moschatus"
+      }
+    ],
+    "notes": "North America includes Greenland. Introduced Eurasian populations are excluded."
+  },
+  {
+    "id": "Q19537",
+    "scientificName": "Pan paniscus",
+    "habitats": [
+      "forest",
+      "wetland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Pan_paniscus/",
+        "title": "Animal Diversity Web: Pan paniscus"
+      },
+      {
+        "url": "https://ielc.libguides.com/sdzg/factsheets/bonobo/characteristics",
+        "title": "San Diego Zoo Wildlife Alliance: Bonobo physical characteristics"
+      }
+    ],
+    "notes": "San Diego Zoo gives whole-body/head-trunk length 70–80 cm; standing height is not used as body length. Diet is mostly fruit, but the account documents invertebrates and vertebrates; the omnivore label describes the mixture rather than equal animal/plant proportions."
+  },
+  {
+    "id": "34f93016-ee49-428c-8504-c7c4739232bc",
+    "scientificName": "Pan troglodytes",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Pan_troglodytes/",
+        "title": "Animal Diversity Web: Pan troglodytes"
+      }
+    ]
+  },
+  {
+    "id": "54a08780-e059-411e-86d4-f3bd637d3e6f",
+    "scientificName": "Panthera leo",
+    "habitats": [
+      "grassland",
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Panthera_leo/",
+        "title": "Animal Diversity Web: Panthera leo"
+      }
+    ]
+  },
+  {
+    "id": "c5362c8a-0c93-41f5-9d4d-674dbe231318",
+    "scientificName": "Panthera onca",
+    "habitats": [
+      "forest",
+      "wetland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Panthera_onca/",
+        "title": "Animal Diversity Web: Panthera onca"
+      }
+    ]
+  },
+  {
+    "id": "9f33e613-944c-483d-8275-cc59a1b470c2",
+    "scientificName": "Panthera pardus",
+    "habitats": [
+      "forest",
+      "grassland",
+      "desert",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "africa",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Panthera_pardus/",
+        "title": "Animal Diversity Web: Panthera pardus"
+      },
+      {
+        "url": "https://www.catsg.org/living-species-leopard",
+        "title": "IUCN Cat Specialist Group: Leopard"
+      }
+    ],
+    "notes": "Head-body length 91–191 cm crosses the 100 cm boundary; tail is excluded."
+  },
+  {
+    "id": "2d866913-d59f-4e48-93d8-19a0ce8201cb",
+    "scientificName": "Panthera tigris",
+    "habitats": [
+      "forest",
+      "grassland",
+      "wetland",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Panthera_tigris/",
+        "title": "Animal Diversity Web: Panthera tigris"
+      }
+    ]
+  },
+  {
+    "id": "cb44ff49-165e-4c97-9a94-98f512dda64f",
+    "scientificName": "Panthera uncia",
+    "habitats": [
+      "mountains",
+      "grassland",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Uncia_uncia/",
+        "title": "Animal Diversity Web: Panthera uncia"
+      },
+      {
+        "url": "https://www.catsg.org/living-species-snowleopard",
+        "title": "IUCN Cat Specialist Group: Snow leopard"
+      }
+    ],
+    "notes": "Head-body length 90–120 cm crosses the 100 cm boundary. ADW uses the older genus name Uncia."
+  },
+  {
+    "id": "5cd33aab-9669-4550-988c-f3f482b97abd",
+    "scientificName": "Phascolarctos cinereus",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Phascolarctos_cinereus/",
+        "title": "Animal Diversity Web: Phascolarctos cinereus"
+      }
+    ]
+  },
+  {
+    "id": "Q26913",
+    "scientificName": "Phoca vitulina",
+    "habitats": [
+      "ocean",
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans",
+      "north-america",
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Phoca_vitulina/",
+        "title": "Animal Diversity Web: Phoca vitulina"
+      }
+    ]
+  },
+  {
+    "id": "Q81214",
+    "scientificName": "Physeter macrocephalus",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Physeter_catodon/",
+        "title": "Animal Diversity Web: Physeter macrocephalus"
+      }
+    ],
+    "notes": "ADW uses the older synonym Physeter catodon. Global marine distribution is represented by Oceans rather than inferring a terrestrial continent range."
+  },
+  {
+    "id": "Q42627",
+    "scientificName": "Prionailurus bengalensis",
+    "habitats": [
+      "forest",
+      "grassland",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Prionailurus_bengalensis/",
+        "title": "Animal Diversity Web: Prionailurus bengalensis"
+      },
+      {
+        "url": "https://www.catsg.org/living-species-leopardcat",
+        "title": "IUCN Cat Specialist Group: Leopard cat"
+      }
+    ],
+    "notes": "Cat Specialist Group head-body length 45–65 cm is used; the ADW range-length maximum contains a unit/data-entry error. Sunda leopard cats are not intended by this entry."
+  },
+  {
+    "id": "Q190674",
+    "scientificName": "Prionailurus viverrinus",
+    "habitats": [
+      "wetland",
+      "freshwater",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Prionailurus_viverrinus/",
+        "title": "Animal Diversity Web: Prionailurus viverrinus"
+      }
+    ]
+  },
+  {
+    "id": "Q121439",
+    "scientificName": "Procyon lotor",
+    "habitats": [
+      "forest",
+      "wetland",
+      "grassland",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Procyon_lotor/",
+        "title": "Animal Diversity Web: Procyon lotor"
+      }
+    ],
+    "notes": "Uses North America including Central America for the native raccoon range; old ADW wording extends into northern South America where current Procyon taxonomy requires caution."
+  },
+  {
+    "id": "ee40e166-219a-48bf-bdfb-3ec97d67661d",
+    "scientificName": "Puma concolor",
+    "habitats": [
+      "forest",
+      "grassland",
+      "desert",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Puma_concolor/",
+        "title": "Animal Diversity Web: Puma concolor"
+      }
+    ],
+    "notes": "Reported adult body-length range spans the 100 cm boundary, so both medium and large filters apply."
+  },
+  {
+    "id": "Q184224",
+    "scientificName": "Rattus norvegicus",
+    "habitats": [
+      "urban",
+      "forest",
+      "grassland",
+      "wetland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Rattus_norvegicus/",
+        "title": "Animal Diversity Web: Rattus norvegicus"
+      }
+    ],
+    "notes": "Region describes the native Asian range, not the modern worldwide introduced distribution."
+  },
+  {
+    "id": "Q47910",
+    "scientificName": "Rhinoceros unicornis",
+    "habitats": [
+      "grassland",
+      "wetland",
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Rhinoceros_unicornis/",
+        "title": "Animal Diversity Web: Rhinoceros unicornis"
+      }
+    ]
+  },
+  {
+    "id": "Q131340",
+    "scientificName": "Rupicapra rupicapra",
+    "habitats": [
+      "mountains",
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Rupicapra_rupicapra/",
+        "title": "Animal Diversity Web: Rupicapra rupicapra"
+      }
+    ]
+  },
+  {
+    "id": "Q126683",
+    "scientificName": "Saiga tatarica",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Saiga_tatarica/",
+        "title": "Animal Diversity Web: Saiga tatarica"
+      }
+    ],
+    "notes": "Europe includes the native range west of the Ural boundary in Kalmykia; Asian steppe populations are also included."
+  },
+  {
+    "id": "Q134964",
+    "scientificName": "Sarcophilus harrisii",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Sarcophilus_harrisii/",
+        "title": "Animal Diversity Web: Sarcophilus harrisii"
+      }
+    ]
+  },
+  {
+    "id": "Q468500",
+    "scientificName": "Sciurus carolinensis",
+    "habitats": [
+      "forest",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Sciurus_carolinensis/",
+        "title": "Animal Diversity Web: Sciurus carolinensis"
+      }
+    ],
+    "notes": "ADW classifies the regular plant foods and summer insect foods as omnivory; predominantly plant-based feeding does not mean exclusively herbivorous."
+  },
+  {
+    "id": "Q4388",
+    "scientificName": "Sciurus vulgaris",
+    "habitats": [
+      "forest"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Sciurus_vulgaris/",
+        "title": "Animal Diversity Web: Sciurus vulgaris"
+      }
+    ]
+  },
+  {
+    "id": "a7243ae1-4147-45a1-a42e-fd4c95b85d4a",
+    "scientificName": "Suricata suricatta",
+    "habitats": [
+      "desert",
+      "grassland"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Suricata_suricatta/",
+        "title": "Animal Diversity Web: Suricata suricatta"
+      }
+    ]
+  },
+  {
+    "id": "Q160042",
+    "scientificName": "Syncerus caffer",
+    "habitats": [
+      "grassland",
+      "forest",
+      "wetland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Syncerus_caffer/",
+        "title": "Animal Diversity Web: Syncerus caffer"
+      }
+    ]
+  },
+  {
+    "id": "Q137641",
+    "scientificName": "Tremarctos ornatus",
+    "habitats": [
+      "forest",
+      "mountains",
+      "grassland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Tremarctos_ornatus/",
+        "title": "Animal Diversity Web: Tremarctos ornatus"
+      }
+    ]
+  },
+  {
+    "id": "6260355c-1f7b-491c-baa5-4268710276d6",
+    "scientificName": "Tursiops truncatus",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Tursiops_truncatus/",
+        "title": "Animal Diversity Web: Tursiops truncatus"
+      }
+    ],
+    "notes": "Global temperate/tropical marine distribution is represented by Oceans rather than assigning terrestrial continents."
+  },
+  {
+    "id": "Q122783",
+    "scientificName": "Ursus americanus",
+    "habitats": [
+      "forest",
+      "wetland",
+      "mountains"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ursus_americanus/",
+        "title": "Animal Diversity Web: Ursus americanus"
+      }
+    ]
+  },
+  {
+    "id": "1cddcd20-9c80-4c98-9a3a-881e724ee4e7",
+    "scientificName": "Ursus arctos",
+    "habitats": [
+      "forest",
+      "grassland",
+      "mountains",
+      "tundra"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ursus_arctos/",
+        "title": "Animal Diversity Web: Ursus arctos"
+      }
+    ]
+  },
+  {
+    "id": "35fbff4d-c0e6-4c53-9f27-f0a6ecbe7720",
+    "scientificName": "Ursus maritimus",
+    "habitats": [
+      "ocean",
+      "tundra"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "oceans",
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ursus_maritimus/",
+        "title": "Animal Diversity Web: Ursus maritimus"
+      }
+    ]
+  },
+  {
+    "id": "Q124410",
+    "scientificName": "Ursus thibetanus",
+    "habitats": [
+      "forest",
+      "mountains"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ursus_thibetanus/",
+        "title": "Animal Diversity Web: Ursus thibetanus"
+      }
+    ]
+  },
+  {
+    "id": "Q167797",
+    "scientificName": "Vicugna vicugna",
+    "habitats": [
+      "grassland",
+      "mountains"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Vicugna_vicugna/",
+        "title": "Animal Diversity Web: Vicugna vicugna"
+      }
+    ]
+  },
+  {
+    "id": "8e5dfa51-961d-48be-acda-fd7a00f0e565",
+    "scientificName": "Vulpes lagopus",
+    "habitats": [
+      "tundra"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Vulpes_lagopus/",
+        "title": "Animal Diversity Web: Vulpes lagopus"
+      },
+      {
+        "url": "https://www.assiniboinepark.ca/stories/35/arctic-fox",
+        "title": "Assiniboine Park Conservancy: Arctic fox"
+      }
+    ]
+  },
+  {
+    "id": "64cdabf4-42da-4e38-991f-c2446005da4d",
+    "scientificName": "Vulpes vulpes",
+    "habitats": [
+      "forest",
+      "grassland",
+      "desert",
+      "mountains",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america",
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Vulpes_vulpes/",
+        "title": "Animal Diversity Web: Vulpes vulpes"
+      }
+    ]
+  },
+  {
+    "id": "6dcdf5ae-20b4-472e-a5a1-d73b997ff940",
+    "scientificName": "Vulpes zerda",
+    "habitats": [
+      "desert"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Vulpes_zerda/",
+        "title": "Animal Diversity Web: Vulpes zerda"
+      }
+    ]
+  }
+]
