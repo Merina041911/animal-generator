@@ -49,7 +49,29 @@
     "scientificName": "Aptenodytes patagonicus",
     "oldPath": "animal-photos/approved/bd302d4d-59a5-4359-a661-3e82242f5d0d.webp",
     "verdict": "replace",
-    "reason": "群体远景，多数个体互相遮挡，缺少清晰完整主体。"
+    "reason": "Replacement approved: 前景王企鹅头喙、完整躯干、自然收拢鳍肢和双足可辨，原图无裁切；背景个体不遮挡主体。 Previous image rejected: 群体远景，多数个体互相遮挡，缺少清晰完整主体。",
+    "replacement": {
+      "title": "File:Königspinguine (Aptenodytes patagonicus) (2).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigspinguine_(Aptenodytes_patagonicus)_(2).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Sastognuti",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/bd302d4d-59a5-4359-a661-3e82242f5d0d.webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 287810
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "前景王企鹅头喙、完整躯干、自然收拢鳍肢和双足可辨，原图无裁切；背景个体不遮挡主体。",
+      "sourceImageSha256": "7f4a2df0ebac2f581823d49c8c32dae92f12f9100a21216907dc67032f6b17a8",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/K%C3%B6nigspinguine_%28Aptenodytes_patagonicus%29_%282%29.jpg/1280px-K%C3%B6nigspinguine_%28Aptenodytes_patagonicus%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 960
+    },
+    "originalReason": "群体远景，多数个体互相遮挡，缺少清晰完整主体。"
   },
   {
     "id": "bae88982-352f-43d0-b2ed-8d7661fa1d6f",
@@ -124,14 +146,58 @@
     "scientificName": "Pica pica",
     "oldPath": "animal-photos/approved/1f3bf322-4ca3-402f-80c9-0260843de5e4.webp",
     "verdict": "replace",
-    "reason": "伏在草地，腹部和双腿被遮挡。"
+    "reason": "Replacement approved: 喜鹊头喙、躯干、双脚及完整长尾均在画面内，主体清晰。 Previous image rejected: 伏在草地，腹部和双腿被遮挡。",
+    "replacement": {
+      "title": "File:Urraca (Pica pica), Almuradiel, Ciudad Real, España, 2021-12-19, DD 10.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Urraca_(Pica_pica),_Almuradiel,_Ciudad_Real,_Espa%C3%B1a,_2021-12-19,_DD_10.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Diego Delso",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/1f3bf322-4ca3-402f-80c9-0260843de5e4.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 64830
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "喜鹊头喙、躯干、双脚及完整长尾均在画面内，主体清晰。",
+      "sourceImageSha256": "e3a7b8d424a6e9d26b6e2bacd026dd2462cad552d26e4f86b92a58c5bfb57210",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Urraca_%28Pica_pica%29%2C_Almuradiel%2C_Ciudad_Real%2C_Espa%C3%B1a%2C_2021-12-19%2C_DD_10.jpg/1280px-Urraca_%28Pica_pica%29%2C_Almuradiel%2C_Ciudad_Real%2C_Espa%C3%B1a%2C_2021-12-19%2C_DD_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 853
+    },
+    "originalReason": "伏在草地，腹部和双腿被遮挡。"
   },
   {
     "id": "3505388e-32ed-464d-816a-0bfca1b68934",
     "scientificName": "Meleagris gallopavo",
     "oldPath": "animal-photos/approved/3505388e-32ed-464d-816a-0bfca1b68934.webp",
     "verdict": "replace",
-    "reason": "草丛遮挡脚爪，无法完整辨识全身。"
+    "reason": "Replacement approved: 火鸡头部、完整展开尾羽、躯干及双腿足部均在原图内，无严重草叶遮挡。 Previous image rejected: 草丛遮挡脚爪，无法完整辨识全身。",
+    "replacement": {
+      "title": "File:20260428 tom wild turkey matthaei botanical gardens PD08908 1.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:20260428_tom_wild_turkey_matthaei_botanical_gardens_PD08908_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Paul Danese",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/3505388e-32ed-464d-816a-0bfca1b68934.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 457318
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "火鸡头部、完整展开尾羽、躯干及双腿足部均在原图内，无严重草叶遮挡。",
+      "sourceImageSha256": "2785e431dd493e8932d8827c478fc5c870857a5a3239a0ceda3c5d18e8440128",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/20260428_tom_wild_turkey_matthaei_botanical_gardens_PD08908_1.jpg/1280px-20260428_tom_wild_turkey_matthaei_botanical_gardens_PD08908_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 853
+    },
+    "originalReason": "草丛遮挡脚爪，无法完整辨识全身。"
   },
   {
     "id": "f16a316c-6580-4cc0-b6b5-fd2e895ba225",
@@ -157,7 +223,29 @@
     "scientificName": "Pandion haliaetus",
     "oldPath": "animal-photos/approved/d25f13d6-722e-4da3-8073-0a86b8a15976.webp",
     "verdict": "replace",
-    "reason": "飞行主体逆光较暗且较小，细节不清。"
+    "reason": "Replacement approved: 鱼鹰完整侧身、头喙、自然收拢双翼、尾羽和抓枝足部可辨，树枝未遮住主要身体。 Previous image rejected: 飞行主体逆光较暗且较小，细节不清。",
+    "replacement": {
+      "title": "File:Osprey Guarding Its Nest.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Osprey_Guarding_Its_Nest.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "RobertJBanach",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/d25f13d6-722e-4da3-8073-0a86b8a15976.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 83390
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "鱼鹰完整侧身、头喙、自然收拢双翼、尾羽和抓枝足部可辨，树枝未遮住主要身体。",
+      "sourceImageSha256": "a48085e429ef38c9df25e64d0bd0a44e7a2860f8cf675b082e1723e727f31b40",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Osprey_Guarding_Its_Nest.jpg/1280px-Osprey_Guarding_Its_Nest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 853
+    },
+    "originalReason": "飞行主体逆光较暗且较小，细节不清。"
   },
   {
     "id": "ce6a78bc-3ef1-4d60-ab40-113eb84c7802",
@@ -204,7 +292,29 @@
     "scientificName": "Caretta caretta",
     "oldPath": "animal-photos/approved/Q192095.webp",
     "verdict": "replace",
-    "reason": "身体与后肢在画面右边缘被截断。"
+    "reason": "Replacement approved: 蠵龟幼体头部、完整背甲、四肢和尾端均在沙面清楚可见，周围有余量无裁切。 Previous image rejected: 身体与后肢在画面右边缘被截断。",
+    "replacement": {
+      "title": "Caretta caretta — iNaturalist photo 355273645",
+      "filePage": "https://www.inaturalist.org/observations/201276016",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "(c) Radu Teodoreanu, some rights reserved (CC BY)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q192095.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 205208
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "蠵龟幼体头部、完整背甲、四肢和尾端均在沙面清楚可见，周围有余量无裁切。",
+      "sourceImageSha256": "bc95e75a2647e760b87c6cf96fe2ba8fbbfb81f7870afce0a0a531fc5afd8197",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/355273645/large.jpeg",
+      "sourceWidth": 1024,
+      "sourceHeight": 683
+    },
+    "originalReason": "身体与后肢在画面右边缘被截断。"
   },
   {
     "id": "7d7ef734-8a79-4dcf-ad8e-f2cbcd1bf43e",
@@ -374,7 +484,29 @@
     "scientificName": "Egernia saxatilis",
     "oldPath": "animal-photos/approved/0e2a08ed-13a1-4b9e-a047-ef4045e7d88f.webp",
     "verdict": "replace",
-    "reason": "仅头部与前段身体，尾和腿未显示。"
+    "reason": "Replacement approved: 左侧黑岩石龙子完整头部、躯干、可见足部及弯曲尾端在原图内，右侧个体不遮挡主动物。 Previous image rejected: 仅头部与前段身体，尾和腿未显示。",
+    "replacement": {
+      "title": "File:Black Rock Skinks (Egernia saxatilis) (8398156498).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Black_Rock_Skinks_(Egernia_saxatilis)_(8398156498).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Matt from Melbourne, Australia",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/0e2a08ed-13a1-4b9e-a047-ef4045e7d88f.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 575078
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "左侧黑岩石龙子完整头部、躯干、可见足部及弯曲尾端在原图内，右侧个体不遮挡主动物。",
+      "sourceImageSha256": "b5f329d90334c44f657f7dca5173268c6307d58ec533638524e1b1ab5302d9c6",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Black_Rock_Skinks_%28Egernia_saxatilis%29_%288398156498%29.jpg/1280px-Black_Rock_Skinks_%28Egernia_saxatilis%29_%288398156498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 853
+    },
+    "originalReason": "仅头部与前段身体，尾和腿未显示。"
   },
   {
     "id": "3dc70587-4e15-4f59-a246-4ec21390957b",
@@ -676,7 +808,29 @@
     "scientificName": "Boa constrictor",
     "oldPath": "animal-photos/approved/Q215388.webp",
     "verdict": "replace",
-    "reason": "盘绕蛇身右端出画，尾端不完整。"
+    "reason": "Replacement approved: 红尾蚺自然盘绕，完整头部、躯干外轮廓及红色尾段末端均位于原图内；无严重前景遮挡。 Previous image rejected: 盘绕蛇身右端出画，尾端不完整。",
+    "replacement": {
+      "title": "File:Boa constrictor 334994710.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Boa_constrictor_334994710.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Gustavo Sandres",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q215388.webp",
+      "width": 1280,
+      "height": 1016,
+      "bytes": 363388
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "红尾蚺自然盘绕，完整头部、躯干外轮廓及红色尾段末端均位于原图内；无严重前景遮挡。",
+      "sourceImageSha256": "f16bc2118c0b85e5f49ba56629fa476809690970319affa6fb1202c17838caeb",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Boa_constrictor_334994710.jpg/1280px-Boa_constrictor_334994710.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 1016
+    },
+    "originalReason": "盘绕蛇身右端出画，尾端不完整。"
   },
   {
     "id": "Q203538",

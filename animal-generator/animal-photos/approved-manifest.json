@@ -160,6 +160,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "6dcdf5ae-20b4-472e-a5a1-d73b997ff940",
+    "name": "fennec fox",
+    "scientificName": "Vulpes zerda",
+    "path": "animal-photos/approved/Q131564.webp",
+    "bytes": 233874,
+    "width": 1280,
+    "height": 992,
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "creator": "Drew Avery",
+    "source": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Vulpes_zerda.jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "f7796b3d5bfbaefb34b8e7669de4822d1cf53126880e5fd6e8506e153b2c2223",
+    "fullBodyApproved": true
+  },
+  {
     "id": "f787cef9-1801-4387-8f6c-4234b5c8d72a",
     "name": "coyote",
     "scientificName": "Canis latrans",
@@ -560,6 +576,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "bd302d4d-59a5-4359-a661-3e82242f5d0d",
+    "name": "king penguin",
+    "scientificName": "Aptenodytes patagonicus",
+    "path": "animal-photos/approved/bd302d4d-59a5-4359-a661-3e82242f5d0d.webp",
+    "bytes": 287810,
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Sastognuti",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigspinguine_(Aptenodytes_patagonicus)_(2).jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "e99abfffad1b82592f9d644825e8514335069ad10cfb7f3bf3d17e4bf90d5974",
+    "fullBodyApproved": true
+  },
+  {
     "id": "bae88982-352f-43d0-b2ed-8d7661fa1d6f",
     "name": "emu",
     "scientificName": "Dromaius novaehollandiae",
@@ -688,6 +720,38 @@
     "fullBodyApproved": true
   },
   {
+    "id": "1f3bf322-4ca3-402f-80c9-0260843de5e4",
+    "name": "magpie",
+    "scientificName": "Pica pica",
+    "path": "animal-photos/approved/1f3bf322-4ca3-402f-80c9-0260843de5e4.webp",
+    "bytes": 64830,
+    "width": 1280,
+    "height": 853,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File:Urraca_(Pica_pica),_Almuradiel,_Ciudad_Real,_Espa%C3%B1a,_2021-12-19,_DD_10.jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "ea8c5be01dfca29490e19010b09e81c23ed9c48c97585c234df2cbeacee6aa41",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "3505388e-32ed-464d-816a-0bfca1b68934",
+    "name": "turkey",
+    "scientificName": "Meleagris gallopavo",
+    "path": "animal-photos/approved/3505388e-32ed-464d-816a-0bfca1b68934.webp",
+    "bytes": 457318,
+    "width": 1280,
+    "height": 853,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Paul Danese",
+    "source": "https://commons.wikimedia.org/wiki/File:20260428_tom_wild_turkey_matthaei_botanical_gardens_PD08908_1.jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "ccf66554a91e384837929a242c1f30fe9dee6d2e7782287ee89271a47e82b040",
+    "fullBodyApproved": true
+  },
+  {
     "id": "f16a316c-6580-4cc0-b6b5-fd2e895ba225",
     "name": "chicken",
     "scientificName": "Gallus gallus domesticus",
@@ -701,6 +765,22 @@
     "source": "https://www.inaturalist.org/observations/57984002",
     "photoSource": "iNaturalist",
     "sha256": "cf00a5d0ae2cc89323d7011e4a779c54b151a21980a55883ed52f38c4986ce8e",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "d25f13d6-722e-4da3-8073-0a86b8a15976",
+    "name": "osprey",
+    "scientificName": "Pandion haliaetus",
+    "path": "animal-photos/approved/d25f13d6-722e-4da3-8073-0a86b8a15976.webp",
+    "bytes": 83390,
+    "width": 1280,
+    "height": 853,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "RobertJBanach",
+    "source": "https://commons.wikimedia.org/wiki/File:Osprey_Guarding_Its_Nest.jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "e773f6a3c4105528664e7908796a1276a740a3ff0a7b917b414908465d3978ba",
     "fullBodyApproved": true
   },
   {
@@ -765,6 +845,22 @@
     "source": "https://commons.wikimedia.org/wiki/File%3AGreen_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
     "photoSource": "Wikimedia Commons",
     "sha256": "7b9d6bc91fe7583de90cf1570d96451c0bd8f7a5c0b5f714db6bb75588f9baf3",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "d3c269f4-05cf-4c22-9a71-8d6912fe50ec",
+    "name": "loggerhead sea turtle",
+    "scientificName": "Caretta caretta",
+    "path": "animal-photos/approved/Q192095.webp",
+    "bytes": 205208,
+    "width": 1024,
+    "height": 683,
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "Radu Teodoreanu",
+    "source": "https://www.inaturalist.org/observations/201276016",
+    "photoSource": "iNaturalist",
+    "sha256": "d76809a3a88ac4421c3799f85254f33e4ec68194f15f5e47c7ce8492c116a909",
     "fullBodyApproved": true
   },
   {
@@ -925,6 +1021,22 @@
     "source": "https://commons.wikimedia.org/wiki/File%3ARainbow_Trout_%28Oncorhynchus_mykiss%29_Gavins_Point.jpg",
     "photoSource": "Wikimedia Commons",
     "sha256": "ea61c5f496e9ba6a60750172b5c2b329a6b401aa403ca4f9b0db5840bf045182",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "dd5aa97d-9abe-42b2-8e35-59bd0c506569",
+    "name": "arapaima",
+    "scientificName": "Arapaima gigas",
+    "path": "animal-photos/approved/dd5aa97d-9abe-42b2-8e35-59bd0c506569.webp",
+    "bytes": 170654,
+    "width": 1280,
+    "height": 434,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "creator": "Bjoertvedt",
+    "source": "https://commons.wikimedia.org/wiki/File:Arapaima_gigas_01.JPG",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "de0935f9e2c3fa7026b54db1cab16e00b5ab143ca5c3c6040355b8894e6a1b80",
     "fullBodyApproved": true
   },
   {
@@ -1200,6 +1312,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "0e2a08ed-13a1-4b9e-a047-ef4045e7d88f",
+    "name": "Black Rock Skink",
+    "scientificName": "Egernia saxatilis",
+    "path": "animal-photos/approved/0e2a08ed-13a1-4b9e-a047-ef4045e7d88f.webp",
+    "bytes": 575078,
+    "width": 1280,
+    "height": 853,
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "creator": "Matt from Melbourne, Australia",
+    "source": "https://commons.wikimedia.org/wiki/File:Black_Rock_Skinks_(Egernia_saxatilis)_(8398156498).jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "bdb6a83500b437a3cbdb0d0b8aa95ce65c6fc84919cf5be8f2ba47e1499169ef",
+    "fullBodyApproved": true
+  },
+  {
     "id": "3dc70587-4e15-4f59-a246-4ec21390957b",
     "name": "Common Five-lined Skink",
     "scientificName": "Plestiodon fasciatus",
@@ -1293,6 +1421,22 @@
     "source": "https://commons.wikimedia.org/wiki/File:Bombina_variegata_32.jpg",
     "photoSource": "Wikimedia Commons",
     "sha256": "f4f12c85be42b6e1c87bf489b3428059737d1c533a6eb3faa95fad96349b778b",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "d1644001-d86d-4541-9501-295a873aed2a",
+    "name": "Long-Tailed Clawed Salamander",
+    "scientificName": "Onychodactylus fischeri",
+    "path": "animal-photos/approved/d1644001-d86d-4541-9501-295a873aed2a.webp",
+    "bytes": 332672,
+    "width": 1280,
+    "height": 939,
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "creator": "Alexander A. Fomichev",
+    "source": "https://commons.wikimedia.org/wiki/File:Onychodactylus_fischeri_48747459.jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "7532011702f35feec23392d947832af8c5555336c1288101c569d2a9c71b845f",
     "fullBodyApproved": true
   },
   {
@@ -1408,6 +1552,38 @@
     "fullBodyApproved": true
   },
   {
+    "id": "9e0ee363-98ac-4270-a236-0ada224cfa1d",
+    "name": "Large Dark Olive",
+    "scientificName": "Baetis rhodani",
+    "path": "animal-photos/approved/9e0ee363-98ac-4270-a236-0ada224cfa1d.webp",
+    "bytes": 153914,
+    "width": 1280,
+    "height": 995,
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "creator": "Ben Sale from Stevenage, UK",
+    "source": "https://commons.wikimedia.org/wiki/File:Baetis_rhodani_(52612553371).jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "48455f1c23b8325d106c38bfc4dd6dd292edd57d7fbc1b04f1a64728e94a578d",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "82ea9749-7a98-4455-90c1-77cbaf2944bc",
+    "name": "Bicolored webspinner",
+    "scientificName": "Haploembia solieri",
+    "path": "animal-photos/approved/82ea9749-7a98-4455-90c1-77cbaf2944bc.webp",
+    "bytes": 50918,
+    "width": 1024,
+    "height": 683,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "creator": "Chaym Turak",
+    "source": "https://www.inaturalist.org/observations/335526771",
+    "photoSource": "iNaturalist",
+    "sha256": "d1437e2d3f94bf80ebd303ab1830531621ce031c83622ca30a9be38cfe875eef",
+    "fullBodyApproved": true
+  },
+  {
     "id": "e642c1c1-76c1-4806-a024-aa9737d5bc41",
     "name": "Pond Olive",
     "scientificName": "Cloeon dipterum",
@@ -1504,6 +1680,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "05aa1876-bf3a-4c00-b286-1c8178f9c6c9",
+    "name": "European Harvestman",
+    "scientificName": "Phalangium opilio",
+    "path": "animal-photos/approved/05aa1876-bf3a-4c00-b286-1c8178f9c6c9.webp",
+    "bytes": 54706,
+    "width": 1024,
+    "height": 845,
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "creator": "no rights reserved",
+    "source": "https://www.inaturalist.org/observations/191157326",
+    "photoSource": "iNaturalist",
+    "sha256": "b07ff4ad4eb91733ad533213ef2bdad3e714ccfbb7b6a4bb002d786868b27667",
+    "fullBodyApproved": true
+  },
+  {
     "id": "e59382b6-0020-4a03-b4a6-891e47a9a0c4",
     "name": "House Pseudoscorpion",
     "scientificName": "Chelifer cancroides",
@@ -1549,6 +1741,22 @@
     "source": "https://commons.wikimedia.org/wiki/File:Actinia_equina_(Boulogne-sur-Mer).jpg",
     "photoSource": "Wikimedia Commons",
     "sha256": "f861bbeb8f9d4ab18eb5744f98ae8966645745638c62c2046937cec823b99066",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "Q34505",
+    "name": "Hippopotamus",
+    "scientificName": "Hippopotamus amphibius",
+    "path": "animal-photos/approved/Q34505.webp",
+    "bytes": 260794,
+    "width": 1280,
+    "height": 780,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Diego Delso",
+    "source": "https://commons.wikimedia.org/wiki/File:Hipop%C3%B3tamo_(Hippopotamus_amphibius),_parque_nacional_de_Chobe,_Botsuana,_2018-07-28,_DD_82.jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "8494316c6583574696396d4b048861697a3dc151774ca49580fad30442e02b00",
     "fullBodyApproved": true
   },
   {
@@ -1968,6 +2176,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "Q26046",
+    "name": "European pine marten",
+    "scientificName": "Martes martes",
+    "path": "animal-photos/approved/Q26046.webp",
+    "bytes": 190086,
+    "width": 1280,
+    "height": 853,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Charles J. Sharp",
+    "source": "https://commons.wikimedia.org/wiki/File:European_pine_marten_(Martes_martes)_Drenthe_2.jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "34e81f4c2d360247ddb67f6ed03b57a14205271357f3d812663bd78836314a3c",
+    "fullBodyApproved": true
+  },
+  {
     "id": "Q81091",
     "name": "European bison",
     "scientificName": "Bison bonasus",
@@ -2061,6 +2285,22 @@
     "source": "https://commons.wikimedia.org/wiki/File:Otocolobus_manul_-Zurich_Zoo-8a.jpg",
     "photoSource": "Wikimedia Commons",
     "sha256": "04ee91b9dcaf84d1f7a97235a02ee92166286f86a70a05223cd5533c809cc8b3",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "Q124410",
+    "name": "Asian black bear",
+    "scientificName": "Ursus thibetanus",
+    "path": "animal-photos/approved/Q124410.webp",
+    "bytes": 249950,
+    "width": 960,
+    "height": 1280,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "creator": "Guérin Nicolas (messages)",
+    "source": "https://commons.wikimedia.org/wiki/File:Ursus_thibetanus_3_(Wroclaw_zoo).JPG",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "955326f87ea920d075a1d850e334397de4c7c566f047165ad18783b6a14f59b4",
     "fullBodyApproved": true
   },
   {
@@ -3040,6 +3280,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "Q215388",
+    "name": "Boa constrictor",
+    "scientificName": "Boa constrictor",
+    "path": "animal-photos/approved/Q215388.webp",
+    "bytes": 363388,
+    "width": 1280,
+    "height": 1016,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Gustavo Sandres",
+    "source": "https://commons.wikimedia.org/wiki/File:Boa_constrictor_334994710.jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "dd0e5e60a81913ad85bca912f404763206f1b14bb439a80ba867f7ea11a0ab40",
+    "fullBodyApproved": true
+  },
+  {
     "id": "Q203538",
     "name": "Hawksbill sea turtle",
     "scientificName": "Eretmochelys imbricata",
@@ -3120,6 +3376,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "Q146375",
+    "name": "Common toad",
+    "scientificName": "Bufo bufo",
+    "path": "animal-photos/approved/Q146375.webp",
+    "bytes": 76446,
+    "width": 1280,
+    "height": 853,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Sillerkiil",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%A4rnkonn_K%C3%B5rvemaal._2015._aasta_mai..jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "68b409abcbf1e9e0e4c54866de53318eca34d3f722670e8bfe97ed73c976385b",
+    "fullBodyApproved": true
+  },
+  {
     "id": "Q27465",
     "name": "Common frog",
     "scientificName": "Rana temporaria",
@@ -3168,6 +3440,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "Q81110",
+    "name": "Common carp",
+    "scientificName": "Cyprinus carpio",
+    "path": "animal-photos/approved/Q81110.webp",
+    "bytes": 523732,
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "Dezidor",
+    "source": "https://commons.wikimedia.org/wiki/File:Cyprinus_carpio.jpeg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "a487d11cda3e463499a50da2f6ee0664ec8d5441b13acf86557dab8a64a5705b",
+    "fullBodyApproved": true
+  },
+  {
     "id": "Q26387",
     "name": "European eel",
     "scientificName": "Anguilla anguilla",
@@ -3197,6 +3485,38 @@
     "source": "https://commons.wikimedia.org/wiki/File:Tinca_tinca_Natural_History_Museum_University_of_Pisa.jpg",
     "photoSource": "Wikimedia Commons",
     "sha256": "dba631337fa83f8dd5eff87f6fa6f8149b6a5623b691216954c88009738479ea",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "Q144700",
+    "name": "Burbot",
+    "scientificName": "Lota lota",
+    "path": "animal-photos/approved/Q144700.webp",
+    "bytes": 243416,
+    "width": 1024,
+    "height": 1024,
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "creator": "no rights reserved",
+    "source": "https://www.inaturalist.org/observations/15241887",
+    "photoSource": "iNaturalist",
+    "sha256": "1d67210d0120da6f7c311af49ae664101ad9ce811035cdfa61f7edde0fed80bc",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "Q182976",
+    "name": "Common roach",
+    "scientificName": "Rutilus rutilus",
+    "path": "animal-photos/approved/Q182976.webp",
+    "bytes": 239614,
+    "width": 1280,
+    "height": 640,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creator": "Scardinius_erythropthalmus1_resize.jpg: Original uploader was Algirdas at lt.wikipedia\nderivative work: George Chernilevsky talk",
+    "source": "https://commons.wikimedia.org/wiki/File:Rutilus_rutilus_by_Algirdas_cropped.jpg",
+    "photoSource": "Wikimedia Commons",
+    "sha256": "877972a6310e14ae8a1c583f675f062753cb086279de4ce3777b33644acc76fa",
     "fullBodyApproved": true
   },
   {

@@ -122,7 +122,29 @@
     "scientificName": "Vulpes zerda",
     "oldPath": "animal-photos/approved/Q131564.webp",
     "verdict": "replace",
-    "reason": "Head close-up; body and limbs are outside the frame."
+    "reason": "Replacement approved: 耳廓狐站立全身，头耳、躯干、可见足部和完整尾端均在原图内，清晰无遮挡。 Previous image rejected: Head close-up; body and limbs are outside the frame.",
+    "replacement": {
+      "title": "File:Fennec Fox Vulpes zerda.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Vulpes_zerda.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Drew Avery",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q131564.webp",
+      "width": 1280,
+      "height": 992,
+      "bytes": 233874
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "耳廓狐站立全身，头耳、躯干、可见足部和完整尾端均在原图内，清晰无遮挡。",
+      "sourceImageSha256": "72b3c43ba35d20216e0d0065b1b96ff34009ea804ace93b059b83ff43a3cf0c1",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Fennec_Fox_Vulpes_zerda.jpg/1280px-Fennec_Fox_Vulpes_zerda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 992
+    },
+    "originalReason": "Head close-up; body and limbs are outside the frame."
   },
   {
     "id": "f787cef9-1801-4387-8f6c-4234b5c8d72a",
@@ -405,7 +427,29 @@
     "scientificName": "Hippopotamus amphibius",
     "oldPath": "animal-photos/approved/Q34505.webp",
     "verdict": "replace",
-    "reason": "Feet and lower legs are submerged; no complete main outline."
+    "reason": "Replacement approved: 河马在陆地站立，全身、头部、四腿足部及尾端可辨，无原图裁切。 Previous image rejected: Feet and lower legs are submerged; no complete main outline.",
+    "replacement": {
+      "title": "File:Hipopótamo (Hippopotamus amphibius), parque nacional de Chobe, Botsuana, 2018-07-28, DD 82.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Hipop%C3%B3tamo_(Hippopotamus_amphibius),_parque_nacional_de_Chobe,_Botsuana,_2018-07-28,_DD_82.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Diego Delso",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q34505.webp",
+      "width": 1280,
+      "height": 780,
+      "bytes": 260794
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "河马在陆地站立，全身、头部、四腿足部及尾端可辨，无原图裁切。",
+      "sourceImageSha256": "64c0d825aeef6993273acfa8952a877b2edec7524cc21f1552a5e83ae85a60cf",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_82.jpg/1280px-Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 780
+    },
+    "originalReason": "Feet and lower legs are submerged; no complete main outline."
   },
   {
     "id": "Q15083",
@@ -649,7 +693,29 @@
     "scientificName": "Martes martes",
     "oldPath": "animal-photos/approved/Q26046.webp",
     "verdict": "replace",
-    "reason": "The long hanging tail is cut by the original lower image edge."
+    "reason": "Replacement approved: 松貂在树枝上，完整头部、躯干、可见足部与下垂长尾端在画面内；树枝支撑身体但未严重遮挡。 Previous image rejected: The long hanging tail is cut by the original lower image edge.",
+    "replacement": {
+      "title": "File:European pine marten (Martes martes) Drenthe 2.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:European_pine_marten_(Martes_martes)_Drenthe_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Charles J. Sharp",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q26046.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 190086
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "松貂在树枝上，完整头部、躯干、可见足部与下垂长尾端在画面内；树枝支撑身体但未严重遮挡。",
+      "sourceImageSha256": "91aeb4463a2c01e70503a13c867cdf89ab9c62ae51fc67b9c9abf94857ce1ab5",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/European_pine_marten_%28Martes_martes%29_Drenthe_2.jpg/1280px-European_pine_marten_%28Martes_martes%29_Drenthe_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 853
+    },
+    "originalReason": "The long hanging tail is cut by the original lower image edge."
   },
   {
     "id": "Q81091",
@@ -722,7 +788,29 @@
     "scientificName": "Ursus thibetanus",
     "oldPath": "animal-photos/approved/Q124410.webp",
     "verdict": "replace",
-    "reason": "Rock and pose conceal most of the lower body and limbs."
+    "reason": "Replacement approved: 亚洲黑熊自然直立，全身轮廓、头耳、双前肢和双后足完整清晰。 Previous image rejected: Rock and pose conceal most of the lower body and limbs.",
+    "replacement": {
+      "title": "File:Ursus thibetanus 3 (Wroclaw zoo).JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ursus_thibetanus_3_(Wroclaw_zoo).JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Guérin Nicolas (messages)",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q124410.webp",
+      "width": 960,
+      "height": 1280,
+      "bytes": 249950
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "亚洲黑熊自然直立，全身轮廓、头耳、双前肢和双后足完整清晰。",
+      "sourceImageSha256": "3897265a9d69eff6d24a633f2e44bc9478f4818a9bbd719ede337e0e4e7bff5e",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/1280px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 1707
+    },
+    "originalReason": "Rock and pose conceal most of the lower body and limbs."
   },
   {
     "id": "Q26838",

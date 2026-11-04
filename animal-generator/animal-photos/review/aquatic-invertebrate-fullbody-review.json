@@ -84,7 +84,29 @@
     "scientificName": "Arapaima gigas",
     "oldPath": "animal-photos/approved/dd5aa97d-9abe-42b2-8e35-59bd0c506569.webp",
     "verdict": "replace",
-    "reason": "Tail fin is cropped off at the left border."
+    "reason": "Replacement approved: 巨骨舌鱼完整侧身、头部、尾鳍及可见胸腹鳍位于原图内，主体轮廓清楚。 Previous image rejected: Tail fin is cropped off at the left border.",
+    "replacement": {
+      "title": "File:Arapaima gigas 01.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Arapaima_gigas_01.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Bjoertvedt",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/dd5aa97d-9abe-42b2-8e35-59bd0c506569.webp",
+      "width": 1280,
+      "height": 434,
+      "bytes": 170654
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "巨骨舌鱼完整侧身、头部、尾鳍及可见胸腹鳍位于原图内，主体轮廓清楚。",
+      "sourceImageSha256": "a54b3a334e70b0795e42d1429b94720ea781b834ae785807c1a6ab4810bbcafe",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Arapaima_gigas_01.JPG/1280px-Arapaima_gigas_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 434
+    },
+    "originalReason": "Tail fin is cropped off at the left border."
   },
   {
     "id": "b6fa87f2-1289-438a-beed-edde05302df9",
@@ -247,7 +269,29 @@
     "scientificName": "Onychodactylus fischeri",
     "oldPath": "animal-photos/approved/d1644001-d86d-4541-9501-295a873aed2a.webp",
     "verdict": "replace",
-    "reason": "Curled tail reaches the right image edge and its terminal contour is clipped."
+    "reason": "Replacement approved: 爪鲵完整头部、弯曲躯干、四肢和长尾端均在原图内，石块未严重遮挡身体。 Previous image rejected: Curled tail reaches the right image edge and its terminal contour is clipped.",
+    "replacement": {
+      "title": "File:Onychodactylus fischeri 48747459.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Onychodactylus_fischeri_48747459.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Alexander A. Fomichev",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/d1644001-d86d-4541-9501-295a873aed2a.webp",
+      "width": 1280,
+      "height": 939,
+      "bytes": 332672
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "爪鲵完整头部、弯曲躯干、四肢和长尾端均在原图内，石块未严重遮挡身体。",
+      "sourceImageSha256": "bee7b130975a175a079f18a1d0e6f868f428df1fb5b964541e7a3e81d17c11b9",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Onychodactylus_fischeri_48747459.jpg/1280px-Onychodactylus_fischeri_48747459.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 939
+    },
+    "originalReason": "Curled tail reaches the right image edge and its terminal contour is clipped."
   },
   {
     "id": "f8556ac8-b536-418a-8a68-0ce22d33f4d6",
@@ -365,7 +409,29 @@
     "scientificName": "Baetis rhodani",
     "oldPath": "animal-photos/approved/9e0ee363-98ac-4270-a236-0ada224cfa1d.webp",
     "verdict": "replace",
-    "reason": "Long tail filaments extend beyond the right image edge."
+    "reason": "Replacement approved: 蜉蝣头胸腹部、翅膀、可见足部和两条完整尾丝均在原图内，无裁切。 Previous image rejected: Long tail filaments extend beyond the right image edge.",
+    "replacement": {
+      "title": "File:Baetis rhodani (52612553371).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Baetis_rhodani_(52612553371).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Ben Sale from Stevenage, UK",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/9e0ee363-98ac-4270-a236-0ada224cfa1d.webp",
+      "width": 1280,
+      "height": 995,
+      "bytes": 153914
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "蜉蝣头胸腹部、翅膀、可见足部和两条完整尾丝均在原图内，无裁切。",
+      "sourceImageSha256": "365d3e92b0aca0a3992ba8735795afac63b0ccdea2bc3677a99e638f999bdbc3",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Baetis_rhodani_%2852612553371%29.jpg/1280px-Baetis_rhodani_%2852612553371%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 995
+    },
+    "originalReason": "Long tail filaments extend beyond the right image edge."
   },
   {
     "id": "92a2b163-34dc-4fef-9aef-f348d8b3af6c",
@@ -379,7 +445,29 @@
     "scientificName": "Haploembia solieri",
     "oldPath": "animal-photos/approved/82ea9749-7a98-4455-90c1-77cbaf2944bc.webp",
     "verdict": "replace",
-    "reason": "Both antennae extend beyond the left crop."
+    "reason": "Replacement approved: 足丝蚁头部、触角、完整腹部末端及可见步足在画面内，主体清晰。 Previous image rejected: Both antennae extend beyond the left crop.",
+    "replacement": {
+      "title": "Haploembia solieri — iNaturalist photo 609548522",
+      "filePage": "https://www.inaturalist.org/observations/335526771",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "artist": "(c) Chaym Turak, some rights reserved (CC BY-SA)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/82ea9749-7a98-4455-90c1-77cbaf2944bc.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 50918
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "足丝蚁头部、触角、完整腹部末端及可见步足在画面内，主体清晰。",
+      "sourceImageSha256": "32124c1f1dc0030539457c6d3a90f6d856bf2ba504294e3a6c61efb6670bbb1b",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/609548522/large.jpg",
+      "sourceWidth": 1024,
+      "sourceHeight": 683
+    },
+    "originalReason": "Both antennae extend beyond the left crop."
   },
   {
     "id": "e642c1c1-76c1-4806-a024-aa9737d5bc41",
@@ -485,7 +573,29 @@
     "scientificName": "Phalangium opilio",
     "oldPath": "animal-photos/approved/05aa1876-bf3a-4c00-b286-1c8178f9c6c9.webp",
     "verdict": "replace",
-    "reason": "Several legs extend beyond the right/bottom border."
+    "reason": "Replacement approved: 盲蛛完整主体和伸展的细长腿均位于原图内，未使用裁腿的特写。 Previous image rejected: Several legs extend beyond the right/bottom border.",
+    "replacement": {
+      "title": "Phalangium opilio — iNaturalist photo 335276074",
+      "filePage": "https://www.inaturalist.org/observations/191157326",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/05aa1876-bf3a-4c00-b286-1c8178f9c6c9.webp",
+      "width": 1024,
+      "height": 845,
+      "bytes": 54706
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "盲蛛完整主体和伸展的细长腿均位于原图内，未使用裁腿的特写。",
+      "sourceImageSha256": "147d826c4a1189a23096b6e8291419ea127aa00b878836a0407f9e3ed83ab98b",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/335276074/large.jpg",
+      "sourceWidth": 1024,
+      "sourceHeight": 845
+    },
+    "originalReason": "Several legs extend beyond the right/bottom border."
   },
   {
     "id": "e59382b6-0020-4a03-b4a6-891e47a9a0c4",
@@ -556,7 +666,29 @@
     "scientificName": "Bufo bufo",
     "oldPath": "animal-photos/approved/Q146375.webp",
     "verdict": "replace",
-    "reason": "Foreground legs/feet extend beyond the image frame."
+    "reason": "Replacement approved: 普通蟾蜍在开阔地面，完整头身、前肢和自然弯曲后肢可见，四周留有余量。 Previous image rejected: Foreground legs/feet extend beyond the image frame.",
+    "replacement": {
+      "title": "File:Kärnkonn Kõrvemaal. 2015. aasta mai..jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:K%C3%A4rnkonn_K%C3%B5rvemaal._2015._aasta_mai..jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Sillerkiil",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q146375.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 76446
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "普通蟾蜍在开阔地面，完整头身、前肢和自然弯曲后肢可见，四周留有余量。",
+      "sourceImageSha256": "1bf98e5c4badf36c4a6cd86a9d89e1be098e1a4c28dba8d2ef369f372c1ffc1f",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/K%C3%A4rnkonn_K%C3%B5rvemaal._2015._aasta_mai..jpg/1280px-K%C3%A4rnkonn_K%C3%B5rvemaal._2015._aasta_mai..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 853
+    },
+    "originalReason": "Foreground legs/feet extend beyond the image frame."
   },
   {
     "id": "Q27465",
@@ -608,7 +740,29 @@
     "scientificName": "Cyprinus carpio",
     "oldPath": "animal-photos/approved/Q81110.webp",
     "verdict": "replace",
-    "reason": "Tail fin is cropped off on the left border."
+    "reason": "Replacement approved: 鲤鱼完整侧身、头口、背鳍、可见胸腹鳍和完整分叉尾鳍均在原图内，草地不遮挡主体。 Previous image rejected: Tail fin is cropped off on the left border.",
+    "replacement": {
+      "title": "File:Cyprinus carpio.jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cyprinus_carpio.jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Dezidor",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q81110.webp",
+      "width": 1280,
+      "height": 960,
+      "bytes": 523732
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "鲤鱼完整侧身、头口、背鳍、可见胸腹鳍和完整分叉尾鳍均在原图内，草地不遮挡主体。",
+      "sourceImageSha256": "7d5892bae39e4a8d6faec50aeb040dcfd57cfb865c7acbbc0f6eb472a6531743",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Cyprinus_carpio.jpeg/1280px-Cyprinus_carpio.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 960
+    },
+    "originalReason": "Tail fin is cropped off on the left border."
   },
   {
     "id": "Q26387",
@@ -629,7 +783,29 @@
     "scientificName": "Lota lota",
     "oldPath": "animal-photos/approved/Q144700.webp",
     "verdict": "replace",
-    "reason": "Head and tail are too close to/right against the image borders; full silhouette is not securely contained."
+    "reason": "Replacement approved: 江鳕完整侧身、头部和尾鳍在透明观察盒内清楚可见，身体无遮挡且无原图裁切。 Previous image rejected: Head and tail are too close to/right against the image borders; full silhouette is not securely contained.",
+    "replacement": {
+      "title": "Lota lota — iNaturalist photo 22806149",
+      "filePage": "https://www.inaturalist.org/observations/15241887",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q144700.webp",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 243416
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "江鳕完整侧身、头部和尾鳍在透明观察盒内清楚可见，身体无遮挡且无原图裁切。",
+      "sourceImageSha256": "2e4278f34cefcddf3248102918eed311d148d34ffc2e7402de7256545a7229ca",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22806149/large.jpg",
+      "sourceWidth": 1024,
+      "sourceHeight": 1024
+    },
+    "originalReason": "Head and tail are too close to/right against the image borders; full silhouette is not securely contained."
   },
   {
     "id": "Q201235",
@@ -643,7 +819,29 @@
     "scientificName": "Rutilus rutilus",
     "oldPath": "animal-photos/approved/Q182976.webp",
     "verdict": "replace",
-    "reason": "Vegetation covers substantial body and tail-fin detail."
+    "reason": "Replacement approved: 拟鲤完整侧身、头部、所有可见鳍及完整分叉尾鳍清晰，无边缘裁切或严重遮挡。 Previous image rejected: Vegetation covers substantial body and tail-fin detail.",
+    "replacement": {
+      "title": "File:Rutilus rutilus by Algirdas cropped.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Rutilus_rutilus_by_Algirdas_cropped.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Scardinius_erythropthalmus1_resize.jpg: Original uploader was Algirdas at lt.wikipedia\nderivative work: George Chernilevsky talk",
+      "photoSource": "Wikimedia Commons",
+      "path": "animal-photos/approved/Q182976.webp",
+      "width": 1280,
+      "height": 640,
+      "bytes": 239614
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-04",
+      "verdict": "pass",
+      "reason": "拟鲤完整侧身、头部、所有可见鳍及完整分叉尾鳍清晰，无边缘裁切或严重遮挡。",
+      "sourceImageSha256": "e9adcccb1b391dc1fd76a5ffc700f59b1f468d81fc70bd259c59311d3c9ea7b4",
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Rutilus_rutilus_by_Algirdas_cropped.jpg/1280px-Rutilus_rutilus_by_Algirdas_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourceWidth": 1280,
+      "sourceHeight": 640
+    },
+    "originalReason": "Vegetation covers substantial body and tail-fin detail."
   },
   {
     "id": "Q76098",

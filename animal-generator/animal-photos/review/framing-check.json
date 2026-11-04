@@ -3,22 +3,22 @@
   "findings": [
     {
       "viewport": 1920,
-      "checked": 213,
+      "checked": 233,
       "failures": []
     },
     {
       "viewport": 1152,
-      "checked": 213,
+      "checked": 233,
       "failures": []
     },
     {
       "viewport": 390,
-      "checked": 213,
+      "checked": 233,
       "failures": []
     },
     {
       "viewport": 320,
-      "checked": 213,
+      "checked": 233,
       "failures": []
     }
   ]
