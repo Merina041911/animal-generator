@@ -1392,6 +1392,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "bad1295c-4349-4992-af66-5ef7bdf83e7d",
+    "name": "Tyrrhenian Wall Lizard",
+    "scientificName": "Podarcis tiliguerta",
+    "path": "animal-photos/approved/bad1295c-4349-4992-af66-5ef7bdf83e7d.webp",
+    "bytes": 235824,
+    "width": 1024,
+    "height": 683,
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "Samuel GUIRAUDOU",
+    "source": "https://www.inaturalist.org/observations/306272888",
+    "photoSource": "iNaturalist",
+    "sha256": "a28137fe23246fd8b9f7a26866ca937c47e411506a81657f9d31fa1f270f4024",
+    "fullBodyApproved": true
+  },
+  {
     "id": "01a21193-6599-463c-a5f0-75b6fe03189d",
     "name": "Archey's Frog",
     "scientificName": "Leiopelma archeyi",
@@ -1629,6 +1645,22 @@
     "source": "https://commons.wikimedia.org/wiki/File%3ALabidura_riparia_%2832473773592%29.jpg",
     "photoSource": "Wikimedia Commons",
     "sha256": "ac328fbd1ac8a92a5d8a5b90d979a6793bf1ad426a2a36998496ee7578edaad9",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "b2e26249-80be-441b-8648-4c0361892ee0",
+    "name": "German Cockroach",
+    "scientificName": "Blattella germanica",
+    "path": "animal-photos/approved/b2e26249-80be-441b-8648-4c0361892ee0.webp",
+    "bytes": 70952,
+    "width": 1024,
+    "height": 575,
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "creator": "no rights reserved",
+    "source": "https://www.inaturalist.org/observations/259235450",
+    "photoSource": "iNaturalist",
+    "sha256": "5b0253f9d7b64557d1b629675906f474c2423c2f2c33c38518bcd94c48a3406f",
     "fullBodyApproved": true
   },
   {
@@ -3088,6 +3120,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "Q25882",
+    "name": "Greylag goose",
+    "scientificName": "Anser anser",
+    "path": "animal-photos/approved/Q25882.webp",
+    "bytes": 157942,
+    "width": 576,
+    "height": 1024,
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "olmagon",
+    "source": "https://www.inaturalist.org/observations/281640151",
+    "photoSource": "iNaturalist",
+    "sha256": "34bcc86474597d2db054e03c15cd5e549149b5cfedbd64ba961449a0dcbe0ce4",
+    "fullBodyApproved": true
+  },
+  {
     "id": "Q25418",
     "name": "European goldfinch",
     "scientificName": "Carduelis carduelis",
@@ -3149,6 +3197,22 @@
     "source": "https://commons.wikimedia.org/wiki/File:Corvus_frugilegus_-Dartmoor,_Devon,_England-8.jpg",
     "photoSource": "Wikimedia Commons",
     "sha256": "4f2d612e653e0a221e9abb64e74d20a44861abd5df2843a6adb4ce6abefe0a30",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "Q25450",
+    "name": "Northern pintail",
+    "scientificName": "Anas acuta",
+    "path": "animal-photos/approved/Q25450.webp",
+    "bytes": 27006,
+    "width": 1024,
+    "height": 683,
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "Matt Felperin",
+    "source": "https://www.inaturalist.org/observations/200474404",
+    "photoSource": "iNaturalist",
+    "sha256": "c89ec53dadcb22dc0f44f344a97cd710228cce23153e62b68ceaec8c3200dd51",
     "fullBodyApproved": true
   },
   {
@@ -3216,6 +3280,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "Q61865",
+    "name": "Indian peafowl",
+    "scientificName": "Pavo cristatus",
+    "path": "animal-photos/approved/Q61865.webp",
+    "bytes": 264638,
+    "width": 1024,
+    "height": 768,
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "zebedeugalinha",
+    "source": "https://www.inaturalist.org/observations/359657550",
+    "photoSource": "iNaturalist",
+    "sha256": "d528b669970d6f5e91f5a9392df7e76be9b82daa3a0afb97fe4777555e23aeac",
+    "fullBodyApproved": true
+  },
+  {
     "id": "Q25382",
     "name": "Eurasian bullfinch",
     "scientificName": "Pyrrhula pyrrhula",
@@ -3232,6 +3312,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "Q25421",
+    "name": "Little grebe",
+    "scientificName": "Tachybaptus ruficollis",
+    "path": "animal-photos/approved/Q25421.webp",
+    "bytes": 142284,
+    "width": 1024,
+    "height": 699,
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "rober025",
+    "source": "https://www.inaturalist.org/observations/65912619",
+    "photoSource": "iNaturalist",
+    "sha256": "9e98938d9ada316f4f33a097d8e5e67756739788f7dcf6f4ac1e01168add6854",
+    "fullBodyApproved": true
+  },
+  {
     "id": "Q192056",
     "name": "Adder",
     "scientificName": "Vipera berus",
@@ -3245,6 +3341,22 @@
     "source": "https://commons.wikimedia.org/wiki/File:Benny_Trapp_Vipera_berus.jpg",
     "photoSource": "Wikimedia Commons",
     "sha256": "fd3f68634765e19bad2b02ef13401f09a6381567dfc235e23ca6523c11640f3d",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "Q170713",
+    "name": "Grass snake",
+    "scientificName": "Natrix natrix",
+    "path": "animal-photos/approved/Q170713.webp",
+    "bytes": 123018,
+    "width": 1024,
+    "height": 683,
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "Philip Schaffer",
+    "source": "https://www.inaturalist.org/observations/407589779",
+    "photoSource": "iNaturalist",
+    "sha256": "062e8da6ad4eccec73eec1d415ef333fb3cd84408b2395bc06e0866d9511ff6e",
     "fullBodyApproved": true
   },
   {
@@ -3648,6 +3760,22 @@
     "fullBodyApproved": true
   },
   {
+    "id": "Q210959",
+    "name": "Noble crayfish",
+    "scientificName": "Astacus astacus",
+    "path": "animal-photos/approved/Q210959.webp",
+    "bytes": 293710,
+    "width": 768,
+    "height": 1024,
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "Cosimo Costanzia di Costigliole",
+    "source": "https://www.inaturalist.org/observations/120492318",
+    "photoSource": "iNaturalist",
+    "sha256": "bcd98d4c2cdc488a31022abbba8e15077317ab9104f2154b2822c4034f2d0ce0",
+    "fullBodyApproved": true
+  },
+  {
     "id": "Q27690",
     "name": "Common lobster",
     "scientificName": "Homarus gammarus",
@@ -3677,6 +3805,22 @@
     "source": "https://commons.wikimedia.org/wiki/File:Nymphalis_antiopa_(Suruvaippa).jpg",
     "photoSource": "Wikimedia Commons",
     "sha256": "8e681c421b3637fcabb43ab852bdb99ee431598b3279b9d2792b8891d5a6d88a",
+    "fullBodyApproved": true
+  },
+  {
+    "id": "Q527496",
+    "name": "Emperor dragonfly",
+    "scientificName": "Anax imperator",
+    "path": "animal-photos/approved/Q527496.webp",
+    "bytes": 46754,
+    "width": 1024,
+    "height": 773,
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "creator": "odole",
+    "source": "https://www.inaturalist.org/observations/185957500",
+    "photoSource": "iNaturalist",
+    "sha256": "728ffc11443fa6b63ef5d7ee67ef5493d5ee9c01870bc160d34d9db909eec9cd",
     "fullBodyApproved": true
   },
   {

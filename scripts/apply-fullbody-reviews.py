@@ -48,12 +48,13 @@ for animal in animals:
         replaced += 1
     else:
         photo = dict(previous['photo'])
+    reviewed_on = review.get('replacementReview', {}).get('reviewedOn') or previous.get('photo', {}).get('fullBodyReviewedOn') or previous_audit.get(animal['id'], {}).get('reviewedOn') or '2026-11-04'
     if approved:
         if (photo.get('licenseUrl') or '').startswith('http://creativecommons.org/'):
             photo['licenseUrl'] = photo['licenseUrl'].replace('http://', 'https://', 1)
         animal['image'] = review['oldPath']
         animal['photo'] = photo
-        animal['photo'].update(fullBodyApproved=True, fullBodyReviewedOn='2026-11-04', fullBodySha256=sha(target))
+        animal['photo'].update(fullBodyApproved=True, fullBodyReviewedOn=reviewed_on, fullBodySha256=sha(target))
         animal.pop('pendingPhoto', None)
         with Image.open(target) as image:
             width, height = image.size
@@ -63,7 +64,7 @@ for animal in animals:
         animal['pendingPhoto'] = previous
         animal.pop('image', None)
         animal.pop('photo', None)
-    audit.append({'id': animal['id'], 'name': animal['name'], 'scientificName': animal['scientificName'], 'path': review['oldPath'], 'sha256': sha(target), 'fullBody': approved, 'clear': approved, 'status': 'replaced' if replacement else 'approved-original' if approved else 'pending-replacement', 'reviewedOn': '2026-11-04', 'reason': review['reason'], 'source': photo['filePage'] if approved else previous['photo'].get('filePage', ''), 'originalSha256': old_hash})
+    audit.append({'id': animal['id'], 'name': animal['name'], 'scientificName': animal['scientificName'], 'path': review['oldPath'], 'sha256': sha(target), 'fullBody': approved, 'clear': approved, 'status': 'replaced' if replacement else 'approved-original' if approved else 'pending-replacement', 'reviewedOn': reviewed_on, 'reason': review['reason'], 'source': photo['filePage'] if approved else previous['photo'].get('filePage', ''), 'originalSha256': old_hash})
 
 library_path.write_text('window.ANIMAL_LIBRARY = ' + json.dumps(animals, ensure_ascii=False, indent=2) + ';\n')
 (SITE / 'animal-photos/fullbody-audit.json').write_text(json.dumps(audit, ensure_ascii=False, indent=2) + '\n')
@@ -101,7 +102,7 @@ credits += f'<p>The generator currently uses {active} photographs reviewed for a
 (SITE / 'animal-image-credits.html').write_text(credits)
 progress = f'''# Animal photo quality review
 
-Reviewed on 2026-11-04. The previous approved list did not meet the full-body requirement and has been replaced by a byte-bound visual audit.
+Reviewed on {max(entry['reviewedOn'] for entry in audit)}. The previous approved list did not meet the full-body requirement and has been replaced by a byte-bound visual audit.
 
 - {len(audit)} original photos reviewed individually.
 - {active} enabled photos: {active - replaced} retained originals and {replaced} approved replacements.

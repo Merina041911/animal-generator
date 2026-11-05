@@ -519,7 +519,29 @@
     "scientificName": "Blattella germanica",
     "oldPath": "animal-photos/approved/b2e26249-80be-441b-8648-4c0361892ee0.webp",
     "verdict": "replace",
-    "reason": "Antenna extends beyond the right crop."
+    "reason": "Replacement approved: 德国小蠊头胸腹、完整翅面、触角及可见步足均在画面内，主要身体清晰完整，无严重遮挡。 Previous image rejected: Antenna extends beyond the right crop.",
+    "replacement": {
+      "title": "Blattella germanica — iNaturalist photo 465309827",
+      "filePage": "https://www.inaturalist.org/observations/259235450",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/b2e26249-80be-441b-8648-4c0361892ee0.webp",
+      "width": 1024,
+      "height": 575,
+      "bytes": 70952
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "德国小蠊头胸腹、完整翅面、触角及可见步足均在画面内，主要身体清晰完整，无严重遮挡。",
+      "sourceImageSha256": "2e72ac767077c8a33f432ac8e7589ee8565b98c2a83bb94e4b737b00a54f4f33",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/465309827/large.jpeg",
+      "sourceWidth": 1024,
+      "sourceHeight": 575
+    },
+    "originalReason": "Antenna extends beyond the right crop."
   },
   {
     "id": "04cfa0a6-3c8d-418c-99cb-12fb88c00fe0",
@@ -923,7 +945,29 @@
     "scientificName": "Astacus astacus",
     "oldPath": "animal-photos/approved/Q210959.webp",
     "verdict": "replace",
-    "reason": "Long antennae extend beyond the left crop."
+    "reason": "Replacement approved: 欧洲螯虾背面完整全身，头胸甲、两只螯、触角、可见步足、腹部与完整尾扇均在画面内，主体清晰。 Previous image rejected: Long antennae extend beyond the left crop.",
+    "replacement": {
+      "title": "Astacus astacus — iNaturalist photo 203802653",
+      "filePage": "https://www.inaturalist.org/observations/120492318",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "(c) Cosimo Costanzia di Costigliole, some rights reserved (CC BY)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q210959.webp",
+      "width": 768,
+      "height": 1024,
+      "bytes": 293710
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "欧洲螯虾背面完整全身，头胸甲、两只螯、触角、可见步足、腹部与完整尾扇均在画面内，主体清晰。",
+      "sourceImageSha256": "e15f46529aabfd521e3a52bd8e21387868504bfd8d8085813cc77f2887b795a4",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/203802653/large.jpg",
+      "sourceWidth": 768,
+      "sourceHeight": 1024
+    },
+    "originalReason": "Long antennae extend beyond the left crop."
   },
   {
     "id": "Q27690",
@@ -956,7 +1000,29 @@
     "scientificName": "Anax imperator",
     "oldPath": "animal-photos/approved/Q527496.webp",
     "verdict": "replace",
-    "reason": "Abdomen/tail end is cropped at the bottom edge."
+    "reason": "Replacement approved: 帝王蜻蜓头部、胸腹部末端、四片完整翅膀和可见抓握足部均清晰，原图四周留有余量，无裁切。 Previous image rejected: Abdomen/tail end is cropped at the bottom edge.",
+    "replacement": {
+      "title": "Anax imperator — iNaturalist photo 324865639",
+      "filePage": "https://www.inaturalist.org/observations/185957500",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "(c) odole, some rights reserved (CC BY)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q527496.webp",
+      "width": 1024,
+      "height": 773,
+      "bytes": 46754
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "帝王蜻蜓头部、胸腹部末端、四片完整翅膀和可见抓握足部均清晰，原图四周留有余量，无裁切。",
+      "sourceImageSha256": "b5b81384687f610738341c19af6e1fc225f2dbce11cd0983f1a8eb047b04db13",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324865639/large.jpg",
+      "sourceWidth": 1024,
+      "sourceHeight": 773
+    },
+    "originalReason": "Abdomen/tail end is cropped at the bottom edge."
   },
   {
     "id": "Q551915",

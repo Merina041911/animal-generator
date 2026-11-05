@@ -1,7 +1,8 @@
 // Runs against the actual rendered cards; start scripts/serve.py first.
 const { execFileSync } = require('node:child_process');
+const auditTaskName = process.env.ANIMAL_AUDIT_TASK || 'Animal Generator full-body photo audit';
 const code = `
-const task = await taskSpace("Animal Generator full-body photo audit");
+const task = await taskSpace(${JSON.stringify(auditTaskName)});
 const page = task.page("p1");
 await page.cdp("Network.enable");
 await page.cdp("Network.setCacheDisabled", { cacheDisabled: true });
@@ -10,13 +11,15 @@ await page.goto("http://127.0.0.1:8765/");
 const findings = [];
 for (const width of [1280, 768, 390, 320]) {
   await page.cdp("Emulation.setDeviceMetricsOverride", { width, height: 1000, deviceScaleFactor: 1, mobile: width < 760 });
-  findings.push(await page.evaluate(async () => {
-    await new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)));
-    const result = { viewport: innerWidth, checked: 0, failures: [] };
-    const section = document.querySelector("#generated-results");
-    document.querySelector("#example-result").hidden = true;
-    section.hidden = false;
-    for (let start = 0; start < animals.length; start += 20) {
+  const result = { viewport: width, checked: 0, failures: [] };
+  const count = await page.evaluate(() => animals.length);
+  for (let start = 0; start < count; start += 20) {
+    const batch = await page.evaluate(async (start) => {
+      await new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)));
+      const result = { viewport: innerWidth, checked: 0, failures: [] };
+      const section = document.querySelector("#generated-results");
+      document.querySelector("#example-result").hidden = true;
+      section.hidden = false;
       section.classList.remove("single-result");
       const cards = animals.slice(start, start + 20).map(makeCard);
       document.querySelector("#results").replaceChildren(...cards);
@@ -27,7 +30,14 @@ for (const width of [1280, 768, 390, 320]) {
         result.checked += 1;
         if (getComputedStyle(image).objectFit !== "contain" || image.naturalWidth === 0 || image.parentElement.querySelector(".scene-label")) result.failures.push(image.alt);
       }
-    }
+      return result;
+    }, start);
+    result.checked += batch.checked;
+    result.failures.push(...batch.failures);
+  }
+  const single = await page.evaluate(async () => {
+    const result = { checked: 0, failures: [] };
+    const section = document.querySelector("#generated-results");
     // Check the separate one-card layout as well as the multi-card grid.
     for (const name of ["Felis silvestris", "Aquila chrysaetos"]) {
       const animal = animals.find(animal => animal.scientificName === name);
@@ -39,11 +49,14 @@ for (const width of [1280, 768, 390, 320]) {
       if (getComputedStyle(image).objectFit !== "contain" || image.parentElement.querySelector(".scene-label")) result.failures.push(name + " single-card layout");
     }
     return result;
-  }));
+  });
+  result.checked += single.checked;
+  result.failures.push(...single.failures);
+  findings.push(result);
 }
 console.log(JSON.stringify(findings, null, 2));
 const fs = await import("node:fs/promises");
-await fs.writeFile("/Users/caoyizha/Documents/ChatGPT/web出海/animal-generator/animal-photos/review/framing-check.json", JSON.stringify({ checkedOn: "2026-11-04", findings }, null, 2));
+await fs.writeFile("/Users/caoyizha/Documents/ChatGPT/web出海/animal-generator/animal-photos/review/framing-check.json", JSON.stringify({ checkedOn: new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Shanghai" }), findings }, null, 2));
 if (findings.some(result => result.failures.length > 0)) throw new Error("Photo framing crops source images: object-fit must contain the entire image.");
 await page.cdp("Emulation.clearDeviceMetricsOverride");
 `;

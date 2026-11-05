@@ -1,0 +1,295 @@
+{
+  "reviewedOn": "2026-11-05",
+  "before": 231,
+  "added": 9,
+  "after": 240,
+  "scope": "Replacement photographs for previously disabled species; no unreviewed catalog species enabled.",
+  "criteria": [
+    "Correct species and traceable source",
+    "Clear complete main-body outline",
+    "No original-frame cropped head, body, visible tail or limbs",
+    "No severe obstruction, illustrations or unclear subjects",
+    "Reusable license and retained attribution",
+    "Preserve complete frame on WebP conversion"
+  ],
+  "approved": [
+    {
+      "id": "bad1295c-4349-4992-af66-5ef7bdf83e7d",
+      "name": "Tyrrhenian Wall Lizard",
+      "scientificName": "Podarcis tiliguerta",
+      "candidate": "06-4",
+      "path": "animal-photos/approved/bad1295c-4349-4992-af66-5ef7bdf83e7d.webp",
+      "source": "https://www.inaturalist.org/observations/306272888",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/552284739/large.jpg",
+      "artist": "(c) Samuel GUIRAUDOU, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "壁蜥完整头部、躯干、可见四肢及弯曲尾端均位于原图内，主体清晰，无明显遮挡。",
+      "sourceImageSha256": "08d60f3430f84f8d7a812265e3b5e4b64bcf917f1c5f61fd8f729c5c7d6c753f",
+      "sha256": "a28137fe23246fd8b9f7a26866ca937c47e411506a81657f9d31fa1f270f4024",
+      "photoId": 552284739,
+      "speciesTaxonId": 35530,
+      "qualityGrade": "research"
+    },
+    {
+      "id": "b2e26249-80be-441b-8648-4c0361892ee0",
+      "name": "German Cockroach",
+      "scientificName": "Blattella germanica",
+      "candidate": "10-4",
+      "path": "animal-photos/approved/b2e26249-80be-441b-8648-4c0361892ee0.webp",
+      "source": "https://www.inaturalist.org/observations/259235450",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/465309827/large.jpeg",
+      "artist": "no rights reserved",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "德国小蠊头胸腹、完整翅面、触角及可见步足均在画面内，主要身体清晰完整，无严重遮挡。",
+      "sourceImageSha256": "2e72ac767077c8a33f432ac8e7589ee8565b98c2a83bb94e4b737b00a54f4f33",
+      "sha256": "5b0253f9d7b64557d1b629675906f474c2423c2f2c33c38518bcd94c48a3406f",
+      "photoId": 465309827,
+      "speciesTaxonId": 121237,
+      "qualityGrade": "research"
+    },
+    {
+      "id": "Q25882",
+      "name": "Greylag goose",
+      "scientificName": "Anser anser",
+      "candidate": "17-0",
+      "path": "animal-photos/approved/Q25882.webp",
+      "source": "https://www.inaturalist.org/observations/281640151",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/505938650/large.jpg",
+      "artist": "(c) olmagon, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "灰雁正面站立，完整头喙、躯干轮廓、自然收拢双翼与双足均可辨，主体清晰且原图无裁切。",
+      "sourceImageSha256": "9e42180c818bda81ded1635584e427bb9dd0491cfe16fc8f2c7e4345e31ffb98",
+      "sha256": "34bcc86474597d2db054e03c15cd5e549149b5cfedbd64ba961449a0dcbe0ce4",
+      "photoId": 505938650,
+      "speciesTaxonId": 7018,
+      "qualityGrade": "research"
+    },
+    {
+      "id": "Q25450",
+      "name": "Northern pintail",
+      "scientificName": "Anas acuta",
+      "candidate": "19-0",
+      "path": "animal-photos/approved/Q25450.webp",
+      "source": "https://www.inaturalist.org/observations/200474404",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353707135/large.jpg",
+      "artist": "(c) Matt Felperin, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "针尾鸭侧面浮水，头喙、完整躯干外轮廓、收拢翅膀与长尾端均清晰且位于画面内；足部自然在水下，主要身体并未被水面掩盖。",
+      "sourceImageSha256": "29c4f804c670a24f6d96f3defc33b87e439b822151f1fe8bcff5f1d64e30b794",
+      "sha256": "c89ec53dadcb22dc0f44f344a97cd710228cce23153e62b68ceaec8c3200dd51",
+      "photoId": 353707135,
+      "speciesTaxonId": 6933,
+      "qualityGrade": "research"
+    },
+    {
+      "id": "Q25421",
+      "name": "Little grebe",
+      "scientificName": "Tachybaptus ruficollis",
+      "candidate": "21-0",
+      "path": "animal-photos/approved/Q25421.webp",
+      "source": "https://www.inaturalist.org/observations/65912619",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106166321/large.jpeg",
+      "artist": "(c) rober025, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "小䴙䴘侧身浮水，头喙、颈部、躯干与尾端轮廓完整，前景没有遮住主要身体；足部自然位于水下。",
+      "sourceImageSha256": "2a5ffee14da0abc7f8e0b4b62307c9da92dedfa5d09c2b941a546dd14b605a9e",
+      "sha256": "9e98938d9ada316f4f33a097d8e5e67756739788f7dcf6f4ac1e01168add6854",
+      "photoId": 106166321,
+      "speciesTaxonId": 4237,
+      "qualityGrade": "research"
+    },
+    {
+      "id": "Q527496",
+      "name": "Emperor dragonfly",
+      "scientificName": "Anax imperator",
+      "candidate": "27-5",
+      "path": "animal-photos/approved/Q527496.webp",
+      "source": "https://www.inaturalist.org/observations/185957500",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/324865639/large.jpg",
+      "artist": "(c) odole, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "帝王蜻蜓头部、胸腹部末端、四片完整翅膀和可见抓握足部均清晰，原图四周留有余量，无裁切。",
+      "sourceImageSha256": "b5b81384687f610738341c19af6e1fc225f2dbce11cd0983f1a8eb047b04db13",
+      "sha256": "728ffc11443fa6b63ef5d7ee67ef5493d5ee9c01870bc160d34d9db909eec9cd",
+      "photoId": 324865639,
+      "speciesTaxonId": 94043,
+      "qualityGrade": "research"
+    },
+    {
+      "id": "Q61865",
+      "name": "Indian peafowl",
+      "scientificName": "Pavo cristatus",
+      "candidate": "p20-0",
+      "path": "animal-photos/approved/Q61865.webp",
+      "source": "https://www.inaturalist.org/observations/359657550",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/656223351/large.jpg",
+      "artist": "(c) zebedeugalinha, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "蓝孔雀站立全身，冠羽、头颈、躯干、双腿足部与完整长尾羽末端均在原图内，背景枝条不遮住主要身体。",
+      "sourceImageSha256": "dd83a092dd1956a6dca24fa507bff847ca5bdc189bbe607f17f0c3ac35089c3b",
+      "sha256": "d528b669970d6f5e91f5a9392df7e76be9b82daa3a0afb97fe4777555e23aeac",
+      "photoId": 656223351,
+      "speciesTaxonId": 1204,
+      "qualityGrade": "research"
+    },
+    {
+      "id": "Q170713",
+      "name": "Grass snake",
+      "scientificName": "Natrix natrix",
+      "candidate": "p22-3",
+      "path": "animal-photos/approved/Q170713.webp",
+      "source": "https://www.inaturalist.org/observations/407589779",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749029687/large.jpg",
+      "artist": "(c) Philip Schaffer, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "草蛇自然盘绕，头部和完整躯干外轮廓清晰，尾部自然沿身体收拢，无原图裁切或严重前景遮挡。",
+      "sourceImageSha256": "18f758308e0b5d682940ea7b2ac765906bc2f9ea1f7e9e946eac8eb6c5604b0e",
+      "sha256": "062e8da6ad4eccec73eec1d415ef333fb3cd84408b2395bc06e0866d9511ff6e",
+      "photoId": 749029687,
+      "speciesTaxonId": 966787,
+      "qualityGrade": "research"
+    },
+    {
+      "id": "Q210959",
+      "name": "Noble crayfish",
+      "scientificName": "Astacus astacus",
+      "candidate": "p26-4",
+      "path": "animal-photos/approved/Q210959.webp",
+      "source": "https://www.inaturalist.org/observations/120492318",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/203802653/large.jpg",
+      "artist": "(c) Cosimo Costanzia di Costigliole, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "欧洲螯虾背面完整全身，头胸甲、两只螯、触角、可见步足、腹部与完整尾扇均在画面内，主体清晰。",
+      "sourceImageSha256": "e15f46529aabfd521e3a52bd8e21387868504bfd8d8085813cc77f2887b795a4",
+      "sha256": "bcd98d4c2cdc488a31022abbba8e15077317ab9104f2154b2822c4034f2d0ce0",
+      "photoId": 203802653,
+      "speciesTaxonId": 84862,
+      "qualityGrade": "research"
+    }
+  ],
+  "previouslyEnabledUnchanged": 231,
+  "remainingPending": [
+    {
+      "id": "c8cbec13-a69c-40d8-836b-902a6b1defcf",
+      "name": "orca",
+      "scientificName": "Orcinus orca"
+    },
+    {
+      "id": "fd8d3e5e-24a0-4aa2-9211-987ff86007dd",
+      "name": "humpback whale",
+      "scientificName": "Megaptera novaeangliae"
+    },
+    {
+      "id": "99c89d19-488d-496a-9fb9-cf4f76da7297",
+      "name": "axolotl",
+      "scientificName": "Ambystoma mexicanum"
+    },
+    {
+      "id": "dd44eb4f-f4d1-4557-939e-44f35694b615",
+      "name": "Chinese giant salamander",
+      "scientificName": "Andrias davidianus"
+    },
+    {
+      "id": "b20ac6bd-5100-4e76-945c-1b896de1c406",
+      "name": "olm",
+      "scientificName": "Proteus anguinus"
+    },
+    {
+      "id": "13f03f76-ad05-41dc-9346-cdce51eacaf3",
+      "name": "Variegated Tinamou",
+      "scientificName": "Crypturellus variegatus"
+    },
+    {
+      "id": "4c0abb14-1b44-490e-80e6-effa0d067394",
+      "name": "Lorestan Newt",
+      "scientificName": "Neurergus kaiseri"
+    },
+    {
+      "id": "6f4673be-bc9e-4605-b455-e514d1348f60",
+      "name": "Reedfish",
+      "scientificName": "Erpetoichthys calabaricus"
+    },
+    {
+      "id": "92a2b163-34dc-4fef-9aef-f348d8b3af6c",
+      "name": "Pale Watery",
+      "scientificName": "Baetis fuscatus"
+    },
+    {
+      "id": "4b878d44-26e1-483e-8ef4-7879da69d1d7",
+      "name": "Alligator Gar",
+      "scientificName": "Atractosteus spatula"
+    },
+    {
+      "id": "0400219e-04c8-45ae-88f1-e2505fd7aaa5",
+      "name": "Saddleback Harvestman",
+      "scientificName": "Mitopus morio"
+    },
+    {
+      "id": "Q307157",
+      "name": "Eastern gorilla",
+      "scientificName": "Gorilla beringei"
+    },
+    {
+      "id": "Q132072",
+      "name": "Beluga whale",
+      "scientificName": "Delphinapterus leucas"
+    },
+    {
+      "id": "Q167797",
+      "name": "Vicuña",
+      "scientificName": "Vicugna vicugna"
+    },
+    {
+      "id": "Q29220",
+      "name": "Sumatran rhinoceros",
+      "scientificName": "Dicerorhinus sumatrensis"
+    },
+    {
+      "id": "Q4764",
+      "name": "Common crane",
+      "scientificName": "Grus grus"
+    },
+    {
+      "id": "Q187036",
+      "name": "European pond turtle",
+      "scientificName": "Emys orbicularis"
+    },
+    {
+      "id": "Q201235",
+      "name": "Electric eel",
+      "scientificName": "Electrophorus electricus"
+    },
+    {
+      "id": "Q185260",
+      "name": "Basking shark",
+      "scientificName": "Cetorhinus maximus"
+    }
+  ]
+}

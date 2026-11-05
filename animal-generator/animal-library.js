@@ -1938,17 +1938,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Tyrrhenian Wall Lizard",
     "scientificName": "Podarcis tiliguerta",
     "category": "Reptiles",
-    "pendingPhoto": {
-      "image": "animal-photos/approved/bad1295c-4349-4992-af66-5ef7bdf83e7d.webp",
-      "photo": {
-        "title": "File:Podarcis Tiliguerta 002.jpg",
-        "filePage": "https://commons.wikimedia.org/wiki/File%3APodarcis_Tiliguerta_002.jpg",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-        "artist": "Vinii4238",
-        "photoSource": "Wikimedia Commons"
-      },
-      "sha256": "a11883f24d188d5c3674b63351eb3f99a615ccf02373ecaf5485c2122e44c67c"
+    "image": "animal-photos/approved/bad1295c-4349-4992-af66-5ef7bdf83e7d.webp",
+    "photo": {
+      "title": "Podarcis tiliguerta — iNaturalist photo 552284739",
+      "filePage": "https://www.inaturalist.org/observations/306272888",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Samuel GUIRAUDOU",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-05",
+      "fullBodySha256": "a28137fe23246fd8b9f7a26866ca937c47e411506a81657f9d31fa1f270f4024"
     }
   },
   {
@@ -2441,17 +2441,17 @@ window.ANIMAL_LIBRARY = [
     "scientificName": "Blattella germanica",
     "category": "Invertebrates",
     "subgroup": "Insects",
-    "pendingPhoto": {
-      "image": "animal-photos/approved/b2e26249-80be-441b-8648-4c0361892ee0.webp",
-      "photo": {
-        "title": "File:German cockroach (Blattella germanica) probably (43118262090).jpg",
-        "filePage": "https://commons.wikimedia.org/wiki/File%3AGerman_cockroach_%28Blattella_germanica%29_probably_%2843118262090%29.jpg",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "artist": "gailhampshire  from Cradley, Malvern, U.K",
-        "photoSource": "Wikimedia Commons"
-      },
-      "sha256": "bf5750480ed4013c9e299c3018cb0fb9d6858eb4bc41a195df1ada6e94f7ed20"
+    "image": "animal-photos/approved/b2e26249-80be-441b-8648-4c0361892ee0.webp",
+    "photo": {
+      "title": "Blattella germanica — iNaturalist photo 465309827",
+      "filePage": "https://www.inaturalist.org/observations/259235450",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-05",
+      "fullBodySha256": "5b0253f9d7b64557d1b629675906f474c2423c2f2c33c38518bcd94c48a3406f"
     }
   },
   {
@@ -4409,18 +4409,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Greylag goose",
     "scientificName": "Anser anser",
     "category": "Birds",
-    "pendingPhoto": {
-      "image": "animal-photos/approved/Q25882.webp",
-      "photo": {
-        "title": "00 3688 Graugans (Anser anser).jpg",
-        "filePage": "https://commons.wikimedia.org/wiki/File:00_3688_Graugans_(Anser_anser).jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "artist": "W. Bulach",
-        "photoSource": "Wikimedia Commons",
-        "curated": "manual photo review"
-      },
-      "sha256": "baa6cb83726f0e409ec2ba8367bfccd1f03e4fef35fb620e9fad3dddd0b06632"
+    "image": "animal-photos/approved/Q25882.webp",
+    "photo": {
+      "title": "Anser anser — iNaturalist photo 505938650",
+      "filePage": "https://www.inaturalist.org/observations/281640151",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "olmagon",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-05",
+      "fullBodySha256": "34bcc86474597d2db054e03c15cd5e549149b5cfedbd64ba961449a0dcbe0ce4"
     }
   },
   {
@@ -4523,18 +4522,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Northern pintail",
     "scientificName": "Anas acuta",
     "category": "Birds",
-    "pendingPhoto": {
-      "image": "animal-photos/approved/Q25450.webp",
-      "photo": {
-        "title": "Male northern pintail at Llano Seco.jpg",
-        "filePage": "https://commons.wikimedia.org/wiki/File:Male_northern_pintail_at_Llano_Seco.jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "artist": "Frank Schulenburg",
-        "photoSource": "Wikimedia Commons",
-        "curated": "manual photo review"
-      },
-      "sha256": "5df889aaca259eab65be4b62cd89fcea7323052c457316f92923a4365df863dd"
+    "image": "animal-photos/approved/Q25450.webp",
+    "photo": {
+      "title": "Anas acuta — iNaturalist photo 353707135",
+      "filePage": "https://www.inaturalist.org/observations/200474404",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Matt Felperin",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-05",
+      "fullBodySha256": "c89ec53dadcb22dc0f44f344a97cd710228cce23153e62b68ceaec8c3200dd51"
     }
   },
   {
@@ -4617,18 +4615,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Indian peafowl",
     "scientificName": "Pavo cristatus",
     "category": "Birds",
-    "pendingPhoto": {
-      "image": "animal-photos/approved/Q61865.webp",
-      "photo": {
-        "title": "Indian Peacock in Tholpetty Wildlife Sanctuary 01.JPG",
-        "filePage": "https://commons.wikimedia.org/wiki/File:Indian_Peacock_in_Tholpetty_Wildlife_Sanctuary_01.JPG",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "artist": "Praveenp",
-        "photoSource": "Wikimedia Commons",
-        "curated": "manual photo review"
-      },
-      "sha256": "aff1fdb9b662bac5fa21b244fdb5bc3d62d065dc7d182e7e159c2412387e7c0e"
+    "image": "animal-photos/approved/Q61865.webp",
+    "photo": {
+      "title": "Pavo cristatus — iNaturalist photo 656223351",
+      "filePage": "https://www.inaturalist.org/observations/359657550",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "zebedeugalinha",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-05",
+      "fullBodySha256": "d528b669970d6f5e91f5a9392df7e76be9b82daa3a0afb97fe4777555e23aeac"
     }
   },
   {
@@ -4655,18 +4652,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Little grebe",
     "scientificName": "Tachybaptus ruficollis",
     "category": "Birds",
-    "pendingPhoto": {
-      "image": "animal-photos/approved/Q25421.webp",
-      "photo": {
-        "title": "Little Grebe - Tachybaptus ruficollis 15-1.jpg",
-        "filePage": "https://commons.wikimedia.org/wiki/File:Little_Grebe_-_Tachybaptus_ruficollis_15-1.jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "artist": "Zeynel Cebeci",
-        "photoSource": "Wikimedia Commons",
-        "curated": "manual photo review"
-      },
-      "sha256": "25a80351d7a383c13095725cc613b28d8d3b24b444a61de7c02c4aaaf68b899f"
+    "image": "animal-photos/approved/Q25421.webp",
+    "photo": {
+      "title": "Tachybaptus ruficollis — iNaturalist photo 106166321",
+      "filePage": "https://www.inaturalist.org/observations/65912619",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "rober025",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-05",
+      "fullBodySha256": "9e98938d9ada316f4f33a097d8e5e67756739788f7dcf6f4ac1e01168add6854"
     }
   },
   {
@@ -4693,18 +4689,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Grass snake",
     "scientificName": "Natrix natrix",
     "category": "Reptiles",
-    "pendingPhoto": {
-      "image": "animal-photos/approved/Q170713.webp",
-      "photo": {
-        "title": "2017.07.17.-17-Tiefer See oder Grubensee-Storkow (Mark)--Ringelnatter.jpg",
-        "filePage": "https://commons.wikimedia.org/wiki/File:2017.07.17.-17-Tiefer_See_oder_Grubensee-Storkow_(Mark)--Ringelnatter.jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "artist": "Andreas Eichler",
-        "photoSource": "Wikimedia Commons",
-        "curated": "manual photo review"
-      },
-      "sha256": "2cc0d838baf551353827a16ba50de677bf6abe004134c6406f4dabf9132e87f7"
+    "image": "animal-photos/approved/Q170713.webp",
+    "photo": {
+      "title": "Natrix natrix — iNaturalist photo 749029687",
+      "filePage": "https://www.inaturalist.org/observations/407589779",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Philip Schaffer",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-05",
+      "fullBodySha256": "062e8da6ad4eccec73eec1d415ef333fb3cd84408b2395bc06e0866d9511ff6e"
     }
   },
   {
@@ -5245,18 +5240,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Noble crayfish",
     "scientificName": "Astacus astacus",
     "category": "Invertebrates",
-    "pendingPhoto": {
-      "image": "animal-photos/approved/Q210959.webp",
-      "photo": {
-        "title": "Astacus astacus 02.JPG",
-        "filePage": "https://commons.wikimedia.org/wiki/File:Astacus_astacus_02.JPG",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "artist": "H. Zell",
-        "photoSource": "Wikimedia Commons",
-        "curated": "manual photo review"
-      },
-      "sha256": "6fe6cdd9b403f501b4838c72fa8a1404078bc7ee355641e4d84733fe28e0330c"
+    "image": "animal-photos/approved/Q210959.webp",
+    "photo": {
+      "title": "Astacus astacus — iNaturalist photo 203802653",
+      "filePage": "https://www.inaturalist.org/observations/120492318",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Cosimo Costanzia di Costigliole",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-05",
+      "fullBodySha256": "bcd98d4c2cdc488a31022abbba8e15077317ab9104f2154b2822c4034f2d0ce0"
     }
   },
   {
@@ -5301,18 +5295,17 @@ window.ANIMAL_LIBRARY = [
     "name": "Emperor dragonfly",
     "scientificName": "Anax imperator",
     "category": "Invertebrates",
-    "pendingPhoto": {
-      "image": "animal-photos/approved/Q527496.webp",
-      "photo": {
-        "title": "Anax imperator qtl2.jpg",
-        "filePage": "https://commons.wikimedia.org/wiki/File:Anax_imperator_qtl2.jpg",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "artist": "Quartl",
-        "photoSource": "Wikimedia Commons",
-        "curated": "manual photo review"
-      },
-      "sha256": "56e47ec18c4892b50d661eccce82f49079a6fc2698aa4864ffadffa8230dca84"
+    "image": "animal-photos/approved/Q527496.webp",
+    "photo": {
+      "title": "Anax imperator — iNaturalist photo 324865639",
+      "filePage": "https://www.inaturalist.org/observations/185957500",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "odole",
+      "photoSource": "iNaturalist",
+      "fullBodyApproved": true,
+      "fullBodyReviewedOn": "2026-11-05",
+      "fullBodySha256": "728ffc11443fa6b63ef5d7ee67ef5493d5ee9c01870bc160d34d9db909eec9cd"
     }
   },
   {

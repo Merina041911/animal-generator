@@ -541,7 +541,29 @@
     "scientificName": "Podarcis tiliguerta",
     "oldPath": "animal-photos/approved/bad1295c-4349-4992-af66-5ef7bdf83e7d.webp",
     "verdict": "replace",
-    "reason": "蜥蜴尾部被下边缘截断，主体较小。"
+    "reason": "Replacement approved: 壁蜥完整头部、躯干、可见四肢及弯曲尾端均位于原图内，主体清晰，无明显遮挡。 Previous image rejected: 蜥蜴尾部被下边缘截断，主体较小。",
+    "replacement": {
+      "title": "Podarcis tiliguerta — iNaturalist photo 552284739",
+      "filePage": "https://www.inaturalist.org/observations/306272888",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "(c) Samuel GUIRAUDOU, some rights reserved (CC BY)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/bad1295c-4349-4992-af66-5ef7bdf83e7d.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 235824
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "壁蜥完整头部、躯干、可见四肢及弯曲尾端均位于原图内，主体清晰，无明显遮挡。",
+      "sourceImageSha256": "08d60f3430f84f8d7a812265e3b5e4b64bcf917f1c5f61fd8f729c5c7d6c753f",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/552284739/large.jpg",
+      "sourceWidth": 1024,
+      "sourceHeight": 683
+    },
+    "originalReason": "蜥蜴尾部被下边缘截断，主体较小。"
   },
   {
     "id": "Q17592",
@@ -658,7 +680,29 @@
     "scientificName": "Anser anser",
     "oldPath": "animal-photos/approved/Q25882.webp",
     "verdict": "replace",
-    "reason": "雁群拥挤，主体脚部被草和其他个体遮挡。"
+    "reason": "Replacement approved: 灰雁正面站立，完整头喙、躯干轮廓、自然收拢双翼与双足均可辨，主体清晰且原图无裁切。 Previous image rejected: 雁群拥挤，主体脚部被草和其他个体遮挡。",
+    "replacement": {
+      "title": "Anser anser — iNaturalist photo 505938650",
+      "filePage": "https://www.inaturalist.org/observations/281640151",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "(c) olmagon, some rights reserved (CC BY)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q25882.webp",
+      "width": 576,
+      "height": 1024,
+      "bytes": 157942
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "灰雁正面站立，完整头喙、躯干轮廓、自然收拢双翼与双足均可辨，主体清晰且原图无裁切。",
+      "sourceImageSha256": "9e42180c818bda81ded1635584e427bb9dd0491cfe16fc8f2c7e4345e31ffb98",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/505938650/large.jpg",
+      "sourceWidth": 576,
+      "sourceHeight": 1024
+    },
+    "originalReason": "雁群拥挤，主体脚部被草和其他个体遮挡。"
   },
   {
     "id": "Q25418",
@@ -700,7 +744,29 @@
     "scientificName": "Anas acuta",
     "oldPath": "animal-photos/approved/Q25450.webp",
     "verdict": "replace",
-    "reason": "水面游泳，双腿和腹部不可见。"
+    "reason": "Replacement approved: 针尾鸭侧面浮水，头喙、完整躯干外轮廓、收拢翅膀与长尾端均清晰且位于画面内；足部自然在水下，主要身体并未被水面掩盖。 Previous image rejected: 水面游泳，双腿和腹部不可见。",
+    "replacement": {
+      "title": "Anas acuta — iNaturalist photo 353707135",
+      "filePage": "https://www.inaturalist.org/observations/200474404",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "(c) Matt Felperin, some rights reserved (CC BY)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q25450.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 27006
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "针尾鸭侧面浮水，头喙、完整躯干外轮廓、收拢翅膀与长尾端均清晰且位于画面内；足部自然在水下，主要身体并未被水面掩盖。",
+      "sourceImageSha256": "29c4f804c670a24f6d96f3defc33b87e439b822151f1fe8bcff5f1d64e30b794",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353707135/large.jpg",
+      "sourceWidth": 1024,
+      "sourceHeight": 683
+    },
+    "originalReason": "水面游泳，双腿和腹部不可见。"
   },
   {
     "id": "Q25392",
@@ -747,7 +813,29 @@
     "scientificName": "Pavo cristatus",
     "oldPath": "animal-photos/approved/Q61865.webp",
     "verdict": "replace",
-    "reason": "长尾羽右侧被画面边缘截断，双脚也有草叶遮挡。"
+    "reason": "Replacement approved: 蓝孔雀站立全身，冠羽、头颈、躯干、双腿足部与完整长尾羽末端均在原图内，背景枝条不遮住主要身体。 Previous image rejected: 长尾羽右侧被画面边缘截断，双脚也有草叶遮挡。",
+    "replacement": {
+      "title": "Pavo cristatus — iNaturalist photo 656223351",
+      "filePage": "https://www.inaturalist.org/observations/359657550",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "(c) zebedeugalinha, some rights reserved (CC BY)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q61865.webp",
+      "width": 1024,
+      "height": 768,
+      "bytes": 264638
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "蓝孔雀站立全身，冠羽、头颈、躯干、双腿足部与完整长尾羽末端均在原图内，背景枝条不遮住主要身体。",
+      "sourceImageSha256": "dd83a092dd1956a6dca24fa507bff847ca5bdc189bbe607f17f0c3ac35089c3b",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/656223351/large.jpg",
+      "sourceWidth": 1024,
+      "sourceHeight": 768
+    },
+    "originalReason": "长尾羽右侧被画面边缘截断，双脚也有草叶遮挡。"
   },
   {
     "id": "Q25382",
@@ -761,7 +849,29 @@
     "scientificName": "Tachybaptus ruficollis",
     "oldPath": "animal-photos/approved/Q25421.webp",
     "verdict": "replace",
-    "reason": "浮于水面，双腿和腹部不可见。"
+    "reason": "Replacement approved: 小䴙䴘侧身浮水，头喙、颈部、躯干与尾端轮廓完整，前景没有遮住主要身体；足部自然位于水下。 Previous image rejected: 浮于水面，双腿和腹部不可见。",
+    "replacement": {
+      "title": "Tachybaptus ruficollis — iNaturalist photo 106166321",
+      "filePage": "https://www.inaturalist.org/observations/65912619",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "(c) rober025, some rights reserved (CC BY)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q25421.webp",
+      "width": 1024,
+      "height": 699,
+      "bytes": 142284
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "小䴙䴘侧身浮水，头喙、颈部、躯干与尾端轮廓完整，前景没有遮住主要身体；足部自然位于水下。",
+      "sourceImageSha256": "2a5ffee14da0abc7f8e0b4b62307c9da92dedfa5d09c2b941a546dd14b605a9e",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106166321/large.jpeg",
+      "sourceWidth": 1024,
+      "sourceHeight": 699
+    },
+    "originalReason": "浮于水面，双腿和腹部不可见。"
   },
   {
     "id": "Q192056",
@@ -775,7 +885,29 @@
     "scientificName": "Natrix natrix",
     "oldPath": "animal-photos/approved/Q170713.webp",
     "verdict": "replace",
-    "reason": "盘绕蛇身近景，左侧躯干触及画面边缘且尾尖不可确认。"
+    "reason": "Replacement approved: 草蛇自然盘绕，头部和完整躯干外轮廓清晰，尾部自然沿身体收拢，无原图裁切或严重前景遮挡。 Previous image rejected: 盘绕蛇身近景，左侧躯干触及画面边缘且尾尖不可确认。",
+    "replacement": {
+      "title": "Natrix natrix — iNaturalist photo 749029687",
+      "filePage": "https://www.inaturalist.org/observations/407589779",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "(c) Philip Schaffer, some rights reserved (CC BY)",
+      "photoSource": "iNaturalist",
+      "path": "animal-photos/approved/Q170713.webp",
+      "width": 1024,
+      "height": 683,
+      "bytes": 123018
+    },
+    "replacementReview": {
+      "reviewedOn": "2026-11-05",
+      "verdict": "pass",
+      "reason": "草蛇自然盘绕，头部和完整躯干外轮廓清晰，尾部自然沿身体收拢，无原图裁切或严重前景遮挡。",
+      "sourceImageSha256": "18f758308e0b5d682940ea7b2ac765906bc2f9ea1f7e9e946eac8eb6c5604b0e",
+      "sourceImageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/749029687/large.jpg",
+      "sourceWidth": 1024,
+      "sourceHeight": 683
+    },
+    "originalReason": "盘绕蛇身近景，左侧躯干触及画面边缘且尾尖不可确认。"
   },
   {
     "id": "Q183660",
