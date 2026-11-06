@@ -8,8 +8,8 @@ Run the commands below from the repository root. This guide covers the research 
 
 - Selections within a group use OR; different groups use AND. Empty groups include all species, including records with an explicitly uncertain field.
 - Size bands are product definitions based on documented adult length: under 10 cm, 10 cm to under 1 m, and 1 m or more. Measurement exceptions, native-range conventions and source discrepancies appear in the public `animal-data-sources.html` page.
-- The three `animal-generator/data/*-filter-data.json` files are the editable research inputs. They cover 259 researched species, including those temporarily excluded while their photographs await full-body approval. The other 81 catalog entries do not yet have researched filter metadata. Research notes in the same directory preserve evidence and limitations.
-- Two fields are deliberately uncertain: the diet of *Coleonyx fasciatus* and the native range of *Thermobia domestica*. These fields are not given guessed tags; species with an approved photo remain available when the corresponding filter is unrestricted.
+- The four `animal-generator/data/*-filter-data.json` files are the editable research inputs. They cover 319 researched species, including those temporarily excluded while their photographs await full-body approval. The other 75 catalog entries do not yet have researched filter metadata. Research notes in the same directory preserve evidence and limitations.
+- Four fields are deliberately uncertain: the diet of *Coleonyx fasciatus*, the native ranges of *Thermobia domestica* and *Argulus foliaceus*, and the adult size of *Fregata magnificens*. These fields are not given guessed tags; species with an approved photo remain available when the corresponding filter is unrestricted.
 - After changing research inputs, run `node scripts/build-animal-filter-data.cjs` to validate the records and regenerate `animal-filter-data.js` plus the public source page.
 
 ## Whole-body photo approval

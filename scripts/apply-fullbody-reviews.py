@@ -74,6 +74,7 @@ pending = len(audit) - active
 # Keep crawlable counts consistent with the actual enabled, approved photo pool.
 p = SITE / 'index.html'
 s = p.read_text()
+s = re.sub(r'The catalog contains \d+ species', f'The catalog contains {len(animals)} species', s)
 s = re.sub(r'\d+ photo-verified species', f'{active} photo-verified species', s)
 s = re.sub(r'generate \d+ species with reviewed photos', f'generate {active} species with reviewed photos', s)
 s = re.sub(r'There are \d+ photo-backed species', f'There are {active} photo-backed species', s)
@@ -83,6 +84,9 @@ s = s.replace('Animal photos are sourced from Wikimedia Commons.', 'Animal photo
 p.write_text(s)
 about = SITE / 'about.html'
 s = about.read_text()
+s = re.sub(r'\d+-species catalog', f'{len(animals)}-species catalog', s)
+s = re.sub(r'catalog features \d+ species', f'catalog features {len(animals)} species', s)
+s = re.sub(r'catalog contains \d+ animal species', f'catalog contains {len(animals)} animal species', s)
 s = re.sub(r'picks from \d+ species with reviewed photos', f'picks from {active} species with reviewed full-body photos', s)
 s = re.sub(r'include \d+ species with reviewed photos', f'include {active} species with reviewed full-body photos', s)
 s = re.sub(r'picks from \d+ species with reviewed full-body photos', f'picks from {active} species with reviewed full-body photos', s)

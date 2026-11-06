@@ -713,13 +713,37 @@ window.ANIMAL_LIBRARY = [
     "id": "2a94bd08-2911-4173-a6b8-11ec42594b77",
     "name": "peregrine falcon",
     "scientificName": "Falco peregrinus",
-    "category": "Birds"
+    "category": "Birds",
+    "image": "animal-photos/approved/2a94bd08-2911-4173-a6b8-11ec42594b77.webp",
+    "photo": {
+      "title": "Falco peregrinus — iNaturalist photo 180819760",
+      "filePage": "https://www.inaturalist.org/observations/107502796",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Andrea Poggi",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "dc903ce138b04e5335e0401bb92d68db0f359aaff2edf4d749528db52a448bc0"
+    }
   },
   {
     "id": "ea71ef37-b1ce-428b-84d0-438d0d954f32",
     "name": "snowy owl",
     "scientificName": "Bubo scandiacus",
-    "category": "Birds"
+    "category": "Birds",
+    "image": "animal-photos/approved/ea71ef37-b1ce-428b-84d0-438d0d954f32.webp",
+    "photo": {
+      "title": "Bubo scandiacus — iNaturalist photo 175457294",
+      "filePage": "https://www.inaturalist.org/observations/104681391",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Matt Felperin",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "6f7811cc95127f2fff8007b0580ad2ec4faca93fc40584ab4c62a0ca678dd37a"
+    }
   },
   {
     "id": "a1244226-f2c2-41dc-b113-f1c6545958ce",
@@ -1277,7 +1301,19 @@ window.ANIMAL_LIBRARY = [
     "id": "ece07f70-61bc-47e2-afb3-3aa6965f414f",
     "name": "African clawed frog",
     "scientificName": "Xenopus laevis",
-    "category": "Amphibians"
+    "category": "Amphibians",
+    "image": "animal-photos/approved/ece07f70-61bc-47e2-afb3-3aa6965f414f.webp",
+    "photo": {
+      "title": "Xenopus laevis — iNaturalist photo 175919235",
+      "filePage": "https://www.inaturalist.org/observations/104920916",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "aaf8642b7150c779a8f8fa09951080b18edfc778456c27c9c9c5e1547c4381eb"
+    }
   },
   {
     "id": "6a2be24b-bce0-4c60-81dc-07c1f1184ae4",
@@ -2563,7 +2599,19 @@ window.ANIMAL_LIBRARY = [
     "name": "Common Fish Louse",
     "scientificName": "Argulus foliaceus",
     "category": "Invertebrates",
-    "subgroup": "Crustaceans"
+    "subgroup": "Crustaceans",
+    "image": "animal-photos/approved/920d3a37-e895-40fb-ac1f-91e01859ee8f.webp",
+    "photo": {
+      "title": "Argulus foliaceus — iNaturalist photo 54697252",
+      "filePage": "https://www.inaturalist.org/observations/34731690",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Dmitry Kulakov",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "5ab49d42f2fd5e7e9dae2b13fd5fe01a5bec63025de5aeea3212b18ca57902c0"
+    }
   },
   {
     "id": "b27aee5f-e30e-43f1-93f2-6312821b5c79",
@@ -2681,14 +2729,38 @@ window.ANIMAL_LIBRARY = [
     "name": "Pacific Purple Sea Urchin",
     "scientificName": "Strongylocentrotus purpuratus",
     "category": "Invertebrates",
-    "subgroup": "Echinoderms"
+    "subgroup": "Echinoderms",
+    "image": "animal-photos/approved/21f01ed3-d1ce-419c-8339-06be3c353466.webp",
+    "photo": {
+      "title": "Strongylocentrotus purpuratus — iNaturalist photo 679816268",
+      "filePage": "https://www.inaturalist.org/observations/372049306",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Peter Abrahamsen",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "009d00dc143e9dc3777689768de023916e5c224b573f241ba63cfd12a2586f88"
+    }
   },
   {
     "id": "2769f46d-e745-44fd-ac09-2dacfdfb43fe",
     "name": "Purple-brown Urchin",
     "scientificName": "Arbacia punctulata",
     "category": "Invertebrates",
-    "subgroup": "Echinoderms"
+    "subgroup": "Echinoderms",
+    "image": "animal-photos/approved/2769f46d-e745-44fd-ac09-2dacfdfb43fe.webp",
+    "photo": {
+      "title": "Arbacia punctulata — iNaturalist photo 183804517",
+      "filePage": "https://www.inaturalist.org/observations/109095038",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Jessica Utrup",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "a253a17f9552fb18984ad2245c88668dff38f486b8046e27a85785981896fe8f"
+    }
   },
   {
     "id": "2efedeaa-13d7-46f9-b38a-fa7009cc05a7",
@@ -5324,6 +5396,978 @@ window.ANIMAL_LIBRARY = [
       "fullBodyApproved": true,
       "fullBodyReviewedOn": "2026-11-04",
       "fullBodySha256": "63b124f8abdfcd83ed4dcb4029709bb6ce2024c092aca86af2455ebe12037d29"
+    }
+  },
+  {
+    "id": "9689e7f6-1293-4f27-9be3-d9dc69c599dd",
+    "scientificName": "Anas rubripes",
+    "name": "American black duck",
+    "category": "Birds",
+    "image": "animal-photos/approved/9689e7f6-1293-4f27-9be3-d9dc69c599dd.webp",
+    "photo": {
+      "title": "Anas rubripes — iNaturalist photo 176925603",
+      "filePage": "https://www.inaturalist.org/observations/105446361",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Mark Apgar",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "59a48269f6c5fb07818581046895eed694bb8b5bf05e2fc85c515e9f3a97d5ed"
+    }
+  },
+  {
+    "id": "8d573f8a-9559-445b-8137-7bde815a7b2f",
+    "scientificName": "Aix sponsa",
+    "name": "Wood duck",
+    "category": "Birds",
+    "image": "animal-photos/approved/8d573f8a-9559-445b-8137-7bde815a7b2f.webp",
+    "photo": {
+      "title": "Aix sponsa — iNaturalist photo 355078425",
+      "filePage": "https://www.inaturalist.org/observations/201177190",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Adrienne van den Beemt",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "02a76ec64dd67b8abe055059bb713ed62e3c2b725acb3b2795c9b486ab174400"
+    }
+  },
+  {
+    "id": "5cd6f5ac-94f1-422c-b31d-bffb77fc045c",
+    "scientificName": "Aythya fuligula",
+    "name": "Tufted duck",
+    "category": "Birds",
+    "image": "animal-photos/approved/5cd6f5ac-94f1-422c-b31d-bffb77fc045c.webp",
+    "photo": {
+      "title": "Aythya fuligula — iNaturalist photo 119284019",
+      "filePage": "https://www.inaturalist.org/observations/73090470",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Nigel Voaden",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "5218998dde68471d767114475ef6b60f924965f8d7128170b36e032b637d08b5"
+    }
+  },
+  {
+    "id": "61d50426-ed52-4b32-9979-067a36145424",
+    "scientificName": "Aythya americana",
+    "name": "Redhead",
+    "category": "Birds",
+    "image": "animal-photos/approved/61d50426-ed52-4b32-9979-067a36145424.webp",
+    "photo": {
+      "title": "Aythya americana — iNaturalist photo 234275073",
+      "filePage": "https://www.inaturalist.org/observations/137202690",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "9cad28d906b5dae82f4fa896b911ad402664eb85bcf0b2348e1f55d539c91f3d"
+    }
+  },
+  {
+    "id": "97db462d-2ff6-4234-8cd2-2894f712e03b",
+    "scientificName": "Aythya valisineria",
+    "name": "Canvasback",
+    "category": "Birds",
+    "image": "animal-photos/approved/97db462d-2ff6-4234-8cd2-2894f712e03b.webp",
+    "photo": {
+      "title": "Aythya valisineria — iNaturalist photo 179533306",
+      "filePage": "https://www.inaturalist.org/observations/106821524",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "3c96d2d63bc46cfa50a1e1633fc1d5fa70bbbf241de2184d223c73969fae629a"
+    }
+  },
+  {
+    "id": "7a96ba76-226b-4077-a14c-ec44c5ebe9db",
+    "scientificName": "Bucephala clangula",
+    "name": "Common goldeneye",
+    "category": "Birds",
+    "image": "animal-photos/approved/7a96ba76-226b-4077-a14c-ec44c5ebe9db.webp",
+    "photo": {
+      "title": "Bucephala clangula — iNaturalist photo 31569124",
+      "filePage": "https://www.inaturalist.org/observations/20446101",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Frank Sengpiel",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "bab64065f633b3bcb250d93e5fd038a39331916f345361c1dfffd22a6dd2c146"
+    }
+  },
+  {
+    "id": "81032bf0-5e38-4371-8821-ec33a15f57d7",
+    "scientificName": "Bucephala albeola",
+    "name": "Bufflehead",
+    "category": "Birds",
+    "image": "animal-photos/approved/81032bf0-5e38-4371-8821-ec33a15f57d7.webp",
+    "photo": {
+      "title": "Bucephala albeola — iNaturalist photo 254507370",
+      "filePage": "https://www.inaturalist.org/observations/147860686",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Kalvin Chan",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "38561c94c3fd980b651eb66efef6016af718e74259a26e85f75805e87438c50e"
+    }
+  },
+  {
+    "id": "2246c868-d2c1-407b-a326-7bd3af7df62e",
+    "scientificName": "Mergus merganser",
+    "name": "Common merganser",
+    "category": "Birds",
+    "image": "animal-photos/approved/2246c868-d2c1-407b-a326-7bd3af7df62e.webp",
+    "photo": {
+      "title": "Mergus merganser — iNaturalist photo 187549898",
+      "filePage": "https://www.inaturalist.org/observations/111125434",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Andrew Bazdyrev",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "fae785d262691758edbc8db12909d442dfea1136b5796def351442e46a5f4352"
+    }
+  },
+  {
+    "id": "abc555a5-7e81-4d7a-8630-a008da25fd75",
+    "scientificName": "Mergus serrator",
+    "name": "Red-breasted merganser",
+    "category": "Birds",
+    "image": "animal-photos/approved/abc555a5-7e81-4d7a-8630-a008da25fd75.webp",
+    "photo": {
+      "title": "Mergus serrator — iNaturalist photo 471422652",
+      "filePage": "https://www.inaturalist.org/observations/262413010",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Thomas Galewski",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "cc5f0530cf12ec58d88d632bb1a3d88f8f74130975e0ed58b63cbdb0b00c844f"
+    }
+  },
+  {
+    "id": "015ec43b-24bd-477b-8b80-405010b8ef53",
+    "scientificName": "Lophodytes cucullatus",
+    "name": "Hooded merganser",
+    "category": "Birds",
+    "image": "animal-photos/approved/015ec43b-24bd-477b-8b80-405010b8ef53.webp",
+    "photo": {
+      "title": "Lophodytes cucullatus — iNaturalist photo 243821460",
+      "filePage": "https://www.inaturalist.org/observations/142235980",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Justin Flint",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "1711dca398fb97b2b3829ce6ecf1ca9e10ee8b8c3580218adfab1f26a717977f"
+    }
+  },
+  {
+    "id": "3f27ff37-8778-481b-a41b-d4708a43ddd9",
+    "scientificName": "Anser albifrons",
+    "name": "Greater white-fronted goose",
+    "category": "Birds",
+    "image": "animal-photos/approved/3f27ff37-8778-481b-a41b-d4708a43ddd9.webp",
+    "photo": {
+      "title": "Anser albifrons — iNaturalist photo 162867233",
+      "filePage": "https://www.inaturalist.org/observations/97884436",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Bill Levine",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "0635a82bd8e03ac4cd4901eb6727e37ee3607567d5c21eb51899954689360d51"
+    }
+  },
+  {
+    "id": "90f9d555-1c70-4b3a-a931-22c6b54528ee",
+    "scientificName": "Anser caerulescens",
+    "name": "Snow goose",
+    "category": "Birds",
+    "image": "animal-photos/approved/90f9d555-1c70-4b3a-a931-22c6b54528ee.webp",
+    "photo": {
+      "title": "Anser caerulescens — iNaturalist photo 215872657",
+      "filePage": "https://www.inaturalist.org/observations/127173859",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Tom Field",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "1916362666a71a0704d1eb2da5a0664e424270c3260208655f1604bbfe6e08a7"
+    }
+  },
+  {
+    "id": "c1d4ab9a-6fcb-4cd6-ab55-3ff50557a108",
+    "scientificName": "Cygnus buccinator",
+    "name": "Trumpeter swan",
+    "category": "Birds",
+    "image": "animal-photos/approved/c1d4ab9a-6fcb-4cd6-ab55-3ff50557a108.webp",
+    "photo": {
+      "title": "Cygnus buccinator — iNaturalist photo 582920655",
+      "filePage": "https://www.inaturalist.org/observations/322251336",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Andrew Lai",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "1d2ee12fc53608b3b12f80d37c053b16edb0f13fb348357093bde7dd3e02ada5"
+    }
+  },
+  {
+    "id": "8b23295d-c21b-4c63-9b80-3ea0f74e017f",
+    "scientificName": "Gallinula chloropus",
+    "name": "Common moorhen",
+    "category": "Birds",
+    "image": "animal-photos/approved/8b23295d-c21b-4c63-9b80-3ea0f74e017f.webp",
+    "photo": {
+      "title": "Gallinula chloropus — iNaturalist photo 620282104",
+      "filePage": "https://www.inaturalist.org/observations/340812069",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Radu Teodoreanu",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "0a5dd7047be41826cd80e655ba7ece84ce499f35aa2203ca827b99b5aca1a191"
+    }
+  },
+  {
+    "id": "a9645ad8-b983-4ccf-9df9-8d42a6ebc1e6",
+    "scientificName": "Fulica americana",
+    "name": "American coot",
+    "category": "Birds",
+    "image": "animal-photos/approved/a9645ad8-b983-4ccf-9df9-8d42a6ebc1e6.webp",
+    "photo": {
+      "title": "Fulica americana — iNaturalist photo 41710514",
+      "filePage": "https://www.inaturalist.org/observations/26846455",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Jonathan Eisen",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "3e2ffec04117478656cd9e2bc3335e323240f13f148288b023da7676e13040db"
+    }
+  },
+  {
+    "id": "b094c732-f37c-4d05-b3f6-ad3c61d26e15",
+    "scientificName": "Charadrius vociferus",
+    "name": "Killdeer",
+    "category": "Birds",
+    "image": "animal-photos/approved/b094c732-f37c-4d05-b3f6-ad3c61d26e15.webp",
+    "photo": {
+      "title": "Charadrius vociferus — iNaturalist photo 370022156",
+      "filePage": "https://www.inaturalist.org/observations/209101843",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Matt Felperin",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "ea046049df612f78160c4f86507587ee7ab758d9a943c77c4aa6490bcdedd6c0"
+    }
+  },
+  {
+    "id": "8d55b000-dcd9-4315-be71-b13acdb5cb3a",
+    "scientificName": "Charadrius semipalmatus",
+    "name": "Semipalmated plover",
+    "category": "Birds",
+    "image": "animal-photos/approved/8d55b000-dcd9-4315-be71-b13acdb5cb3a.webp",
+    "photo": {
+      "title": "Charadrius semipalmatus — iNaturalist photo 151530611",
+      "filePage": "https://www.inaturalist.org/observations/91592043",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Kevin Lynch",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "3de30be2ae556c06df3015675e15af4263e05d5102594209d8603f6389333740"
+    }
+  },
+  {
+    "id": "484d663d-77a5-489e-9c68-ac79fd397882",
+    "scientificName": "Recurvirostra americana",
+    "name": "American avocet",
+    "category": "Birds",
+    "image": "animal-photos/approved/484d663d-77a5-489e-9c68-ac79fd397882.webp",
+    "photo": {
+      "title": "Recurvirostra americana — iNaturalist photo 269068565",
+      "filePage": "https://www.inaturalist.org/observations/155645373",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "MarvalPhotography19",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "8ae2315f01a7c361b4512acf6167850d61c2f5ce9e68faf393b94c7e68f8d5d4"
+    }
+  },
+  {
+    "id": "10f9df4e-5ab3-4461-8a5b-93d8732e5b8a",
+    "scientificName": "Numenius americanus",
+    "name": "Long-billed curlew",
+    "category": "Birds",
+    "image": "animal-photos/approved/10f9df4e-5ab3-4461-8a5b-93d8732e5b8a.webp",
+    "photo": {
+      "title": "Numenius americanus — iNaturalist photo 440484656",
+      "filePage": "https://www.inaturalist.org/observations/246710042",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Dan Vickers",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "081614dcacc2e525dacc3784a65944a459fd9ed101aa93feecb9fbbce2758899"
+    }
+  },
+  {
+    "id": "bc00c078-0ca2-4dc4-9684-cf8d9ace135d",
+    "scientificName": "Tringa melanoleuca",
+    "name": "Greater yellowlegs",
+    "category": "Birds",
+    "image": "animal-photos/approved/bc00c078-0ca2-4dc4-9684-cf8d9ace135d.webp",
+    "photo": {
+      "title": "Tringa melanoleuca — iNaturalist photo 433087980",
+      "filePage": "https://www.inaturalist.org/observations/242913276",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "2a395f82355ea4413bdf9bf9ab0c55b5079fda97bcc7eb71c73cef90a91b6add"
+    }
+  },
+  {
+    "id": "074af602-4cd5-4a8b-bac3-dff2fa3c530f",
+    "scientificName": "Tringa flavipes",
+    "name": "Lesser yellowlegs",
+    "category": "Birds",
+    "image": "animal-photos/approved/074af602-4cd5-4a8b-bac3-dff2fa3c530f.webp",
+    "photo": {
+      "title": "Tringa flavipes — iNaturalist photo 177376819",
+      "filePage": "https://www.inaturalist.org/observations/105684599",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Esteban Poveda",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "154908cc710d75984b431e060823909571c5ac17a8f09a91f4cac5eb8bccb2ae"
+    }
+  },
+  {
+    "id": "12ae51c2-dc47-4aad-b327-f2c2085d86fe",
+    "scientificName": "Actitis hypoleucos",
+    "name": "Common sandpiper",
+    "category": "Birds",
+    "image": "animal-photos/approved/12ae51c2-dc47-4aad-b327-f2c2085d86fe.webp",
+    "photo": {
+      "title": "Actitis hypoleucos — iNaturalist photo 611391599",
+      "filePage": "https://www.inaturalist.org/observations/257745919",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Saryu Mae 前 朝琉",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "0f8f5e5ea7485bc415038364f5aec441053a9f0db44312f5ba24e73ef176d83b"
+    }
+  },
+  {
+    "id": "dd2b5940-3d0e-4240-a917-eafce6242ffd",
+    "scientificName": "Actitis macularius",
+    "name": "Spotted sandpiper",
+    "category": "Birds",
+    "image": "animal-photos/approved/dd2b5940-3d0e-4240-a917-eafce6242ffd.webp",
+    "photo": {
+      "title": "Actitis macularius — iNaturalist photo 131308007",
+      "filePage": "https://www.inaturalist.org/observations/80133181",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "43d4165703587833c1cf4785648d8a4a33ce22b9f183cbf36cd812af022ea1d0"
+    }
+  },
+  {
+    "id": "49868bbc-12e0-4fad-9caa-319e0903b024",
+    "scientificName": "Calidris alba",
+    "name": "Sanderling",
+    "category": "Birds",
+    "image": "animal-photos/approved/49868bbc-12e0-4fad-9caa-319e0903b024.webp",
+    "photo": {
+      "title": "Calidris alba — iNaturalist photo 339539369",
+      "filePage": "https://www.inaturalist.org/observations/193294104",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "8c1012b90ef7ba7b8ae04a0a1e825d5a22a4393b2da1ce2c88c55faf426a78f0"
+    }
+  },
+  {
+    "id": "f6363560-bafb-4776-9b2c-9336bd5bce86",
+    "scientificName": "Calidris alpina",
+    "name": "Dunlin",
+    "category": "Birds",
+    "image": "animal-photos/approved/f6363560-bafb-4776-9b2c-9336bd5bce86.webp",
+    "photo": {
+      "title": "Calidris alpina — iNaturalist photo 151012648",
+      "filePage": "https://www.inaturalist.org/observations/91310280",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Mikhail Nevsky",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "aae0406a2d20c684c77551917c71625b94ab6cade249b280de785b90af5446fa"
+    }
+  },
+  {
+    "id": "58ac50e5-ba4f-4345-bfae-be6da52a904f",
+    "scientificName": "Arenaria interpres",
+    "name": "Ruddy turnstone",
+    "category": "Birds",
+    "image": "animal-photos/approved/58ac50e5-ba4f-4345-bfae-be6da52a904f.webp",
+    "photo": {
+      "title": "Arenaria interpres — iNaturalist photo 479284103",
+      "filePage": "https://www.inaturalist.org/observations/266747490",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "dphone",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "820289f2f60e69734119a62fdb1c86d182ecf8722a74842b2a712c417cbd5aa0"
+    }
+  },
+  {
+    "id": "1d189257-a506-4f4a-b10d-843eb7162d20",
+    "scientificName": "Larus argentatus",
+    "name": "European herring gull",
+    "category": "Birds",
+    "image": "animal-photos/approved/1d189257-a506-4f4a-b10d-843eb7162d20.webp",
+    "photo": {
+      "title": "Larus argentatus — iNaturalist photo 112687953",
+      "filePage": "https://www.inaturalist.org/observations/69450086",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Zac Peterson",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "09aa4a2745c07f42f819ca882451db988f35a7f8c72c2ce5c4eef16b7dc42787"
+    }
+  },
+  {
+    "id": "28cb2328-8ba5-4f17-9a01-c6124db52980",
+    "scientificName": "Larus marinus",
+    "name": "Great black-backed gull",
+    "category": "Birds",
+    "image": "animal-photos/approved/28cb2328-8ba5-4f17-9a01-c6124db52980.webp",
+    "photo": {
+      "title": "Larus marinus — iNaturalist photo 345101366",
+      "filePage": "https://www.inaturalist.org/observations/196071037",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Diego González Dopico",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "d12f8959b10dd2978e0a185714c8ae690223fc69c92e26cef4fe89c5950a9d16"
+    }
+  },
+  {
+    "id": "129be0fa-a047-4c83-b76c-7220962bc541",
+    "scientificName": "Larus delawarensis",
+    "name": "Ring-billed gull",
+    "category": "Birds",
+    "image": "animal-photos/approved/129be0fa-a047-4c83-b76c-7220962bc541.webp",
+    "photo": {
+      "title": "Larus delawarensis — iNaturalist photo 345092912",
+      "filePage": "https://www.inaturalist.org/observations/196067000",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "artist": "Nodnarb Nedloh",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "6c45f74e912a67e5e02a753671e9978c5a2454313ab84b46e33d5cdaf85f4d72"
+    }
+  },
+  {
+    "id": "05369a97-b8af-4c28-be6c-df3b2428a6ac",
+    "scientificName": "Larus canus",
+    "name": "Common gull",
+    "category": "Birds",
+    "image": "animal-photos/approved/05369a97-b8af-4c28-be6c-df3b2428a6ac.webp",
+    "photo": {
+      "title": "Larus canus — iNaturalist photo 250071843",
+      "filePage": "https://www.inaturalist.org/observations/145571242",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "04b6bc7365cfb6544e70e656a97f994735b6ae41904e5702e7455b4e69ead5fd"
+    }
+  },
+  {
+    "id": "9d6e65ff-b6d3-4357-a31e-652fbb38a962",
+    "scientificName": "Sterna paradisaea",
+    "name": "Arctic tern",
+    "category": "Birds",
+    "image": "animal-photos/approved/9d6e65ff-b6d3-4357-a31e-652fbb38a962.webp",
+    "photo": {
+      "title": "Sterna paradisaea — iNaturalist photo 437768",
+      "filePage": "http://www.inaturalist.org/observations/351193",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Brian Gratwicke",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "3fd5ed7520f5096afcfd4072d3bab51c0873de5b5d0b8f9f0214d682e93d6d28"
+    }
+  },
+  {
+    "id": "f339deda-ebc4-4727-a0a8-1825a9489265",
+    "scientificName": "Chlidonias niger",
+    "name": "Black tern",
+    "category": "Birds",
+    "image": "animal-photos/approved/f339deda-ebc4-4727-a0a8-1825a9489265.webp",
+    "photo": {
+      "title": "Chlidonias niger — iNaturalist photo 640269987",
+      "filePage": "https://www.inaturalist.org/observations/350890177",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Becca",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "f0f8475f1ef7ba58a9d5482103bed0945883059ae7f59d33a49b0cde8d228596"
+    }
+  },
+  {
+    "id": "ab1c9519-ec71-4a12-bd74-bbb7824f1df4",
+    "scientificName": "Fregata magnificens",
+    "name": "Magnificent frigatebird",
+    "category": "Birds",
+    "image": "animal-photos/approved/ab1c9519-ec71-4a12-bd74-bbb7824f1df4.webp",
+    "photo": {
+      "title": "Fregata magnificens — iNaturalist photo 463807663",
+      "filePage": "https://www.inaturalist.org/observations/258500351",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "40e31abbf6310923fcd04928a7d4cb117efe24d9b4e2a2f54c040ceaee1c6418"
+    }
+  },
+  {
+    "id": "7edd2aa5-906e-4f03-b296-282fb4c2cc46",
+    "scientificName": "Egretta thula",
+    "name": "Snowy egret",
+    "category": "Birds",
+    "image": "animal-photos/approved/7edd2aa5-906e-4f03-b296-282fb4c2cc46.webp",
+    "photo": {
+      "title": "Egretta thula — iNaturalist photo 258308458",
+      "filePage": "https://www.inaturalist.org/observations/149863921",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Matt Muir",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "5807702cbff5766bef7c9e2422f670162f1a83fd8dc43938563842ccb93ae86d"
+    }
+  },
+  {
+    "id": "bb96f0fb-d8aa-4804-9b04-6abf79a74c57",
+    "scientificName": "Egretta tricolor",
+    "name": "Tricolored heron",
+    "category": "Birds",
+    "image": "animal-photos/approved/bb96f0fb-d8aa-4804-9b04-6abf79a74c57.webp",
+    "photo": {
+      "title": "Egretta tricolor — iNaturalist photo 13014839",
+      "filePage": "https://www.inaturalist.org/observations/9541461",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Julien Renoult",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "f285c42802da5a82ac5c9b57efc9d5d4aa1686cd03c0cf1d2040d78b35ffb333"
+    }
+  },
+  {
+    "id": "13be4fc7-2e34-4a8b-9b78-fcef592f22a9",
+    "scientificName": "Butorides virescens",
+    "name": "Green heron",
+    "category": "Birds",
+    "image": "animal-photos/approved/13be4fc7-2e34-4a8b-9b78-fcef592f22a9.webp",
+    "photo": {
+      "title": "Butorides virescens — iNaturalist photo 411484540",
+      "filePage": "https://www.inaturalist.org/observations/231664023",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "cesar stastny",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "9956070bd2b4a4a32db6798ac250b1d5bbe5c4dd5216c3e4b1a1577638deea13"
+    }
+  },
+  {
+    "id": "98062a6b-d07c-44ad-be60-9a3a4cf7c004",
+    "scientificName": "Nycticorax nycticorax",
+    "name": "Black-crowned night heron",
+    "category": "Birds",
+    "image": "animal-photos/approved/98062a6b-d07c-44ad-be60-9a3a4cf7c004.webp",
+    "photo": {
+      "title": "Nycticorax nycticorax — iNaturalist photo 59830179",
+      "filePage": "https://www.inaturalist.org/observations/37706114",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Алина Урусова",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "b2afc6be9b4d3c4738eef7b1e4825602662e9f576f9b1dcd87ebd1bb600e5a2b"
+    }
+  },
+  {
+    "id": "99118644-568b-4b25-a306-ac399e504578",
+    "scientificName": "Eudocimus ruber",
+    "name": "Scarlet ibis",
+    "category": "Birds",
+    "image": "animal-photos/approved/99118644-568b-4b25-a306-ac399e504578.webp",
+    "photo": {
+      "title": "Eudocimus ruber — iNaturalist photo 106850987",
+      "filePage": "https://www.inaturalist.org/observations/66300720",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "2127a1e32525291c7a7606c51ca157df91a66db5a550efbcdae5367c47412f31"
+    }
+  },
+  {
+    "id": "f8d9cdb4-a28b-4692-9392-b5314042ca25",
+    "scientificName": "Mycteria americana",
+    "name": "Wood stork",
+    "category": "Birds",
+    "image": "animal-photos/approved/f8d9cdb4-a28b-4692-9392-b5314042ca25.webp",
+    "photo": {
+      "title": "Mycteria americana — iNaturalist photo 305141842",
+      "filePage": "https://www.inaturalist.org/observations/175574754",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "4913e389eda64b7f73b5c86ead905c69238c4a6f47f8625cb25557cc23b7626a"
+    }
+  },
+  {
+    "id": "9d4da63b-57e9-4a5f-8c2f-950766aeb19d",
+    "scientificName": "Ciconia nigra",
+    "name": "Black stork",
+    "category": "Birds",
+    "image": "animal-photos/approved/9d4da63b-57e9-4a5f-8c2f-950766aeb19d.webp",
+    "photo": {
+      "title": "Ciconia nigra — iNaturalist photo 464130573",
+      "filePage": "https://www.inaturalist.org/observations/258658098",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "artist": "Zinogre",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "28a86f11070487d882b477c3bfa6636c61b4f0a655474b31de1e29567fc9c302"
+    }
+  },
+  {
+    "id": "f6457771-f4f0-4f70-88ab-90630ccf8fef",
+    "scientificName": "Branta canadensis",
+    "name": "Canada goose",
+    "category": "Birds",
+    "image": "animal-photos/approved/f6457771-f4f0-4f70-88ab-90630ccf8fef.webp",
+    "photo": {
+      "title": "Branta canadensis — iNaturalist photo 319483746",
+      "filePage": "https://www.inaturalist.org/observations/183152390",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Justin Flint",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "6f635d4530c8d0c74b37950f67bc80d56c58aca86ea61997da77c2b07ab928b0"
+    }
+  },
+  {
+    "id": "6d621d1b-8e85-4b65-9703-3451e5b510df",
+    "scientificName": "Cygnus cygnus",
+    "name": "Whooper swan",
+    "category": "Birds",
+    "image": "animal-photos/approved/6d621d1b-8e85-4b65-9703-3451e5b510df.webp",
+    "photo": {
+      "title": "Cygnus cygnus — iNaturalist photo 485815278",
+      "filePage": "https://www.inaturalist.org/observations/270152939",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "cb8f2f4b7570033535228bd6d1bd7e723e75154cefafe0140a10db047f0cbd1f"
+    }
+  },
+  {
+    "id": "f383b06d-9136-401a-816e-6cce311d28b7",
+    "scientificName": "Sterna hirundo",
+    "name": "Common tern",
+    "category": "Birds",
+    "image": "animal-photos/approved/f383b06d-9136-401a-816e-6cce311d28b7.webp",
+    "photo": {
+      "title": "Sterna hirundo — iNaturalist photo 45627261",
+      "filePage": "https://www.inaturalist.org/observations/29241901",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Evan M. Raskin",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "e52f71000c26c5d6bf8b8f3b83268bbd37cd9fbd3bc0b0278e1c8ae4f89ff023"
+    }
+  },
+  {
+    "id": "9a2cf181-e802-4fb8-a092-5d9fb1f48c72",
+    "scientificName": "Sterna forsteri",
+    "name": "Forster's tern",
+    "category": "Birds",
+    "image": "animal-photos/approved/9a2cf181-e802-4fb8-a092-5d9fb1f48c72.webp",
+    "photo": {
+      "title": "Sterna forsteri — iNaturalist photo 614379888",
+      "filePage": "https://www.inaturalist.org/observations/337906906",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "sudomir",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "65a9b6ccfa6b351373b259af0356037eff976621f6cc5b0c29778fd4fe44d1fd"
+    }
+  },
+  {
+    "id": "c5887f08-937b-4e7c-9928-17c9bd14e8fe",
+    "scientificName": "Pelecanus erythrorhynchos",
+    "name": "American white pelican",
+    "category": "Birds",
+    "image": "animal-photos/approved/c5887f08-937b-4e7c-9928-17c9bd14e8fe.webp",
+    "photo": {
+      "title": "Pelecanus erythrorhynchos — iNaturalist photo 628324618",
+      "filePage": "https://www.inaturalist.org/observations/344825472",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Daughter Dad",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "98cba4e7a97bb25ce1039d236e0a7b2284268615a586dd963c5c4a1cd904e5a0"
+    }
+  },
+  {
+    "id": "4a04a37f-2b97-4f00-8883-890c0ab7ee96",
+    "scientificName": "Ardea alba",
+    "name": "Great egret",
+    "category": "Birds",
+    "image": "animal-photos/approved/4a04a37f-2b97-4f00-8883-890c0ab7ee96.webp",
+    "photo": {
+      "title": "Ardea alba — iNaturalist photo 710058605",
+      "filePage": "https://www.inaturalist.org/observations/387745480",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "17890f84fb45f89fbefe2c1b1634551fb8894517d144183571a32cd5dac88938"
+    }
+  },
+  {
+    "id": "7f03ed6f-f16d-47d8-b909-fd314b3ec611",
+    "scientificName": "Egretta caerulea",
+    "name": "Little blue heron",
+    "category": "Birds",
+    "image": "animal-photos/approved/7f03ed6f-f16d-47d8-b909-fd314b3ec611.webp",
+    "photo": {
+      "title": "Egretta caerulea — iNaturalist photo 24429225",
+      "filePage": "https://www.inaturalist.org/observations/16269944",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "e8be42f5fa714b714d158ed499386b40a9348031c3edbb15db4ae390107e7b22"
+    }
+  },
+  {
+    "id": "09b4584e-ddbb-4b08-a805-78130d730d85",
+    "scientificName": "Nyctanassa violacea",
+    "name": "Yellow-crowned night heron",
+    "category": "Birds",
+    "image": "animal-photos/approved/09b4584e-ddbb-4b08-a805-78130d730d85.webp",
+    "photo": {
+      "title": "Nyctanassa violacea — iNaturalist photo 68491900",
+      "filePage": "https://www.inaturalist.org/observations/43147364",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Natasha Haggard",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "1c0026720280c65f547f22b4dbc8e3723dd9c0f28c8cbd3d875de1b9adeb3344"
+    }
+  },
+  {
+    "id": "99bddeee-8fc8-4924-a8f1-1469ae4c52f7",
+    "scientificName": "Anas crecca",
+    "name": "Eurasian teal",
+    "category": "Birds",
+    "image": "animal-photos/approved/99bddeee-8fc8-4924-a8f1-1469ae4c52f7.webp",
+    "photo": {
+      "title": "Anas crecca — iNaturalist photo 364941358",
+      "filePage": "https://www.inaturalist.org/observations/206341523",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Daniel Pineda Vera",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "0351b05a924bf973960b3644fc6007e2496c551b8488ecf5aa62345b814777ec"
+    }
+  },
+  {
+    "id": "4d598257-42a9-49f2-9418-d964c7ae7983",
+    "scientificName": "Spatula discors",
+    "name": "Blue-winged teal",
+    "category": "Birds",
+    "image": "animal-photos/approved/4d598257-42a9-49f2-9418-d964c7ae7983.webp",
+    "photo": {
+      "title": "Spatula discors — iNaturalist photo 185286486",
+      "filePage": "https://www.inaturalist.org/observations/109887338",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "9a1de8fbc1f9bfd3cc9f6237c0f8075237607382e090e414fed9a251fc955561"
+    }
+  },
+  {
+    "id": "1bdddcd0-0a83-4770-abbc-cc33c5ddb894",
+    "scientificName": "Spatula clypeata",
+    "name": "Northern shoveler",
+    "category": "Birds",
+    "image": "animal-photos/approved/1bdddcd0-0a83-4770-abbc-cc33c5ddb894.webp",
+    "photo": {
+      "title": "Spatula clypeata — iNaturalist photo 342842647",
+      "filePage": "https://www.inaturalist.org/observations/194955806",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "d26cd14cdfe5a9059003f360caa08ca7075f24066b017c82ee2eba55fdfb4fc9"
+    }
+  },
+  {
+    "id": "40c62419-b135-433a-b2e4-650288b3f610",
+    "scientificName": "Mareca penelope",
+    "name": "Eurasian wigeon",
+    "category": "Birds",
+    "image": "animal-photos/approved/40c62419-b135-433a-b2e4-650288b3f610.webp",
+    "photo": {
+      "title": "Mareca penelope — iNaturalist photo 611204029",
+      "filePage": "https://www.inaturalist.org/observations/336352575",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "artist": "no rights reserved",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "a47e1623bbb0ab0513e19cc5a1fe204c29ff1c3877b5825089d2135d306af1a8"
+    }
+  },
+  {
+    "id": "22f3db9f-fa05-44df-9c5c-4930043f70b0",
+    "scientificName": "Aythya ferina",
+    "name": "Common pochard",
+    "category": "Birds",
+    "image": "animal-photos/approved/22f3db9f-fa05-44df-9c5c-4930043f70b0.webp",
+    "photo": {
+      "title": "Aythya ferina — iNaturalist photo 330781096",
+      "filePage": "https://www.inaturalist.org/observations/188912656",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Andrew Bazdyrev",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "b40fc7cb053cd39f318595776b3971290ff3867534e6f2a8b1f5d30d1759540e"
+    }
+  },
+  {
+    "id": "57bf2697-1a50-4bf6-b7a3-203c80130826",
+    "scientificName": "Hydroprogne caspia",
+    "name": "Caspian tern",
+    "category": "Birds",
+    "image": "animal-photos/approved/57bf2697-1a50-4bf6-b7a3-203c80130826.webp",
+    "photo": {
+      "title": "Hydroprogne caspia — iNaturalist photo 666829308",
+      "filePage": "https://www.inaturalist.org/observations/365245601",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "artist": "Daughter Dad",
+      "photoSource": "iNaturalist",
+      "fullBodyReviewedOn": "2026-11-06",
+      "fullBodyApproved": true,
+      "fullBodySha256": "522863b95759d992eda6b3c0d638cd035f643cc01b21c009a6ecd26453d32666"
     }
   }
 ];

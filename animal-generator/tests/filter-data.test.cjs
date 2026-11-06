@@ -14,10 +14,12 @@ const animals = library.filter((animal) => animal.image || animal.pendingPhoto).
 const find = (name) => animals.find((animal) => animal.scientificName === name);
 
 test('every researched species has one sourced metadata record', () => {
-  assert.equal(animals.length, 259);
+  assert.equal(animals.length, 319);
+  assert.equal(library.filter((animal) => animal.image && animal.photo?.fullBodyApproved).length, 300);
+  assert.equal(new Set(animals.map((animal) => animal.scientificName)).size, animals.length);
   assert.equal(data.length, animals.length);
   assert.equal(lookup.size, data.length);
-  assert.equal(library.length, 340);
+  assert.equal(library.length, 394);
   for (const animal of animals) {
     assert.ok(animal.filterData, animal.name);
     assert.equal(animal.filterData.scientificName, animal.scientificName);

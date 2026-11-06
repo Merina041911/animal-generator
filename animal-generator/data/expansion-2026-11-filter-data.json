@@ -1,0 +1,1575 @@
+[
+  {
+    "id": "9689e7f6-1293-4f27-9be3-d9dc69c599dd",
+    "scientificName": "Anas rubripes",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "forest",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anas_rubripes/",
+        "title": "Anas rubripes (American black duck) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "8d573f8a-9559-445b-8137-7bde815a7b2f",
+    "scientificName": "Aix sponsa",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "forest"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Aix_sponsa/",
+        "title": "Aix sponsa (wood duck) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "5cd6f5ac-94f1-422c-b31d-bffb77fc045c",
+    "scientificName": "Aythya fuligula",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Aythya_fuligula/",
+        "title": "Aythya fuligula (tufted duck) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "61d50426-ed52-4b32-9979-067a36145424",
+    "scientificName": "Aythya americana",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Aythya_americana/",
+        "title": "Aythya americana (redhead) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "97db462d-2ff6-4234-8cd2-2894f712e03b",
+    "scientificName": "Aythya valisineria",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Aythya_valisineria/",
+        "title": "Aythya valisineria (canvasback) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "7a96ba76-226b-4077-a14c-ec44c5ebe9db",
+    "scientificName": "Bucephala clangula",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "forest",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Bucephala_clangula/",
+        "title": "Bucephala clangula (common goldeneye) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "81032bf0-5e38-4371-8821-ec33a15f57d7",
+    "scientificName": "Bucephala albeola",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Bucephala_albeola/",
+        "title": "Bucephala albeola (bufflehead) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "2246c868-d2c1-407b-a326-7bd3af7df62e",
+    "scientificName": "Mergus merganser",
+    "habitats": [
+      "freshwater",
+      "forest",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Mergus_merganser/",
+        "title": "Mergus merganser (common merganser) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "abc555a5-7e81-4d7a-8630-a008da25fd75",
+    "scientificName": "Mergus serrator",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Mergus_serrator/",
+        "title": "Mergus serrator (red-breasted merganser) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "015ec43b-24bd-477b-8b80-405010b8ef53",
+    "scientificName": "Lophodytes cucullatus",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Lophodytes_cucullatus/",
+        "title": "Lophodytes cucullatus (hooded merganser) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "3f27ff37-8778-481b-a41b-d4708a43ddd9",
+    "scientificName": "Anser albifrons",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "grassland",
+      "tundra"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anser_albifrons/",
+        "title": "Anser albifrons (greater white-fronted goose) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "90f9d555-1c70-4b3a-a931-22c6b54528ee",
+    "scientificName": "Anser caerulescens",
+    "habitats": [
+      "wetland",
+      "grassland",
+      "tundra"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anser_caerulescens/",
+        "title": "Anser caerulescens (snow goose) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "c1d4ab9a-6fcb-4cd6-ab55-3ff50557a108",
+    "scientificName": "Cygnus buccinator",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Cygnus_buccinator/",
+        "title": "Cygnus buccinator (trumpeter swan) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "8b23295d-c21b-4c63-9b80-3ea0f74e017f",
+    "scientificName": "Gallinula chloropus",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Gallinula_chloropus/",
+        "title": "Gallinula chloropus (common moorhen) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "The older ADW account includes American populations now generally separated as Gallinula galeata; this record uses the Old World species range."
+  },
+  {
+    "id": "a9645ad8-b983-4ccf-9df9-8d42a6ebc1e6",
+    "scientificName": "Fulica americana",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Fulica_americana/",
+        "title": "Fulica americana (American coot) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "b094c732-f37c-4d05-b3f6-ad3c61d26e15",
+    "scientificName": "Charadrius vociferus",
+    "habitats": [
+      "grassland",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Charadrius_vociferus/",
+        "title": "Charadrius vociferus (killdeer) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "8d55b000-dcd9-4315-be71-b13acdb5cb3a",
+    "scientificName": "Charadrius semipalmatus",
+    "habitats": [
+      "ocean",
+      "wetland",
+      "tundra"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Charadrius_semipalmatus/",
+        "title": "Charadrius semipalmatus (semipalmated plover) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "484d663d-77a5-489e-9c68-ac79fd397882",
+    "scientificName": "Recurvirostra americana",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Recurvirostra_americana/",
+        "title": "Recurvirostra americana (American avocet) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "10f9df4e-5ab3-4461-8a5b-93d8732e5b8a",
+    "scientificName": "Numenius americanus",
+    "habitats": [
+      "grassland",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Numenius_americanus/",
+        "title": "Numenius americanus (long-billed curlew) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "bc00c078-0ca2-4dc4-9684-cf8d9ace135d",
+    "scientificName": "Tringa melanoleuca",
+    "habitats": [
+      "wetland",
+      "freshwater",
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Tringa_melanoleuca/",
+        "title": "Tringa melanoleuca (greater yellowlegs) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "074af602-4cd5-4a8b-bac3-dff2fa3c530f",
+    "scientificName": "Tringa flavipes",
+    "habitats": [
+      "wetland",
+      "freshwater",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Tringa_flavipes/",
+        "title": "Tringa flavipes (lesser yellowlegs) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "12ae51c2-dc47-4aad-b327-f2c2085d86fe",
+    "scientificName": "Actitis hypoleucos",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Actitis_hypoleucos/",
+        "title": "Actitis hypoleucos (common sandpiper) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "dd2b5940-3d0e-4240-a917-eafce6242ffd",
+    "scientificName": "Actitis macularius",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Actitis_macularius/",
+        "title": "Actitis macularius (spotted sandpiper) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "49868bbc-12e0-4fad-9caa-319e0903b024",
+    "scientificName": "Calidris alba",
+    "habitats": [
+      "ocean",
+      "wetland",
+      "tundra"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa",
+      "oceania",
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Calidris_alba/",
+        "title": "Calidris alba (sanderling) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "f6363560-bafb-4776-9b2c-9336bd5bce86",
+    "scientificName": "Calidris alpina",
+    "habitats": [
+      "ocean",
+      "wetland",
+      "tundra"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Calidris_alpina/",
+        "title": "Calidris alpina (dunlin) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "The source lists both invertebrate feeding and seed eating; the broad discovery tag is omnivore."
+  },
+  {
+    "id": "58ac50e5-ba4f-4345-bfae-be6da52a904f",
+    "scientificName": "Arenaria interpres",
+    "habitats": [
+      "ocean",
+      "tundra"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa",
+      "oceania",
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Arenaria_interpres/",
+        "title": "Arenaria interpres (ruddy turnstone) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "1d189257-a506-4f4a-b10d-843eb7162d20",
+    "scientificName": "Larus argentatus",
+    "habitats": [
+      "ocean",
+      "freshwater",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Larus_argentatus/",
+        "title": "Larus argentatus (herring gull) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "ADW uses a broader historical herring-gull concept. This European herring gull record excludes the separately recognised American herring gull."
+  },
+  {
+    "id": "28cb2328-8ba5-4f17-9a01-c6124db52980",
+    "scientificName": "Larus marinus",
+    "habitats": [
+      "ocean",
+      "freshwater"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Larus_marinus/",
+        "title": "Larus marinus (great black-backed gull) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "129be0fa-a047-4c83-b76c-7220962bc541",
+    "scientificName": "Larus delawarensis",
+    "habitats": [
+      "freshwater",
+      "ocean",
+      "urban"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Larus_delawarensis/",
+        "title": "Larus delawarensis (ring-billed gull) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "05369a97-b8af-4c28-be6c-df3b2428a6ac",
+    "scientificName": "Larus canus",
+    "habitats": [
+      "ocean",
+      "freshwater",
+      "grassland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Larus_canus/",
+        "title": "Larus canus (mew gull) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "ADW includes the historical North American mew-gull population. This record excludes Larus brachyrhynchus and uses the Eurasian common gull range."
+  },
+  {
+    "id": "9d6e65ff-b6d3-4357-a31e-652fbb38a962",
+    "scientificName": "Sterna paradisaea",
+    "habitats": [
+      "ocean",
+      "freshwater",
+      "tundra"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america",
+      "south-america",
+      "antarctica",
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Sterna_paradisaea/",
+        "title": "Sterna paradisaea (Arctic tern) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "f339deda-ebc4-4727-a0a8-1825a9489265",
+    "scientificName": "Chlidonias niger",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Chlidonias_niger/",
+        "title": "Chlidonias niger (black tern) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "ab1c9519-ec71-4a12-bd74-bbb7824f1df4",
+    "scientificName": "Fregata magnificens",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Fregata_magnificens/",
+        "title": "Fregata magnificens (magnificent frigatebird) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "ADW reports inconsistent body-length and wingspan ranges. Adult size is deliberately left uncertain rather than treating possible wingspan values as body length. The American tropical coastal range includes breeding populations in both North and South America."
+  },
+  {
+    "id": "7edd2aa5-906e-4f03-b296-282fb4c2cc46",
+    "scientificName": "Egretta thula",
+    "habitats": [
+      "wetland",
+      "freshwater",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Egretta_thula/",
+        "title": "Egretta thula (snowy egret) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "bb96f0fb-d8aa-4804-9b04-6abf79a74c57",
+    "scientificName": "Egretta tricolor",
+    "habitats": [
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Egretta_tricolor/",
+        "title": "Egretta tricolor (tricolored heron) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "13be4fc7-2e34-4a8b-9b78-fcef592f22a9",
+    "scientificName": "Butorides virescens",
+    "habitats": [
+      "forest",
+      "wetland",
+      "freshwater",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Butorides_virescens/",
+        "title": "Butorides virescens (green heron) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "98062a6b-d07c-44ad-be60-9a3a4cf7c004",
+    "scientificName": "Nycticorax nycticorax",
+    "habitats": [
+      "wetland",
+      "freshwater",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa",
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Nycticorax_nycticorax/",
+        "title": "Nycticorax nycticorax (black-crowned night heron) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "99118644-568b-4b25-a306-ac399e504578",
+    "scientificName": "Eudocimus ruber",
+    "habitats": [
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Eudocimus_ruber/",
+        "title": "Eudocimus ruber (scarlet ibis) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "f8d9cdb4-a28b-4692-9392-b5314042ca25",
+    "scientificName": "Mycteria americana",
+    "habitats": [
+      "wetland",
+      "freshwater",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Mycteria_americana/",
+        "title": "Mycteria americana (wood stork) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "9d4da63b-57e9-4a5f-8c2f-950766aeb19d",
+    "scientificName": "Ciconia nigra",
+    "habitats": [
+      "forest",
+      "wetland",
+      "freshwater",
+      "mountains"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ciconia_nigra/",
+        "title": "Ciconia nigra (black stork) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "f6457771-f4f0-4f70-88ab-90630ccf8fef",
+    "scientificName": "Branta canadensis",
+    "habitats": [
+      "grassland",
+      "wetland",
+      "freshwater"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Branta_canadensis/",
+        "title": "Branta canadensis (Canada goose) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "6d621d1b-8e85-4b65-9703-3451e5b510df",
+    "scientificName": "Cygnus cygnus",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "europe",
+      "asia"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Cygnus_cygnus/",
+        "title": "Cygnus cygnus (whooper swan) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Adult diet tags reflect mainly aquatic vegetation; young birds also eat small invertebrates."
+  },
+  {
+    "id": "f383b06d-9136-401a-816e-6cce311d28b7",
+    "scientificName": "Sterna hirundo",
+    "habitats": [
+      "ocean",
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa",
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Sterna_hirundo/",
+        "title": "Sterna hirundo (common tern) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "9a2cf181-e802-4fb8-a092-5d9fb1f48c72",
+    "scientificName": "Sterna forsteri",
+    "habitats": [
+      "wetland",
+      "freshwater",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Sterna_forsteri/",
+        "title": "Sterna forsteri (Forster's tern) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "c5887f08-937b-4e7c-9928-17c9bd14e8fe",
+    "scientificName": "Pelecanus erythrorhynchos",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Pelecanus_erythrorhynchos/",
+        "title": "Pelecanus erythrorhynchos (American white pelican) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "4a04a37f-2b97-4f00-8883-890c0ab7ee96",
+    "scientificName": "Ardea alba",
+    "habitats": [
+      "wetland",
+      "freshwater",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium",
+      "large"
+    ],
+    "regions": [
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Ardea_alba/",
+        "title": "Ardea alba (great egret) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "The cited ADW account describes North American populations; the region tag reflects that account and is not a complete global range. Bill-to-tail length is described as just under 1 m, while the account also gives a rounded 1 m average."
+  },
+  {
+    "id": "7f03ed6f-f16d-47d8-b909-fd314b3ec611",
+    "scientificName": "Egretta caerulea",
+    "habitats": [
+      "wetland",
+      "freshwater",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Egretta_caerulea/",
+        "title": "Egretta caerulea (little blue heron) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "09b4584e-ddbb-4b08-a805-78130d730d85",
+    "scientificName": "Nyctanassa violacea",
+    "habitats": [
+      "wetland",
+      "freshwater",
+      "ocean",
+      "forest"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Nyctanassa_violacea/",
+        "title": "Nyctanassa violacea (yellow-crowned night heron) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "99bddeee-8fc8-4924-a8f1-1469ae4c52f7",
+    "scientificName": "Anas crecca",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anas_crecca/",
+        "title": "Anas crecca (common teal) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "ADW includes the historical American green-winged teal population. This Eurasian teal record excludes Anas carolinensis."
+  },
+  {
+    "id": "4d598257-42a9-49f2-9418-d964c7ae7983",
+    "scientificName": "Spatula discors",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anas_discors/",
+        "title": "Anas discors (blue-winged teal) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "The source uses the historical name Anas discors. Mixed plant and invertebrate feeding is mapped to omnivore."
+  },
+  {
+    "id": "1bdddcd0-0a83-4770-abbc-cc33c5ddb894",
+    "scientificName": "Spatula clypeata",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anas_clypeata/",
+        "title": "Anas clypeata (northern shoveler) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "The source uses the historical name Anas clypeata. Its account describes both plant material and animal prey, mapped here to omnivore."
+  },
+  {
+    "id": "40c62419-b135-433a-b2e4-650288b3f610",
+    "scientificName": "Mareca penelope",
+    "habitats": [
+      "freshwater",
+      "wetland",
+      "grassland"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Anas_penelope/",
+        "title": "Animal Diversity Web: Mareca penelope"
+      }
+    ],
+    "notes": "The source uses the historical name Anas penelope."
+  },
+  {
+    "id": "22f3db9f-fa05-44df-9c5c-4930043f70b0",
+    "scientificName": "Aythya ferina",
+    "habitats": [
+      "freshwater",
+      "wetland"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://www.birdlife.org/news/2024/10/18/common-pochard/",
+        "title": "BirdLife International: Common Pochard"
+      },
+      {
+        "url": "https://www.wildlifetrusts.org/wildlife-explorer/birds/waterfowl/pochard",
+        "title": "The Wildlife Trusts: Pochard (44–48 cm)"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "57bf2697-1a50-4bf6-b7a3-203c80130826",
+    "scientificName": "Hydroprogne caspia",
+    "habitats": [
+      "ocean",
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "africa",
+      "oceania",
+      "north-america",
+      "south-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Sterna_caspia/",
+        "title": "Animal Diversity Web: Hydroprogne caspia"
+      }
+    ],
+    "notes": "The source uses the historical name Sterna caspia."
+  },
+  {
+    "id": "2a94bd08-2911-4173-a6b8-11ec42594b77",
+    "scientificName": "Falco peregrinus",
+    "habitats": [
+      "grassland",
+      "mountains",
+      "tundra",
+      "urban",
+      "ocean"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "africa",
+      "asia",
+      "europe",
+      "north-america",
+      "south-america",
+      "oceania"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Falco_peregrinus/",
+        "title": "Falco peregrinus (peregrine falcon) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "ea71ef37-b1ce-428b-84d0-438d0d954f32",
+    "scientificName": "Bubo scandiacus",
+    "habitats": [
+      "tundra",
+      "grassland",
+      "wetland",
+      "urban"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "medium"
+    ],
+    "regions": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Nyctea_scandiaca/",
+        "title": "Animal Diversity Web: Bubo scandiacus"
+      }
+    ],
+    "notes": "The source uses the historical name Nyctea scandiaca. Adult body length is 63–73 cm; wingspan is not used for size."
+  },
+  {
+    "id": "ece07f70-61bc-47e2-afb3-3aa6965f414f",
+    "scientificName": "Xenopus laevis",
+    "habitats": [
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "small",
+      "medium"
+    ],
+    "regions": [
+      "africa"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Xenopus_laevis/",
+        "title": "Xenopus laevis (African Clawed Frog) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Tags summarize the cited species account. Adult size uses body length, not wingspan; migration is included in region tags and introduced populations are excluded."
+  },
+  {
+    "id": "920d3a37-e895-40fb-ac1f-91e01859ee8f",
+    "scientificName": "Argulus foliaceus",
+    "habitats": [
+      "freshwater"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "sizes": [
+      "small"
+    ],
+    "regions": [],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Argulus_foliaceus/",
+        "title": "Argulus foliaceus | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "ADW reports occurrence in Europe, Central Asia and North America but does not establish native versus introduced origin. Native-region tags are deliberately left uncertain. Adult total length is 3–7 mm; this blood-feeding parasite is classified as carnivorous."
+  },
+  {
+    "id": "21f01ed3-d1ce-419c-8339-06be3c353466",
+    "scientificName": "Strongylocentrotus purpuratus",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "sizes": [
+      "small",
+      "medium"
+    ],
+    "regions": [
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Strongylocentrotus_purpuratus/",
+        "title": "Strongylocentrotus purpuratus | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Size uses test diameter excluding spines: commonly 50 mm and occasionally 100 mm, crossing the 10 cm threshold. Native marine range is the Pacific coast from Alaska to Mexico."
+  },
+  {
+    "id": "2769f46d-e745-44fd-ac09-2dacfdfb43fe",
+    "scientificName": "Arbacia punctulata",
+    "habitats": [
+      "ocean"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "sizes": [
+      "small"
+    ],
+    "regions": [
+      "oceans"
+    ],
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Arbacia_punctulata/",
+        "title": "Arbacia punctulata (purple-spined sea urchin) | INFORMATION | Animal Diversity Web"
+      }
+    ],
+    "notes": "Size uses the documented 3–5 cm test diameter, excluding spines. Algae and other attached organisms are mapped to omnivore. Region is the western Atlantic marine range."
+  }
+]

@@ -1,9 +1,9 @@
 # Animal photo quality review
 
-Reviewed on 2026-11-05. The previous approved list did not meet the full-body requirement and has been replaced by a byte-bound visual audit.
+Reviewed on 2026-11-06. The previous approved list did not meet the full-body requirement and has been replaced by a byte-bound visual audit.
 
-- 259 original photos reviewed individually.
-- 240 enabled photos: 145 retained originals and 95 approved replacements.
+- 319 original photos reviewed individually.
+- 300 enabled photos: 205 retained originals and 95 approved replacements.
 - 19 species remain in the catalog with `pendingPhoto`, excluded from generation until a clear full-body replacement is approved.
 - Photo geometry uses `object-fit: contain`, with padding; category labels sit outside generated photographs.
 - `fullbody-audit.json` records the exact SHA-256, verdict, reason and date. A changed file invalidates its previous approval in the regression checks.

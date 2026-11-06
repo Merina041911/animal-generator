@@ -45,7 +45,7 @@ Options within a filter group are combined with **OR**; different groups are com
 
 ## Data and photography
 
-The catalog includes 340 species. Only species with approved photos are eligible for random results; the website displays the current available count as the collection grows.
+The catalog includes 394 species. Only species with approved photos are eligible for random results; the website displays the current available count as the collection grows.
 
 Animal filters are broad discovery aids. Diets, habitats, sizes, and ranges can vary, and uncertain fields are left unassigned rather than guessed. See the **[data sources and species notes](https://animal-generator.net/animal-data-sources)** for measurement conventions, evidence, and limitations.
 
