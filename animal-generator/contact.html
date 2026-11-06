@@ -32,27 +32,24 @@
       .nav-links { display:flex; align-items:center; gap:25px; }
       .nav-link { color:var(--muted); text-decoration:none; font-size:13px; font-weight:600; }
       .nav-link:hover { color:var(--coral-dark); }
-      main { padding:78px 0 90px; }
-      .contact-page { max-width:800px; margin:0 auto; }
+      main { padding:48px 0 70px; }
+      .contact-page { max-width:960px; margin:0 auto; }
       .eyebrow { display:flex; align-items:center; gap:9px; margin-bottom:20px; color:var(--coral-dark); font-size:11px; font-weight:700; letter-spacing:.12em; text-transform:uppercase; }
       .eyebrow::before { content:""; width:22px; height:1px; background:currentColor; }
       h1,h2,p { margin-top:0; }
-      h1 { max-width:700px; margin-bottom:18px; font:500 clamp(52px,8vw,82px)/.98 Fraunces,Georgia,serif; letter-spacing:-.06em; }
+      h1 { max-width:700px; margin-bottom:18px; font:500 clamp(44px,6vw,64px)/1.05 Fraunces,Georgia,serif; letter-spacing:-.06em; }
       h1 em { color:var(--coral); font-style:normal; }
       .lead { max-width:620px; margin-bottom:34px; color:var(--muted); font-size:16px; line-height:1.8; }
-      .contact-card { display:grid; grid-template-columns:.8fr 1.2fr; gap:45px; padding:34px; border:1px solid var(--line); border-radius:22px; background:linear-gradient(130deg,rgba(255,254,250,.96),rgba(245,231,216,.72)); }
+      .contact-card { display:grid; grid-template-columns:.8fr 1.2fr; gap:40px; padding:30px; border:1px solid var(--line); border-radius:22px; background:linear-gradient(130deg,rgba(255,254,250,.96),rgba(245,231,216,.72)); }
       .contact-card h2 { margin-bottom:12px; font:500 31px/1.12 Fraunces,Georgia,serif; letter-spacing:-.04em; }
       .contact-copy { color:var(--muted); font-size:13px; line-height:1.75; }
-      .contact-form { display:grid; grid-template-columns:1fr 1fr; gap:13px; }
-      .contact-form label { display:grid; gap:6px; color:var(--muted); font-size:11px; font-weight:700; }
-      .contact-form .wide,.contact-note { grid-column:1/-1; }
-      .contact-form input,.contact-form select,.contact-form textarea { width:100%; border:1px solid var(--line); border-radius:9px; background:var(--white); color:var(--ink); font:13px "DM Sans",sans-serif; padding:11px 12px; }
-      .contact-form textarea { min-height:112px; resize:vertical; }
-      .contact-form input:focus,.contact-form select:focus,.contact-form textarea:focus { outline:3px solid rgba(117,139,178,.25); border-color:#758bb2; }
-      .submit { justify-self:start; min-height:46px; border:0; border-radius:11px; padding:0 18px; background:var(--coral); color:white; font:700 13px "DM Sans",sans-serif; cursor:pointer; box-shadow:0 8px 18px rgba(240,108,78,.2); }
-      .submit:hover { background:var(--coral-dark); }
-      .submit:focus-visible,.nav-link:focus-visible { outline:3px solid #758bb2; outline-offset:3px; }
-      .contact-note { margin:-3px 0 0; color:var(--muted); font-size:10px; line-height:1.55; }
+      .nav-link:focus-visible { outline:3px solid #758bb2; outline-offset:3px; }
+      .contact-detail { margin-top:26px; }
+      .contact-detail h3 { margin:0 0 8px; font-size:12px; }
+      .contact-detail p { margin:0; color:var(--muted); font-size:13px; line-height:1.75; }
+      .form-panel { min-width:0; }
+      .tally-frame { display:block; width:100%; border:0; }
+      .form-fallback { margin:12px 0 0; font-size:12px; line-height:1.7; color:var(--muted); }
       footer { border-top:1px solid var(--line); padding:22px 0 28px; color:var(--muted); font-size:11px; }
       .footer-inner { display:flex; justify-content:space-between; gap:18px; }
       @media(max-width:700px) {
@@ -63,11 +60,15 @@
         main { padding:52px 0 60px; }
         .lead { font-size:14px; }
         .contact-card { grid-template-columns:1fr; gap:18px; padding:23px; }
-        .contact-form { grid-template-columns:1fr; }
-        .contact-form .wide,.contact-note { grid-column:auto; }
+        .form-panel { order:-1; }
         .footer-inner { flex-direction:column; }
       }
+      @media(max-width:420px) {
+        .contact-card { margin-inline:-16px; padding-inline:0; border-inline:0; border-radius:0; }
+        .contact-card > div:first-child,.form-fallback { padding-inline:16px; }
+      }
     </style>
+    <link rel="stylesheet" href="/legal.css" />
   </head>
   <body>
     <header>
@@ -79,35 +80,23 @@
     <main class="shell">
       <section class="contact-page" aria-labelledby="contact-title">
         <div class="eyebrow">Say hello</div>
-        <h1 id="contact-title">We’d love to <em>hear from you.</em></h1>
-        <p class="lead">Have an idea for an animal, spotted something we should improve, or want to share how you used the generator? Send us a note.</p>
+        <h1 id="contact-title">Let’s <em>talk animals.</em></h1>
+        <p class="lead">Questions, animal suggestions, photo corrections or website issues? Send us a note.</p>
         <div class="contact-card">
           <div>
-            <h2>Contact us</h2>
-            <p class="contact-copy">Share a question, an animal suggestion, or a little feedback. We’ll make it easy to get in touch.</p>
+            <h2>A note goes a long way.</h2>
+            <p class="contact-copy">Tell us what you noticed or what you’d like to see next. For a photo or animal detail, include the animal’s name and the page link.</p>
+            <div class="contact-detail"><h3>When to expect a reply</h3><p>We aim to reply within 2–3 business days. Some questions may take a little longer.</p></div>
+            <div class="contact-detail"><h3>Your message stays about your question</h3><p>We use your email to respond. Sending feedback does not subscribe you to a mailing list. See our <a href="/privacy-policy#contact">Privacy Policy</a>.</p></div>
           </div>
-          <form class="contact-form" id="contact-form">
-            <label>Name <input name="name" autocomplete="name" placeholder="Your name" /></label>
-            <label>Email <input name="email" type="email" autocomplete="email" placeholder="you@example.com" required /></label>
-            <label class="wide">What is this about?
-              <select name="topic"><option>General question</option><option>Animal suggestion</option><option>Illustration feedback</option><option>Classroom or project use</option></select>
-            </label>
-            <label class="wide">Message <textarea name="message" required placeholder="Tell us a little more…"></textarea></label>
-            <button class="submit" type="submit">Open email draft <span aria-hidden="true">↗</span></button>
-            <p class="contact-note">This opens a message in your email app. Add the site’s contact address before sending; messages are not stored on this page.</p>
-          </form>
+          <div class="form-panel">
+            <iframe class="tally-frame" src="https://tally.so/embed/q5aEp7?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1&amp;website=animal-generator.net&amp;source_page=%2Fcontact" title="Contact Animal Generator" width="100%" height="650" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+            <p class="form-fallback">Having trouble with the form? <a href="https://tally.so/r/q5aEp7?website=animal-generator.net&amp;source_page=%2Fcontact" target="_blank" rel="noreferrer">Open it in a new tab</a>.</p>
+          </div>
         </div>
       </section>
     </main>
-    <footer><div class="shell footer-inner"><span>ANIMAL GENERATOR · A little curiosity goes a long way.</span><span>Animal photos via <a href="https://commons.wikimedia.org/">Wikimedia Commons</a> · <a href="/animal-image-credits">Image credits</a> · <a href="/">Generator</a></span></div></footer>
-    <script>
-      document.getElementById("contact-form").addEventListener("submit", (event) => {
-        event.preventDefault();
-        const form = new FormData(event.currentTarget);
-        const subject = encodeURIComponent(`Animal Generator — ${form.get("topic")}`);
-        const body = encodeURIComponent(`Name: ${form.get("name") || "Not provided"}\nEmail: ${form.get("email")}\nTopic: ${form.get("topic")}\n\n${form.get("message")}`);
-        window.location.href = `mailto:?subject=${subject}&body=${body}`;
-      });
-    </script>
+    <footer><div class="shell footer-inner"><span>ANIMAL GENERATOR · A little curiosity goes a long way.</span><span>Animal photos via <a href="https://commons.wikimedia.org/">Wikimedia Commons</a> · <a href="/animal-image-credits">Image credits</a> · <a href="/">Generator</a></span></div><div class="shell"><nav class="policy-links" aria-label="Website policies"><a href="/privacy-policy">Privacy Policy</a><a href="/terms-of-service">Terms of Service</a><a href="/disclaimer">Disclaimer</a></nav></div></footer>
+    <script src="https://tally.so/widgets/embed.js" defer></script>
   </body>
 </html>
