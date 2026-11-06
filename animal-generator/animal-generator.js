@@ -201,14 +201,26 @@ placeFilters();
           setTimeout(() => { copy.textContent = "Copy name"; }, 1400);
         });
         top.append(identity);
-        info.append(sceneLabel, top, copy);
-        if (animal.filterData?.sources?.length) {
-          const source = document.createElement("a");
-          source.className = "source-link";
-          source.href = `animal-data-sources.html#${animal.id}`;
-          source.textContent = "Species notes & sources";
-          info.append(source);
-        }
+        const actions = document.createElement("div"); actions.className = "card-actions";
+        const share = document.createElement("button"); share.className = "copy share"; share.type = "button"; share.textContent = "Share";
+        share.addEventListener("click", async () => {
+          const url = new URL("https://animal-generator.net/");
+          url.hash = new URLSearchParams({ animal: animal.id }).toString();
+          const data = { title: `${animal.name} | Animal Generator`, text: `Discover ${animal.name} (${animal.scientificName}) on Animal Generator.`, url: url.href };
+          if (typeof navigator.share === "function") {
+            try { await navigator.share(data); return; }
+            catch (error) { if (error.name === "AbortError") return; }
+          }
+          try {
+            await navigator.clipboard.writeText(url.href);
+            share.textContent = "Link copied!";
+          } catch {
+            window.prompt("Copy this animal's share link:", url.href);
+          }
+          setTimeout(() => { share.textContent = "Share"; }, 1800);
+        });
+        actions.append(copy, share);
+        info.append(sceneLabel, top, actions);
         card.append(scene, info);
         return card;
       }
@@ -240,3 +252,19 @@ function generateAnimals() {
 
 $("generate").addEventListener("click", generateAnimals);
 updateFilters();
+
+function showSharedAnimal() {
+  const id = new URLSearchParams(window.location.hash.slice(1)).get("animal");
+  const animal = animals.find((entry) => entry.id === id);
+  if (!animal) return;
+  resultGrid.replaceChildren(makeCard(animal, 0));
+  generatedResults.classList.add("single-result");
+  $("example-result").hidden = true;
+  generatedResults.hidden = false;
+  hasGenerated = true;
+  $("filter-message").textContent = "";
+  $("result-status").textContent = "Shared animal · Explore more with Generate";
+  generatedResults.scrollIntoView({ block: "start" });
+}
+window.addEventListener("hashchange", showSharedAnimal);
+showSharedAnimal();

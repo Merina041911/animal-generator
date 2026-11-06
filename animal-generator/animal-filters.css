@@ -103,3 +103,6 @@ h1 { max-width: none; font-size: clamp(42px, 5vw, 62px); line-height: 1.08; marg
   .filter-heading > span { display: block; margin-top: 7px; }
   .filter-toolbar .quantity-row { grid-template-columns: 1fr; }
 }
+
+.card-actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: auto; }
+.result-grid .card-actions .copy { min-height: 44px; margin-top: 0; }
