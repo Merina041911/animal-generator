@@ -9,17 +9,17 @@
     <link rel="canonical" href="https://animal-generator.net/" />
     <meta
       name="description"
-      content="Generate 1–10 random animals from 300 photo-verified species. Free, no sign-up, and no repeats until the pool runs out. For drawing, lessons, and games."
+      content="Generate 1–10 random animals with real photos. Filter by type, habitat, diet, size, or region. Free animal ideas for drawing, lessons, and games."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Random Animal Generator – Pick 1–10 Animals" />
-    <meta property="og:description" content="A free random animal generator with clear animal photos, six animal groups, and no repeats until the pool runs out." />
+    <meta property="og:title" content="Random Animal Generator with Pictures | Free Animal Picker" />
+    <meta property="og:description" content="Generate 1–10 random animals with real photos. Filter by type, habitat, diet, size, or region. Free animal ideas for drawing, lessons, and games." />
     <meta property="og:url" content="https://animal-generator.net/" />
     <meta property="og:image" content="https://animal-generator.net/animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp" />
     <meta property="og:image:alt" content="A lion, one of the animals in the random animal generator" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Random Animal Generator – Pick 1–10 Animals" />
-    <meta name="twitter:description" content="A free random animal generator with clear animal photos, six animal groups, and no repeats until the pool runs out." />
+    <meta name="twitter:title" content="Random Animal Generator with Pictures | Free Animal Picker" />
+    <meta name="twitter:description" content="Generate 1–10 random animals with real photos. Filter by type, habitat, diet, size, or region. Free animal ideas for drawing, lessons, and games." />
     <meta name="twitter:image" content="https://animal-generator.net/animal-photos/approved/54a08780-e059-411e-86d4-f3bd637d3e6f.webp" />
     <script type="application/ld+json">
       {
@@ -27,12 +27,12 @@
         "@type": "WebApplication",
         "name": "Animal Generator",
         "url": "https://animal-generator.net/",
-        "description": "A free random animal generator that picks 1 to 10 animals from a photo-verified collection.",
+        "description": "Generate 1–10 random animals with real photos. Filter by type, habitat, diet, size, or region. Free animal ideas for drawing, lessons, and games.",
         "applicationCategory": "EducationalApplication",
         "operatingSystem": "Any"
       }
     </script>
-    <title>Random Animal Generator – Pick 1–10 Animals | Animal Generator</title>
+    <title>Random Animal Generator with Pictures | Free Animal Picker</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -368,14 +368,14 @@
     <main id="top" class="shell">
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-copy">
-          <div class="eyebrow">300 photo-verified species</div>
-          <h1 id="hero-title">Random animal <em>generator.</em></h1>
-          <p class="intro">Pick 1 to 10 animals for a drawing prompt, classroom activity, story, or game. Every result comes with a clear full-body animal photo.</p>
+          <div class="eyebrow" id="reviewed-species-count">300 species with reviewed photos</div>
+          <h1 id="hero-title">Random Animal <em>Generator</em> with Pictures</h1>
+          <p class="intro">Pick an animal or generate up to 10 at once. Explore real animal photos, narrow your picks with optional filters, and find inspiration for your next sketch, lesson, or game.</p>
         </div>
       </section>
 
       <section class="filter-toolbar" aria-labelledby="filter-title">
-        <div class="filter-heading"><h2 id="filter-title">Make it your kind of wild.</h2><span>All filters are optional</span></div>
+        <div class="filter-heading"><h2 id="filter-title">Filter Your Animal Picks</h2><span>All filters are optional. Leave them unchanged to explore all animals.</span></div>
         <button class="mobile-filter-toggle" id="open-filters" type="button" aria-haspopup="dialog"><span>Filters</span><span id="active-filter-count">All animals</span></button>
         <div id="desktop-filter-host"><div class="filter-fields" id="filter-fields"></div></div>
         <div class="filter-bottom">
@@ -395,7 +395,7 @@
                 <option value="10">10 animals</option>
               </select>
             </div>
-            <button class="generate" id="generate" type="button"><span class="shuffle" aria-hidden="true">⟳</span> Generate animals</button>
+            <button class="generate" id="generate" type="button"><span class="shuffle" aria-hidden="true">⟳</span> Generate Animals</button>
           </div>
         </div>
         <p class="filter-message" id="filter-message" aria-live="polite"></p>
@@ -406,7 +406,7 @@
         <div class="mobile-filter-foot"><button class="reset-filters" id="mobile-reset-filters" type="button">Reset all filters</button><button class="mobile-filter-done" id="done-filters" type="button">Apply filters</button></div>
       </dialog>
       <details class="filter-guide">
-        <summary>How filters work</summary>
+        <summary>How Animal Filters Work</summary>
         <p>Select any options within a group; an animal only needs to match one. Across different groups, it must match every selected group. Leave a group unselected to include everything.</p>
         <p>Size uses adult body length: small under 10 cm, medium from 10 cm to under 1 m, and large from 1 m. Mammals use head–body length and birds exclude wingspan; reptiles and fish use total length. Species can appear in more than one size band; invertebrate measurements are explained in the species notes. Ocean &amp; coast includes shore habitats. Region refers to native wild ranges, including migration, with domestic distributions noted separately.</p>
         <p>These are broad discovery filters; diets, habitats and adult sizes can vary. <a href="/animal-data-sources">Read the animal data sources and species notes.</a></p>
@@ -428,37 +428,37 @@
 
       <section class="results-section" id="generated-results" aria-label="Animal generator results" hidden>
         <div class="results-heading">
-          <h2>Your animal picks</h2>
+          <h2>Your Random Animals</h2>
           <p class="result-status" id="result-status" aria-live="polite"></p>
         </div>
         <div class="result-grid" id="results" aria-live="polite" aria-label="Generated animals"></div>
       </section>
 
       <section class="below" aria-labelledby="ideas-title">
-        <h2 id="ideas-title">A new animal, a new idea.</h2>
+        <h2 id="ideas-title">Animal Ideas for Drawing, Learning, and Games</h2>
         <p class="below-intro">Sometimes one unexpected animal is all it takes to get a story, a sketch, or a game started.</p>
         <div class="ideas">
-          <article class="idea"><span class="idea-icon" aria-hidden="true">✎</span><h3>For your sketchbook</h3><p>Pick an animal and imagine its colors, habitat, or next adventure.</p></article>
-          <article class="idea"><span class="idea-icon" aria-hidden="true">◎</span><h3>For the classroom</h3><p>Start a quick animal-of-the-day conversation or warm-up.</p></article>
-          <article class="idea"><span class="idea-icon" aria-hidden="true">✳</span><h3>For game night</h3><p>Use a surprise animal as the clue for a round of charades or 20 questions.</p></article>
+          <article class="idea"><span class="idea-icon" aria-hidden="true">✎</span><h3>Drawing Prompts</h3><p>Pick an animal and imagine its colors, habitat, or next adventure.</p></article>
+          <article class="idea"><span class="idea-icon" aria-hidden="true">◎</span><h3>Classroom Activities</h3><p>Start a quick animal-of-the-day conversation or warm-up.</p></article>
+          <article class="idea"><span class="idea-icon" aria-hidden="true">✳</span><h3>Animal Games</h3><p>Use a surprise animal as the clue for a round of charades or 20 questions.</p></article>
         </div>
       </section>
 
       <section class="faq" id="faq" aria-labelledby="faq-title">
         <div>
-          <h2 id="faq-title">Random animal generator FAQ</h2>
+          <h2 id="faq-title">Random Animal Generator FAQ</h2>
           <p class="below-intro">Answers about animal types, pictures, quantities, and using your random animal idea.</p>
         </div>
         <div class="faq-list">
-          <details><summary>What is a random animal generator?</summary><p>It is a simple animal picker that chooses a species at random. Use it to discover an animal, start a drawing prompt, or choose an idea for a classroom activity or game.</p></details>
-          <details><summary>Can I generate 1 to 10 random animals at once?</summary><p>Yes. Choose any number from 1 to 10 in the quantity menu, then select Generate animals. The results appear together so you can compare or use them as a group prompt.</p></details>
-          <details><summary>Can I filter animals by type, habitat, diet, size or region?</summary><p>Yes. Open any filter and select one or more options. Selections within a group are combined, and different groups narrow the results together. The toolbar shows how many photo-backed species match. Reset all filters to return to the full collection.</p></details>
-          <details><summary>Will I see the same animal again?</summary><p>New generations prioritize animals you have not seen. After all matches for your current filters have been used, a fresh round starts. A batch never includes the same species twice; if fewer species match than the number requested, you receive all available matches.</p></details>
+          <details><summary>How does the random animal generator work?</summary><p>Choose how many animals you want, optionally select filters, then select Generate Animals. The animal picker chooses species at random and shows their real photos and scientific names. Use the results to discover an animal, start a drawing prompt, or choose an idea for a classroom activity or game.</p></details>
+          <details><summary>Can I generate 1 to 10 random animals at once?</summary><p>Yes. Choose any number from 1 to 10 in the quantity menu, then select Generate Animals. The results appear together so you can compare or use them as a group prompt.</p></details>
+          <details><summary>Can I filter animals by type or habitat?</summary><p>Yes. Filter by animal type, habitat, diet, size, or region. Open any filter and select one or more options. Selections within a group are combined, and different groups narrow the results together. The toolbar shows how many photo-backed species match. Reset all filters to return to the full collection.</p></details>
+          <details><summary>Can I generate multiple animals without duplicates?</summary><p>Yes. A batch never includes the same species twice, and new generations prioritize animals you have not seen. After all matches for your current filters have been used, a fresh round starts. If fewer species match than the number requested, you receive all available matches.</p></details>
           <details><summary>How many animal species are in this animal generator?</summary><p>The catalog contains 394 species across mammals, birds, reptiles, amphibians, fish, and invertebrates. You can currently generate 300 species with reviewed photos; animals without an approved photo stay out of the random results.</p></details>
           <details><summary>What kinds of animals can this animal generator pick?</summary><p>The collection includes mammals, birds, reptiles, amphibians, fish, and invertebrates such as insects, molluscs, crustaceans, arachnids, echinoderms, and cnidarians.</p></details>
-          <details><summary>Does this random animal generator show animal photos?</summary><p>Yes. Every result currently includes a reviewed photo. There are 300 photo-backed species in the generator, with images sourced from Wikimedia Commons and iNaturalist. Creators, licenses, and source pages are listed on the image credits page.</p></details>
-          <details><summary>Can I use the random animal picker for drawing prompts?</summary><p>Yes. Generate one animal for a quick sketch, or choose several to combine into a character, story, or creative challenge.</p></details>
-          <details><summary>Is this free random animal generator available without signing up?</summary><p>Yes. You can use the generator without creating an account or installing an app.</p></details>
+          <details><summary>Does every animal come with a picture?</summary><p>Yes. Every result currently includes a reviewed photo. Images are sourced from Wikimedia Commons and iNaturalist. Creators, licenses, and source pages are listed on the image credits page.</p></details>
+          <details><summary>Can I use this animal picker for drawing prompts?</summary><p>Yes. Generate one animal as a photo reference for a quick sketch, or choose several animals as inspiration for a character, story, or creative challenge.</p></details>
+          <details><summary>Is the animal generator free to use?</summary><p>Yes. You can use the generator for free, without creating an account or installing an app.</p></details>
           <details><summary>Is the animal generator useful for kids and classroom activities?</summary><p>Yes. Teachers, parents, and kids can use a random animal as a quick learning topic, drawing prompt, or guessing game. The tool does not require an account.</p></details>
           <details><summary>Can I use the animal generator on my phone?</summary><p>Yes. The animal cards and quantity selector adjust to smaller screens, including when you generate several animals at once.</p></details>
         </div>

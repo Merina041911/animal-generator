@@ -5,7 +5,7 @@ h1 { max-width: none; font-size: clamp(42px, 5vw, 62px); line-height: 1.08; marg
 .eyebrow { margin-bottom: 18px; }
 .intro { max-width: 690px; font-size: 15px; margin-bottom: 28px; }
 .filter-toolbar { background: var(--white); border: 1px solid var(--line); border-radius: 16px; padding: 21px 23px; box-shadow: 0 10px 35px rgba(43,48,57,.035); }
-.filter-heading { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin-bottom: 16px; }
+.filter-heading { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 8px 16px; margin-bottom: 16px; }
 .filter-heading h2 { margin: 0; font-size: 13px; font-weight: 700; }
 .filter-heading > span { color: var(--muted); font-size: 11px; }
 .filter-fields { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 11px; }

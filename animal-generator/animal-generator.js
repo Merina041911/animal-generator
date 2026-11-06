@@ -2,6 +2,7 @@ const { filters, matchesFilters, pickAnimals } = AnimalFiltering;
 const metadata = new Map((window.ANIMAL_FILTER_DATA || []).map((item) => [item.id, item]));
 const animals = (window.ANIMAL_LIBRARY || []).filter((animal) => Boolean(animal.image) && animal.photo?.fullBodyApproved === true).map((animal) => ({ ...animal, filterData: metadata.get(animal.id) }));
 const $ = (id) => document.getElementById(id);
+$("reviewed-species-count").textContent = `${animals.length} species with reviewed photos`;
 const resultGrid = $("results");
 const generatedResults = $("generated-results");
 const categoryLabel = (animal) => animal.category;
