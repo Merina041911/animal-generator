@@ -14,5 +14,6 @@ style = '*{box-sizing:border-box}body{margin:0;background:#faf7f1;color:#202a39;
 html = '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex, nofollow"><title>Local photo quality review</title><style>' + style + '</style></head><body><main><a href="/">← Generator</a><h1>Full-body photo review</h1>'
 html += f'<p>Local QA view: {len(ready)} enabled photos; {len(pending)} await a suitable replacement and cannot appear in random results. Click a photograph to inspect the complete local file.</p><div class="grid">' + ''.join(cards) + '</div><details><summary>Species awaiting replacement (' + str(len(pending)) + ')</summary><ul>' + ''.join('<li>' + escape(x['name']) + ' — ' + escape(x['reason']) + '</li>' for x in pending) + '</ul></details></main></body></html>'
 (site / 'debug').mkdir(exist_ok=True)
+html = html.replace('</body>', (site.parent / 'scripts/ga4-snippet.html').read_text() + '</body>')
 (site / 'debug/photo-review.html').write_text(html)
 print(f'QA gallery: {len(ready)} approved; {len(pending)} excluded')
